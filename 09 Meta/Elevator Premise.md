@@ -1,4 +1,4 @@
-**„Elevator Premise“** kommt von _Elevator Pitch_.
+**Elevator Premise** kommt von _Elevator Pitch_.
 
 Die Idee:  
 Wenn du nur eine Aufzugfahrt Zeit hättest (30 Sekunden), müsstest du jemandem die Grundidee deines Projekts erklären können.
