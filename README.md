@@ -1,2 +1,3 @@
-# lumora
+# Lumora
+
 Osidian Repo for the Lumora Novel

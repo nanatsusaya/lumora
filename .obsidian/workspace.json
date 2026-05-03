@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "cdca6202d92296f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7538506bf14ce11b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de6f251eba9387be",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e54afeaf047606f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "24af221d63e67bbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eac37fa55af633e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "280cbe534ecea1d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "9697328799c9000b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6defabe0ef7b2a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "a60fd12db009e0de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d203fbc5b1de36eb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
+            }
+          },
+          {
+            "id": "3fc979b947129d1f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
+            }
+          },
+          {
+            "id": "fb8be9f75271b3ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4c0f074e220bf9b8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "35b32002e9e19ea1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "de6f251eba9387be",
+  "lastOpenFiles": [
+    "01 Kern von Lumora/01.08 Lumora-Manifest.md",
+    "01 Kern von Lumora/01.06 Die Fünf Säulen Lumoras.md",
+    "01 Kern von Lumora/01.05 Die Urgesetze des Kanons.md",
+    "01 Kern von Lumora/01.03 Vision & Philosophie.md",
+    "01 Kern von Lumora/01.02 Was ist Lumora.md",
+    "Index.md",
+    "01 Kern von Lumora/01.01 Kern von Lumora.md",
+    "03 Noetic System/03.01 Noetisches System.md",
+    "00 Inbox/Inbox.md",
+    "00 Inbox/Lose Ideensammlung.md",
+    "00 Inbox/__TODO Core of Lumora.md",
+    "09 Meta/Mythopoetisch.md",
+    "09 Meta/Elevator Premise.md",
+    "09 Meta/Gründungsdokument.md",
+    "01 Kern von Lumora/01.04 Zentrale Themen.md",
+    "01 Kern von Lumora/01.07 Das Versprechen von Lumora.md",
+    "03 Noetic System/03.02 Funktionsweise.md",
+    "03 Noetic System/03.03 Grenzen & Einschränkungen.md",
+    "README.md",
+    "Open Questions.md",
+    "Canon Bible.md",
+    "2026-05-03.md",
+    "Unbenannt.canvas",
+    "03 Noetic System/03.06 Fehlannahmen & Irrtümer.md",
+    "03 Noetic System/03.05 Erweiterte Konzepte.md",
+    "03 Noetic System/03.04 Anwendung & Fähigkeitsentwicklung.md",
+    "02 Worldbuilding/02.00 Worldbuilding.md",
+    "03 Noetic System/03.03 Grenzen & Einschränkungen",
+    "03 Noetic System/03.02 Funktionsweise",
+    "03 Noetic System/03.01 Grundlagen",
+    "02 Worldbuilding/02.06 Konflikte",
+    "02 Worldbuilding/02.05 Geschichte",
+    "02 Worldbuilding/02.04 Religion & Götter",
+    "02 Worldbuilding/02.03 Gesellschaft",
+    "02 Worldbuilding/02.02 Völker & Spezies",
+    "02 Worldbuilding/02.01 Weltstruktur"
+  ]
+}

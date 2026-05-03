@@ -55,4 +55,4 @@ sondern die Prinzipien, aus denen die Welt entsteht.
 
 ## Referenz
 
-- [[__Kern von Lumora]]
+- [[01.01 Kern von Lumora]]
