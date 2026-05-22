@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "03 Noetic System/03.03 Grenzen & Einschränkungen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "03.03 Grenzen & Einschränkungen"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "03 Noetic System/03.03 Grenzen & Einschränkungen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von README"
+              "title": "Gliederung von 03.03 Grenzen & Einschränkungen"
             }
           }
         ],
@@ -178,47 +178,46 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false,
-      "github-sync:Sync with Remote": false
+      "bases:Neue Base erstellen": false
     }
   },
   "active": "de6f251eba9387be",
   "lastOpenFiles": [
-    "Unbenannt.base",
-    "Index.md",
-    "README.md",
     "03 Noetic System/03.02 Funktionsweise.md",
     "03 Noetic System/03.03 Grenzen & Einschränkungen.md",
+    "03 Noetic System/03.03 Grenzen & Einschränkungen.md.tmp.4188.af75b8e2527e",
+    "CLAUDE.md",
+    "CLAUDE.md.tmp.24132.1486cd87d752",
+    "03 Noetic System/03.06 Fehlannahmen & Irrtümer.md",
+    "03 Noetic System/03.05 Erweiterte Konzepte.md",
+    "03 Noetic System/03.04 Anwendung & Fähigkeitsentwicklung.md",
     "03 Noetic System/03.01 Noetisches System.md",
+    "02 Worldbuilding/02.00 Worldbuilding.md",
     "01 Kern von Lumora/01.08 Lumora-Manifest.md",
+    "01 Kern von Lumora/01.07 Das Versprechen von Lumora.md",
     "01 Kern von Lumora/01.06 Die Fünf Säulen Lumoras.md",
     "01 Kern von Lumora/01.05 Die Urgesetze des Kanons.md",
+    "01 Kern von Lumora/01.04 Zentrale Themen.md",
     "01 Kern von Lumora/01.03 Vision & Philosophie.md",
     "01 Kern von Lumora/01.02 Was ist Lumora.md",
     "01 Kern von Lumora/01.01 Kern von Lumora.md",
+    "README.md",
+    "Unbenannt.base",
+    "Index.md",
     "00 Inbox/Inbox.md",
     "00 Inbox/Lose Ideensammlung.md",
     "00 Inbox/__TODO Core of Lumora.md",
     "09 Meta/Mythopoetisch.md",
     "09 Meta/Elevator Premise.md",
     "09 Meta/Gründungsdokument.md",
-    "01 Kern von Lumora/01.04 Zentrale Themen.md",
-    "01 Kern von Lumora/01.07 Das Versprechen von Lumora.md",
     "Open Questions.md",
-    "Canon Bible.md",
-    "2026-05-03.md",
     "Unbenannt.canvas",
-    "03 Noetic System/03.06 Fehlannahmen & Irrtümer.md",
-    "03 Noetic System/03.05 Erweiterte Konzepte.md",
-    "03 Noetic System/03.04 Anwendung & Fähigkeitsentwicklung.md",
     "03 Noetic System/03.03 Grenzen & Einschränkungen",
     "03 Noetic System/03.02 Funktionsweise",
     "03 Noetic System/03.01 Grundlagen",
     "02 Worldbuilding/02.06 Konflikte",
     "02 Worldbuilding/02.05 Geschichte",
     "02 Worldbuilding/02.04 Religion & Götter",
-    "02 Worldbuilding/02.03 Gesellschaft",
-    "02 Worldbuilding/02.02 Völker & Spezies",
-    "02 Worldbuilding/02.01 Weltstruktur"
+    "02 Worldbuilding/02.03 Gesellschaft"
   ]
 }
