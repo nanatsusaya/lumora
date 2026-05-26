@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Noetic System/03.03 Grenzen & Einschränkungen.md",
+                "file": "01 Kern von Lumora/01.01 Kern von Lumora.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.03 Grenzen & Einschränkungen"
+              "title": "01.01 Kern von Lumora"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Noetic System/03.03 Grenzen & Einschränkungen.md",
+                "file": "01 Kern von Lumora/01.01 Kern von Lumora.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 03.03 Grenzen & Einschränkungen"
+              "title": "Gliederung von 01.01 Kern von Lumora"
             }
           }
         ],
@@ -181,10 +181,11 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "de6f251eba9387be",
+  "active": "5eac37fa55af633e",
   "lastOpenFiles": [
-    "03 Noetic System/03.02 Funktionsweise.md",
+    "00 Inbox/Inbox.md",
     "03 Noetic System/03.03 Grenzen & Einschränkungen.md",
+    "03 Noetic System/03.02 Funktionsweise.md",
     "03 Noetic System/03.03 Grenzen & Einschränkungen.md.tmp.4188.af75b8e2527e",
     "CLAUDE.md",
     "CLAUDE.md.tmp.24132.1486cd87d752",
@@ -204,7 +205,6 @@
     "README.md",
     "Unbenannt.base",
     "Index.md",
-    "00 Inbox/Inbox.md",
     "00 Inbox/Lose Ideensammlung.md",
     "00 Inbox/__TODO Core of Lumora.md",
     "09 Meta/Mythopoetisch.md",
