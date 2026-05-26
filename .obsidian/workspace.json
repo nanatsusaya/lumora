@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "cdca6202d92296f0",
+    "id": "f2375ec22e3e2b48",
     "type": "split",
     "children": [
       {
-        "id": "7538506bf14ce11b",
+        "id": "2f38ee6fc2c257fb",
         "type": "tabs",
         "children": [
           {
-            "id": "de6f251eba9387be",
+            "id": "0b7c59332f6c344c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Kern von Lumora/01.01 Kern von Lumora.md",
+                "file": "03 Noetic System/03.01 Noetisches System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.01 Kern von Lumora"
+              "title": "03.01 Noetisches System"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e54afeaf047606f7",
+    "id": "ea44ebd8a34396eb",
     "type": "split",
     "children": [
       {
-        "id": "24af221d63e67bbd",
+        "id": "85351b4dd9736568",
         "type": "tabs",
         "children": [
           {
-            "id": "5eac37fa55af633e",
+            "id": "8f97c72587510b6c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "280cbe534ecea1d7",
+            "id": "94b4a0cc6b9287a9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "9697328799c9000b",
+            "id": "0becf995e4f54ec2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "6defabe0ef7b2a09",
+    "id": "31c916bd68eaa8b7",
     "type": "split",
     "children": [
       {
-        "id": "a60fd12db009e0de",
+        "id": "d029ec9c291ba855",
         "type": "tabs",
         "children": [
           {
-            "id": "d203fbc5b1de36eb",
+            "id": "3f6521b9aa30e98f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03 Noetic System/03.01 Noetisches System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise"
+              "title": "Rückverweise auf 03.01 Noetisches System"
             }
           },
           {
-            "id": "3fc979b947129d1f",
+            "id": "f82abf0c05ca6f61",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03 Noetic System/03.01 Noetisches System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links"
+              "title": "Ausgehende Links von 03.01 Noetisches System öffnen"
             }
           },
           {
-            "id": "fb8be9f75271b3ba",
+            "id": "3bb09a49c9052ac7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +137,7 @@
             }
           },
           {
-            "id": "4c0f074e220bf9b8",
+            "id": "ac461be9f1b0ae7b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,26 +151,26 @@
             }
           },
           {
-            "id": "35b32002e9e19ea1",
+            "id": "ec41cf284dc0bc3f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Kern von Lumora/01.01 Kern von Lumora.md",
+                "file": "03 Noetic System/03.01 Noetisches System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 01.01 Kern von Lumora"
+              "title": "Gliederung von 03.01 Noetisches System"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,43 +183,12 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "5eac37fa55af633e",
+  "active": "0b7c59332f6c344c",
   "lastOpenFiles": [
-    "00 Inbox/Inbox.md",
     "03 Noetic System/03.03 Grenzen & Einschränkungen.md",
     "03 Noetic System/03.02 Funktionsweise.md",
-    "03 Noetic System/03.03 Grenzen & Einschränkungen.md.tmp.4188.af75b8e2527e",
-    "CLAUDE.md",
-    "CLAUDE.md.tmp.24132.1486cd87d752",
-    "03 Noetic System/03.06 Fehlannahmen & Irrtümer.md",
-    "03 Noetic System/03.05 Erweiterte Konzepte.md",
-    "03 Noetic System/03.04 Anwendung & Fähigkeitsentwicklung.md",
     "03 Noetic System/03.01 Noetisches System.md",
-    "02 Worldbuilding/02.00 Worldbuilding.md",
-    "01 Kern von Lumora/01.08 Lumora-Manifest.md",
-    "01 Kern von Lumora/01.07 Das Versprechen von Lumora.md",
-    "01 Kern von Lumora/01.06 Die Fünf Säulen Lumoras.md",
-    "01 Kern von Lumora/01.05 Die Urgesetze des Kanons.md",
-    "01 Kern von Lumora/01.04 Zentrale Themen.md",
-    "01 Kern von Lumora/01.03 Vision & Philosophie.md",
-    "01 Kern von Lumora/01.02 Was ist Lumora.md",
-    "01 Kern von Lumora/01.01 Kern von Lumora.md",
-    "README.md",
-    "Unbenannt.base",
-    "Index.md",
-    "00 Inbox/Lose Ideensammlung.md",
-    "00 Inbox/__TODO Core of Lumora.md",
-    "09 Meta/Mythopoetisch.md",
-    "09 Meta/Elevator Premise.md",
-    "09 Meta/Gründungsdokument.md",
-    "Open Questions.md",
-    "Unbenannt.canvas",
-    "03 Noetic System/03.03 Grenzen & Einschränkungen",
-    "03 Noetic System/03.02 Funktionsweise",
-    "03 Noetic System/03.01 Grundlagen",
-    "02 Worldbuilding/02.06 Konflikte",
-    "02 Worldbuilding/02.05 Geschichte",
-    "02 Worldbuilding/02.04 Religion & Götter",
-    "02 Worldbuilding/02.03 Gesellschaft"
+    "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md",
+    "02 Worldbuilding/02.01 Weltstruktur/02.02 Weltstruktur.md"
   ]
 }
