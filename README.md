@@ -27,10 +27,10 @@ This is a personal creative project. The universe, its rules, and all ideas with
 
 ## License
 
-The content of this repository — including all worldbuilding, lore, characters, systems, and concepts — is the intellectual property of Daniel Wagner.
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-**You are free to:** read, share, and draw inspiration from this work for non-commercial purposes.
+This work is licensed under **[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
 
-**You are not permitted to:** use any part of this project for commercial purposes, sell derivative works, or claim authorship of the original ideas.
+You are free to share and adapt this material for non-commercial purposes, as long as you give appropriate credit and distribute any derivative works under the same license. See the [LICENSE](LICENSE) file for the full terms.
 
-No formal open-source license applies. All rights reserved by the author.
+© 2026 Daniel Wagner

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Noetic System/03.01 Noetisches System.md",
+                "file": "03 Noetic System/03.04 Grenzen & Einschränkungen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.01 Noetisches System"
+              "title": "03.04 Grenzen & Einschränkungen"
             }
           }
         ]
@@ -94,17 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Noetic System/03.01 Noetisches System.md",
-                "collapseAll": false,
+                "file": "03 Noetic System/03.03 Grenzen & Einschränkungen.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf 03.01 Noetisches System"
+              "title": "Rückverweise auf 03.03 Grenzen & Einschränkungen"
             }
           },
           {
@@ -156,21 +156,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Noetic System/03.01 Noetisches System.md",
+                "file": "03 Noetic System/03.04 Grenzen & Einschränkungen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 03.01 Noetisches System"
+              "title": "Gliederung von 03.04 Grenzen & Einschränkungen"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,9 +185,25 @@
   },
   "active": "0b7c59332f6c344c",
   "lastOpenFiles": [
-    "03 Noetic System/03.03 Grenzen & Einschränkungen.md",
-    "03 Noetic System/03.02 Funktionsweise.md",
+    "03 Noetic System/03.03 Das Noetische Profil.md",
     "03 Noetic System/03.01 Noetisches System.md",
+    "03 Noetic System/03.02 Funktionsweise.md",
+    "03 Noetic System/03.02 Funktionsweise.md.tmp.36008.5a1b6217301b",
+    "03 Noetic System/03.02 Funktionsweise.md.tmp.36008.21ffe905d0c9",
+    "03 Noetic System/03.02 Funktionsweise.md.tmp.36008.d38cc847c117",
+    "03 Noetic System/03.04 Grenzen & Einschränkungen.md",
+    "03 Noetic System/03.05 Anwendung & Fähigkeitsentwicklung.md",
+    "03 Noetic System/03.06 Erweiterte Konzepte.md",
+    "03 Noetic System/03.07 Fehlannahmen & Irrtümer.md",
+    "03 Noetic System/03.03 Das Noetische Profil.md.tmp.36008.245773097531",
+    "03 Noetic System/03.03 Grenzen & Einschränkungen.md.tmp.36008.4b831b3b07d7",
+    "03 Noetic System/03.03 Grenzen & Einschränkungen.md",
+    "03 Noetic System/03.03 Das Noetische Profil.md.tmp.36008.09612a823192",
+    "03 Noetic System/03.03 Grenzen & Einschränkungen.md.tmp.29544.16ddc196ca91",
+    "03 Noetic System/03.03 Grenzen & Einschränkungen.md.tmp.29544.96bd53070f22",
+    "03 Noetic System/03.03 Grenzen & Einschränkungen.md.tmp.32856.dacbbc252ba0",
+    "03 Noetic System/03.01 Noetisches System.md.tmp.36376.32a526649e3b",
+    "README.md",
     "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md",
     "02 Worldbuilding/02.01 Weltstruktur/02.02 Weltstruktur.md"
   ]
