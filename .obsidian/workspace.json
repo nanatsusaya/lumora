@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Noetic System/03.04 Grenzen & Einschränkungen.md",
+                "file": "03 Noetic System/03.03 Das Noetische Profil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.04 Grenzen & Einschränkungen"
+              "title": "03.03 Das Noetische Profil"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Noetic System/03.04 Grenzen & Einschränkungen.md",
+                "file": "03 Noetic System/03.03 Das Noetische Profil.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 03.04 Grenzen & Einschränkungen"
+              "title": "Gliederung von 03.03 Das Noetische Profil"
             }
           }
         ],
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,13 +185,15 @@
   },
   "active": "0b7c59332f6c344c",
   "lastOpenFiles": [
+    "00 Inbox/Inbox.md",
+    "03 Noetic System/03.04 Grenzen & Einschränkungen.md",
+    "00 Inbox/Inbox.md.tmp.4504.b2b4b902838c",
     "03 Noetic System/03.03 Das Noetische Profil.md",
     "03 Noetic System/03.01 Noetisches System.md",
     "03 Noetic System/03.02 Funktionsweise.md",
     "03 Noetic System/03.02 Funktionsweise.md.tmp.36008.5a1b6217301b",
     "03 Noetic System/03.02 Funktionsweise.md.tmp.36008.21ffe905d0c9",
     "03 Noetic System/03.02 Funktionsweise.md.tmp.36008.d38cc847c117",
-    "03 Noetic System/03.04 Grenzen & Einschränkungen.md",
     "03 Noetic System/03.05 Anwendung & Fähigkeitsentwicklung.md",
     "03 Noetic System/03.06 Erweiterte Konzepte.md",
     "03 Noetic System/03.07 Fehlannahmen & Irrtümer.md",
@@ -202,7 +204,6 @@
     "03 Noetic System/03.03 Grenzen & Einschränkungen.md.tmp.29544.16ddc196ca91",
     "03 Noetic System/03.03 Grenzen & Einschränkungen.md.tmp.29544.96bd53070f22",
     "03 Noetic System/03.03 Grenzen & Einschränkungen.md.tmp.32856.dacbbc252ba0",
-    "03 Noetic System/03.01 Noetisches System.md.tmp.36376.32a526649e3b",
     "README.md",
     "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md",
     "02 Worldbuilding/02.01 Weltstruktur/02.02 Weltstruktur.md"
