@@ -5,7 +5,6 @@ tags:
 
 # Der Junge
 
-*EN: The Boy*
 *Tag:* #der-junge
 
 > *Status: TODO — Rohfassung aus Archiv. Name noch nicht vergeben.*

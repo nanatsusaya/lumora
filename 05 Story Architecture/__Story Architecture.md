@@ -5,8 +5,6 @@ tags:
 
 # Story Architecture
 
-*EN: Story Architecture*
-
 Dieser Bereich enthält die Struktur der Geschichte — Plot, Phasen, Kapitelplanung, und das konzeptionelle Fundament.
 
 ---
@@ -149,8 +147,6 @@ Empfehlung: Kleider-Subplot und Psychoangriff-Training können parallel laufen.
 ---
 
 ## Die Selbstzerstörungsdynamik — Makroplot
-
-*EN: Self-destruction dynamics — macro plot*
 
 > *„Welch wunderbares Chaos hatte da der Chaosgott über Lumora gebracht! Nur indem er drei einfache und harmlose Regeln einführen ließ, hat er es geschafft, den zweiten Planeten an den Rand des Abgrunds zu bringen!"*
 

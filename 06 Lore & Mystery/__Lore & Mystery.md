@@ -5,8 +5,6 @@ tags:
 
 # Lore & Mystery
 
-*EN: Lore & Mystery*
-
 Dieser Bereich enthält das verborgene Wissen Lumoras — Geheimnisse, die die Welt im Kern verändern, sobald sie enthüllt werden.
 
 > **Spoiler-Warnung:** Diese Dateien enthalten die zentralen Twists und versteckten Wahrheiten der Geschichte. Nur für den Autor.
@@ -15,7 +13,6 @@ Dieser Bereich enthält das verborgene Wissen Lumoras — Geheimnisse, die die W
 
 ## Das große Geheimnis: Ursprungsgott = Chaosgott
 
-*EN: The Great Secret: Primal God = Chaos God*
 *Tag:* #grosses-geheimnis
 
 ### Die Wahrheit
@@ -68,7 +65,6 @@ hasst, die er durch die Spaltung verloren hat.
 
 ## Die Drei Regeln als Falle
 
-*EN: The Three Rules as a Trap*
 *Tag:* #regeln-falle
 
 ### Die offizielle Version
@@ -99,7 +95,6 @@ Dies ist die direkte Manifestation des Kern-Axioms: *(→ [[01.05 Die Urgesetze 
 
 ## Die Auflösung — Das Ende der Geschichte
 
-*EN: The Resolution*
 *Tag:* #auflösung
 
 ### Wie das Geheimnis enthüllt wird
@@ -136,8 +131,6 @@ Lumora wird nicht von außen gerettet. Sie wird gerettet, weil das Wesen an ihre
 ---
 
 ## Offene Geheimnisse & Foreshadowing
-
-*EN: Open Mysteries & Foreshadowing*
 
 **Zu klärende Geheimnisse:**
 - Warum mag der Ursprungsgott die Zahl 7?

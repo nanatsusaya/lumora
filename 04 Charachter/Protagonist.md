@@ -5,7 +5,6 @@ tags:
 
 # Protagonist
 
-*EN: Protagonist*
 *Tag:* #protagonist
 
 > *Status: TODO — Rohfassung aus Archiv. Muss ausgearbeitet werden.*
