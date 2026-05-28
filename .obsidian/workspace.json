@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Kern von Lumora/01.08 Lumora-Manifest.md",
+                "file": "03 Noetic System/03.01 Noetisches System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.08 Lumora-Manifest"
+              "title": "03.01 Noetisches System"
             }
           },
           {
@@ -184,13 +184,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Kern von Lumora/01.08 Lumora-Manifest.md",
+                "file": "03 Noetic System/03.01 Noetisches System.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 01.08 Lumora-Manifest"
+              "title": "Gliederung von 03.01 Noetisches System"
+            }
+          },
+          {
+            "id": "216fa48c54135da1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "03 Noetic System/03.01 Noetisches System.md"
+              },
+              "icon": "lucide-info",
+              "title": "Dateieigenschaften von 03.01 Noetisches System"
             }
           }
         ],
@@ -211,52 +223,52 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "0b7c59332f6c344c",
+  "active": "ec41cf284dc0bc3f",
   "lastOpenFiles": [
+    "09 Meta/Tags.md",
+    "03 Noetic System/03.04 Grenzen & Einschränkungen.md.tmp.15144.e67fec0622a9",
+    "03 Noetic System/03.04 Grenzen & Einschränkungen.md.tmp.15144.b7a095e86ef2",
+    "03 Noetic System/03.02 Funktionsweise.md.tmp.15144.12b28ac65aa9",
+    "03 Noetic System/03.02 Funktionsweise.md.tmp.15144.5ea02d418676",
+    "03 Noetic System/03.04 Grenzen & Einschränkungen.md.tmp.15144.8b7f5a7ce6fb",
+    "03 Noetic System/03.01 Noetisches System.md.tmp.15144.f958278dfe0e",
+    "03 Noetic System/03.01 Noetisches System.md.tmp.15144.5024d2eda95b",
+    "03 Noetic System/03.04 Grenzen & Einschränkungen.md",
+    "03 Noetic System/03.04 Grenzen & Einschränkungen.md.tmp.33464.c3c5428e1c73",
+    "03 Noetic System/03.04 Grenzen & Einschränkungen.md.tmp.29724.c881571dd6f0",
+    "03 Noetic System/03.03 Das Noetische Profil.md",
+    "03 Noetic System/03.04 Grenzen & Einschränkungen.md.tmp.5484.44482783034b",
+    "01 Kern von Lumora/01.01 Kern von Lumora.md",
+    "03 Noetic System/03.01 Noetisches System.md",
+    "03 Noetic System/03.02 Funktionsweise.md",
+    "01 Kern von Lumora/01.08 Lumora-Manifest.md",
     "Assets/Lumora-Umlaufbahn-Belichtung.webp",
     "Assets/Golethari-2.webp",
     "Assets/Golethari-1.webp",
     "Assets/Lumora-Weltkarte-v1.webp",
     "Assets/Chronari.webp",
-    "Assets",
     "10 Archive/lumora_md_assets/img_005_p036.jpeg",
     "10 Archive/lumora_md_assets/img_004_p035.jpeg",
     "10 Archive/lumora_md_assets/img_003_p032.jpeg",
     "10 Archive/lumora_md_assets/img_002_p016.jpeg",
     "10 Archive/lumora_md_assets/img_001_p013.png",
-    "10 Archive/lumora_md_assets",
     "10 Archive/Backup_Grundwork_22-04-2026_compact.md",
-    "09 Meta/Tags.md",
     "04 Charachter/Protagonist.md",
     "04 Charachter/Der Junge.md",
-    "03 Noetic System/03.03 Das Noetische Profil.md",
-    "03 Noetic System/03.02 Funktionsweise.md",
     "01 Kern von Lumora/01.03 Vision & Philosophie.md",
     "03 Noetic System/03.06 Erweiterte Konzepte.md",
-    "03 Noetic System/03.03 Das Noetische Profil.md.tmp.16932.a2d10de3b948",
-    "03 Noetic System/03.03 Das Noetische Profil.md.tmp.16932.ae7dfe5f5cee",
-    "03 Noetic System/03.03 Das Noetische Profil.md.tmp.16932.b1891655f528",
-    "03 Noetic System/03.03 Das Noetische Profil.md.tmp.16932.5fb1f95bf671",
-    "03 Noetic System/03.03 Das Noetische Profil.md.tmp.16932.1f3dc5e7a2f2",
-    "03 Noetic System/03.03 Das Noetische Profil.md.tmp.16932.2ece9b3f2a4b",
-    "03 Noetic System/03.02 Funktionsweise.md.tmp.35140.78738cb1dbf0",
-    "03 Noetic System/03.02 Funktionsweise.md.tmp.35140.f9280f774eeb",
-    "03 Noetic System/03.01 Noetisches System.md",
     "01 Kern von Lumora/01.02 Was ist Lumora.md",
-    "01 Kern von Lumora/01.01 Kern von Lumora.md",
     "Glossar.md",
     "01 Kern von Lumora/01.05 Die Urgesetze des Kanons.md",
     "01 Kern von Lumora/01.06 Die Fünf Säulen Lumoras.md",
     "01 Kern von Lumora/01.04 Zentrale Themen.md",
     "README.md",
-    "03 Noetic System/03.04 Grenzen & Einschränkungen.md",
     "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md",
     "Noetische Kraft.md",
     "CLAUDE.md",
     "00 Inbox/Inbox.md",
     "03 Noetic System/03.05 Anwendung & Fähigkeitsentwicklung.md",
     "03 Noetic System/03.07 Fehlannahmen & Irrtümer.md",
-    "03 Noetic System/03.03 Grenzen & Einschränkungen.md",
-    "02 Worldbuilding/02.01 Weltstruktur/02.02 Weltstruktur.md"
+    "03 Noetic System/03.03 Grenzen & Einschränkungen.md"
   ]
 }
