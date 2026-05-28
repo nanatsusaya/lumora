@@ -30,7 +30,9 @@ Zentrale Startseite mit Links zu allem.
 	- [[03.01 Noetisches System#Noetisches Feld (N-Feld)|N-Feld]] → siehe _Noetisches Feld_
 	- [[03.01 Noetisches System#Noetische Kraft (N-Kraft)|N-Kraft]] → siehe _Noetische Kraft_
 	- [[03.01 Noetisches System#Was ist Noetik?|Noetik]] → Lehre von Denken, Wissen und Bewusstsein
-	- [[03.01 Noetisches System#Noetisch aktive Materialien|Noetisch aktive Materialien]] → können mit Noetischer Energie interagieren
+	- [[03.01 Noetisches System#Noetisch reaktive Materialien|Noetisch reaktive Materialien]] → können mit Noetischer Energie interagieren
+	- [[03.01 Noetisches System#Noetisch aktive Lebewesen|Noetisch aktive Lebewesen]] → können Noetische Energie erzeugen und einsetzen
+	- [[03.01 Noetisches System#Noetisch sensitive Lebewesen|Noetisch sensitive Lebewesen]] → können Noetische Energie wahrnehmen
 	- [[03.01 Noetisches System#Noetische Energie|Noetische Energie]] → zentrale aktive Komponente des _Noetischen Systems_
 	- [[03.01 Noetisches System#Noetische Kraft (N-Kraft)|Noetische Kraft]] → 5. fundamentale Wechselwirkung
 	- [[03.01 Noetisches System#Noetische Zellen|Noetische Zellen]] → wandeln biochemischen Energie in Noetische Energie um
