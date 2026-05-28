@@ -184,6 +184,21 @@ If an idea conflicts with existing system rules:
 2. Daniel and Claude then discuss together: Is the idea worth adapting the system for? Or does the story need a different solution?
 3. **The Kern (01.) remains inviolable.** System details (02.–03.) can be revised if an idea is compelling enough to earn it.
 
+### File Editing Rules
+
+**Never use `sed` to modify markdown files.** The `sed` command truncates files containing UTF-8 characters (German umlauts etc.). Always use Python for any file operations:
+
+```python
+with open(path, 'rb') as f:
+    content = f.read()
+content = content.replace(b'\r\n', b'\n').replace(b'\r', b'\n')
+content = content.rstrip(b'\n') + b'\n'
+with open(path, 'wb') as f:
+    f.write(content)
+```
+
+After any bulk file operation, always verify file endings with Python's `glob` + `tail` check before committing.
+
 ### Claude's Role as Creative Partner
 
 Claude is an **active creative collaborator**, not just a consistency checker.
