@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Noetic System/03.03 Das Noetische Profil.md",
+                "file": "01 Kern von Lumora/01.08 Lumora-Manifest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.03 Das Noetische Profil"
+              "title": "01.08 Lumora-Manifest"
             }
           },
           {
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Noetic System/03.03 Das Noetische Profil.md",
+                "file": "01 Kern von Lumora/01.08 Lumora-Manifest.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 03.03 Das Noetische Profil"
+              "title": "Gliederung von 01.08 Lumora-Manifest"
             }
           }
         ],
@@ -213,8 +213,8 @@
   },
   "active": "0b7c59332f6c344c",
   "lastOpenFiles": [
-    "03 Noetic System/03.02 Funktionsweise.md",
     "03 Noetic System/03.03 Das Noetische Profil.md",
+    "03 Noetic System/03.02 Funktionsweise.md",
     "01 Kern von Lumora/01.03 Vision & Philosophie.md",
     "03 Noetic System/03.06 Erweiterte Konzepte.md",
     "03 Noetic System/03.03 Das Noetische Profil.md.tmp.16932.a2d10de3b948",
