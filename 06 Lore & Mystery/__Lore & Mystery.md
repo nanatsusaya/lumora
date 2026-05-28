@@ -13,7 +13,8 @@ Dieser Bereich enthält das verborgene Wissen Lumoras — Geheimnisse, die die W
 
 ## Das große Geheimnis: Ursprungsgott = Chaosgott
 
-*Tag:* #grosses-geheimnis
+*Tag:* #great-secret
+*Status:* #wip
 
 ### Die Wahrheit
 
@@ -65,7 +66,8 @@ hasst, die er durch die Spaltung verloren hat.
 
 ## Die Drei Regeln als Falle
 
-*Tag:* #regeln-falle
+*Tag:* #rules-trap
+*Status:* #wip
 
 ### Die offizielle Version
 
@@ -95,7 +97,8 @@ Dies ist die direkte Manifestation des Kern-Axioms: *(→ [[01.05 Die Urgesetze 
 
 ## Die Auflösung — Das Ende der Geschichte
 
-*Tag:* #auflösung
+*Tag:* #resolution
+*Status:* #wip
 
 ### Wie das Geheimnis enthüllt wird
 

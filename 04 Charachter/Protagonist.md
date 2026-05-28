@@ -6,6 +6,7 @@ tags:
 # Protagonist
 
 *Tag:* #protagonist
+*Status:* #working-title #wip
 
 > *Status: TODO — Rohfassung aus Archiv. Muss ausgearbeitet werden.*
 
