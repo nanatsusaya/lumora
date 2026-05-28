@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Kern von Lumora/01.05 Die Urgesetze des Kanons.md",
+                "file": "09 Meta/Tags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.05 Die Urgesetze des Kanons"
+              "title": "Tags"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:wip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Kern von Lumora/01.05 Die Urgesetze des Kanons.md",
+                "file": "09 Meta/Tags.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 01.05 Die Urgesetze des Kanons"
+              "title": "Gliederung von Tags"
             }
           }
         ],
@@ -199,37 +199,47 @@
   },
   "active": "0b7c59332f6c344c",
   "lastOpenFiles": [
-    "01 Kern von Lumora/01.01 Kern von Lumora.md",
-    "01 Kern von Lumora/01.08 Lumora-Manifest.md",
+    "02 Worldbuilding/02.04 Religion & Götter/02.04 Religion & Götter.md",
+    "10 Archive/__Archive.md",
+    "03 Noetic System/03.07 Fehlannahmen & Irrtümer.md",
+    "03 Noetic System/03.06 Erweiterte Konzepte.md",
+    "03 Noetic System/03.05 Anwendung & Fähigkeitsentwicklung.md",
+    "03 Noetic System/03.04 Grenzen & Einschränkungen.md",
     "03 Noetic System/03.03 Das Noetische Profil.md",
     "03 Noetic System/03.02 Funktionsweise.md",
-    "01 Kern von Lumora/01.03 Vision & Philosophie.md",
-    "03 Noetic System/03.06 Erweiterte Konzepte.md",
-    "03 Noetic System/03.03 Das Noetische Profil.md.tmp.16932.a2d10de3b948",
-    "03 Noetic System/03.03 Das Noetische Profil.md.tmp.16932.ae7dfe5f5cee",
-    "03 Noetic System/03.03 Das Noetische Profil.md.tmp.16932.b1891655f528",
-    "03 Noetic System/03.03 Das Noetische Profil.md.tmp.16932.5fb1f95bf671",
-    "03 Noetic System/03.03 Das Noetische Profil.md.tmp.16932.1f3dc5e7a2f2",
-    "03 Noetic System/03.03 Das Noetische Profil.md.tmp.16932.2ece9b3f2a4b",
-    "03 Noetic System/03.02 Funktionsweise.md.tmp.35140.78738cb1dbf0",
-    "03 Noetic System/03.02 Funktionsweise.md.tmp.35140.f9280f774eeb",
-    "03 Noetic System/03.02 Funktionsweise.md.tmp.35140.a85758fd844f",
-    "03 Noetic System/03.02 Funktionsweise.md.tmp.35140.47f443df40f6",
     "03 Noetic System/03.01 Noetisches System.md",
+    "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md",
+    "02 Worldbuilding/02.01 Weltstruktur/02.02 Weltstruktur.md",
+    "02 Worldbuilding/02.02 Völker & Spezies/02.02 Völker & Spezies.md",
+    "02 Worldbuilding/02.03 Gesellschaft/02.03 Gesellschaft.md",
+    "09 Meta/Tags.md",
+    "09 Meta/Tags.md.tmp.47728.c1362cab3fb4",
+    "02 Worldbuilding/02.03 Gesellschaft/02.03 Gesellschaft.md.tmp.41748.38b74a92654d",
+    "02 Worldbuilding/02.03 Gesellschaft/02.03 Gesellschaft.md.tmp.41748.6c3750b74c71",
+    "03 Noetic System/03.04 Grenzen & Einschränkungen.md.tmp.41748.df005e3453b6",
+    "02 Worldbuilding/02.02 Völker & Spezies/02.02 Völker & Spezies.md.tmp.36292.b9aec378d05c",
+    "02 Worldbuilding/02.02 Völker & Spezies/02.02 Völker & Spezies.md.tmp.19788.66fb6cf48684",
+    "02 Worldbuilding/02.02 Völker & Spezies/02.02 Völker & Spezies.md.tmp.19788.0fca078e2ef3",
+    "Assets/Golethari-1.webp",
+    "Assets/Chronari.webp",
+    "Assets/Golethari-2.webp",
+    "Assets/Lumora-Weltkarte-v1.webp",
+    "Assets/Lumora-Umlaufbahn-Belichtung.webp",
+    "02 Worldbuilding/02.01 Weltstruktur/02.02 Weltstruktur.md.tmp.42632.2d1338e8f07a",
+    "Assets/Lumora World Map v1.webp",
+    "02 Worldbuilding/02.01 Weltstruktur/02.02 Weltstruktur.md.tmp.9724.f10cddfa13fd",
+    "Assets",
+    "01 Kern von Lumora/01.05 Die Urgesetze des Kanons.md",
+    "04 Charachter/Der Junge.md",
+    "04 Charachter/Protagonist.md",
+    "01 Kern von Lumora/01.01 Kern von Lumora.md",
+    "01 Kern von Lumora/01.08 Lumora-Manifest.md",
+    "01 Kern von Lumora/01.03 Vision & Philosophie.md",
     "01 Kern von Lumora/01.02 Was ist Lumora.md",
     "Glossar.md",
-    "01 Kern von Lumora/01.05 Die Urgesetze des Kanons.md",
     "01 Kern von Lumora/01.06 Die Fünf Säulen Lumoras.md",
     "01 Kern von Lumora/01.04 Zentrale Themen.md",
     "README.md",
-    "03 Noetic System/03.04 Grenzen & Einschränkungen.md",
-    "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md",
-    "Noetische Kraft.md",
-    "CLAUDE.md",
-    "00 Inbox/Inbox.md",
-    "03 Noetic System/03.05 Anwendung & Fähigkeitsentwicklung.md",
-    "03 Noetic System/03.07 Fehlannahmen & Irrtümer.md",
-    "03 Noetic System/03.03 Grenzen & Einschränkungen.md",
-    "02 Worldbuilding/02.01 Weltstruktur/02.02 Weltstruktur.md"
+    "Noetische Kraft.md"
   ]
 }

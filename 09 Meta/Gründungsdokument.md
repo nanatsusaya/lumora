@@ -1,3 +1,8 @@
+---
+tags:
+  - wip
+---
+
 ## Definition
 
 Ein Gründungsdokument hält die fundamentalen Prinzipien eines Projekts fest, bevor Details, Erweiterungen und Ausarbeitungen hinzukommen.

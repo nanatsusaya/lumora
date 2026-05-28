@@ -1,3 +1,8 @@
+---
+tags:
+  - wip
+---
+
 **Elevator Premise** kommt von _Elevator Pitch_.
 
 Die Idee:  

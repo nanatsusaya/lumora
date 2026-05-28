@@ -1,3 +1,8 @@
+---
+tags:
+  - wip
+---
+
 Projektmanagement.
 
 - Roadmap

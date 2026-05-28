@@ -1,3 +1,8 @@
+---
+tags:
+  - wip
+---
+
 Alles externe.
 
 - Philosophie

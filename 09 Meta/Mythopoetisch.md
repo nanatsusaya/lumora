@@ -1,3 +1,8 @@
+---
+tags:
+  - wip
+---
+
 Mythopoetisch (von griech. mythos "Mythos" und poiesis "Dichten/Erschaffen") bezeichnet die bewusste Erschaffung neuer Mythen oder die literarische Neugestaltung bestehender mythischer Strukturen. Es verbindet Kunst mit mythischen Elementen, um tiefere psychologische oder kulturelle Bedeutungen zu vermitteln. Bekannt ist zudem die "mythopoetische Männerbewegung" der 1980/90er, die durch Rückgriff auf Archetypen die Selbstwahrnehmung von Männern stärken wollte.
 
 **Kernaspekte und Herkunft::**

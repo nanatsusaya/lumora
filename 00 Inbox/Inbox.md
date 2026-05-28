@@ -1,3 +1,8 @@
+---
+tags:
+  - wip
+---
+
 # Lose Ideensammlung
 
 Hier kommt alles rein, was noch nicht einsortiert ist.
