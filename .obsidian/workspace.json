@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Noetic System/03.03 Das Noetische Profil.md",
+                "file": "01 Kern von Lumora/01.05 Die Urgesetze des Kanons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.03 Das Noetische Profil"
+              "title": "01.05 Die Urgesetze des Kanons"
+            }
+          },
+          {
+            "id": "552d576eb51382ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Noetic System/03.04 Grenzen & Einschränkungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03.04 Grenzen & Einschränkungen"
+            }
+          },
+          {
+            "id": "b4b2b7f1ac31b4a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.01 Kosmologie & Universumsstruktur"
             }
           }
         ]
@@ -53,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#n-energy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 Noetic System/03.03 Das Noetische Profil.md",
+                "file": "01 Kern von Lumora/01.05 Die Urgesetze des Kanons.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 03.03 Das Noetische Profil"
+              "title": "Gliederung von 01.05 Die Urgesetze des Kanons"
             }
           }
         ],
@@ -185,27 +213,37 @@
   },
   "active": "0b7c59332f6c344c",
   "lastOpenFiles": [
-    "00 Inbox/Inbox.md",
-    "03 Noetic System/03.04 Grenzen & Einschränkungen.md",
-    "00 Inbox/Inbox.md.tmp.4504.b2b4b902838c",
-    "03 Noetic System/03.03 Das Noetische Profil.md",
+    "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md.tmp.35828.f3984ab7d18e",
+    "01 Kern von Lumora/01.06 Die Fünf Säulen Lumoras.md",
+    "01 Kern von Lumora/01.02 Was ist Lumora.md.tmp.35828.c0e4a00f23ae",
+    "01 Kern von Lumora/01.05 Die Urgesetze des Kanons.md",
+    "01 Kern von Lumora/01.04 Zentrale Themen.md",
+    "01 Kern von Lumora/01.03 Vision & Philosophie.md",
+    "01 Kern von Lumora/01.02 Was ist Lumora.md",
+    "01 Kern von Lumora/01.01 Kern von Lumora.md",
+    "03 Noetic System/03.01 Noetisches System.md.tmp.4444.1dd47e8d6a2f",
     "03 Noetic System/03.01 Noetisches System.md",
     "03 Noetic System/03.02 Funktionsweise.md",
-    "03 Noetic System/03.02 Funktionsweise.md.tmp.36008.5a1b6217301b",
-    "03 Noetic System/03.02 Funktionsweise.md.tmp.36008.21ffe905d0c9",
-    "03 Noetic System/03.02 Funktionsweise.md.tmp.36008.d38cc847c117",
+    "Glossar.md",
+    "README.md",
+    "Unbenannt.base",
+    "03 Noetic System/03.01 Noetisches System.md.tmp.35140.396b7b486560",
+    "03 Noetic System/03.01 Noetisches System.md.tmp.35140.e9ab32a91a5e",
+    "03 Noetic System/03.01 Noetisches System.md.tmp.35140.56afec020bb1",
+    "03 Noetic System/03.01 Noetisches System.md.tmp.35140.b4df98bd9fc7",
+    "03 Noetic System/03.01 Noetisches System.md.tmp.35140.0542bcbfdf03",
+    "03 Noetic System/03.01 Noetisches System.md.tmp.35140.214fef61c2a6",
+    "03 Noetic System/03.01 Noetisches System.md.tmp.35172.96f366b90c55",
+    "03 Noetic System/03.03 Das Noetische Profil.md",
+    "03 Noetic System/03.04 Grenzen & Einschränkungen.md",
+    "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md",
+    "Noetische Kraft.md",
+    "CLAUDE.md",
+    "00 Inbox/Inbox.md",
     "03 Noetic System/03.05 Anwendung & Fähigkeitsentwicklung.md",
     "03 Noetic System/03.06 Erweiterte Konzepte.md",
     "03 Noetic System/03.07 Fehlannahmen & Irrtümer.md",
-    "03 Noetic System/03.03 Das Noetische Profil.md.tmp.36008.245773097531",
-    "03 Noetic System/03.03 Grenzen & Einschränkungen.md.tmp.36008.4b831b3b07d7",
     "03 Noetic System/03.03 Grenzen & Einschränkungen.md",
-    "03 Noetic System/03.03 Das Noetische Profil.md.tmp.36008.09612a823192",
-    "03 Noetic System/03.03 Grenzen & Einschränkungen.md.tmp.29544.16ddc196ca91",
-    "03 Noetic System/03.03 Grenzen & Einschränkungen.md.tmp.29544.96bd53070f22",
-    "03 Noetic System/03.03 Grenzen & Einschränkungen.md.tmp.32856.dacbbc252ba0",
-    "README.md",
-    "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md",
     "02 Worldbuilding/02.01 Weltstruktur/02.02 Weltstruktur.md"
   ]
 }
