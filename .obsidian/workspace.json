@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2f38ee6fc2c257fb",
+        "id": "a9d1ae3c460e4fe6",
         "type": "tabs",
         "children": [
           {
-            "id": "0b7c59332f6c344c",
+            "id": "05c219d9e217973d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Worldbuilding/02.01 Weltstruktur/02.02 Weltstruktur.md",
+                "file": "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.02 Weltstruktur"
+              "title": "02.01 Kosmologie & Universumsstruktur"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 329.5
   },
   "right": {
     "id": "31c916bd68eaa8b7",
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Worldbuilding/02.01 Weltstruktur/02.02 Weltstruktur.md",
+                "file": "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 02.02 Weltstruktur"
+              "title": "Gliederung von 02.01 Kosmologie & Universumsstruktur"
             }
           }
         ],
@@ -183,23 +183,28 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "0b7c59332f6c344c",
+  "active": "05c219d9e217973d",
   "lastOpenFiles": [
-    "02 Worldbuilding/02.04 Religion & Götter/02.04 Religion & Götter.md",
-    "10 Archive/Backup Grundwork 22.04.2026.pdf",
+    "CLAUDE.md.tmp.37688.46fdb23b1146",
+    "CLAUDE.md.tmp.37688.2e6711b216a9",
+    "CLAUDE.md.tmp.37688.e3ba3da5f14c",
+    "10 Archive/Backup_Grundwork_22-04-2026_compact.md",
+    "02 Worldbuilding/02.01 Weltstruktur/02.02 Weltstruktur.md",
     "10 Archive/Backup_Grundwork_22-04-2026_kompakt.md",
-    "10 Archive/lumora_md_assets/img_005_p036.jpeg",
     "10 Archive/lumora_md_assets/img_004_p035.jpeg",
+    "10 Archive/lumora_md_assets/img_005_p036.jpeg",
     "10 Archive/lumora_md_assets/img_003_p032.jpeg",
     "10 Archive/lumora_md_assets/img_002_p016.jpeg",
     "10 Archive/lumora_md_assets/img_001_p013.png",
     "10 Archive/lumora_md_assets",
+    "10 Archive/Backup_Grundwork_22-04-2026_KI-minimal.md",
+    "02 Worldbuilding/02.04 Religion & Götter/02.04 Religion & Götter.md",
+    "10 Archive/Backup Grundwork 22.04.2026.pdf",
     "02 Worldbuilding/02.02 Völker & Spezies/02.02 Völker & Spezies.md.tmp.10732.fb42c2d3d247",
     "10 Archive/__Archive.md",
     "03 Noetic System/03.04 Grenzen & Einschränkungen.md",
     "02 Worldbuilding/02.03 Gesellschaft/02.03 Gesellschaft.md",
     "02 Worldbuilding/02.02 Völker & Spezies/02.02 Völker & Spezies.md",
-    "02 Worldbuilding/02.01 Weltstruktur/02.02 Weltstruktur.md",
     "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md",
     "01 Kern von Lumora/01.08 Lumora-Manifest.md",
     "01 Kern von Lumora/01.07 Das Versprechen von Lumora.md",
@@ -221,14 +226,10 @@
     "03 Noetic System/03.02 Funktionsweise.md",
     "09 Meta/Tags.md.tmp.47728.c1362cab3fb4",
     "02 Worldbuilding/02.03 Gesellschaft/02.03 Gesellschaft.md.tmp.41748.38b74a92654d",
-    "02 Worldbuilding/02.03 Gesellschaft/02.03 Gesellschaft.md.tmp.41748.6c3750b74c71",
-    "03 Noetic System/03.04 Grenzen & Einschränkungen.md.tmp.41748.df005e3453b6",
     "Assets/Golethari-1.webp",
     "Assets/Chronari.webp",
     "Assets/Golethari-2.webp",
     "Assets/Lumora-Weltkarte-v1.webp",
-    "Assets/Lumora-Umlaufbahn-Belichtung.webp",
-    "04 Charachter/Der Junge.md",
-    "04 Charachter/Protagonist.md"
+    "Assets/Lumora-Umlaufbahn-Belichtung.webp"
   ]
 }
