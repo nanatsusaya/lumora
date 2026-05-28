@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md",
+                "file": "08 Writing/__Writing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.01 Kosmologie & Universumsstruktur"
+              "title": "__Writing"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md",
+                "file": "08 Writing/__Writing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von 02.01 Kosmologie & Universumsstruktur"
+              "title": "Gliederung von __Writing"
             }
           }
         ],
@@ -183,13 +183,26 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "05c219d9e217973d",
+  "active": "8f97c72587510b6c",
   "lastOpenFiles": [
+    "07 Research/__Research.md",
+    "06 Lore & Mystery/__Lore & Mystery.md",
+    "05 Story Architecture/__Story Architecture.md",
+    "04 Charachter/Protagonist.md",
+    "04 Charachter/Der Junge.md",
+    "03 Noetic System/03.07 Fehlannahmen & Irrtümer.md",
+    "03 Noetic System/03.06 Erweiterte Konzepte.md",
+    "03 Noetic System/03.05 Anwendung & Fähigkeitsentwicklung.md",
+    "02 Worldbuilding/02.00 Worldbuilding.md",
+    "02 Worldbuilding/02.06 Konflikte/02.06 Konflikte.md",
+    "02 Worldbuilding/02.05 Geschichte/02.05 Geschichte.md",
+    "02 Worldbuilding/02.04 Religion & Götter/02.04 Religion & Götter.md",
+    "02 Worldbuilding/02.01 Weltstruktur/02.02 Weltstruktur.md",
+    "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md",
     "CLAUDE.md.tmp.37688.46fdb23b1146",
     "CLAUDE.md.tmp.37688.2e6711b216a9",
     "CLAUDE.md.tmp.37688.e3ba3da5f14c",
     "10 Archive/Backup_Grundwork_22-04-2026_compact.md",
-    "02 Worldbuilding/02.01 Weltstruktur/02.02 Weltstruktur.md",
     "10 Archive/Backup_Grundwork_22-04-2026_kompakt.md",
     "10 Archive/lumora_md_assets/img_004_p035.jpeg",
     "10 Archive/lumora_md_assets/img_005_p036.jpeg",
@@ -198,34 +211,21 @@
     "10 Archive/lumora_md_assets/img_001_p013.png",
     "10 Archive/lumora_md_assets",
     "10 Archive/Backup_Grundwork_22-04-2026_KI-minimal.md",
-    "02 Worldbuilding/02.04 Religion & Götter/02.04 Religion & Götter.md",
     "10 Archive/Backup Grundwork 22.04.2026.pdf",
     "02 Worldbuilding/02.02 Völker & Spezies/02.02 Völker & Spezies.md.tmp.10732.fb42c2d3d247",
     "10 Archive/__Archive.md",
     "03 Noetic System/03.04 Grenzen & Einschränkungen.md",
     "02 Worldbuilding/02.03 Gesellschaft/02.03 Gesellschaft.md",
     "02 Worldbuilding/02.02 Völker & Spezies/02.02 Völker & Spezies.md",
-    "02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md",
     "01 Kern von Lumora/01.08 Lumora-Manifest.md",
     "01 Kern von Lumora/01.07 Das Versprechen von Lumora.md",
     "01 Kern von Lumora/01.06 Die Fünf Säulen Lumoras.md",
     "01 Kern von Lumora/01.05 Die Urgesetze des Kanons.md",
     "01 Kern von Lumora/01.04 Zentrale Themen.md",
-    "01 Kern von Lumora/01.03 Vision & Philosophie.md",
-    "01 Kern von Lumora/01.01 Kern von Lumora.md",
-    "01 Kern von Lumora/01.02 Was ist Lumora.md",
-    "03 Noetic System/03.01 Noetisches System.md",
-    "09 Meta/Tags.md",
     "09 Meta/Tags.md.tmp.45344.85831249b903",
     "09 Meta/Tags.md.tmp.23532.8a58db6f692f",
     "09 Meta/Tags.md.tmp.36628.612e5d8ca924",
-    "03 Noetic System/03.07 Fehlannahmen & Irrtümer.md",
-    "03 Noetic System/03.06 Erweiterte Konzepte.md",
-    "03 Noetic System/03.05 Anwendung & Fähigkeitsentwicklung.md",
-    "03 Noetic System/03.03 Das Noetische Profil.md",
-    "03 Noetic System/03.02 Funktionsweise.md",
     "09 Meta/Tags.md.tmp.47728.c1362cab3fb4",
-    "02 Worldbuilding/02.03 Gesellschaft/02.03 Gesellschaft.md.tmp.41748.38b74a92654d",
     "Assets/Golethari-1.webp",
     "Assets/Chronari.webp",
     "Assets/Golethari-2.webp",

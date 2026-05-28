@@ -16,11 +16,13 @@ tags:
 
 Der Protagonist ist das Herzstück der Geschichte. Er ist kein klassischer Held — er ist ein gewöhnlicher Mensch mit einer ungewöhnlichen Denkweise, der in eine außergewöhnliche Situation geworfen wird.
 
-**Herkunft:** Erde. Ingenieur mit Berufserfahrung im mittleren Management.
+**Herkunft:** Erde. Lehrer auf einer normalen Schule im Bereich der Naturwissenschaften.
 
 **Neugeburt:** Auf Lumora als Eldari-Frau (Waldelfe) wiedergeboren. Hat ab dem Moment der Geburt sein volles Bewusstsein. Ist sich seiner alten Identität vollständig bewusst.
 
 > *Kritische Anmerkung:* Der Geschlechterwechsel (Gender Bender) ist kein Gimmick — er ist thematisch zentral. Der Protagonist trägt buchstäblich zwei Identitäten: die alte (männlich, Vater, Erdmensch) und die neue (weiblich, Elfin, Lumorianerin). Das ist die persönliche Spiegelung des Ursprungsgott-Chaosgott-Themas. Behandle das mit der Ernsthaftigkeit, die es verdient.
+
+> Meine Anmerkung: als Mann auf der Erde hört und sieht er im Radio, Fernsehn oder über Freunde/Kollegen, wie die Welt immer mehr im Chaos versinkt. Radikale Gruppen, rechte Hetze, Gewalt und vieles mehr umgibt ihn. Aber er ignoriert alles und kümmert sich nur um sein Leben und um das seiner direkten Familie. Später als Frau auf Lumora entwickelt er seinen Charakter und fängt an Verantwortung zu übernehmen. Er wird aufmerksamer, versucht zu helfen und zu handeln.
 
 ---
 
@@ -38,6 +40,7 @@ Der Protagonist ist das Herzstück der Geschichte. Er ist kein klassischer Held 
 - **Perfektionismus:** Hat Schwierigkeiten, Fehler zu akzeptieren oder loszulassen.
 - **Überanalyse:** Zögert zu lange, wenn er auf "alle Fakten" wartet.
 - **Emotionale Blindheit:** Übersieht oft die Gefühle anderer. Kämpft damit, eigene Emotionen auszudrücken.
+- **Ignoriert soziale Spannungen:** zu Beginn als Mann interessiert er sich nicht für soziale Probleme.
 
 ---
 
@@ -89,7 +92,7 @@ Der Protagonist war auf der Erde männlich und Vater. Er wird auf Lumora als Eld
 
 **Umgang damit:**
 - Verarbeitung ist schwierig, aber er hat keine andere Wahl.
-- Findet eine praktische Seite: Kleider. Er fand schon auf der Erde schöne Kleider bei Frauen toll — jetzt kann er das selbst leben.
+- Findet eine praktische Seite: Kleider. Er fand schon auf der Erde schöne Kleider bei Frauen toll — jetzt kann er das selbst leben. Als Mann hat er sich nie getraut auffällige Kleidung zu tragen.
 - Bringt modische Innovationen in die Eldari-Gesellschaft: neue Farben, Kleiderschnitte, Stoffe.
 - Thematisiert aktiv Selbstfindung und Identität — sowohl für sich selbst als auch in Gesprächen mit anderen Figuren.
 
@@ -99,7 +102,7 @@ Der Protagonist war auf der Erde männlich und Vater. Er wird auf Lumora als Eld
 
 ## Entwicklung — Schlüsselmomente
 
-**Startpunkt:** Geburt auf Lumora. Entdeckt langsam die neue Realität. Erste intuitive N-Kraft-Nutzung → Erstaunen und Misstrauen bei anderen.
+**Startpunkt:** Geburt auf Lumora. Ersteinmal extrem Wütend auf den [[02.04 Religion & Götter#Raum-Zeit-Gott (RZG)|Raum-Zeit-Gott]], wütet unkontrolliert als Neugeborenes. Entdeckt langsam die neue Realität. Erste intuitive N-Kraft-Nutzung → Erstaunen und Misstrauen bei anderen.
 
 **Frühe Entwicklung:**
 - Beginnt zu wachsen, lernt N-Kraft-Fähigkeiten. Überrascht Lehrer mit fortgeschrittenen Fragen → erhält Extra-Unterricht.
