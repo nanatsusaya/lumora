@@ -86,24 +86,92 @@ Before diving into any topic, read the relevant file — don't rely on this docu
 ### Language & Communication
 
 - **All conversation happens in German.** Claude always responds in German unless Daniel explicitly writes in English.
-- **Technical terms are used in German in conversation**, but notes and vault entries always include the English equivalent on first use.
+- **Technical terms are used in German in conversation.** Vault notes include an English equivalent (`*EN: ...*`) only for Eigenbegriffe — see Vault Conventions below.
 - **This file (CLAUDE.md) is always written in English.**
 
-### Translation Format in Vault Notes
+### Vault Conventions
 
-Every named term or concept that gets its own explanation (typically its own section or heading) follows this format:
+#### Frontmatter Tags
 
-- Directly under the heading, in italics: `*EN: English Name*`
-- If the term has an Obsidian tag: `*Tag: #shortname*` (tags are shortened forms of the English term)
+Every note has YAML frontmatter with at least one tag:
 
-Example:
+```yaml
+---
+tags:
+  - wip
+---
 ```
-## Noetische Kraft
-*EN: Noetic Force*
-*Tag: #nforce*
+
+| Tag | Meaning | Applied to |
+|-----|---------|-----------|
+| `#canon` | Inviolable foundation — never remove | All `01 Kern von Lumora` notes |
+| `#wip` | Work in progress | All active notes except `01 Kern`, `03.01`, `03.02` |
+| `#ready` | Complete — only when ALL sections are `#ready` | Any finished note |
+| `#meta` | Describes the vault itself, not story content | `09 Meta/` notes |
+
+#### Per-Section Format
+
+Every named section with its own heading uses this structure directly below the heading:
+
+```
+### Name der Sektion
+*EN: English Name*        ← only for Eigenbegriffe (see below)
+*Tag:* #section-id        ← exactly ONE tag — the unique section identifier
+*Status:* #wip            ← one or more status flags
 ```
 
-### Novel Development Language
+- `*Tag:*` is always exactly one tag. Never combine multiple tags here.
+- `*Status:*` can combine flags: `#wip`, `#ready`, `#working-title`
+- `#working-title` always goes in `*Status:*`, never in `*Tag:*`
+- Status progression: `#wip` → (when complete) → `#ready`
+- Full tag reference: `09 Meta/Tags.md`
+
+#### EN Translation Rule
+
+`*EN: English Name*` is only added for **Eigenbegriffe** — invented proper nouns and coined terms that will be reused in the English novel (e.g. species names, god names, system terms like "Noetic Force").
+
+Generic headings (e.g. "Geschichte", "Gesellschaft", "Sonnensystem") do **not** get an EN line.
+
+#### All Tags in English
+
+All `*Tag:*` identifiers and `*Status:*` flags are in English. No German tags.
+Examples: `#primal-god`, `#humans`, `#desert-of-tears`, `#n-force`
+
+#### Writing Style Inside Notes
+
+**Compact sections** (for peoples, gods, etc.):
+```
+**Biologie:** ...
+**Kultur:** ...
+**N-Kraft-Nutzung:** ...
+```
+
+**Editorial annotations** (Claude's own critical observations):
+```
+> *Kritische Anmerkung:* ...
+> *Anmerkung:* ...
+```
+
+**Open questions and TODOs** always in fenced code blocks:
+````
+```
+TODO: Question 1
+Question 2
+```
+````
+
+**Obsidian cross-references**:
+```
+[[02.02 Völker & Spezies#Golethari|Golethari]]
+```
+
+### Translation Format (Novel)
+
+The novel is written and developed **in German first**.
+
+Only finished, fully revised chapters are translated into English.
+
+Draft scenes, character notes, and plot work remain in German throughout development.
 
 - The novel is written and developed **in German first**.
 - Only finished, fully revised chapters are translated into English.
@@ -135,3 +203,4 @@ Claude is an **active creative collaborator**, not just a consistency checker.
 **Last updated:** 2026-05-28
 **Project stage:** Worldbuilding & System Definition
 **Next milestone:** Fill Noetic System details + expand Worldbuilding
+**Conventions last revised:** 2026-05-28 (added vault tag system, section format, writing style)
