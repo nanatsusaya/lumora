@@ -186,18 +186,29 @@ If an idea conflicts with existing system rules:
 
 ### File Editing Rules
 
-**Never use `sed` to modify markdown files.** The `sed` command truncates files containing UTF-8 characters (German umlauts etc.). Always use Python for any file operations:
+**Never use the Edit tool or `sed` to modify vault markdown files.** Both truncate files containing UTF-8 characters (German umlauts, em-dashes, Obsidian `[[...]]`-links), especially on large files. Always use Python with explicit UTF-8 encoding for any read/write/edit operation on vault files:
 
 ```python
-with open(path, 'rb') as f:
+with open(path, 'r', encoding='utf-8') as f:
     content = f.read()
-content = content.replace(b'\r\n', b'\n').replace(b'\r', b'\n')
-content = content.rstrip(b'\n') + b'\n'
-with open(path, 'wb') as f:
+# apply changes to content in memory
+with open(path, 'w', encoding='utf-8') as f:
     f.write(content)
 ```
 
+**Mandatory post-edit verification after every file change:**
+1. Read the file back and check the relevant section is complete and correct.
+2. Check that no content was cut off, duplicated, or replaced with content from another file.
+3. If anything looks wrong: stop immediately and report to Daniel before proceeding.
+
 After any bulk file operation, always verify file endings with Python's `glob` + `tail` check before committing.
+
+### Git Commits
+
+**Daniel handles all git commits. Claude never runs `git commit`** (or any variant like `--amend`, `-am`, etc.).
+
+- Claude may stage files (`git add`) only if explicitly asked.
+- When a task is complete and committing would be the natural next step: stop and tell Daniel.
 
 ### Claude's Role as Creative Partner
 
