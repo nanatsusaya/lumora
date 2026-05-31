@@ -49,4 +49,4 @@ Das ist kein Zwang zur Schwere — aber es ist ein Maßstab. Wenn ein Detail nur
 
 * [[01.03 Vision & Philosophie]]
 * [[01.04 Zentrale Themen]]
-- [[01.08 Lumora-Manifest]]
+* [[01.08 Lumora-Manifest]]
