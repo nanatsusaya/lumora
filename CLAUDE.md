@@ -216,9 +216,10 @@ tags:
 ```
 
 **Mandatory post-edit verification after every file change:**
-1. Read the file back and check the relevant section is complete and correct.
-2. Check that no content was cut off, duplicated, or replaced with content from another file.
-3. If anything looks wrong: stop immediately and report to Daniel before proceeding.
+1. Read the file back **completely** — use `cat` or the Read tool, never `tail`. Only a full read confirms nothing was cut off.
+2. Check that the content is complete: no sentences cut off, no sections missing, no unexpected end.
+3. Check that no content was duplicated or replaced with content from another file.
+4. If anything looks wrong: stop immediately and report to Daniel before proceeding.
 
 After any bulk file operation, always verify file endings with Python's `glob` + `tail` check before committing.
 
