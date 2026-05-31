@@ -217,11 +217,11 @@ tags:
 
 **Mandatory post-edit verification after every file change:**
 1. Read the file back **completely** — use `cat` or the Read tool, never `tail`. Only a full read confirms nothing was cut off.
-2. Check that the content is complete: no sentences cut off, no sections missing, no unexpected end.
-3. Check that no content was duplicated or replaced with content from another file.
-4. If anything looks wrong: stop immediately and report to Daniel before proceeding.
-
-After any bulk file operation, always verify file endings with Python's `glob` + `tail` check before committing.
+2. Check for null bytes: `content.count(chr(0)) == 0`. Null bytes appear silently when Python writes to a file that is still held open by another process (e.g. Obsidian). If found: strip everything from the first null byte, verify the clean content ends correctly, then write back.
+3. Check that `str.replace()` actually found the pattern — if it returns `"Pattern not found"`, stop immediately and report. Never silently continue after a failed replace.
+4. Check that the content is complete: no sentences cut off, no sections missing, no unexpected end.
+5. Check that no content was duplicated or replaced with content from another file.
+6. If anything looks wrong: stop immediately and report to Daniel before proceeding.
 
 ### Git Commits
 
