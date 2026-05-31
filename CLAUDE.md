@@ -196,6 +196,25 @@ with open(path, 'w', encoding='utf-8') as f:
     f.write(content)
 ```
 
+When writing new file content as a Python string literal, always use `textwrap.dedent` or start the string without a leading newline:
+
+```python
+# CORRECT — no leading newline
+content = """---
+tags:
+  - wip
+---
+"""
+
+# WRONG — leading newline creates a blank line at the top of the file
+content = """
+---
+tags:
+  - wip
+---
+"""
+```
+
 **Mandatory post-edit verification after every file change:**
 1. Read the file back and check the relevant section is complete and correct.
 2. Check that no content was cut off, duplicated, or replaced with content from another file.
