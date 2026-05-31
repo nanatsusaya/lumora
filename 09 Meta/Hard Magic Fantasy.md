@@ -64,6 +64,6 @@ Lumora entscheidet sich bewusst für Hard Magic. Die [[03.01 Noetisches System|N
 * [[03.01 Noetisches System]]
 * [[03.04 Grenzen & Einschränkungen]]
 * [[01.05 Die Urgesetze des Kanons]]
- * [Sanderson's Laws of Magic – Coppermind Wiki](https://coppermind.net/wiki/Sanderson's_Laws_of_Magic)
+* [Sanderson's Laws of Magic – Coppermind Wiki](https://coppermind.net/wiki/Sanderson's_Laws_of_Magic)
 * [Sanderson's First Law – brandonsanderson.com](https://www.brandonsanderson.com/blogs/blog/sandersons-first-law)
 * [A Definitive Guide to Sanderson's Laws – brandonsanderson.com](https://www.brandonsanderson.com/blogs/blog/guide-to-sandersons-laws-of-magic-lecture-notes)
