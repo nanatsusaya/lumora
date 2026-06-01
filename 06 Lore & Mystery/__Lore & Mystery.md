@@ -26,7 +26,7 @@ Ein transzendiertes Wesen, dessen Bewusstsein sich in zwei getrennte Aspekte ges
 
 ### Physikalische Grundlage
 
-Noetische Energie ist eine Quantenfeld-Komponente. Wie alle Quantenteilchen ist sie inhärent "unscharf". Ein transzendiertes Bewusstsein (das vollständig aus N-Energie besteht) unterliegt denselben quantenmechanischen Gesetzen.
+Noetische Energie ist eine Quantenfeld-Komponente. Wie alle Quantenteilchen ist sie inhärent "unscharf". Ein transzendiertes Bewusstsein (das vollständig aus noetischer Energie besteht) unterliegt denselben quantenmechanischen Gesetzen.
 
 > **Ein transzendiertes Wesen kann an zwei Orten gleichzeitig existieren.** *(→ [[03.06 Erweiterte Konzepte#Transzendenz]])*
 

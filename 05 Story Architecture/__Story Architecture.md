@@ -78,7 +78,7 @@ Familiäre Verbindungen. Zuerst alte Familie (Erde), dann neue Familie (Lumora).
 Bewohner Lumoras zerstören sich selbst. Protagonist verliert neue Familie auf Lumora und kann alte Familie auf Erde nicht wiedersehen.
 
 **Frage 7 — Spielregeln:**
-N-Energie = Versinnbildlichung: Wir können mit unserem Willen die Welt formen. Aber Naturgesetze können nicht überschritten werden — nur genutzt. Alle anderen Regeln sind Konzepte, die wir uns selbst auferlegen. Wenn nicht mehr zeitgemäß: Sinnhaftigkeit überdenken. *(Das ist das direkte Axiom der Drei Regeln.)*
+Noetische Energie = Versinnbildlichung: Wir können mit unserem Willen die Welt formen. Aber Naturgesetze können nicht überschritten werden — nur genutzt. Alle anderen Regeln sind Konzepte, die wir uns selbst auferlegen. Wenn nicht mehr zeitgemäß: Sinnhaftigkeit überdenken. *(Das ist das direkte Axiom der Drei Regeln.)*
 
 ---
 
@@ -135,7 +135,7 @@ Protagonistin möchte farbige Kleider. Problem: Eldari-Gesellschaft trägt nur H
 Standard-Unterricht mit anderen Kindern. Protagonistin stellt immer fortgeschrittene Fragen → Lehrer antwortet immer *„das bringen wir euch später bei"*. Streit → vor die Mutter. Mutter: weiter Unterricht, aber alle Fragen aufschreiben. Extra-Lehrerin: die Wüstenelfe.
 
 *Vorfahren:*
-Eine Vorfahrin kämpfte gegen einen Drachen, um den Stammbaum zu schützen. Eine zweite schaffte es, einen Drachenkristall am Fuß des Stammbaums anzuschließen → N-Energie sammeln. Dieser Kristall ist wahrscheinlich der Grund, warum der Drache überhaupt ankam.
+Eine Vorfahrin kämpfte gegen einen Drachen, um den Stammbaum zu schützen. Eine zweite schaffte es, einen Drachenkristall am Fuß des Stammbaums anzuschließen → Noetische Energie sammeln. Dieser Kristall ist wahrscheinlich der Grund, warum der Drache überhaupt ankam.
 
 ```
 TODO: Kapitel 2 hat viel Material für Alltagsszenen (Mode, Training, Schule).
