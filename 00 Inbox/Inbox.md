@@ -38,7 +38,7 @@ Nichts verlieren. Noch nicht bewerten.
 
 > *„Nur weil etwas schwerer ist, heißt es nicht, dass es nicht geht. Es ist nur schwerer."*
 
-Er überwindet die regionale N-Kraft-Schwäche nicht durch eine Ausnahme vom System — sondern durch außerordentliche Kompetenz innerhalb des Systems. Seine Speichermethoden sind so effizient, dass er mit importierter Energie aus einer stärkeren Region arbeiten kann. Dies ist konsistent mit [[03.03 Grenzen & Einschränkungen]] (gespeicherte Energie als Ergänzung zur lokalen Quelle).
+Er überwindet die regionale N-Kraft-Schwäche nicht durch eine Ausnahme vom System — sondern durch außerordentliche Kompetenz innerhalb des Systems. Seine Speichermethoden sind so effizient, dass er mit importierter Energie aus einer stärkeren Region arbeiten kann. Dies ist konsistent mit [[03.05 Grenzen & Einschränkungen]] (gespeicherte Energie als Ergänzung zur lokalen Quelle).
 
 ### Offene Fragen
 

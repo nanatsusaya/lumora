@@ -26,7 +26,7 @@ Ein transzendiertes Wesen, dessen Bewusstsein sich in zwei getrennte Aspekte ges
 
 ### Physikalische Grundlage
 
-Noetische Energie ist in ihrem Grundzustand kohärent — ein Quantenphänomen. Ein transzendiertes Bewusstsein, das vollständig aus Noetischer Energie besteht, unterliegt denselben quantenmechanischen Gesetzen. Ein vollendetes transzendiertes Wesen in kohärentem Quantenzustand ist nicht lokal fixiert — es kann theoretisch an mehreren Orten gleichzeitig existieren. *(→ [[03.06 Erweiterte Konzepte#Quantenkohärenz und die Vollendung]])*
+Noetische Energie ist in ihrem Grundzustand kohärent — ein Quantenphänomen. Ein transzendiertes Bewusstsein, das vollständig aus Noetischer Energie besteht, unterliegt denselben quantenmechanischen Gesetzen. Ein vollendetes transzendiertes Wesen in kohärentem Quantenzustand ist nicht lokal fixiert — es kann theoretisch an mehreren Orten gleichzeitig existieren. *(→ [[03.04 Erweiterte Konzepte#Quantenkohärenz und die Vollendung]])*
 
 Das ist keine Magie — es ist die direkte Konsequenz der Natur vollendeter transzendierter Wesen.
 

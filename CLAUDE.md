@@ -49,7 +49,7 @@ Before diving into any topic, read the relevant file — don't rely on this docu
 | The five structural pillars | `01 Kern von Lumora/01.06 Die Fünf Säulen Lumoras.md` |
 | Noetic System basics | `03 Noetic System/03.01 Noetisches System.md` |
 | How Noetik works (mechanics) | `03 Noetic System/03.02 Funktionsweise.md` |
-| Limits & constraints | `03 Noetic System/03.04 Grenzen & Einschränkungen.md` |
+| Limits & constraints | `03 Noetic System/03.05 Grenzen & Einschränkungen.md` |
 | World & cosmology | `02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md` |
 | Peoples & species | `02 Worldbuilding/02.02 Völker & Spezies/02.02 Völker & Spezies.md` |
 

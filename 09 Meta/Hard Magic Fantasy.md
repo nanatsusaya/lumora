@@ -54,7 +54,7 @@ Lumora entscheidet sich bewusst für Hard Magic. Die [[03.01 Noetisches System|N
 
 - Konflikte können durch [[03.01 Noetisches System|N-Kraft]] gelöst werden — *weil* der Leser versteht, wie und warum.
 - Grenzen der [[03.01 Noetisches System|N-Kraft]] sind kein Worldbuilding-Mangel, sondern ihr Kern (→ Sandersons Zweites Gesetz).
-- Jede neue [[03.05 Anwendung & Fähigkeitsentwicklung|noetische Fähigkeit]] muss im bestehenden System verwurzelt sein, nicht einfach hinzugefügt werden (→ Sandersons Drittes Gesetz).
+- Jede neue [[03.06 Anwendung & Fähigkeitsentwicklung|noetische Fähigkeit]] muss im bestehenden System verwurzelt sein, nicht einfach hinzugefügt werden (→ Sandersons Drittes Gesetz).
 - Wenn eine Idee die Systemregeln bricht, ist das ein Signal — nicht automatisch ein Veto, aber ein Grund zur Diskussion.
 
 ---
@@ -62,7 +62,7 @@ Lumora entscheidet sich bewusst für Hard Magic. Die [[03.01 Noetisches System|N
 ## Weiterführend
 
 * [[03.01 Noetisches System]]
-* [[03.04 Grenzen & Einschränkungen]]
+* [[03.05 Grenzen & Einschränkungen]]
 * [[01.05 Die Urgesetze des Kanons]]
 * [Sanderson's Laws of Magic – Coppermind Wiki](https://coppermind.net/wiki/Sanderson's_Laws_of_Magic)
 * [Sanderson's First Law – brandonsanderson.com](https://www.brandonsanderson.com/blogs/blog/sandersons-first-law)
