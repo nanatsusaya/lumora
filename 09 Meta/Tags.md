@@ -4,7 +4,7 @@ tags:
 ---
 # Tags — Bedeutung & Verwendung
 
-Diese Note erklärt die verwendeten Obsidian-Tags im Lumora-Vault und wann sie gesetzt bzw. entfernt werden.
+Diese Note erklärt verschieden verwendete Obsidian-Tags im Lumora-Vault und wann sie gesetzt bzw. entfernt werden.
 
 ---
 
@@ -80,3 +80,9 @@ Markiert Namen — von Göttern, Charakteren oder anderen benannten Entitäten �
 ### #meta
 
 Markiert Notes, die den Vault selbst beschreiben — Konventionen, Tags, Projektstruktur. Kein Story-Inhalt.
+
+---
+
+### #foreshadowing 
+
+Dieser Tag zeigt an, das ein Thema, ein Text oder ein Abschnitt ein [Foreshadowing](https://de.wikipedia.org/wiki/Epische_Vorausdeutung) (deutsch: Epische Vorausdeutung) auf ein später erscheinendes Thema ist.

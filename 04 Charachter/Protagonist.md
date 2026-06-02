@@ -1,6 +1,7 @@
 ---
 tags:
   - wip
+  - "#protagonist"
 ---
 
 # Protagonist
