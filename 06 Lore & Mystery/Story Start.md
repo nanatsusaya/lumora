@@ -68,4 +68,33 @@ Bewusstsein ist das emergente Wirken des gesamten Nervensystems samt aller Energ
 
 ## Wieso genau diese Person?
 
-Was macht den Protagonisten so besonders, oder so außerordentlich gewöhnlich, dass er als Person vom #rzg ausgewählt wird? Dieser Frage muss auf dem Grund gegangen werden.
+Die ehrliche Antwort: **kein besonderer Grund.** Der Protagonist ist kein Auserwählter — die konkrete Person ist weitgehend austauschbar. Was die Aufgabe verlangt, ist nicht Größe, sondern dreierlei: eine *andere Perspektive*, *neuen Schwung* und vor allem eine *Herkunft außerhalb der vorhersehbaren Linien* — der [[#Der Protagonist als unvorhergesehene Variable|Void]]. Das erfüllt im Prinzip jedes hinreichend andersartige Void-Wesen.
+
+Dass es *dieser* Mensch wird, ist ein Zusammenfall von Zufällen:
+
+- Der RZG bewertet, während er auf der Erde seinem Interesse nachgeht, ohnehin **jeden**. Der Protagonist gerät schlicht in den richtigen Moment seiner Beobachtung.
+- Er bringt ein **gutes physikalisches Verständnis** mit — kein Heldenmerkmal, aber praktisch: Es erhöht seine Überlebenschance in Lumora.
+- Und er liefert durch seine beiläufigen, ungenauen Formulierungen den Eindruck, eine **Isekai-Reise zu akzeptieren** (siehe [[Part I - Kapitel 05]] und das spätere Einwilligungs-Kapitel).
+
+Hinzu kommt das Zwischenmenschliche: Der Protagonist missdeutet das durchaus seltsame Verhalten des Avatars (Manga, Trickmagie, flache Sprache) als dessen *Art, freundlich zu sein*. Er findet ihn erfrischend anders, nicht unangenehm. Aus diesem doppelten Aneinander-vorbei entsteht die ganze Geschichte (siehe [[#Mensch und Gott — derselbe Fehler]]).
+
+> *Manifest-konform:* Genau das ist die anspruchsvolle Lösung — kein Schicksal, keine Bestimmung, sondern Kontingenz. „Kein Auserwähltsein als Ersatz für Entwicklung." Der Protagonist muss alles, was zählt, erst *werden*; gegeben ist ihm nur der Unfall seines Hierseins.
+
+---
+
+## Mensch und Gott — derselbe Fehler
+
+*(Leitmotiv)*
+
+Der RZG handelt **kühl-legalistisch**: Er braucht das formale „Ja" und hört genau so viel, wie die Regel verlangt — nicht, ob der Protagonist begreift, wozu er zustimmt. Das ist kein Versehen und keine Bosheit, sondern Distanz: Ein einzelnes Menschenleben ist für ihn Rauschen.
+
+Und genau darin spiegeln sich die beiden:
+
+- Der **Mensch** hört „lern ein paar Zaubertricks" und überhört das „willst du das *wirklich*".
+- Der **Gott** hört das „Ja" und überhört, dass kein Verstehen dahintersteht.
+
+Beide nehmen das Wort und ignorieren die Bedeutung. **Die Katastrophe hat zwei Autoren.** Keiner ist nur Opfer, keiner nur Täter — zwei Wesen aus völlig fremden Kulturen, die dieselbe Sprache sprechen und sich trotzdem nicht verstehen. Das ist nicht die kosmische große Tragödie, sondern der banalste aller Vorgänge: aneinander vorbeihören. Genau das macht es zur intimsten Form von „[[01.02 Was ist Lumora|Lumora als Spiegel der Erde]]".
+
+> **Gleich in der Sünde, entgegengesetzt im Preis.** Das selektive Hören des Protagonisten kostet *ihn*; das des RZG kostet ihn *alles* und den Gott *nichts*. Darum ist P.s späterer Hass auf den RZG zugleich heuchlerisch *und* berechtigt. Diese Doppeldeutigkeit ist Absicht — sie zwingt ihn am Ende, sich im Verhassten wiederzuerkennen, und ist der Motor seines Wandels vom Wegschauer zum Hinsehenden (siehe [[Protagonist#Kernfehler & Wandel — der Spiegel zum RZG|Kernfehler & Wandel]]).
+
+> *Erzählprinzip:* Die **Ursache** darf banal sein (ein Missverständnis), die **Folgen** nie. Der Abstand zwischen winziger Ursache und riesiger Wirkung ist der Horror — und der Spiegel dafür, wie Zivilisationen wirklich untergehen: nicht an einem Dämon, sondern an tausend kleinen Aneinander-vorbei.
