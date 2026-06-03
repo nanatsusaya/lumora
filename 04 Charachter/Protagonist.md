@@ -27,6 +27,18 @@ Der Protagonist ist das Herzstück der Geschichte. Er ist kein klassischer Held 
 
 ---
 
+## Überführung nach Lumora (Transfer & Tod)
+
+Auf der Erde nähert sich ihm der [[02.04 Religion & Götter#Raum-Zeit-Gott (RZG)|RZG]] in Gestalt eines neuen Arbeitskollegen. Mit scheinbar billigen „Zaubertricks" zieht er den Protagonisten — einen heimlichen Fantasy-Nerd — ins Gespräch. Der Protagonist findet die Tricks großartig und fragt von sich aus, ob er ein paar lernen könne, um damit später sein Kind zum Lachen zu bringen. Am nächsten Tag führt der „Kollege" ihn nach der Arbeit an einen abgelegenen Ort mit schöner Aussicht und fragt, ob er „die Magie" *wirklich* erlernen wolle. Der Protagonist deutet es als verspielte Geste eines Trickmagiers und bejaht. Dem RZG genügt das als Einwilligung — er tötet ihn mit einem Kleinlaster, und die Geschichte beginnt.
+
+> Die Einwilligung ist kein Zufall, sondern ein Schlupfloch um die [[02.04 Religion & Götter#Die Drei Regeln des Ursprungsgottes|Drei Regeln]]: Der RZG *entführt* nicht, er lässt frei zustimmen — dem Buchstaben nach regelkonform, dem Sinn nach Verrat.
+
+**Warum er sterben muss:** Bewusstsein ist das emergente Wirken des gesamten Nervensystems samt seiner Energien und Quantenzustände. Es lässt sich nicht *kopieren*, nur *verlagern*: Das Substrat wird am Ursprung entnommen und anderswo neu integriert — eine Kopie würde das Original zurücklassen, echter Transfer zerstört es. **Darum die Wiedergeburt als Säugling:** Ein fertiges, erwachsenes Gehirn ist bereits „besetzt" und inkompatibel; nur ein sich entwickelndes Nervensystem integriert das fremde Substrat von Grund auf. Das erklärt sein volles Bewusstsein ab der Geburt — und warum ein Baby zu sein für ihn eine eigene Form der Hölle wird. (Physikalische Begründung — No-Cloning, RZG als Kanal: [[Story Start#Bewusstseinstransfer — Warum der Protagonist sterben muss]].)
+
+> *Kritische Anmerkung:* Die Restfrage — *„Bin ich wirklich noch ich, oder bin ich auf der Erde gestorben und nur eine Kopie, die glaubt, ich zu sein?"* — ist nicht auflösbar, und das ist gewollt. Das System gibt die Autoren-Antwort (echte Kontinuität, kein Duplikat); der Protagonist als Naturwissenschaftler kann das nie *wissen*. Dieser Zweifel ist der Motor seiner Identitätskrise — nutze ihn, statt ihn aufzulösen.
+
+---
+
 ## Charaktereigenschaften
 
 **Stärken:**
@@ -93,7 +105,7 @@ Der Protagonist war auf der Erde männlich und Vater. Er wird auf Lumora als Eld
 
 **Umgang damit:**
 - Verarbeitung ist schwierig, aber er hat keine andere Wahl.
-- Findet eine praktische Seite: Kleider. Er fand schon auf der Erde schöne Kleider bei Frauen toll — jetzt kann er das selbst leben. Als Mann hat er sich nie getraut auffällige Kleidung zu tragen.
+- Findet eine praktische Seite: Kleider. Er fand schon auf der Erde schöne, bunte Frauenkleider toll und sah sie gern an. Er spielte sogar mit dem Gedanken, sich selbst etwas farbenfroher zu kleiden — nichts Extravagantes, nur etwas Hübsches, wie es heute viele Männer tun. Doch sobald er sich das als Mann vorstellte, kam er sich albern und unpassend vor und ließ es bleiben. Als Eldari-Frau kann er das endlich ausleben.
 - Bringt modische Innovationen in die Eldari-Gesellschaft: neue Farben, Kleiderschnitte, Stoffe.
 - Thematisiert aktiv Selbstfindung und Identität — sowohl für sich selbst als auch in Gesprächen mit anderen Figuren.
 
