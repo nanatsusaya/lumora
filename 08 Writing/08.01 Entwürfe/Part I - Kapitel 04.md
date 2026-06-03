@@ -1,6 +1,6 @@
 # Part I - Kapitel 04
 
-## Erster Entwurf
+## 1. Entwurf
 
 TODO
 ### Anmerkungen

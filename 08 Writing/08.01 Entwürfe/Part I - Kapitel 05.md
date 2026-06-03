@@ -1,6 +1,6 @@
 # Part I - Kapitel 05
 
-## Erster Entwurf
+## 1. Entwurf
 
 Der Weg zum Büro des Direktors kommt mir heute länger vor als sonst.
 
@@ -42,7 +42,7 @@ Ich hebe eine Augenbraue. „Und die wäre?“
 
 Ich nicke. „Wer ist der neue Kollege?“
 
-„Ein neuer Lehrer“, antwortet Hartmann knapp. „Er sitzt bereits draußen im Eingangsbereich.“
+„Ein neuer Lehrer“, antwortet #director  knapp. „Er sitzt bereits draußen im Eingangsbereich.“
 
 „Fachbereich?“
 
@@ -110,4 +110,124 @@ Gemeinsam beginnen wir unseren Rundgang durch die Schule.
 * „Vielversprechend“, wiederholt er und lächelt. „Ja. Das trifft es ganz gut.“ hier geht es um dem Subtext, dass der #rzg sowohl den Manga meint, als auch den #protagonist als vielversprechenden Problemlöser für das Lumoraproblem.
 * Der #protagonist ist Chemie und Physik Lehrer, sowie Vertretungslehrer für Mathematik und Biologie.
 * Der #rzg als Geschichts- und Geographielehrer könnte seien Schülern sicherlich viel erzählen...
-*  „Aber ich will keinen schlechten ersten Eindruck machen.“ hat ungewollt seitens des #protagonist hier auch die Doppeldeutung, dass er sich gegenüber eines neuen Kollegen gut präsentieren will und auf Ebene des #foreshadowing  dem #rzg präsentiert.
+*  „Aber ich will keinen schlechten ersten Eindruck machen.“ hat ungewollt seitens des #protagonist hier auch die Doppeldeutung, dass er sich gegenüber eines neuen Kollegen gut präsentieren will und auf Ebene des #foreshadowing  dem #rzg präsentier
+
+## 2. Entwurf
+
+Die Schule empfängt mich wie jeden Morgen: mit dem Geruch nach Bohnerwachs, kalter Heizungsluft und dem Lärm von dreihundert Jugendlichen, die alle gleichzeitig überzeugt sind, das Wichtigste des Tages müsse jetzt sofort besprochen werden.
+
+„Morgen, Herr #protagonist !"
+
+Eine Traube Zehntklässler schiebt sich an mir vorbei. Ich hebe die Hand. „Morgen. Denkt an die Abgabe am Freitag."
+
+Ein vielstimmiges Stöhnen, das ich großzügig als Zustimmung werte.
+
+Am schwarzen Brett bleibe ich kurz hängen. Über dem Aushang zum Schüleraustausch klebt ein Aufkleber, halb wieder abgekratzt — ein Spruch, den ich nicht zu Ende lese, weil jemand vor mir schon mit dem Fingernagel angefangen hat. Zwei Jungs daneben starren auf ein Handy, ein Video, das ich nicht sehe. „...ist doch wahr, das sagt meine Mutter auch—" Ich gehe weiter. Heute habe ich anderes im Kopf. Heute habe ich einen Termin zu retten.
+
+Im Treppenhaus kommt mir eine Kollegin entgegen, einen Stapel Klausuren auf dem Arm und Schatten unter den Augen, die tiefer sind als letzte Woche.
+
+„Falls jemand fragt", sagt sie im Vorbeigehen, „ich war nie hier."
+
+„Ich hab Sie nicht gesehen", sage ich. Sie ist schon um die Ecke.
+
+---
+
+Das Büro des Direktors riecht nach kaltem Kaffee und Formularen, die alle gleichzeitig beschlossen haben, sein Leben schwerer zu machen. #director hebt kaum den Blick.
+
+„Herr #protagonist . Was kann ich für Sie tun?"
+
+„Guten Morgen." Ich bleibe vor dem Schreibtisch stehen. „In drei Tagen haben meine Frau und ich nachmittags einen wichtigen Arzttermin. Ich wollte fragen, ob ich da früher gehen kann."
+
+Er sieht auf den Kalender, dann auf die Papierstapel, als läge irgendwo zwischen den Blättern eine bessere Antwort. „In drei Tagen. Nachmittags." Ein Seufzer. „Gut. Lässt sich einrichten." Pause. „Unter einer Bedingung."
+
+Natürlich.
+
+„Und die wäre?"
+
+„Sie führen heute den neuen Kollegen herum. Gebäude, Lehrerzimmer, Fachräume. Ich hätte es selbst gemacht, aber mir ist etwas dazwischengekommen, das keinen Aufschub duldet." Er greift schon nach dem nächsten Formular. „Seien Sie nett zu ihm. Wir brauchen gerade jeden, der nicht nach einer Woche wieder kündigt."
+
+„Das klingt beruhigend."
+
+„Sollte es auch." Ein trockener Blick. „Willkommen im Bildungswesen."
+
+Ich verkneife mir ein Grinsen und gehe.
+
+---
+
+Im Eingangsbereich sitzt er schon.
+
+Auf der schmalen Bank neben dem schwarzen Brett, die dunkle Tasche ordentlich daneben abgestellt — und irgendetwas an ihr lässt mich stocken, ohne dass ich sagen könnte, was. Als stünde sie dort nicht seit zehn Minuten, sondern seit Jahren.
+
+In seinen Händen keine Mappe, keine Unterlagen. Er liest einen Manga. Auf dem Cover hüpft ein kleines Mädchen mit dunkelblauen Haaren herum, ein Buch fest an die Brust gedrückt.
+
+Ich bleibe stehen und mustere ihn einen Moment. Neuer Kollege, erster Tag — und das Erste, was er tut, ist lesen, als gehörte ihm die Zeit. Der Satz ist heraus, bevor ich ihn zurückhalten kann.
+
+„Sind Sie dafür nicht ein bisschen zu alt?"
+
+So viel zum guten ersten Eindruck.
+
+Er klappt das Buch nicht zu. Er sieht erst auf, als hätte er die Frage von der ersten Silbe an kommen sehen und nur den Punkt abgewartet, an dem zu antworten höflich ist.
+
+„Mag sein", sagt er. „Aber ich bin nicht wählerisch, wenn es um gute Geschichten geht."
+
+Das ist nicht die Antwort, die ich erwartet habe. Und nicht ganz der Ton.
+
+Ich verschränke die Arme und werfe einen Blick aufs Cover. „Zugegeben, ich lese selbst ganz gern. Ist das eine gute?"
+
+Er hebt den Manga ein Stück an, als wäge er ihn in der Hand.
+
+„Ich bin noch nicht weit. Aber ich mag den Anfang."
+
+Er lächelt dabei nicht. Bei so einem Satz lächeln Menschen. Er nicht.
+
+„Also vielversprechend", sage ich.
+
+„Vielversprechend." Er lässt das Wort einen Moment stehen, als gefiele es ihm. „Ja. Das trifft es."
+
+Dann legt er den Kopf ein wenig schief. „Sie lesen selbst."
+
+„Wenn die Schule mich lässt."
+
+„Was."
+
+Ich zucke mit den Schultern. „Fantasy, meistens. Andere Welten, andere Regeln. Drachen, fremde Völker, Magie mit System, wenn ich Glück habe." Ich grinse. „Eskapismus mit Anspruch."
+
+Etwas in seinem Blick verschiebt sich. Nicht viel. So, wie sich ein Messwert verschiebt, wenn man die letzte Stelle hinter dem Komma endlich richtig abliest.
+
+„Andere Welten", wiederholt er. „Andere Regeln."
+
+„So ungefähr."
+
+„Das gefällt mir." Wieder kein Lächeln.
+
+Mir fällt ein, dass ich eigentlich nicht hier bin, um Lesetipps zu tauschen. Ich strecke ihm die Hand hin. „ #protagonist . Chemie und Physik."
+
+Er steht auf, legt den Manga beiseite und ergreift meine Hand. Sein Griff ist ruhig, fest — eine Spur zu kühl.
+
+„ #rzg-avatar . Geschichte und Geographie."
+
+„Geschichte und Geographie." Ich kann nicht anders. „Dann ist alles, was war und überall liegt, Ihr Revier."
+
+„Im Großen und Ganzen."
+
+Er sagt es so beiläufig, dass ich kurz nicht weiß, ob das ein Scherz war. Bei ihm, ahne ich, werde ich das öfter nicht wissen.
+
+„Gut, Herr #rzg-avatar ." Ich deute den Flur entlang. „Fangen wir mit dem Wichtigsten an. Lehrerzimmer, Kopierer, Fluchtwege. Und die Kaffeemaschine — eigentlich in umgekehrter Reihenfolge, aber ich will keinen schlechten ersten Eindruck machen."
+
+„Den haben Sie nicht gemacht."
+
+Er hebt die Tasche auf, und für einen Moment habe ich das alberne Gefühl, dass nicht ich ihm gleich die Schule zeige — sondern dass er sich längst alles angesehen hat, was es hier zu sehen gibt.
+
+Dann gehen wir los.
+
+### Anmerkungen (2. Entwurf)
+
+* **Ankunft als Übergang aus K3/K4.** Drei kurze Beats (Schüler, schwarzes Brett, Kollegin) bringen den Protagonisten in den Schulalltag und etablieren seinen Ruf als gemochter, lockerer Lehrer.
+* **Soziale Aufblitzer** (halb abgekratzter Aufkleber, Handy-Video, „...das sagt meine Mutter auch—"). Bewusst unkommentiert, blitzen auf und verschwinden — nach deinem K1-Prinzip. Pflanzt zugleich die Schwäche, die der RZG später testet: Der Protagonist *registriert* und *geht weiter*.
+* **Direktor gestrafft** (war ~die halbe Szene). „Hartmann" ist raus, durchgehend #director.
+* **Die Bewertung wird sichtbar.** Der RZG dreht den Manga-Smalltalk um („Sie lesen selbst." / „Was.") und prüft, ob der Protagonist das Konzept *fremder Welten* begreift. Der Protagonist liefert es ahnungslos: „Andere Welten, andere Regeln. Magie mit System." Der RZG misst — gezeigt im Naturwissenschaftler-Idiom des Protagonisten („wie ein Messwert, dessen letzte Stelle man endlich richtig abliest"). Das tiefere Gespräch hebe ich mir für K6 auf.
+* **Manga bleibt Vorschlaghammer.** „Aber ich mag den Anfang." unverändert. Kein Verleihen, kein Mehr.
+* **Risse statt Charme.** Die Tasche („seit Jahren"), das Timing („als hätte er die Frage kommen sehen"), der Händedruck („eine Spur zu kühl"), das beiläufige „Im Großen und Ganzen". Und das **Nicht-Lächeln zweimal** kurz und sichtbar: „Bei so einem Satz lächeln Menschen. Er nicht." / „Wieder kein Lächeln."
+* **Der Witz, der haarscharf an der Wahrheit vorbeischrammt:** „alles, was war und überall liegt" = Zeit und Raum. Niemand merkt es — beim Wiederlesen ein Faustschlag. Antwort des RZG: „Im Großen und Ganzen." (lustig-unlustig, und buchstäblich wahr).
+* **Interpunktionsregel gehalten:** Keine Replik des RZG enthält ein Frage- oder Ausrufezeichen; selbst Fragen sind Feststellungen.
+* **Schluss mit Schatten** statt „wir beginnen den Rundgang": das alberne, weggeschobene Gefühl, dass *er* längst alles gesehen hat. Aufhänger für K6.

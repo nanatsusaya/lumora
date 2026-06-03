@@ -1,6 +1,6 @@
 # Part I - Kapitel 01
 
-## Erster Entwurf
+## 1. Entwurf
 
 Tröt, tröt, tröt.
 
@@ -65,7 +65,7 @@ Hier einige Anmerkungen:
 * Die Frage, wonach das Essen duftet, wird der Protagonist am Ende der Gesamtstory erst wissen, wenn er zu seiner Frau zurück kommt. Dann wird er ihr es sagen.
 * „Ich werde den Arzttermin auf keinen Fall verpassen.“ -er wird den Termin ja sowas von verpassen!
 
-## Zweiter Entwurf
+## 2. Entwurf
 
 Tröt. Tröt. Tröt.
 
