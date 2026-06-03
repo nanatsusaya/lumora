@@ -196,3 +196,56 @@ Ich schnuppere über ihre Schulter hinweg. „Am Geruch krieg ich's nicht raus."
 * Diese Aussage, dass er nicht gerne angesehen werden möchte ist nicht ganz korrekt. Es stimmt er als Mann fühlt sich unwohl, wenn er zu auffällig gekleidet ist. Aber er mag die hübschen bunten Kleider von Frauen und sieht sich diese sehr gerne bei Frauen an. Und er kam auch schon auf den Gedanken, ob er sich nicht auch etwas auffälliger kleiden könne. Immerhin machen das ja heutzutage auch viele Männer. Nichts übertrieben extravagantes, sondern einfach etwas hübsches buntes. Aber im selben Moment stellt er sich selbst als Mann in bunterer Kleidung vor und fühlt sich albern und unpassend. Daher folgte er den Ideen nie.
 * Im Kontrast dazu könnte die Kleidung der Frau, auch mit Jogginganzug etwas besonderes, mutigeres und doch schlichtes sein.
 * Ich will das die "BREAKING NEWS" nicht weiter kommentiert werden. Die sollen dort wie ein kurzes Aufblitzen aufkommen und dann schon wieder vergessen sein. Solche Momente werden wir in den kommenden Kapiteln häufig und wiederholt haben. Soziale Probleme die angesprochen werden, dem Protagonist aber so heftig egal sind, dass nicht mehr als ein Aufblitzen am Rande seines Bewusstseins werden. Von Zeltständen der Obdachlosen, über einen Autosticker, auf dem eine als Baby verkleidete automatische Waffe mit den Worten "My Baby on board" oder weitere Nachrichten im Fernsehen und Radio. Das alles soll einfach kurz aufblitzen und dann in den Alltagsgedanken und -verhalten des Protagonisten sofort verschwinden.
+
+## 4. Entwurf 
+
+
+Tröt. Tröt. Tröt.
+
+Der Wecker kreischt, schrill und gnadenlos. Eine kräftige Hand fällt zielgenau darauf, und sofort kehrt wieder Stille ins Schlafzimmer ein.
+
+Ich drehe mich zurück zu meiner Frau. Ihre Haare duften nach Pfirsich. Ruhig und ein wenig verschlafen, so wie jeden Morgen, lege ich meine Hand auf die Rundung ihres Bauchs — vorsichtig, als könnte ich mit den Fingerspitzen hören, ob die beiden schon wach sind. Ihr Atem geht nicht ganz gleichmäßig.
+
+„Morgen, Liebling", murmele ich, die Augen noch geschlossen. „Bist du schon wach?"
+
+Ein tiefes, verdrossenes Grummeln kommt mir entgegen.
+
+„Mmmh … ich war heute Nacht **siebenmal** auf dem Klo."
+
+Siebenmal. Ich verkneife mir das Grinsen und, schwerer noch, den Kommentar, der mir auf der Zunge liegt.
+
+„Du Arme", sage ich stattdessen und ziehe sie ein Stück fester an mich, ein Kuss auf die Wange. „Bleib ruhig liegen. Ich mach Frühstück."
+
+Sie schiebt ihre Hand über meine, dort, wo sie auf dem Bauch ruht.
+
+„Nein, schon gut. Mach du dich fertig. Ich kann eh nicht mehr schlafen, so müde wie ich bin." Ein schwerer Seufzer entweicht ihr. „Wie soll das erst werden, wenn das Baby da ist?"
+
+„Wie wohl." Ich öffne die Augen und grinse sie frech an. „Die Hölle auf Erden."
+
+Ein empörtes Schnauben — doch bevor sie zurückschießen kann, habe ich mich schon aufgesetzt und schäle mich aus der kuschlig warmen Decke. Halb im Schlaf tappe ich ins Bad nebenan.
+
+Das Licht trifft mich wie ein Vorwurf, viel zu grell für diese Uhrzeit. Ich stütze mich mit beiden Händen aufs Waschbecken, lasse das Wasser laufen, kalt, und erst als ich mir eine Handvoll ins Gesicht klatsche, sehe ich richtig hin.
+
+Der Mann im Spiegel hat schon bessere Tage gehabt — aber er sieht aus wie einer, der angekommen ist. Ich fahre mir mit der Hand durch den Vollbart; er müsste an den Rändern getrimmt werden. Breite Schultern, ein Rücken, der das Tragen gewohnt ist. Dunkle Augen, im Moment müde, aber ruhig. Kein Gesicht, das man sich auf der Straße merkt — aber eines, dem die Leute, glaube ich, vertrauen. Und seit ein paar Monaten liegt etwas darin, das früher nicht da war. Etwas Weiches, das jedes Mal auftaucht, sobald ich an die beiden im Schlafzimmer denke.
+
+Eine Rasur, eine Dusche und eine dringend nötige Erleichterung später greife ich nach denselben Sachen wie immer — dunkel, schlicht, nichts, das auffällt. Ich war noch nie einer, der angesehen werden wollte. Frisch angezogen mache ich mich auf den Weg nach unten.
+
+In der Küche steht meine Frau bereits hinter der Theke. Ein Jogginganzug, bunt als hätte jemand mehrere Farben Eimer drauf geworfen, darüber die helle Schürze mit einer niedlichen rosa Katze, die sich über den großen, runden Bauch spannt, das helle Haar locker hochgesteckt — ein paar Strähnen haben sich gelöst und fallen ihr ins Gesicht. Müde sieht sie aus, erschöpft sogar, aber auf diese ruhige, schöne Art, die mich seit unseren ersten Tag immer wieder umhaut. In der Pfanne brutzeln Eier mit Speck.
+
+Auf dem stummen Fernseher daneben brennt ein Gebäude. Über das Bild läuft in großen Buchstaben:
+
+**BREAKING NEWS: FLÜCHTLINGSLAGER UNTER …**
+
+Ich hole den Orangensaft aus dem Kühlschrank und fülle zwei Gläser. Das eine trinke ich gleich leer, das andere stelle ich neben den Herd. Dann trete ich hinter sie, lege die Arme um sie — vorsichtig, des Bauchs wegen — und küsse ihre Wange. Pfirsich, jetzt vermischt mit Speck und Orangen. Und eine leichte neue Note von Kräutern.
+
+„Riecht gut", sage ich. „Hast du was anderes reingemacht?"
+
+„Jap." Ein kurzer Seitenblick. „Rate."
+
+Ich schnuppere über ihre Schulter hinweg. „Am Geruch krieg ich's nicht raus."
+
+„Dann vielleicht, wenn du's probierst." Sie rührt in der Pfanne und schiebt den Speck ein wenig zur Seite. „Du weißt noch, dass wir in drei Tagen nachmittags den Termin beim Arzt haben?"
+
+„Natürlich weiß ich das." Ich lasse sie los und lehne mich neben ihr an die Theke. „Ich hab heute Morgen schon mit dem Rektor einen Termin ausgemacht — ich kläre, wer den Nachmittag für mich übernimmt." Ich sehe sie an, ganz ernst jetzt. „Ich verpasse den Termin auf keinen Fall."
+
+### Anmerkungen

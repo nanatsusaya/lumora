@@ -110,19 +110,25 @@ Gemeinsam beginnen wir unseren Rundgang durch die Schule.
 * „Vielversprechend“, wiederholt er und lächelt. „Ja. Das trifft es ganz gut.“ hier geht es um dem Subtext, dass der #rzg sowohl den Manga meint, als auch den #protagonist als vielversprechenden Problemlöser für das Lumoraproblem.
 * Der #protagonist ist Chemie und Physik Lehrer, sowie Vertretungslehrer für Mathematik und Biologie.
 * Der #rzg als Geschichts- und Geographielehrer könnte seien Schülern sicherlich viel erzählen...
-*  „Aber ich will keinen schlechten ersten Eindruck machen.“ hat ungewollt seitens des #protagonist hier auch die Doppeldeutung, dass er sich gegenüber eines neuen Kollegen gut präsentieren will und auf Ebene des #foreshadowing  dem #rzg präsentier
+*  „Aber ich will keinen schlechten ersten Eindruck machen.“ hat ungewollt seitens des #protagonist hier auch die Doppeldeutung, dass er sich gegenüber eines neuen Kollegen gut präsentieren will und auf Ebene des #foreshadowing  dem #rzg präsentiert.
 
 ## 2. Entwurf
 
 Die Schule empfängt mich wie jeden Morgen: mit dem Geruch nach Bohnerwachs, kalter Heizungsluft und dem Lärm von dreihundert Jugendlichen, die alle gleichzeitig überzeugt sind, das Wichtigste des Tages müsse jetzt sofort besprochen werden.
 
+> ich finde eine schule zeichnet sich mehr durch die Geräusche als durch ihre Gerüche aus. Das sollten wir umschreiben.
+
 „Morgen, Herr #protagonist !"
 
 Eine Traube Zehntklässler schiebt sich an mir vorbei. Ich hebe die Hand. „Morgen. Denkt an die Abgabe am Freitag."
 
+> ich denke das sollte witziger und ironischer gemeint sein klingen, sowas wie "Ich freue mich schon auf Eure XY-Aufsätze die ihr bis Freitag abgeben wollt." Und alle Schüler stöhnen.
+
 Ein vielstimmiges Stöhnen, das ich großzügig als Zustimmung werte.
 
 Am schwarzen Brett bleibe ich kurz hängen. Über dem Aushang zum Schüleraustausch klebt ein Aufkleber, halb wieder abgekratzt — ein Spruch, den ich nicht zu Ende lese, weil jemand vor mir schon mit dem Fingernagel angefangen hat. Zwei Jungs daneben starren auf ein Handy, ein Video, das ich nicht sehe. „...ist doch wahr, das sagt meine Mutter auch—" Ich gehe weiter. Heute habe ich anderes im Kopf. Heute habe ich einen Termin zu retten.
+
+> Hier sollten die Schüler eher wieder was gesellschaftlich zweifelhaftes am handy anschauen, eine rechte parole oder sowas.
 
 Im Treppenhaus kommt mir eine Kollegin entgegen, einen Stapel Klausuren auf dem Arm und Schatten unter den Augen, die tiefer sind als letzte Woche.
 
@@ -137,6 +143,8 @@ Das Büro des Direktors riecht nach kaltem Kaffee und Formularen, die alle gleic
 „Herr #protagonist . Was kann ich für Sie tun?"
 
 „Guten Morgen." Ich bleibe vor dem Schreibtisch stehen. „In drei Tagen haben meine Frau und ich nachmittags einen wichtigen Arzttermin. Ich wollte fragen, ob ich da früher gehen kann."
+
+> !meine schwangere Frau"! er betont das gerne
 
 Er sieht auf den Kalender, dann auf die Papierstapel, als läge irgendwo zwischen den Blättern eine bessere Antwort. „In drei Tagen. Nachmittags." Ein Seufzer. „Gut. Lässt sich einrichten." Pause. „Unter einer Bedingung."
 
@@ -158,6 +166,8 @@ Im Eingangsbereich sitzt er schon.
 
 Auf der schmalen Bank neben dem schwarzen Brett, die dunkle Tasche ordentlich daneben abgestellt — und irgendetwas an ihr lässt mich stocken, ohne dass ich sagen könnte, was. Als stünde sie dort nicht seit zehn Minuten, sondern seit Jahren.
 
+> Zu direkt, sollte subtiler sein.
+
 In seinen Händen keine Mappe, keine Unterlagen. Er liest einen Manga. Auf dem Cover hüpft ein kleines Mädchen mit dunkelblauen Haaren herum, ein Buch fest an die Brust gedrückt.
 
 Ich bleibe stehen und mustere ihn einen Moment. Neuer Kollege, erster Tag — und das Erste, was er tut, ist lesen, als gehörte ihm die Zeit. Der Satz ist heraus, bevor ich ihn zurückhalten kann.
@@ -167,6 +177,8 @@ Ich bleibe stehen und mustere ihn einen Moment. Neuer Kollege, erster Tag — un
 So viel zum guten ersten Eindruck.
 
 Er klappt das Buch nicht zu. Er sieht erst auf, als hätte er die Frage von der ersten Silbe an kommen sehen und nur den Punkt abgewartet, an dem zu antworten höflich ist.
+
+> Komischer Satzbau
 
 „Mag sein", sagt er. „Aber ich bin nicht wählerisch, wenn es um gute Geschichten geht."
 
@@ -180,6 +192,8 @@ Er hebt den Manga ein Stück an, als wäge er ihn in der Hand.
 
 Er lächelt dabei nicht. Bei so einem Satz lächeln Menschen. Er nicht.
 
+> Irgendwie seltsam aufdringlich dieser Satz, passt nicht zum stiel. Sollt vllt eher sowas sein wie "Ich glaube ein Funke Belustigung zu hören."
+
 „Also vielversprechend", sage ich.
 
 „Vielversprechend." Er lässt das Wort einen Moment stehen, als gefiele es ihm. „Ja. Das trifft es."
@@ -188,13 +202,20 @@ Dann legt er den Kopf ein wenig schief. „Sie lesen selbst."
 
 „Wenn die Schule mich lässt."
 
+> "Wenn die Zeit es zulässt" Das muss hier einfach sein!
+
 „Was."
 
 Ich zucke mit den Schultern. „Fantasy, meistens. Andere Welten, andere Regeln. Drachen, fremde Völker, Magie mit System, wenn ich Glück habe." Ich grinse. „Eskapismus mit Anspruch."
 
+> Ein wenig zu tief gehend. Er sollte eher die vereinfachte "Fantasy und Science Fiction" Antwort mit nem Leichten kommentar abgeben. Sowas wie "Solange es spannend und anders ist."
+
 Etwas in seinem Blick verschiebt sich. Nicht viel. So, wie sich ein Messwert verschiebt, wenn man die letzte Stelle hinter dem Komma endlich richtig abliest.
 
 „Andere Welten", wiederholt er. „Andere Regeln."
+
+> Zu aufdringlich, der RZG muss nicht nachhacken. Es passt eher wenn P. sagt  "Fantasy und Science Fiction, sowas in die Richtung, solange es natürlich spannend und anders ist." .. "Fantastische Geschichten aus fernen Ländern und fremden Welten." .. „So ungefähr." .. „Das gefällt mir."
+> und hier glaube ich es wäre besser, wenn wir nicht auf das fehlende lächeln hinweisen, sondern statt dessen eher beschreiben was er tatsächlich für ein Gesicht macht. Sowas wie „Das gefällt mir." kommentiert er es mit ruhiger Miene.
 
 „So ungefähr."
 
@@ -218,16 +239,232 @@ Er sagt es so beiläufig, dass ich kurz nicht weiß, ob das ein Scherz war. Bei 
 
 Er hebt die Tasche auf, und für einen Moment habe ich das alberne Gefühl, dass nicht ich ihm gleich die Schule zeige — sondern dass er sich längst alles angesehen hat, was es hier zu sehen gibt.
 
+> Finde ich wieder zu aufdringlich. Eventuell sollten wir hier eine Formulierung/Beschreibung verwenden, die den Leser stuzig macht, aber in den kommenden Kapitel mit den vermeintlichen Zaubertricks erstmal zu verwechseln ist. Quasi ein foreshadowing auf die Zaubertricks.
+
 Dann gehen wir los.
 
 ### Anmerkungen (2. Entwurf)
 
 * **Ankunft als Übergang aus K3/K4.** Drei kurze Beats (Schüler, schwarzes Brett, Kollegin) bringen den Protagonisten in den Schulalltag und etablieren seinen Ruf als gemochter, lockerer Lehrer.
-* **Soziale Aufblitzer** (halb abgekratzter Aufkleber, Handy-Video, „...das sagt meine Mutter auch—"). Bewusst unkommentiert, blitzen auf und verschwinden — nach deinem K1-Prinzip. Pflanzt zugleich die Schwäche, die der RZG später testet: Der Protagonist *registriert* und *geht weiter*.
-* **Direktor gestrafft** (war ~die halbe Szene). „Hartmann" ist raus, durchgehend #director.
-* **Die Bewertung wird sichtbar.** Der RZG dreht den Manga-Smalltalk um („Sie lesen selbst." / „Was.") und prüft, ob der Protagonist das Konzept *fremder Welten* begreift. Der Protagonist liefert es ahnungslos: „Andere Welten, andere Regeln. Magie mit System." Der RZG misst — gezeigt im Naturwissenschaftler-Idiom des Protagonisten („wie ein Messwert, dessen letzte Stelle man endlich richtig abliest"). Das tiefere Gespräch hebe ich mir für K6 auf.
-* **Manga bleibt Vorschlaghammer.** „Aber ich mag den Anfang." unverändert. Kein Verleihen, kein Mehr.
-* **Risse statt Charme.** Die Tasche („seit Jahren"), das Timing („als hätte er die Frage kommen sehen"), der Händedruck („eine Spur zu kühl"), das beiläufige „Im Großen und Ganzen". Und das **Nicht-Lächeln zweimal** kurz und sichtbar: „Bei so einem Satz lächeln Menschen. Er nicht." / „Wieder kein Lächeln."
-* **Der Witz, der haarscharf an der Wahrheit vorbeischrammt:** „alles, was war und überall liegt" = Zeit und Raum. Niemand merkt es — beim Wiederlesen ein Faustschlag. Antwort des RZG: „Im Großen und Ganzen." (lustig-unlustig, und buchstäblich wahr).
-* **Interpunktionsregel gehalten:** Keine Replik des RZG enthält ein Frage- oder Ausrufezeichen; selbst Fragen sind Feststellungen.
-* **Schluss mit Schatten** statt „wir beginnen den Rundgang": das alberne, weggeschobene Gefühl, dass *er* längst alles gesehen hat. Aufhänger für K6.
+* **Soziale Aufblitzer** (halb abgekratzter Aufkleber, Handy-Video, „...das sagt meine Mutter
+
+## 3. Entwurf
+
+Die Schule empfängt mich wie jeden Morgen mit Lärm. Dreihundert Stimmen, schlagende Spindtüren, das Quietschen von Sohlen auf dem Boden. Und über allem dieser eine Geruch, den es so nur in Schulen gibt: Kreide, altes Holz und zu viele junge Menschen auf zu wenig Raum.
+
+> Die Eldari lehren in entweder Einzelunterricht, oder in kleinen Gruppen in ihren Baumhäusern. Sie verwenden Schiefertafeln und Kreide. Nur haben die Eldari selbst deutlich weniger eigen Geruch. Dieser Geruchsvergleich passt irgendwie, aber irgendwie habe ich noch das Gefühl, dass er nicht 100pro passt. Es fehlt etwas, ich kann aber noch nicht sagen was.
+
+„Morgen, Herr #protagonist !"
+
+Eine Traube Zehntklässler schiebt sich an mir vorbei.
+
+„Morgen", rufe ich zurück. „Und denkt dran —" ich lasse sie eine Sekunde zappeln — „ich freu mich jetzt schon wie ein Schneekönig auf eure Protokolle am Freitag."
+
+> Eventuell sollten wir hier eine echte Aufgabe beschreiben und nicht irgendwas theoretisches. Eine Arbeit über Zellstrukturen, oder eben irgendwas, was passend in der 10. Klasse ist und aus dem Bereich Chemie/Physik kommt. Das zeigt, das er ein Tatsächlicher Lehrer mit Wissen ist!
+
+Das Stöhnen kommt vielstimmig und von Herzen. Genau darauf hatte ich gehofft.
+
+Auf dem Weg zur Treppe halten zwei Jungs ein Handy zwischen sich. Der Mann auf dem Display brüllt: „...die Regierung soll endlich ihren Arsch bewegen, wenn das so weitergeht, werden—" Ich gehe weiter.
+
+> "Ich gehe weiter." impliziert, dass er es gehört hat und aktiv ignoriert. Es muss noch subtiler sein. Er ist von all diesem sozialen Problemen so genervt, dass er diese gar nicht erst bemerkt. Er hört es aber registriert es nicht einmal. Nur der Leser bemerkt dass es schon wieder ignoriert wurde. Darüber hinaus finde ich die Aussage etwas zu plump. Es kann ruhig spezifischer, Aggressiver sein. Vorher hatten wir ein brennendes Flüchtlingsheim und nun nur jemand der laut Meckert? Das skaliert nicht.
+
+Im Treppenhaus kommt mir eine Kollegin entgegen, einen Stapel Klausuren auf dem Arm und Schatten unter den Augen, die tiefer sind als letzte Woche.
+
+„Falls jemand fragt", sagt sie im Vorbeigehen, „ich war nie hier."
+
+„Ich hab Sie nicht gesehen", sage ich. Sie ist schon um die Ecke.
+
+> "Ich hab Sie nicht gesehen" sollte besser zu "Ich hab nichts gesehen" umgeändert werden. Das macht seine Apathie bildlicher, ohne dass es wirkt als würde er diese ansprechen oder bemerken.
+
+---
+
+Das Büro des Direktors riecht nach kaltem Kaffee und Formularen, die alle gleichzeitig beschlossen haben, sein Leben schwerer zu machen. #director hebt kaum den Blick.
+
+„Herr #protagonist . Was kann ich für Sie tun?"
+
+„Guten Morgen." Ich bleibe vor dem Schreibtisch stehen. „In drei Tagen haben meine schwangere Frau und ich nachmittags einen wichtigen Arzttermin. Ich wollte fragen, ob ich da früher gehen kann."
+
+Er sieht auf den Kalender, dann auf die Papierstapel, als läge irgendwo zwischen den Blättern eine bessere Antwort. „In drei Tagen. Nachmittags." Ein Seufzer. „Gut. Lässt sich einrichten." Pause. „Unter einer Bedingung."
+
+> "Pause." Das kurze Wort passt nicht zur Beschreibung des Direktors. Solch kurze Beschreibungen passen eher bei anderen Figuren. Hier können durchaus in einem Halbsatz gesagt werden, und angesprochen werden, dass der Direktor kurz nachdenkt.
+
+Natürlich.
+
+„Und die wäre?"
+
+„Sie führen heute den neuen Kollegen herum. Gebäude, Lehrerzimmer, Fachräume. Ich hätte es selbst gemacht, aber mir ist etwas dazwischengekommen, das keinen Aufschub duldet." Er greift schon nach dem nächsten Formular. „Seien Sie nett zu ihm. Wir brauchen gerade jeden, der nicht nach einer Woche wieder kündigt."
+
+> "aber mir ist etwas dazwischengekommen" würde ich spezifischer machen. Ein klares Alltagsproblem. Krankheitsfälle, Ausfälle von Lehrern, unangekündigter Besuch einer Behörde mit Prüfung, nichts all zu ernstes. Irgendwas typisches was eine normale und alltägliche Szene aus dem Leben eines Lehrers mit seinem Direktor beschreibt. Vielleicht eine Prüfung der neuen Sporthalle oder sowas. Der Behördenbesuch würde die „Willkommen im Bildungswesen." Aussage auch verstärken.
+
+„Das klingt beruhigend."
+
+„Sollte es auch." Ein trockener Blick. „Willkommen im Bildungswesen."
+
+Ich verkneife mir ein Grinsen und gehe.
+
+---
+
+Im Eingangsbereich sitzt er schon. Auf der schmalen Bank neben dem schwarzen Brett, die dunkle Tasche ordentlich daneben abgestellt, als würde sie schon seit Jahren dort warten.
+
+In seinen Händen keine Mappe, keine Unterlagen. Er liest einen Manga. Auf dem Cover hüpft ein kleines Mädchen mit dunkelblauen Haaren herum, ein Buch fest an die Brust gedrückt.
+
+> Die Schreibweise aus dem 1. Entwurf, indem "Er liest einen Manga." ein eigener Abschnitt ist finde ich stilistisch besser. Es gibt der Aussage mehr Bedeutung. Und - vergleichbar zu dem oben stehenden `Natürlich.` oder dem unten stehenden  `So viel zum guten ersten Eindruck.` - schwingt auch ein leichtes entsetzten bzw. überraschendes mit.
+
+Ich bleibe stehen und mustere ihn einen Moment. Neuer Kollege, erster Tag — und das Erste, was er tut, ist lesen, als gehörte ihm die Zeit. Der Satz ist heraus, bevor ich ihn zurückhalten kann.
+
+„Sind Sie dafür nicht ein bisschen zu alt?"
+
+So viel zum guten ersten Eindruck.
+
+Er klappt das Buch nicht zu. Er sieht erst auf, als die Frage zu Ende ist — keinen Moment früher, als hätte er gewusst, dass sie kommt.
+
+„Mag sein", sagt er. „Aber ich bin nicht wählerisch, wenn es um gute Geschichten geht."
+
+Ich verschränke die Arme, werfe trotzdem einen Blick aufs Cover. „Und? Ist sie gut?"
+
+Er hebt den Manga ein Stück an, als wäge er ihn in der Hand.
+
+„Ich bin noch nicht weit. Aber ich mag den Anfang."
+
+In seiner Stimme glaube ich einen Funken Belustigung zu hören. In seinem Gesicht finde ich ihn nicht.
+
+Dann legt er den Kopf ein wenig schief. „Sie lesen selbst."
+
+„Wenn die Zeit es zulässt."
+
+„Was lesen Sie."
+
+Kein Vorwurf, kein Spott — nur ein bisschen Smalltalk, um meinen patzigen Einstieg zu glätten. Nett von ihm, denke ich, und mache bereitwillig mit.
+
+„Fantasy, Science-Fiction, sowas in die Richtung. Solange es spannend ist und anders." Ich rede weiter, obwohl die Frage längst beantwortet ist. „Zwischen zwei Buchdeckeln war ich schon in einem Dutzend Welten. Fremde Regeln, fremde Völker — und am Ende geht die Rechnung trotzdem auf. Das hat was Tröstliches, finde ich."
+
+„Fantastische Geschichten aus fernen Ländern und fremden Welten."
+
+„So hätte ich's jetzt nicht gesagt, aber ja."
+
+> „So hätte ich's jetzt nicht gesagt, aber ja." Wie bitte? Er hat fast exakt das selbe eben gesagt. Ich glaube das Problem ist das gerede von #protagonist „Fremde Regeln, fremde Völker — und am Ende geht die Rechnung trotzdem auf. Das hat was Tröstliches, finde ich." Es ist gut das er redet, aber der Inhalt sollte anders sein. Über was bin ich mir selbst noch nicht sicher.
+
+„Das gefällt mir." Er sagt es mit ruhiger Miene.
+
+Mir fällt ein, dass ich eigentlich nicht hier bin, um Lesetipps zu tauschen. Ich strecke ihm die Hand hin. „ #protagonist . Chemie und Physik."
+
+Er steht auf, legt den Manga beiseite und ergreift meine Hand. Sein Griff ist ruhig, fest — eine Spur zu kühl.
+
+„ #rzg-avatar . Geschichte und Geographie."
+
+„Geschichte und Geographie." Ich kann nicht anders. „Dann gehört Ihnen alles, was mal war und irgendwo liegt."
+
+„Im Großen und Ganzen."
+
+Er sagt es so beiläufig, dass ich kurz nicht weiß, ob das ein Scherz war. Bei ihm, ahne ich, werde ich das öfter nicht wissen.
+
+„Gut, Herr #rzg-avatar ." Ich deute den Flur entlang. „Fangen wir mit dem Wichtigsten an. Lehrerzimmer, Kop
+
+## 4. Entwurf
+
+Die Schule empfängt mich wie jeden Morgen mit Lärm. Dreihundert Stimmen, schlagende Spindtüren, das Quietschen von Sohlen auf dem Boden. Und über allem dieser eine Geruch, den es so nur in Schulen gibt: Kreide, altes Holz und die warme, verbrauchte Luft eines Raums voller junger Köpfe.
+
+„Morgen, Herr #protagonist !"
+
+Eine Traube Zehntklässler schiebt sich an mir vorbei.
+
+„Morgen", rufe ich zurück. „Und denkt dran —" ich lasse sie eine Sekunde zappeln — „auf eure Zerfallsgleichungen freu ich mich jetzt schon wie ein Schneekönig. Und vergesst mir die Gammastrahlung nicht."
+
+Das Stöhnen kommt vielstimmig und von Herzen. Genau darauf hatte ich gehofft.
+
+Auf dem Weg zur Treppe halten zwei Jungs ein Handy zwischen sich, der Ton voll aufgedreht. „...lange genug zugesehen, wie die uns alles wegnehmen — irgendwann muss man sie eben—" Normalerweise müsste der #director um diese Zeit in seinem Büro sein. Er wird den Termin doch hoffentlich durchgehen lassen?
+
+Im Treppenhaus kommt mir eine Kollegin entgegen, einen Stapel Klausuren auf dem Arm und Schatten unter den Augen, die tiefer sind als letzte Woche.
+
+„Falls jemand fragt", sagt sie im Vorbeigehen, „ich war nie hier."
+
+„Ich hab nichts gesehen", sage ich. Sie ist schon um die Ecke.
+
+---
+
+Das Büro des Direktors riecht nach kaltem Kaffee und Formularen, die alle gleichzeitig beschlossen haben, sein Leben schwerer zu machen. #director hebt kaum den Blick.
+
+„Herr #protagonist . Was kann ich für Sie tun?"
+
+„Guten Morgen." Ich bleibe vor dem Schreibtisch stehen. „In drei Tagen haben meine schwangere Frau und ich nachmittags einen wichtigen Arzttermin. Ich wollte fragen, ob ich da früher gehen kann."
+
+Er sieht auf den Kalender, dann auf die Papierstapel, als läge irgendwo zwischen den Blättern eine bessere Antwort. „In drei Tagen. Nachmittags." Ein Seufzer. „Gut. Lässt sich einrichten." Er kaut einen Moment auf dem Gedanken herum. „Unter einer Bedingung."
+
+Natürlich.
+
+„Und die wäre?"
+
+„Sie führen heute den neuen Kollegen herum. Gebäude, Lehrerzimmer, Fachräume. Ich hätte es selbst gemacht, aber die Schulaufsicht steht seit einer halben Stunde unangekündigt im Haus und will die neue Sporthalle sehen." Er greift schon nach dem nächsten Formular. „Seien Sie nett zu ihm. Wir brauchen gerade jeden, der nicht nach einer Woche wieder kündigt."
+
+„Das klingt beruhigend."
+
+„Sollte es auch." Ein trockener Blick. „Willkommen im Bildungswesen."
+
+Ich verkneife mir ein Grinsen und gehe.
+
+---
+
+Im Eingangsbereich sitzt er schon. Auf der schmalen Bank neben dem schwarzen Brett, die dunkle Tasche ordentlich daneben abgestellt, als würde sie schon seit Jahren dort warten.
+
+In seinen Händen keine Mappe, keine Unterlagen.
+
+Er liest einen Manga.
+
+Auf dem Cover hüpft ein kleines Mädchen mit dunkelblauen Haaren herum, ein Buch fest an die Brust gedrückt.
+
+Ich bleibe stehen und mustere ihn einen Moment. Neuer Kollege, erster Tag — und das Erste, was er tut, ist lesen, als gehörte ihm die Zeit. Der Satz ist heraus, bevor ich ihn zurückhalten kann.
+
+„Sind Sie dafür nicht ein bisschen zu alt?"
+
+So viel zum guten ersten Eindruck.
+
+Er klappt das Buch nicht zu. Er sieht erst auf, als die Frage zu Ende ist — keinen Moment früher, als hätte er gewusst, dass sie kommt.
+
+„Mag sein", sagt er. „Aber ich bin nicht wählerisch, wenn es um gute Geschichten geht."
+
+Ich verschränke die Arme, werfe trotzdem einen Blick aufs Cover. „Und? Ist sie gut?"
+
+Er hebt den Manga ein Stück an, als wäge er ihn in der Hand.
+
+„Ich bin noch nicht weit. Aber ich mag den Anfang."
+
+In seiner Stimme glaube ich einen Funken Belustigung zu hören. In seinem Gesicht finde ich ihn nicht.
+
+Dann legt er den Kopf ein wenig schief. „Sie lesen selbst."
+
+„Wenn die Zeit es zulässt."
+
+„Was lesen Sie."
+
+Kein Vorwurf, kein Spott — nur ein bisschen Smalltalk, um meinen patzigen Einstieg zu glätten. Nett von ihm, denke ich, und mache bereitwillig mit.
+
+„Fantasy, Science-Fiction, das Übliche." Ich rede weiter, obwohl die Frage längst beantwortet ist. „Ehrlich gesagt ist mir das Etikett egal. Hauptsache, es holt mich für ein paar Stunden hier raus. Irgendwohin, wo die Dinge am Ende noch aufgehen."
+
+„Fantastische Geschichten aus fernen Ländern und fremden Welten."
+
+„So hätte ich's jetzt nicht gesagt, aber ja."
+
+„Das gefällt mir." Er sagt es mit ruhiger Miene.
+
+Mir fällt ein, dass ich eigentlich nicht hier bin, um Lesetipps zu tauschen. Ich strecke ihm die Hand hin. „ #protagonist . Chemie und Physik."
+
+Er steht auf, lässt den Manga in die Tasche gleiten und ergreift meine Hand. Sein Griff ist ruhig, fest — eine Spur zu kühl.
+
+„ #rzg-avatar . Geschichte und Geographie."
+
+„Geschichte und Geographie." Ich kann nicht anders. „Dann gehört Ihnen alles, was mal war und irgendwo liegt."
+
+„Im Großen und Ganzen."
+
+Er sagt es so beiläufig, dass ich kurz nicht weiß, ob das ein Scherz war. Bei ihm, ahne ich, werde ich das öfter nicht wissen.
+
+„Gut, Herr #rzg-avatar ." Ich deute den Flur entlang. „Fangen wir mit dem Wichtigsten an. Lehrerzimmer, Kopierer, Fluchtwege. Und die Kaffeemaschine — eigentlich in umgekehrter Reihenfolge, aber ich will keinen schlechten ersten Eindruck machen."
+
+„Den haben Sie nicht gemacht."
+
+Er nimmt seine Tasche. Dann gehen wir los.
+
+### Anmerkungen (4. Entwurf)
+
+* Alle Punkte der letzten Durchsicht eingearbeitet: Geruch auf Holz/Kreide umgewichtet (1), echte 10.-Klasse-Aufgabe mit Zwinkern (2), Hetze perlt ab, Kopf schon beim Termin (3), „Ich hab nichts gesehen." (4), Direktor-Pause als Halbsatz statt Einwort (5), konkrete Schulaufsicht/Sporthalle (6), „Er liest einen Manga." als eigener Absatz (7), verschwindender Manga gestrichen + Kontinuität geglättet: er lässt ihn beim Aufstehen in die Tasche gleiten (9).
+* **Offen, zum Besprechen (8):** „Irgendwohin, wo die Dinge am Ende noch aufgehen." — bewusst unverändert gelassen, das ist der thematische Kern. Dazu separat.
