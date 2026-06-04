@@ -56,6 +56,8 @@ Er überwindet die regionale N-Kraft-Schwäche nicht durch eine Ausnahme vom Sys
 
 ---
 
+## Der Ursprung der meisten kulturschaffenden Spezies
+
 Vor einer halben Milliarden Jahre hatte ein Gott keine Geduld mehr, langsam aber sicher auf Lumora alles zu entwickeln. Er wollte Ergebnisse sehen. Aber er durfte ja nichts schnell anpassen. Also dachte er, er wäre schlau, indem er eine kleine Gruppe an humanoiden intelligenten Lebewesen, nach Lumora bringt. Er wollte die Gruppe ausbauen und daraus sein eigenes Volk züchten.
 Doch das erzürnte den Ursprungsgott. Dieser betrachtete das als eingreifen auf viel zu invasiver Art. Er bestrafte den Gott, indem er ihm aus dem Sonnensystem ausgeschlossen hatte.
 Die eingeführten Lebewesen, ohne Hilfe ihres Gottes, sind in kürzester Zeit gestorben.
@@ -79,3 +81,11 @@ Das im übrigen die Eldari Göttin für ihre Arbeit nicht bestraft wurde, liegt 
 Kein Gott wurde je dafür bestraft, dass er sein von außen mitgebrachtes Wissen einführte!
 
 Und hier kommt nun der #rzg ins Spiel. Dieser bringt kein anderes Lebewesen aus einer Fremden Welt nach Lumora. Seine Transplantation des Protagonisten ist im Prinzip nur eingeführtes Wissen. Der Protagonist ist mit seiner Wiedergeburt ein echter lebender Bewohner Lumoras, mit Siegel und Stempel abgenommen.
+
+---
+
+## Der Protagonist hat bereits einen Partner
+
+Bei den Waldelfen steht explizit dabei, dass sie nur einen Partner im Leben wählen. Das ist so eine Resonanzverbindungssache. Wir könnten definieren, dass der Protagonist, selbst als erwachsene Eldarifrau, so eine Beziehung nie eingehen kann, da sie mit ihrer Ehefrau aus dem letzten Leben bereits so eine Bindung eingegangen ist.
+Sowas könnte sie zufällig herausfinden, weil sich ihr jemand aufdringen will und sie gewaltätig zu der seinen machen will. Dabei stoßt das Resonanzfeld des Protagonisten den fremden ab, da das Feld bereits einen Partner hat. Das könnte eine zutiefst psychologische Ursache bei dem Protagonisten haben.
+Im Übrigen hört sich das nach einem spannenden Story Ark an mit einer überraschenden Wende.
