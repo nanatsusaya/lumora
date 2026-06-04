@@ -55,6 +55,8 @@ Ursprünglich ein zweiter habitabler Planet in der habitablen Zone. Durch die Ga
 
 Das fluoreszierende Material ist kein gewöhnlicher Staub: Es ist ein myzeliales Netzwerk, das einst Teil des lebenden Planeten Soluthar war. Es leuchtet bis heute — wie ein Geist, der nicht vergehen will.
 
+Das gesamte heute auf [[#Orthyros — der Gasriese|Orthyros]] vorkommende Myzel stammt ursprünglich von Soluthar. Lumoras eigene Biosphäre hat dagegen **nichts** von Soluthar geerbt: Alles Leben auf Lumora geht einlinig auf die Lumora-eigenen Einzeller nach der [[02.05 Geschichte#Die Gasriesenkatastrophe|Gasriesenkatastrophe]] zurück.
+
 > *Kreative Anmerkung:* Das Myzel-Netzwerk Soluthars ist eines der stärksten poetischen Bilder im Sonnensystem. Eine zerstörte Welt, die noch immer leuchtet. Das schreit nach kultureller Bedeutung: Trauer, Erinnerung, Warnung. Welche Kulturen blicken zu Orthyros und sehen Soluthar? Was bedeutet er ihnen?
 
 ### Orthyros — der Gasriese
@@ -102,16 +104,6 @@ Dunkler, kalter Planet mit träge rotierender Umlaufbahn. Komplexe Zusammensetzu
 ### Asteroidengürtel
 
 Umgibt das äußere System. Schickt gelegentlich kleinere Brocken Richtung inneres System. Kulturell als Omen oder Warnung gedeutet — je nach Volk unterschiedlich.
-
----
-
-## Entstehungsgeschichte
-
-TODO
-
-### Unterschied zum Sol System
-
-TODO
 
 ---
 
