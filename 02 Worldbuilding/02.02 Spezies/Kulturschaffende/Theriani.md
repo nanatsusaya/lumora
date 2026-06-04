@@ -3,6 +3,7 @@ tags:
   - wip
   - "#theriani"
   - working-title
+  - species
 ---
 # Theriani
 
@@ -21,3 +22,7 @@ TODO: Theriani sind mit ~600 Millionen die zweitgrößte Bevölkerungsgruppe Lum
 Das macht sie zu einem politisch relevanten Faktor. Gibt es ein Theriani-Reich?
 Gibt es Theriani-Städte oder sind sie nomadisch? Wie koexistieren sie mit Menschen?
 ```
+
+## Fortpflanzungsfähigkeit
+
+Die Theriani sind die einzige Spezies, bei der die verschiedenen Unterarten (Wolfsmenschen, Fischmenschen, Katzenmenschen usw.) sich untereinander fortpflanzen können. Dabei entstehen jedoch keine Mischlinge: Ein Wurf kann mehrere Junge mit jeweils den vollen Merkmalen einer Elternunterart hervorbringen — also z.B. Katzen- und Hundetypen im selben Wurf — aber keine biologische Verschmelzung beider.
