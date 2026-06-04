@@ -25,6 +25,15 @@ Dagegen behandeln für die verschiedene Spezien hier nicht:
 - Religiöse Überzeugungen → [[02.04 Religion & Götter]]
 - Geschichte der Völker → [[02.05 Geschichte]]
 
+```
+TODO: Idee — eines der kulturschaffenden Völker ist das „verpfuschte" Geschöpf eines Gottes.
+Eine Spezies, deren Linie ursprünglich ein Gott zielgerichtet formte, bis ein rivalisierender
+Gott sie durch freches Genflipping in eine völlig andere Richtung lenkte — ein Volk, das so
+von keinem Gott geplant war, mit entsprechend eigenwilligen Eigenheiten.
+Offen: Welches Volk? Welche zwei Götter? (Die Mechanik des göttlichen Stellvertreterkriegs um
+Linien ist noch in [[02.05 Geschichte]] / [[02.04 Religion & Götter]] nachzutragen.)
+```
+
 ---
 
 ## Nichtintelligente Spezies - Tiere
