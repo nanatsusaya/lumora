@@ -4,8 +4,6 @@ tags:
 ---
 # Kosmologie & Universumsstruktur
 
----
-
 Lumora spielt nicht in einer Parallelwelt oder einer alternativen Realität.  
 Es spielt in *demselben* Universum wie die Erde — nur in einer anderen Region davon.
 
@@ -121,20 +119,6 @@ Offene Fragen zu Übergangszonen:
   abweichenden Konstanten überleben?
 - Welche Rolle spielen Übergangszonen für transkosmiches Reisen (z.B. für den Raum-Zeit-Gott)?
 ```
-
----
-
-## Zusammenfassung
-
-| Konzept | Aussage |
-| ------- | ------- |
-| Größe des Universums | Unendlich — ohne Grenze in alle Richtungen |
-| Universumsregion | Kosmologischer Bereich mit stabilen physikalischen Konstanten |
-| Universalität der Gesetze | Gilt nur innerhalb einer Region — nicht überregional |
-| Noetische Kraft | Überall vorhanden, aber regional unterschiedlich stark |
-| Erdens Region | Noetische Kraft extrem schwach — nicht nachweisbar |
-| Lumoras Region | Noetische Kraft durchschnittlich — gut nutzbar |
-| Irdisches Physikwissen | Korrekt für die eigene Region — keine Werkzeuge für den Blick darüber hinaus |
 
 ---
 

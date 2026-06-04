@@ -29,7 +29,7 @@ Nichts verlieren. Noch nicht bewerten.
 - Arbeitstitel: **Raum-Zeit-Gott**
 - Er ist ein transzendiertes Wesen — sein Körper besteht vollständig aus Noetischer Energie
 - Er hat außerordentlich effiziente Methoden entwickelt, um sehr große Mengen Noetischer Energie zu speichern und auch auf langen Reisen darauf zuzugreifen
-- Er kann dadurch auch in [[02.01 Kosmologie & Universumsstruktur|Universumsregionen]] mit extrem schwacher N-Kraft handeln — indem er die Energie aus Lumoras Region importiert statt sie vor Ort zu erzeugen
+- Er kann dadurch auch in [[Kosmologie & Universumsstruktur|Universumsregionen]] mit extrem schwacher N-Kraft handeln — indem er die Energie aus Lumoras Region importiert statt sie vor Ort zu erzeugen
 - Er hat einen Weg gefunden, zwischen Universumsregionen zu reisen (wie genau: noch offen, für die Story vorerst nicht relevant)
 - Er entdeckt dabei die Erde und die Menschen des 21. Jahrhunderts
 - Er bringt den MC durch **Reinkarnation** nach Lumora: das Bewusstsein des MC bleibt erhalten, er bekommt aber einen neuen, Lumora-nativen Körper

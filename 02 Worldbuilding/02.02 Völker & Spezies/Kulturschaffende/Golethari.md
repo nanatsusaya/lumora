@@ -45,6 +45,6 @@ Kann ein Golethari den Symbionten wechseln — und welche kulturellen Konsequenz
 
 **Gesellschaft:** Kolonien in der Nähe von Siliziumkristallfeldern. Kristallfelder schwinden mit der Zeit → "Sucher" (hoch angesehene Einzelindividuen) werden ausgesandt, neue Felder zu finden. Dabei treten sie mit anderen Völkern in Kontakt. Konflikte um Siliziumkristalle (für viele Kulturen wertvolle Ressource) sind häufig.
 
-**Heimat:** Die [[02.02 Weltstruktur#Die Wüste der tausend Tränen|Wüste der tausend Tränen]] ist nach der Glasifizierung zur Hauptheimat photosynthetischer Golethari geworden.
+**Heimat:** Die [[Kontinental- & Ozeanographie#Die Wüste der tausend Tränen|Wüste der tausend Tränen]] ist nach der Glasifizierung zur Hauptheimat photosynthetischer Golethari geworden.
 
-> *Anmerkung:* Golethari als einzige komplett siliziumbsierte intelligente Spezies schlagen eine Brücke zwischen der biologischen N-Kraft-Nutzung und den Kristall-Energiespeichern. Sie sind ein lebendes Proof-of-Concept des ganzen Systems. Ihr "Sucher"-Konzept bietet eine natürliche Einführung ins Worldbuilding — ein Golethari-Sucher als Nebencharakter wäre organisch.
+> *Anmerkung:* Golethari als einzige komplett siliziumbsierte intelligente Spezies schlagen eine Brücke zwischen der biologischen N-Kraft-Nutzung und den Kristall-Energiespeichern. Sie sind ein lebendes Proof-of-Concept des ganzen Systems. Ihr "Sucher"-Konzept bietet eine natürliche Einführung ins Worldbuilding — ein Golethari-Sucher als Nebencharakter

@@ -13,7 +13,7 @@ tags:
 
 Die [[03.06 Anwendung & Fähigkeitsentwicklung#Noetische Wahrnehmung & Kommunikation|Zukunftsinterpretation]] der Chronari — und auch die der Götter — beruht auf der Wahrnehmung von Tachyonen-Signaturen: der Projektion gegenwärtiger Ursachen. Sie liest, was bereits in Bewegung ist. Großräumige Entwicklungen liegen deshalb fast unverrückbar fest — nicht weil die Zukunft geschrieben wäre, sondern weil große Systeme enorme Trägheit haben.
 
-Der Protagonist durchbricht genau das. Er stammt aus einer **anderen [[02.01 Kosmologie & Universumsstruktur|Universumsregion]]** — aus einer Ursachenkette, die kein Tachyonensignal in Lumoras System je getragen hat. Er ist buchstäblich die eine Variable, die in keiner Projektion enthalten ist. Kein Chronari, kein Gott, nicht einmal ein vollendeter Hauptgott kann ihn vorausberechnen, weil er nie Teil des Systems war, das sie wahrnehmen.
+Der Protagonist durchbricht genau das. Er stammt aus einer **anderen [[Kosmologie & Universumsstruktur|Universumsregion]]** — aus einer Ursachenkette, die kein Tachyonensignal in Lumoras System je getragen hat. Er ist buchstäblich die eine Variable, die in keiner Projektion enthalten ist. Kein Chronari, kein Gott, nicht einmal ein vollendeter Hauptgott kann ihn vorausberechnen, weil er nie Teil des Systems war, das sie wahrnehmen.
 
 Das ist die direkte mechanische Einlösung der Kernprämisse: *„Der Protagonist wird dadurch zu einer freien, unvorhergesehenen Variable in einem System, das sich selbst blockiert.“* (→ [[01.02 Was ist Lumora]])
 
