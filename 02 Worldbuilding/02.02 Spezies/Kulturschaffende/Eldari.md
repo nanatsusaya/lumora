@@ -8,7 +8,6 @@ tags:
 
 *EN: Eldari (Elves)*
 *Tag:* #eldari
-*Status:* #wip #working-title
 
 Die **Eldari** sind eine der ältesten kulturschaffenden [[Spezies]] Lumoras — das zweitälteste intelligente Volk nach den [[Drachen]]. Geschaffen wurden sie von der [[02.04 Religion & Götter#Eldarigöttin|Eldarigöttin]] vor rund einer Million Jahren.
 
@@ -20,23 +19,60 @@ Diese Note behandelt die **Spezies**. Die ausgearbeitete Gesellschaft der Waldel
 
 Die Eldari sind kein Sonderfall, sondern ein gezieltes Produkt der [[02.05 Geschichte#Die Werkstatt der Götter|Werkstatt der Götter]]: eine über Äonen von der [[02.04 Religion & Götter#Eldarigöttin|Eldarigöttin]] geführte **Speziation aus einer Vorläuferlinie**. Was die Eldari als „Erschaffung" durch ihre Göttin verehren (Glaubensversion), ist systemisch das geduldige, generationenweise Lenken vieler Genome bis zum gewünschten Ergebnis.
 
-Die  wünschte sich ein Volk *wie sie selbst* — weise, verständnisvoll, im Einklang mit der Natur, verantwortungsvoll und friedfertig. Aber keine zahmen Haustiere: Es sollte sich verteidigen können und eine tragende **Säule Lumoras** werden, nicht isoliert und ängstlich existieren — eine Lehre aus dem Verlust ihres ersten Volkes. Sie war damit nicht die Erste: Ein [[02.04 Religion & Götter#Drachengott|anderer Gott]] brachte zuvor mit den [[Drachen]] das erste intelligente Volk hervor. *(Details → [[02.04 Religion & Götter#Eldarigöttin|Eldarigöttin]].)*
+Die Eldarigöttin wünschte sich ein Volk *wie sie selbst* — weise, verständnisvoll, im Einklang mit der Natur, verantwortungsvoll und friedfertig. Aber keine zahmen Haustiere: Es sollte sich verteidigen können und eine tragende **Säule Lumoras** werden, nicht isoliert und ängstlich existieren — eine Lehre aus dem Verlust ihres ersten Volkes. Sie war damit nicht die Erste: Ein [[02.04 Religion & Götter#Drachengott|anderer Gott]] brachte zuvor mit den [[Drachen]] das erste intelligente Volk hervor. *(Details → [[02.04 Religion & Götter#Eldarigöttin|Eldarigöttin]].)*
 
 ---
 
 ## Biologie
 
-*Tag:* #eldari-biology
-
 **Erscheinung:** Groß, schlank, elegant. Spitze Ohren, schimmernde Augen.
 
-**Lebensspanne:** Eldari altern extrem langsam — viele Jahrhunderte bis über ein Jahrtausend. *Ein Eldari von tausend Jahren sieht nicht alt aus.* Das gibt ihnen eine grundlegend andere Zeitperspektive als allen anderen Völkern.
+**Lebensspanne:** Eldari altern extrem langsam und werden typisch **1.000–1.500 Jahre** alt (Ausreißer ~2.000). *Ein Eldari von tausend Jahren sieht nicht alt aus.* Das gibt ihnen eine grundlegend andere Zeitperspektive als allen anderen Völkern. (Mechanismus und Reifung → unten.)
 
 **Phänotypen / Unterarten:** Wald-, Wüsten- und Frosteldari sind keine eigenständigen Spezies, sondern Phänomene *derselben* Spezies — analog zu menschlichen Ethnien, umweltbedingt sowie kulturell und religiös, nicht genetisch verschieden (→ [[Spezies#Phänotypen|Phänotypen]]). Kreuzfortpflanzung *innerhalb* der Eldari ist möglich; Kinder können einem Elternteil ähneln oder Mischmerkmale zeigen.
 
 **Fortpflanzung & Volljährigkeit:** Die Geburtenrate ist sehr niedrig — bei Lebensspannen über tausend Jahren muss sie das sein, sonst käme es zur Bevölkerungsexplosion. Der Mechanismus ist eine **bewusste Fruchtbarkeitskontrolle**: Ein Eldari entscheidet *selbst*, wann er bereit ist, Kinder zu bekommen — erst dann passt sich der Körper an und wird fortpflanzungsfähig. Der Eintritt dieser Bereitschaft zeigt sich durch den ersten feuchten Traum, der im kleinen, familiären Rahmen gefeiert wird — nicht nach außen getragen, da als sehr persönlich empfunden. Kinder kommen so stets *gewollt*, im festen Bund.
 
 **Das Feld von Anfang an:** Wie bei allen noetisch aktiven Wesen beginnt das Resonanzfeld eines Eldari-Kindes [[03.05 Grenzen & Einschränkungen#Das Feld in der frühen Entwicklung — Mutter und Kind|synchron mit dem der Mutter]] — die noetische Grundlage ihrer außergewöhnlich engen Familienbindung.
+
+---
+
+## Lebensspanne & noetische Selbst-Reparatur
+
+Die Langlebigkeit der Eldari ist **kein** Zufall einer „von Natur aus" zähen Biologie — ihr Körper ist für sich genommen nicht viel widerstandsfähiger als der anderer Völker. Was sie trägt, ist **fortlaufende, niederschwellige, intuitive Selbst-Heilung**: Als noetisch hochaktives Volk mit Schwerpunkt Heilung reparieren Eldari ihren Alterungsschaden (Zellschäden, Verschleiß) kaum bewusst, aber immerzu. Das erklärt *beides zugleich* — ihre **Langlebigkeit** und ihre **makellose Schönheit**: Wo Erdorganismen mit hohem Alter knorrig und „deformiert" werden, weil sich Schaden ansammelt, hält die Eldari-Reparatur den Körper jung. (Dazu kommt EDs ästhetische Absicht — sie wollte ein Volk wie sich selbst.)
+
+Das ist kanonisch bereits angelegt: Es ist das *milde, instinktive* Ende **desselben Spektrums**, an dessen extremem, bewusstem Ende die [[03.04 Erweiterte Konzepte#Pseudogötter|Pseudogötter]] stehen (die ihren Körper noetisch stabilisieren). Die Eldari-Langlebigkeit ist also kein Sondermechanismus, sondern die Basisstufe eines etablierten.
+
+Daraus folgt:
+
+- **Spanne:** Typisch **~1.000–1.500 Jahre**. Noetisch besonders starke Individuen (und die ältesten Stamm-Oberhäupter) erreichen **~2.000**; alles darüber ist legendär und nahe der biologischen Decke. Damit ist das Alter zugleich ein **Status- und Machtsignal** — die Ältesten sind meist auch die Mächtigsten.
+- **Keine Unsterblichkeit:** Heilung *nutzt* Physik, bricht sie nicht (→ [[03.05 Grenzen & Einschränkungen#Die fundamentale Physikgrenze|Physikgrenze]]). Irgendwann überholt der Schaden die Reparatur.
+- **Eine eigene Alterskurve:** fast das ganze Leben jugendlich — dann, wenn die Reparatur endgültig kippt, ein vergleichsweise *rascher* Niedergang. Eine Jahrtausende-Jugend mit kurzer Dämmerung.
+- **Erhalten, nicht geschenkt:** Selbst-Reparatur kostet Noetische Energie. Wer geschwächt, gebrochen oder dauerhaft energiearm ist, altert schneller — Langlebigkeit ist ein aktiv gehaltener Zustand.
+
+> *Wüsteneldari:* In [[03.05 Grenzen & Einschränkungen#Noetisch tote Regionen|noetisch totem Gebiet]] versiegt die Reparatur-Grundlage. Wüsteneldari altern darum **schneller**, wirken härter und verwitterter — was ihren Riss zu den Waldeldari zusätzlich vertieft.
+
+```
+TODO (innerweltliche Deutung, später): Aus dem kürzeren Leben der Wüsteneldari ließe sich eine Folklore formen — „die Strafe der Göttin für ihren Verrat ist ihr kürzeres Leben". Systemisch ist es schlicht die schwache N-Feld-Grundlage ihrer Heimat; kulturell wird daraus eine Schuldgeschichte.
+```
+
+---
+
+## Reifung, Kindheit & Lernen
+
+Die Reifung verläuft proportional zur Lebensspanne — nur viel langsamer als beim Menschen:
+
+- Die ersten **~50 Jahre** sieht ein Eldari körperlich noch aus wie ein Kind.
+- Mit **~60–80** beginnt er, erwachsen auszusehen.
+- Die **Pubertät** fällt zwischen das erste und zweite Jahrhundert (oft um **~150**).
+
+Das schafft eine heikle Zone: Zwischen ~60 und ~150 sieht ein Eldari längst erwachsen aus, *ist* aber noch vorpubertär. Andere Völker können einen 90-Jährigen kaum von einem 900-Jährigen unterscheiden. **Ein Eldari jedoch erkennt sofort und intuitiv am [[03.05 Grenzen & Einschränkungen#Das Feld in der frühen Entwicklung — Mutter und Kind|Resonanzfeld]], ob das Gegenüber noch vorpubertär ist** — dessen Feld hat sich dann noch nicht aus dem mütterlichen gelöst. Unter Eldari gibt es darüber nie Zweifel; nur Fremde können es nicht lesen — eine Quelle echter Missverständnisse.
+
+**Wie Eldari lernen:** nicht in Klassen von dreißig auf engstem Raum, sondern indem sie ihre Eltern begleiten, ihre Umgebung erkunden, vieles ausprobieren, viele Fragen stellen und sich selbst ein Bild machen. Ein Eldari, der mit ~150 durch die Pubertät gegangen ist, hat damit meist eine Bildung erreicht, die auf individueller Ebene mancher Meisterschaft anderer Völker gleichkommt.
+
+**„Kinder" werden geschont:** Politik und die gefährlichen Dinge des Lebens — allen voran Krieg — bleiben den Vorpubertären *offiziell* verschlossen; das lernt man erst danach. Was ein neugieriges Kind inoffiziell aufschnappt, ist eine andere Frage.
+
+> *Anmerkung — der Protagonist:* Ihr Feld liest sich rund **150 Jahre** lang als *Kind* — während ihr Verstand vom ersten Tag an der eines Erwachsenen ist. Anderthalb Jahrhunderte als „Kind" behandelt zu werden, fern von allem Ernsten, ist ein weit schärferer Konflikt als der übliche Wiedergeburts-Frust — mit harter mechanischer Grundlage. *(Aristokratische Erziehung in Peer-Zirkeln → [[Waldeldari#Erziehung & Peer-Zirkel|Waldeldari]].)*
 
 ---
 

@@ -79,6 +79,16 @@ Nicht streng gehandhabt, aber als Norm: Die Frau kümmert sich um Familie und Le
 
 ---
 
+## Erziehung & Peer-Zirkel
+
+*Tag:* #eldari-upbringing
+
+Eldari-Kinder lernen grundsätzlich frei — begleitend, erkundend, fragend (→ [[Eldari#Reifung, Kindheit & Lernen|Reifung & Lernen]]). Es gibt keine Schulhäuser; es gibt ohnehin praktisch [[#Der Familienbaum|keine Gebäude außer den Familienbäumen]].
+
+Der **Hochadel** bildet die Ausnahme von der Einsamkeit: Angesehene Stämme sammeln ihren Nachwuchs in **Tutoren- und Peer-Zirkeln** — kleine, erlesene Gruppen unter Anleitung, in denen die Kinder der führenden Familien gemeinsam lernen, sich messen und früh ihre künftigen Netzwerke (und Rivalitäten) knüpfen. Kein Massenunterricht, sondern elitäre Kreise. *(In einem solchen Zirkel begegnet der [[Protagonist]] auch [[Der Junge]].)*
+
+---
+
 ## „Stamm" — Familie, Stammbaum und Clan
 
 *EN: Stock / Stem*
