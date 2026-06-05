@@ -107,3 +107,9 @@ Wenn der #protagonist versucht dass der #eldari-goddess verständlich zu machen,
 Dieser Satz, diese Behauptung, dem #protagonist gegenüber, der gezwungen wurde wegen den Aktionen des #rzg und der #eldari-goddess seine Ehefrau und sein ungeborenes Kind zurück zu lassen. Der #protagonist versucht seit seiner Wiedergeburt einen Weg zurück zu seiner Familie zu finden weil er sich unglaubliche Sorgen um deren Wohlergehen macht. Und dann muss er sich von genau der Person die für diese Sorgen verantwortlich ist so einen Vorwurf hören.
 
 Der #protagonist wird darauf hin wütend. Sehr. Verständlicherweise.
+
+## Eldari Sprachproblem & des Protagonisten neue Mutter
+
+Die #eldari Mutter des #protagonist ist gutherzig. Sie hat keine wirkichen Vorurteile gegenüber andere Rassen, zumindest nicht solange sie nicht begründet sind. Sie versucht auch immer freundlich und warmherzig anderen gegenüber zu sein. Dieselben Werte bringt sie dem #protagonist bei. Leider geht das ganz schön nach hinten los, wenn der #protagonist dann plötzlich gezwungen wird, mit erwachsenen Menschen (oder so) in Kleinkindsprache zu reden. Das macht den #protagonist unwohl und auch seinem Gegenüber.
+
+Wie und wo das vorkommt werden wir noch sehen, aber hier an der Stelle ist es mal eine Erinnerung!
