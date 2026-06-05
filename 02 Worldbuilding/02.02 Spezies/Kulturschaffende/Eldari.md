@@ -92,6 +92,46 @@ Den aller größten Teil ihrer Geschichte gingen die Eldari damit den Weg **„N
 
 ---
 
+## Sprache
+
+*EN: Eldarin*
+*Tag:* #eldarin
+
+Eldarisch ist keine gewöhnliche Sprache, sondern angewandte Feinkontrolle der Noetischen Energie. Sie hat **drei Stufen**, die nicht vom Alter abhängen, sondern von der reinen Übungsdauer:
+
+- **Kindersprache.** Nach 2–5 Jahren äußert man einfachste Wünsche, nach ~10 Jahren plaudert man auf kindlichem Niveau. Melodisch, aber in Grammatik und Wortschatz schlicht.
+- **Jugendsprache.** Etwa **50 Jahre** Übung. Deutlich komplexere Grammatik; die Aussprache wird tückisch, weil schon kleine Betonungsänderungen Wörter oder ganze Sätze umdeuten. Hier kommt erstmals Noetische Energie hinzu: Man formt die eigenen Schallwellen dezent mit ihr und erzeugt so einen massiv melodischeren Klang. Für Ungeübte klingt ein Gespräch zweier junger Eldari wie eine Mischung aus Reden und Gesang.
+- **Erwachsenensprache.** Mindestens **100 Jahre** bis zur sicheren Nutzung, an die **1.000** bis zur Meisterschaft. Die Stimmbänder erzeugen nur noch Grundtöne und Trägerschwingungen; die eigentliche Sprache entsteht durch das gezielte Formen der Schallwellen mit Noetischer Energie, bei dauerhaft melodischem Klang. Meisterschaft heißt, einen ganz eigenen, wiedererkennbaren Klang zu besitzen.
+
+**Gefühle statt Mimik.** Erwachsene Eldari — besonders die [[Waldeldari]] — verlernen Mimik und Gestik fast völlig und *senden* ihre Gefühle stattdessen über Noetische Energie. Da Eldari noetisch aktiv **und** sensitiv sind, spüren sie solche gesendeten Gefühle.
+
+Entscheidend ist die Trennung zu echter Intimität — **Senden ≠ das Feld öffnen**:
+
+- *Senden* legt ein gemustertes Signal in das gemeinsame N-Feld, das Sensitive *außen* an ihrem Feld lesen — das noetische Pendant zu Tonfall und Mimik. Ein Erwachsener mit stabilem [[03.05 Grenzen & Einschränkungen#Das Resonanzfeld|Resonanzfeld]] kann es dämpfen oder ausblenden.
+- *Das [[03.05 Grenzen & Einschränkungen#Das Feld öffnen|Feld öffnen]]* (jemanden in den eigenen Körperraum lassen) ist davon scharf getrennt — sakral, privat, dem Ehebund vorbehalten.
+- An ein **Kind** oder einen überwältigten Erwachsenen zu senden, der es nicht abwehren kann, gilt als aufdringlich bis **übergriffig** (→ [[03.05 Grenzen & Einschränkungen#Das Feld in der frühen Entwicklung — Mutter und Kind|verwundbare Kinderfelder]]).
+
+**Privat & gezielt — Frequenz-Adressierung.** Jedes Resonanzfeld trägt eine eigene Frequenz und Phase. Ein Könner stimmt die gesendete Energie genau auf die Signatur des Empfängers ab: Nur dessen Feld resoniert und liest die Botschaft klar, alle anderen merken bestenfalls, *dass* etwas Privates gesendet wird, nicht *was* — wie ein Radio, das nicht auf den Sender eingestellt ist. Folgen:
+
+- **Vertrautheit nötig:** Privat ansprechen kann man nur, wessen Feldsignatur man kennt — einen Fremden nicht.
+- **Multi-Adressierung:** Ein Meister betritt einen Saal mit Dutzenden Eldari und sendet jedem *zugleich* etwas anderes — dem Freund Wärme, dem Rivalen Spott, allen übrigen ein höfliches Hallo.
+- **Spionage & Abschirmung:** Wer eine Signatur kennt und genug Können hat, kann sich in ein privates Gespräch einklinken; Gegenmaßnahme ist Abschirmung. (Nährboden der Hof-Intrige.)
+
+**Warum das Erlernen so schwer ist:** Es braucht zweierlei. Erstens das **angeborene Feingefühl**, Schallwellen mit Noetischer Energie zu formen — das Menschen und die meisten anderen Völker schlicht nicht haben. Zweitens die Kunst, dabei **keine** ungewollten [[03.01 Noetisches System#Noetischer Effekt|noetischen Effekte]] zu erzeugen, während man zugleich die richtigen „Schwingungen" sendet *und* die eigenen Gefühle in Gesicht und Händen beherrscht. Bis das intuitiv sitzt, vergehen Jahrzehnte.
+
+**Andere Völker.** Wer in der Eldari-Gesellschaft lebt, ein Händler ist, der mit in einem Eldari Staaten aktiv Handelt, oder ein Diplomaten fremder Länder ist, kann die Sprache lernen. In aller Regel aber nur die **Kindersprache**, denn allein dafür braucht es 5–10 Jahre täglicher Praxis. Stufe 2 zu erreichen ist bei den meisten Völkern verschwindend selten. Für die Eldari klingen damit *alle* anderen wie Kleinkinder — und ein erwachsener Eldari muss mit ihnen tatsächlich in Kleinkindersprache reden, damit sie ihn verstehen. Das ist der Kern, warum sich andere herablassend behandelt fühlen und die Eldari als elitäre Snobs gelten.
+
+```
+TODO:
+- Drachen als mögliche Ausnahme: Könnten sie Stufe 2 (oder mehr) erreichen? Beim Ausbau der Drachen prüfen.
+- Wüsteneldari & Sprache MIT VORSICHT: nicht „degradiert". Sie sind hocheffizient mit ihrer N-Kraft in toten Zonen und (geplant) Meister der Resonanzfeld-Manipulation / des Eindringens in Gedanken. Ihr Verhältnis zur klassischen Sprache (evtl. weniger ornamentiert, aber durchaus beherrscht) später festlegen.
+- Innerweltlicher Eldari-Begriff für „Noetische Energie" noch offen (Platzhalter war „Mana").
+- Erzählhandwerk: Konvention finden, wie Eldari-Erwachsenendialog (kaum Stimme/Mimik, gesendete Gefühle) im Roman dargestellt wird.
+- Protagonisten-Doppelhandicap: Kind-Feld → kann nicht senden/privat adressieren und kann öffentliche Gefühls-Broadcasts nicht filtern; dazu die Erd-Gewohnheit, mit Gesicht und Händen zu sprechen → wirkt auf Eldari kindlich/ungehobelt.
+```
+
+---
+
 ## Die zwei Uhren & das gemächliche Tempo
 
 Ein scheinbarer Widerspruch: Die Eldari sind seit einer Million Jahren intelligent — der Homo sapiens existiert erst ~300.000 Jahre —, stehen technologisch aber nicht weiter. Auflösung: Es gibt **zwei Uhren**.

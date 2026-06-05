@@ -161,7 +161,11 @@ TODO: Konkrete Beispiele für noetische Werkzeuge ausarbeiten.
 
 ## Sprache
 
-Die Eldari sprechen **eldarisch** — eine melodisch klingende Sprache mit vielen Umschreibungen.
+Die Eldari sprechen **eldarisch** — eine melodisch klingende Sprache mit vielen Umschreibungen. Die Mechanik der drei Sprachstufen, der Gefühlsübertragung und der Frequenz-Adressierung liegt in [[Eldari#Sprache|Eldari → Sprache]].
+
+**Waldeldari-spezifisch:**
+
+Erwachsene unterdrücken **Mimik und Gestik** fast vollständig und übermitteln Gefühle stattdessen über Noetische Energie. Für die Kindererziehung verwenden sie aber weiterhin einfache Gesten und Mimik, wenn auch nicht mehr so ausdrucksstark. Für andere Völker, die das nicht lesen können, wirken erwachsene Waldeldari dadurch wie **schöne, aber gefühlskalte Statuen**. Zusammen damit, dass sie mit Fremden in Kindersprache reden müssen, verfestigt das ihren Ruf als herablassende, elitäre Snobs.
 
 ---
 
