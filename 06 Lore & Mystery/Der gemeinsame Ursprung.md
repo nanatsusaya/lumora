@@ -74,6 +74,20 @@ Dieser Ursprung ist eine reinrassige [[Emergente Folgen|emergente Folge]]: Aus e
 
 > *Anmerkung (Kandidat „verpfuschtes Geschöpf"):* Die [[Menschen]] sind der beste Kandidat für das in [[Spezies]] notierte „verpfuschte Geschöpf". Ihre Linie war im Werkstatt-Spiel die meistumkämpfte; rivalisierende Götter lenkten sie ständig um, sodass keine biologische Spezialisierung haften blieb. Zurück blieb ein anpassungsfähiger Generalist, der nur die rastlose Ambition des Eifernden erbte — und heute an keinen Gott mehr fest gebunden ist. Das speist zugleich ihre Gefährlichkeit (→ [[02.05 Geschichte#Das Makroproblem — Die Selbstzerstörungsdynamik|Makroproblem]]). Zu bestätigen.
 
+## Die gefühlte Verwandtschaft — wenn das Blut leise spricht
+
+Die gemeinsame Linie wirkt bis heute — nicht im Bewusstsein, sondern im Instinkt. Die sieben Völker sind untereinander **sehr entfernt** verwandt, etwa so wie alle Säugetiere der Erde miteinander verwandt sind. Das genügt für eine leise, vorbewusste Resonanz:
+
+- **Geteiltes Signal-Set.** Alle sieben teilen denselben humanoiden Bauplan, denselben Geschlechtsdimorphismus (kräftigere männliche, zierlichere weibliche Statur) und dieselben Attraktivitäts- und Niedlichkeits-Reize — Symmetrie, Proportion, das Baby-Schema. Weil die „Sprache der Schönheit" dieselbe ist, kann ein Angehöriger der einen Art die Reize der anderen *lesen*: beidseitig, keine Einbahnstraße.
+- **Schutz- und Anziehungsinstinkte greifen über Artgrenzen.** Ein Säugling wirkt süß, egal welcher der sieben Arten er angehört, und weckt denselben Beschützerreflex. Und ein Mensch kann einen Eldari attraktiv finden — und umgekehrt —, weil beide auf demselben Reizvokabular antworten.
+- **Die abweichenden Völker sind spürbar fremd.** [[Drachen]], [[Chronari]], [[Golethari]], [[Kharell]], [[Sylvari]] gehören voll zur weltlichen Gemeinschaft, doch die gefühlte Distanz ist größer. Ein männlicher Eldari mag eine [[Golethari]] *abstrakt* für wohlproportioniert halten — aber die warme Kin-Resonanz und die eigentliche Anziehung zünden nicht, weil das gemeinsame Signal-Set fehlt. (Der Gradient gilt relativ: Auch ein Golethari empfindet die humanoide Familie als „die anderen".)
+
+**Anziehung, aber keine Vermischung.** So real die wechselseitige Anziehung innerhalb der Familie ist — die sieben sind **reproduktiv isolierte Arten**. Wie Hund und Pferd: verwandt und einander zugetan, aber ohne gemeinsame Nachkommen. Es gibt **keine Halb-Elfen, keine Misch-Völker**. (Kreuzung *innerhalb* einer Art bleibt möglich — Eldari-Phänotypen untereinander, Theriani-Unterarten untereinander.)
+
+> *Wichtige Abgrenzung:* Diese Biologie ist nur eine **sanfte Grundwärme**, kein Treiber von Hierarchie oder Hass — und leicht von Kultur, Erfahrung und einzelnen Beziehungen überschrieben. Der [[Waldeldari#Immigration & Speziesismus|Speziesismus]] Lumoras bleibt **strukturell und kulturell** begründet (→ [[Emergente Folgen]]), nicht genetisch. Im Gegenteil verschärft die Verwandtschaft die Tragik: Man errichtet Mauern gegen Wesen, die buchstäblich entfernte Verwandte sind.
+
+---
+
 ```
 TODO (offene Fragen):
 - Kehrt der Fremdbringer je zurück? Erfährt er, dass aus seinen toten Geschöpfen die halbe Welt wurde?
@@ -81,6 +95,3 @@ TODO (offene Fragen):
 - Die sechs Schöpfer-Götter sind erst skizziert (Arbeitstitel). Welche brauchen einen eigenen Charakterbogen?
 - Wird die Verwandtschaft der Völker innerweltlich je geahnt (Mythos, Wissenschaft)? Dramatisches Potenzial.
 ```
-
----
-
