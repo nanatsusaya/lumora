@@ -47,6 +47,11 @@ In [[#Jahr]] hat damit 57 Wochen.
 
 Das sind 627 [[#Tag|Lumoratage]]. Die verbleibenden zwei Tage nehmen in allen Kulturen Lumoras eine besondere Stellung ein. Bei diesen handelt es sich um den [[#Besondere Tage|Licht- und Dunkeltag]].
 
+---
+
+## Erd- und Lumora-Zeit
+
+Die obigen Einheiten sind reine **Kalenderastronomie** — sie beschreiben Bahnen, nicht den Lauf der Zeit. Strikt davon zu trennen ist die **Zeitdilatation zwischen den Universumsregionen**: Lumoras Zeit läuft gegenüber der Erde rund **200 Lumorajahre pro Erdjahr** schneller. Ein Lumorajahr ist also nicht „schneller", sondern nur ein längerer Kalenderbogen (~1,94 Erdjahre); der eigentliche Tempo-Unterschied ist die Dilatation. *(Mechanik, Faktor und Story-Folgen → [[Zeitdilatation zwischen den Regionen]].)*
 
 ---
 

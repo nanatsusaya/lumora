@@ -33,9 +33,7 @@ Eine Universumsregion ist kein politisches oder willkürliches Konstrukt. Sie is
 
 Regionen sind nicht scharf abgegrenzt. Übergangszonen existieren, in denen physikalische Konstanten graduell zwischen zwei Ausprägungen wechseln.
 
----
-
-## Keine Universalität der physikalischen Gesetze
+### Keine Universalität der physikalischen Gesetze
 
 Dies ist die entscheidende Abweichung von der realen Physik.
 
@@ -54,9 +52,7 @@ Konkrete Konsequenzen:
 Innerhalb einer einzelnen Universumsregion gelten die Gesetze stabil und einheitlich.  
 Nur zwischen Regionen entstehen messbare Unterschiede.
 
----
-
-## Die Noetische Kraft als regionale Variable
+### Die Noetische Kraft als regionale Variable
 
 Die [[03.01 Noetisches System|Noetische Kraft]] ist eine der fünf Fundamentalkräfte dieses Universums.
 
@@ -71,11 +67,17 @@ Wie alle Fundamentalkräfte existiert sie überall — aber ihre Stärke variier
 
 Innerhalb einer Region kann die Noetische Kraft zusätzlich durch lokale Bedingungen variieren — das ist die Ebene des [[03.01 Noetisches System#Noetisches Feld (N-Feld)|Noetischen Feldes]], das durch Biomasse, Biodiversität und Umweltfaktoren beeinflusst wird. Die regionale Variation der Grundkraft und die lokale Variation des N-Feldes sind zwei voneinander unabhängige Ebenen.
 
+### Der Lauf der Zeit als regionale Variable
+
+Der **Lauf der Zeit** kann zwischen Regionen variieren. Das ist keine gravitative Dilatation im Sinne der Relativitätstheorie, sondern eine Eigenschaft der Region selbst. Ausführung, Faktor und Konsequenzen → [[Zeitdilatation zwischen den Regionen]].
+
 ---
 
 ## Die Erde und Lumora: Zwei verschiedene Regionen
 
 Die Erde und Lumora befinden sich in unterschiedlichen Universumsregionen.
+
+### Noetische Kraft
 
 **Erdens Region:**  
 Die Noetische Kraft ist in dieser Region so schwach, dass sie mit keiner bekannten Methode der Physik des 21. Jahrhunderts messbar oder nutzbar ist. Sie liegt unterhalb jeder Nachweisschwelle.
@@ -83,9 +85,11 @@ Die Noetische Kraft ist in dieser Region so schwach, dass sie mit keiner bekannt
 **Lumoras Region:**  
 Die Noetische Kraft ist hier im Vergleich zu den anderen Fundamentalkräften durchschnittlich gut ausgeprägt. Unter normalen Bedingungen ist sie nutzbar — vorausgesetzt, man befindet sich nicht in einem Gebiet mit besonders schwachem Noetischen Feld (z. B. tote Wüsten, offener Weltraum).
 
----
+### Zeitdilatation
 
-## Was die Menschen der Erde wissen — und was nicht
+In der Region Lumoras vergeht die Zeit erheblich schneller als in der [[#Die Noetische Kraft als regionale Variable|Region der Erde]] — als Faustregel rund **200 Lumorajahre pro Erdjahr**. → [[Zeitdilatation zwischen den Regionen]].
+
+### Was die Menschen der Erde wissen — und was nicht
 
 Die Physik der Menschen des 21. Jahrhunderts ist innerhalb ihrer Universumsregion korrekt.
 

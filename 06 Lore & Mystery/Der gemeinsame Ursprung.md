@@ -23,7 +23,7 @@ Nicht betroffen sind Völker mit deutlich abweichendem Körperbau ([[Drachen]], 
 
 ## Der Vorfall
 
-Vor rund 300 Millionen Jahren brachte ein ungeduldiger Gott — der spätere [[02.04 Religion & Götter#Der Fremdbringer (Arbeitstitel)|Fremdbringer]] — eine kleine Gruppe fremder, intelligenter Humanoiden aus einer anderen Welt nach Lumora. Der [[02.04 Religion & Götter#Ursprungsgott|Ursprungsgott]] verbannte ihn dafür aus dem Sonnensystem; die Fremdlinge starben ohne ihren Gott. Ihre Überreste aber blieben. *(Die öffentliche Geschichtsebene → [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer]].)*
+Vor rund 200 Millionen Jahren (Lumora-Zeit) brachte ein ungeduldiger Gott — der spätere [[02.04 Religion & Götter#Der Fremdbringer (Arbeitstitel)|Fremdbringer]] — eine kleine Gruppe **früher Menschenvorfahren von der [[Kosmologie & Universumsstruktur|Erde]]** nach Lumora. Wegen der [[Zeitdilatation zwischen den Regionen|Zeitdilatation zwischen den Regionen]] (~200 Lumorajahre je Erdjahr) lag diese Verschleppung auf der Erde nur ~1 Mio. Jahre zurück — ein früher Vertreter der Gattung *Homo* und damit ein echter Vorfahr des heutigen Menschen. Der [[02.04 Religion & Götter#Ursprungsgott|Ursprungsgott]] verbannte den Fremdbringer dafür aus dem Sonnensystem; die Verschleppten starben ohne ihren Gott. Ihre Überreste aber blieben. *(Die öffentliche Geschichtsebene → [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer]].)*
 
 ---
 
@@ -85,6 +85,14 @@ Die gemeinsame Linie wirkt bis heute — nicht im Bewusstsein, sondern im Instin
 **Anziehung, aber keine Vermischung.** So real die wechselseitige Anziehung innerhalb der Familie ist — die sieben sind **reproduktiv isolierte Arten**. Wie Hund und Pferd: verwandt und einander zugetan, aber ohne gemeinsame Nachkommen. Es gibt **keine Halb-Elfen, keine Misch-Völker**. (Kreuzung *innerhalb* einer Art bleibt möglich — Eldari-Phänotypen untereinander, Theriani-Unterarten untereinander.)
 
 > *Wichtige Abgrenzung:* Diese Biologie ist nur eine **sanfte Grundwärme**, kein Treiber von Hierarchie oder Hass — und leicht von Kultur, Erfahrung und einzelnen Beziehungen überschrieben. Der [[Waldeldari#Immigration & Speziesismus|Speziesismus]] Lumoras bleibt **strukturell und kulturell** begründet (→ [[Emergente Folgen]]), nicht genetisch. Im Gegenteil verschärft die Verwandtschaft die Tragik: Man errichtet Mauern gegen Wesen, die buchstäblich entfernte Verwandte sind.
+
+---
+
+## Der Protagonist — Heimkehr zu entfernten Verwandten
+
+Weil das Saatgut von der **Erde** stammte, sind die sieben Völker buchstäblich die sehr entfernten Verwandten des [[Der Protagonist|Protagonisten]] — er ist selbst ein Erdmensch. Das ist der tiefere Grund für die [[#Die gefühlte Verwandtschaft — wenn das Blut leise spricht|gefühlte Vertrautheit]]: nicht nur derselbe humanoide Bauplan, sondern dieselbe Wurzel.
+
+Dieselbe [[Zeitdilatation zwischen den Regionen|Zeitdilatation]], die diesen Stammbaum zeitlich möglich macht, trägt auch den Schluss: Lebt der Protagonist ~200–400 Jahre auf Lumora, vergehen auf der Erde nur ~1–2 Jahre. Er kann heimkehren — verändert, und doch rechtzeitig genug, dass die Welt ihn noch kennt. *(Zahlen → [[Zeitdilatation zwischen den Regionen]].)*
 
 ---
 
