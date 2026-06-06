@@ -10,6 +10,8 @@ tags:
 *EN: humans*
 *Tag:* #humans
 
+**Herkunft:** Wie die meisten humanoiden Völker stammen die Menschen aus dem geretteten [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatgut]] (→ [[Der gemeinsame Ursprung]]). Ihre Linie war im Werkstatt-Spiel der Götter die meistumkämpfte und wurde so oft umgelenkt, dass keine Spezialisierung haften blieb — zurück blieb ein Generalist, der nur den rastlosen Ehrgeiz seines fast vergessenen Schöpfers, des [[02.04 Religion & Götter#Der Eifernde (Arbeitstitel)|Eifernden]], in sich trägt.
+
 **Biologie:** Vielseitige, anpassungsfähige Wesen mittlerer Größe. Haut- und Haarfarben variieren stark je nach Region und Kontinent. Keine speziellen biologischen Sonderkräfte — Kompensation durch Einfallsreichtum und Kooperation.
 
 **Kultur:** Kulturell und gesellschaftlich diverser als jedes andere Volk. Menschen bilden Königreiche, Republiken und Stammesgesellschaften. Ihre Stärke liegt in Erfindungsgeist und Ambition — oft auf Kosten von Vorsicht.

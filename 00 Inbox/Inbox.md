@@ -113,3 +113,10 @@ Der #protagonist wird darauf hin wütend. Sehr. Verständlicherweise.
 Die #eldari Mutter des #protagonist ist gutherzig. Sie hat keine wirkichen Vorurteile gegenüber andere Rassen, zumindest nicht solange sie nicht begründet sind. Sie versucht auch immer freundlich und warmherzig anderen gegenüber zu sein. Dieselben Werte bringt sie dem #protagonist bei. Leider geht das ganz schön nach hinten los, wenn der #protagonist dann plötzlich gezwungen wird, mit erwachsenen Menschen (oder so) in Kleinkindsprache zu reden. Das macht den #protagonist unwohl und auch seinem Gegenüber.
 
 Wie und wo das vorkommt werden wir noch sehen, aber hier an der Stelle ist es mal eine Erinnerung!
+
+---
+
+## Technologie
+
+Kristalle die Licht produzieren.
+Kristalle die gezüchtet wurden und aussehen wie blumen und pflanzen und sich zwischen echten blumen und pflanzen befinden und samftes licht abstrahlen und so alles hell und angenehm machen.
