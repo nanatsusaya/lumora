@@ -71,6 +71,8 @@ Für sie ist die Existenz des Chaosgottes ein eigenständiges, fremdes Wesen. Di
 
 Einzige Ausnahme: der Raum-Zeit-Gott. Er ist neben dem Ursprungsgott das einzige vollendete transzendierte Wesen in Lumora — er kennt die Quantenmechanik der Vollendung aus eigener Erfahrung. Ob er das Geheimnis kennt oder ahnt, ist eine offene Frage.
 
+**Warum auch der RZG die Spaltung nicht erkennt (Auflösung):** Erstens durchschauen zwei vollendete Götter einander kaum, und der Ursprungsgott ist der Mächtigere ([[Die Drei Regeln|Regel 1]]). Zweitens lässt sich selbst aus der Orthyros-Katastrophe nicht ablesen, dass es zwei Teile *eines* Gottes sind. Drittens — und entscheidend — interessiert es ihn schlicht nicht: Seine moralische Blindheit lässt ihn vielleicht hinsehen, aber nie *genau* hinsehen. Damit bleibt die Erkenntnis dem [[Die Entdeckung — Spaltung als Erkenntnis|Protagonisten]] vorbehalten.
+
 ```
 TODO: Weiß der Raum-Zeit-Gott von der Spaltung?
 Möglichkeit 1: Er weiß es und schweigt — aus Respekt, Angst oder weil er keinen Weg sieht zu helfen.
