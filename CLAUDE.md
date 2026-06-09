@@ -61,13 +61,19 @@ Before diving into any topic, read the relevant file — don't rely on this docu
 - Core philosophy & canon foundation (`01 Kern`)
 - Noetic System fundamentals (basics, functionality, limits)
 - Cosmology & world structure basics
+- Initial character roster (protagonist, gods, Lumora & Earth figures) — `04 Characters/`
+- Core lore & mystery foundation (foreign-bringer, foreign seed, the three rules) — `06 Lore & Mystery/`
+- Story architecture skeleton: act structure + chapter overviews for Part I–V — `05 Story Architecture/`
 
 ### In Progress 🔄
-- Noetic System details (cellular biology, advanced applications)
-- Worldbuilding depth (peoples, regions, societies, religion)
+- Story architecture: deepening acts, chapters, and scene-level structure (`05`)
+- Character development beyond initial notes (`04`)
+- Lore & mystery threads (`06`)
 
 ### Not Yet Started 📋
-- Characters, plot structure, scenes, timeline
+- Detailed scene drafts, full timeline
+- Remaining Noetic System details (cellular biology, advanced applications)
+- Deeper worldbuilding (regions, societies, religion)
 
 ---
 
@@ -243,13 +249,13 @@ Claude is an **active creative collaborator**, not just a consistency checker.
 
 ### Current Focus
 
-- **Primary:** Noetic System — folder `03 Noetic System/`
-- **Secondary:** Worldbuilding — folder `02 Worldbuilding/`
-- Character work and story architecture come after the system and world are solid.
+- **Primary:** Story Architecture — folder `05 Story Architecture/` (acts, chapters, scene structure)
+- **Secondary:** Characters & Lore — folders `04 Characters/`, `06 Lore & Mystery/`
+- The Noetic System and Worldbuilding are solid enough to support story work; revisit their open details as the narrative demands.
 
 ---
 
-**Last updated:** 2026-05-28
-**Project stage:** Worldbuilding & System Definition
-**Next milestone:** Fill Noetic System details + expand Worldbuilding
+**Last updated:** 2026-06-09
+**Project stage:** Story Architecture & Character Development
+**Next milestone:** Deepen story architecture (acts, chapters, scenes) across Part I–V
 **Conventions last revised:** 2026-05-28 (added vault tag system, section format, writing style)
