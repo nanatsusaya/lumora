@@ -56,34 +56,6 @@ Er überwindet die regionale N-Kraft-Schwäche nicht durch eine Ausnahme vom Sys
 
 ---
 
-## Der Ursprung der meisten kulturschaffenden Spezies
-
-Vor einer halben Milliarden Jahre hatte ein Gott keine Geduld mehr, langsam aber sicher auf Lumora alles zu entwickeln. Er wollte Ergebnisse sehen. Aber er durfte ja nichts schnell anpassen. Also dachte er, er wäre schlau, indem er eine kleine Gruppe an humanoiden intelligenten Lebewesen, nach Lumora bringt. Er wollte die Gruppe ausbauen und daraus sein eigenes Volk züchten.
-Doch das erzürnte den Ursprungsgott. Dieser betrachtete das als eingreifen auf viel zu invasiver Art. Er bestrafte den Gott, indem er ihm aus dem Sonnensystem ausgeschlossen hatte.
-Die eingeführten Lebewesen, ohne Hilfe ihres Gottes, sind in kürzester Zeit gestorben.
-Aber ihre Überreste waren nun auf Lumora.
-Die Eldari Göttin nahm sich einzelne der biologischen Proben, einzelne Zellen, und verband diese mit auf Lumora bestehenden Einzelern. Das hat sie nicht nur einmal gemacht, sondern sehr viel. Viel des damit "geretteten" Genoms hat sich aber sehr schnell wieder in der Fremden Welt verloren. Aber eben nicht alles. Ein paar wenige der darauß entstandene Lebensformen wuchsen und gedeithen. Manche in eine Richtung, die die Eldari Göttin mochte, und bei der sie dran blieb. Manche Formen entwickelten sich aber in Richtungen, die sie nicht mochte, weswegen sie diese Fallen lies.
-Nur weil diese aber fallen gelassen wurden, heißt es nicht das diese Verloren waren. Andere Götter wurden aufmerksam auf diese unbeobachteten Lebensformen, und versuchten ihren Arbeit und Ihre Vorstellungen darin aufgehen zu lassen.
-Das Ergebnis hat noch sehr lange auf sich warten lassen.
-Wenn man heutzutage bei den meisten Völkern den Stammbaum zurückverfolgt, wird man feststellen, dass fast alle humanoiden Kulturschaffenden auf diesen einen Vorfall zurückzuführen sind. Man kann also durchaus sagen, dass viele Völker wirklich miteinander verwandt sind! Das erklärt, wieso viele Völker, wenn auch sie so verschieden sind, dennoch Ähnlichkeiten aufweisen.
-
-Das betrifft:
-
-* [[Menschen]]
-* [[Eldari]]
-* [[Theriani]]
-* [[Vulkani]]
-* [[Aviari]]
-* [[Luminaari]]
-* [[Leviathari]]
-
-Das im übrigen die Eldari Göttin für ihre Arbeit nicht bestraft wurde, liegt daran, dass sie mit auf Lumora bestehenden "Material", das bereits existierte, arbeite. Ja dieses "Material" wurde erst kürzlich eingeführt. Aber sobald es auf Lumora war, war es Teil der Welt. Der rausgeworfene Gott wurde also primär dafür bestraft, das er fremdes Leben nach Lumora brachte.
-Kein Gott wurde je dafür bestraft, dass er sein von außen mitgebrachtes Wissen einführte!
-
-Und hier kommt nun der #rzg ins Spiel. Dieser bringt kein anderes Lebewesen aus einer Fremden Welt nach Lumora. Seine Transplantation des Protagonisten ist im Prinzip nur eingeführtes Wissen. Der Protagonist ist mit seiner Wiedergeburt ein echter lebender Bewohner Lumoras, mit Siegel und Stempel abgenommen.
-
----
-
 ## Der Protagonist hat bereits einen Partner
 
 Bei den Waldelfen steht explizit dabei, dass sie nur einen Partner im Leben wählen. Das ist so eine Resonanzverbindungssache. Wir könnten definieren, dass der Protagonist, selbst als erwachsene Eldarifrau, so eine Beziehung nie eingehen kann, da sie mit ihrer Ehefrau aus dem letzten Leben bereits so eine Bindung eingegangen ist.
@@ -92,7 +64,7 @@ Im Übrigen hört sich das nach einem spannenden Story Ark an mit einer überras
 
 ---
 
-## Ich mach mir sorgen um keine Kinder, das verstehst du nicht!
+## Ich mach mir sorgen um meine Kinder, das verstehst du nicht!
 
 Irgendwann wenn der #protagonist auf die #eldari-goddess trifft und mit ihr redet, stellt er fest, dass sie sich ihrem Volk, den #eldari gegenüber wie eine Glucke bzw. Helikopter-Mutter verhält. Sie gibt ihnen kaum Raum zu wachsen. Jede Regierungsform, jede größere Entscheidung der Richtungsentscheidung, alles hat sie bestimmt. Immer.
 
@@ -108,6 +80,7 @@ Dieser Satz, diese Behauptung, dem #protagonist gegenüber, der gezwungen wurde 
 
 Der #protagonist wird darauf hin wütend. Sehr. Verständlicherweise.
 
+---
 ## Eldari Sprachproblem & des Protagonisten neue Mutter
 
 Die #eldari Mutter des #protagonist ist gutherzig. Sie hat keine wirkichen Vorurteile gegenüber andere Rassen, zumindest nicht solange sie nicht begründet sind. Sie versucht auch immer freundlich und warmherzig anderen gegenüber zu sein. Dieselben Werte bringt sie dem #protagonist bei. Leider geht das ganz schön nach hinten los, wenn der #protagonist dann plötzlich gezwungen wird, mit erwachsenen Menschen (oder so) in Kleinkindsprache zu reden. Das macht den #protagonist unwohl und auch seinem Gegenüber.
