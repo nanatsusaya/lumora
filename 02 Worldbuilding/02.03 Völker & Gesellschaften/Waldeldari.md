@@ -10,17 +10,17 @@ tags:
 
 Die **Waldeldari** (umgangssprachlich *Waldelfen*) sind der Wald-Phänotyp der [[Eldari]] und das am weitesten ausgearbeitete Eldari-Volk. Sie bilden mehrere, im Kern gleich strukturierte Nationen auf verschiedenen Kontinenten. In eine davon wird der [[Protagonist]] wiedergeboren.
 
-Diese Note behandelt die **Gesellschaft**. Die Spezies → [[Eldari]], die Göttin → [[02.04 Religion & Götter#Eldarigöttin|02.04]].
+Diese Note behandelt die **Gesellschaft**. Die Spezies → [[Eldari]], die Göttin → [[Eldarigöttin]].
 
 ---
 
 ## Die göttliche Schablone
 
-Das gesamte Gesellschaftssystem der Waldeldari — Clans, Disziplinen, Triumvirat — wurde **nicht** von ihnen selbst erfunden, sondern von der [[02.04 Religion & Götter#Eldarigöttin|Eldarigöttin]] nach der Abspaltung der Wüsteneldari (vor ~100.000 Jahren) **stückweise eingeführt**. Aus Sicht der Waldeldari ist es damit die *einzig wahre, göttlich akzeptierte* Gesellschaftsform.
+Das gesamte Gesellschaftssystem der Waldeldari — Clans, Disziplinen, Triumvirat — wurde **nicht** von ihnen selbst erfunden, sondern von der [[Eldarigöttin|Eldarigöttin]] nach der Abspaltung der Wüsteneldari (vor ~100.000 Jahren) **stückweise eingeführt**. Aus Sicht der Waldeldari ist es damit die *einzig wahre, göttlich akzeptierte* Gesellschaftsform.
 
 Das erklärt, warum mehrere Waldeldari-Staaten auf verschiedenen Kontinenten **dieselbe** Struktur tragen, obwohl sie weitgehend unabhängig voneinander agieren: Es ist überall dieselbe Schablone. Die Unterschiede zwischen den Staaten sind marginal.
 
-> *Kritische Anmerkung:* Diese Schablone ist die **widerwillige Verhärtung der [[02.04 Religion & Götter#Eldarigöttin (Arbeitstitel)|Eldarigöttins]] eigenen Traums**. Sie wollte ein weises, friedfertiges Volk — doch um es überdauern zu lassen, gab sie ihm ein System aus Erfolgsdruck, Hierarchie und Fortschrittsdrang. Sie säte damit selbst die Hybris, die später in die [[02.05 Geschichte#Das Makroproblem — Die Selbstzerstörungsdynamik|Selbstzerstörungsdynamik]] greift.
+> *Kritische Anmerkung:* Diese Schablone ist die **widerwillige Verhärtung der [[Eldarigöttin|Eldarigöttins]] eigenen Traums**. Sie wollte ein weises, friedfertiges Volk — doch um es überdauern zu lassen, gab sie ihm ein System aus Erfolgsdruck, Hierarchie und Fortschrittsdrang. Sie säte damit selbst die Hybris, die später in die [[02.05 Geschichte#Das Makroproblem — Die Selbstzerstörungsdynamik|Selbstzerstörungsdynamik]] greift.
 
 ---
 
@@ -174,7 +174,7 @@ Erwachsene unterdrücken **Mimik und Gestik** fast vollständig und übermitteln
 ```
 TODO: Religion der Waldeldari ausarbeiten.
 - Verehrung der Eldarigöttin (= spirituelle Liebe = Energie-Gabe).
-- Folklore-Idee (später, → [[02.04 Religion & Götter#Eldarigöttin|Trauerarbeit-TODO]]):
+- Folklore-Idee (später, → [[Eldarigöttin|Trauerarbeit-TODO]]):
   ein „Schwestervolk", das in göttlichen Traumvisionen erscheint und das die Eldari
   als einst benachbartes, von einem bösen Feind ausgelöschtes Volk deuten —
   möglicher Ursprung des „Chaosgottes" in der Eldari-Folklore.

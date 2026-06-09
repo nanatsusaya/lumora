@@ -11,7 +11,7 @@ tags:
 
 Zwei Dinge zusammen sind der Grund, warum die Geschichte überhaupt beginnt — keines von beiden allein würde genügen.
 
-**1. Die Eskalationsschwelle (System).** Das [[03.01 Noetisches System|Noetische System]] kennt keine Obergrenze, die Kulturen davon abhält, noetische Wirkung bis ins Weltbedrohliche zu skalieren. Da die Schranke großer Effekte nur die [[03.02 Funktionsweise#Kosten & Skalierung noetischer Effekte|Amplitude]] ist und sich diese durch Kollektive, Kristalltechnik und intelligentes Engineering über viele Wirker verteilen lässt, kann eine Zivilisation die Schwelle weltbedrohlicher Wirkung erreichen — *lange bevor sie reif genug ist, mit ihr umzugehen*. Das ist die systemische Maschine hinter der [[05 Story Architecture/__Story Architecture#Die Selbstzerstörungsdynamik — Makroplot|Selbstzerstörungsdynamik]].
+**1. Die Eskalationsschwelle (System).** Das [[03.01 Noetisches System|Noetische System]] kennt keine Obergrenze, die Kulturen davon abhält, noetische Wirkung bis ins Weltbedrohliche zu skalieren. Da die Schranke großer Effekte nur die [[03.02 Funktionsweise#Kosten & Skalierung noetischer Effekte|Amplitude]] ist und sich diese durch Kollektive, Kristalltechnik und intelligentes Engineering über viele Wirker verteilen lässt, kann eine Zivilisation die Schwelle weltbedrohlicher Wirkung erreichen — *lange bevor sie reif genug ist, mit ihr umzugehen*. Das ist die systemische Maschine hinter der [[02.05 Geschichte#Das Makroproblem — Die Selbstzerstörungsdynamik|Selbstzerstörungsdynamik]].
 
 **2. Die Drei Regeln (Lore).** Die [[Die Drei Regeln|Drei Regeln des Ursprungsgottes]] sorgen dafür, dass kein Gott diese Eskalation aufhält: Kein einzelner Gott wird stark genug, um zu stabilisieren (Regel 1); niemand greift gegen das langsame Anwachsen ein (Regel 2); und Regel 3 greift nie, weil der Chaosgott nie direkt handelt.
 
@@ -33,11 +33,11 @@ Der RZG ist mehr als ein Bote — er ist der *Mechanismus* des Anfangs.
 
 **Der Avatar als Brücke.** Ein Bewusstseinstransfer braucht ein Medium — doch die Erde ist noetisch tot. Also ist der RZG *selbst* der Kanal: Sein Avatar ist nicht nur Köder, sondern die Brücke, über die das Substrat des Protagonisten getragen wird (siehe [[#Bewusstseinstransfer — Warum der Protagonist sterben muss]]). Der Tod löst das Substrat, der Gott trägt es über die Regionsgrenze.
 
-**Der eine Tell.** In seiner menschlichen Hülle wirkt der Avatar in fast allem gewöhnlich — bis auf eines: Er benutzt nie Sonderzeichen (kein Frage-, kein Ausrufezeichen, keine Auslassungspunkte). Selbst seine Fragen sind Feststellungen. Das ist die *einzige* Spur, die durchblutet — und für aufmerksame Leser die Verbindung zwischen dem mächtigen Wesen aus dem [[Part I - Kapitel 02|Götterrat]] und dem harmlosen „neuen Kollegen". Fair-Play-Mystery: Der Hinweis liegt offen, lange bevor er aufgelöst wird.
+**Der eine Tell.** In seiner menschlichen Hülle wirkt der Avatar in fast allem gewöhnlich — bis auf eines: Er benutzt nie Sonderzeichen (kein Frage-, kein Ausrufezeichen, keine Auslassungspunkte). Selbst seine Fragen sind Feststellungen. Das ist die *einzige* Spur, die durchblutet — und für aufmerksame Leser die Verbindung zwischen dem mächtigen Wesen aus dem [[08 Writing/08.01 Fertig/Part I - Kapitel 02|Götterrat]] und dem harmlosen „neuen Kollegen". Fair-Play-Mystery: Der Hinweis liegt offen, lange bevor er aufgelöst wird.
 
 **Zuneigung und Gleichgültigkeit zugleich.** Er mag die Erde wirklich. Trotzdem terminiert er den Kleinlaster, der den Protagonisten tötet, auf die Sekunde. Beides schließt sich nicht aus — es macht ihn kälter, nicht wärmer.
 
-> *Anmerkung:* Charakter-Profil (nicht-spoiler) siehe [[02.04 Religion & Götter#Raum-Zeit-Gott (RZG)|RZG-Profil]].
+> *Anmerkung:* Charakter-Profil (nicht-spoiler) siehe [[Raum-Zeit-Gott|RZG-Profil]].
 
 ---
 

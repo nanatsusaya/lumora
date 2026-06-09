@@ -12,7 +12,7 @@ Mutter des [[Protagonist]] auf der Erde. Zog ihn allein groß, nachdem der Vater
 **Bekannte Details:**
 - Starb vor ein, zwei Jahren vor Beginn der Geschichte — ein frischer, noch offener Verlust.
 - Kein Vater vorhanden: Sie war alles.
-- Der Protagonist besucht ihr Grab in [[Part I - Kapitel 03]].
+- Der Protagonist besucht ihr Grab in [[08 Writing/08.01 Fertig/Part I - Kapitel 03]].
 
 **Thematische Bedeutung:**
 Ihr Tod verstärkte seinen Rückzug auf den kleinen warmen Kreis (Frau und Kind). Die Wunde des Verlustes ist direkt mit seiner emotionalen Blindheit gegenüber der Welt verknüpft — er hortet die verbleibende Wärme, weil ihm schon zu viel genommen wurde. (→ [[Protagonist#Wurzeln & Wunde]])

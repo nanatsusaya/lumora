@@ -24,7 +24,7 @@ tags:
 
 **Seine Sprache — der wichtigste Tell:**
 - Der RZG benutzt **keine Sonderzeichen**: kein Frage-, kein Ausrufezeichen, keine Auslassungspunkte. Was er sagt, *war, ist und hat zu sein* — seine Worte sind schlichte Fakten. Er fragt nicht (er weiß bereits) und betont nicht (die Wirklichkeit richtet sich ohnehin nach ihm). Selbst Fragen erscheinen als Aussagen: „Du willst die Magie wirklich erlernen."
-- Das ist der einzige Zug, der auch durch seine menschliche Avatar-Hülle dringt — und für aufmerksame Leser die Brücke zwischen dem mächtigen Wesen aus dem [[Part I - Kapitel 02|Götterrat]] und dem harmlosen „neuen Kollegen" auf der Erde. (Aufschlüsselung: [[Story Start#Der Raum-Zeit-Gott — Die stille Brücke]].)
+- Das ist der einzige Zug, der auch durch seine menschliche Avatar-Hülle dringt — und für aufmerksame Leser die Brücke zwischen dem mächtigen Wesen aus dem [[08 Writing/08.01 Fertig/Part I - Kapitel 02|Götterrat]] und dem harmlosen „neuen Kollegen" auf der Erde. (Aufschlüsselung: [[Story Start#Der Raum-Zeit-Gott — Die stille Brücke]].)
 
 **Avatar auf der Erde:**
 - Tarnt sich als Arbeitskollege des Protagonisten und wirkt in praktisch allen Belangen menschlich. Der Avatar *weiß*, was er ist; seine Aufgabe ist, den Protagonisten zu einer freien Entscheidung zu bewegen — die Einwilligung ist ein Schlupfloch um die [[02.04 Religion & Götter#Die Drei Regeln des Ursprungsgottes|Drei Regeln]].

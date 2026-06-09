@@ -23,13 +23,13 @@ Nicht betroffen sind Völker mit deutlich abweichendem Körperbau ([[Drachen]], 
 
 ## Der Vorfall
 
-Vor rund 200 Millionen Jahren (Lumora-Zeit) brachte ein ungeduldiger Gott — der spätere [[02.04 Religion & Götter#Der Fremdbringer (Arbeitstitel)|Fremdbringer]] — eine kleine Gruppe **früher Menschenvorfahren von der [[Kosmologie & Universumsstruktur|Erde]]** nach Lumora. Wegen der [[Zeitdilatation zwischen den Regionen|Zeitdilatation zwischen den Regionen]] (~200 Lumorajahre je Erdjahr) lag diese Verschleppung auf der Erde nur ~1 Mio. Jahre zurück — ein früher Vertreter der Gattung *Homo* und damit ein echter Vorfahr des heutigen Menschen. Der [[02.04 Religion & Götter#Ursprungsgott|Ursprungsgott]] verbannte den Fremdbringer dafür aus dem Sonnensystem; die Verschleppten starben ohne ihren Gott. Ihre Überreste aber blieben. *(Die öffentliche Geschichtsebene → [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer]].)*
+Vor rund 200 Millionen Jahren (Lumora-Zeit) brachte ein ungeduldiger Gott — der spätere [[Fremdbringer|Fremdbringer]] — eine kleine Gruppe **früher Menschenvorfahren von der [[Kosmologie & Universumsstruktur|Erde]]** nach Lumora. Wegen der [[Zeitdilatation zwischen den Regionen|Zeitdilatation zwischen den Regionen]] (~200 Lumorajahre je Erdjahr) lag diese Verschleppung auf der Erde nur ~1 Mio. Jahre zurück — ein früher Vertreter der Gattung *Homo* und damit ein echter Vorfahr des heutigen Menschen. Der [[Ursprungsgott|Ursprungsgott]] verbannte den Fremdbringer dafür aus dem Sonnensystem; die Verschleppten starben ohne ihren Gott. Ihre Überreste aber blieben. *(Die öffentliche Geschichtsebene → [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer]].)*
 
 ---
 
 ## Was die Eldarigöttin tat
 
-Die [[02.04 Religion & Götter#Eldarigöttin|Eldarigöttin]] — seit rund zwei Milliarden Jahren eine der aktivste Gärtnerin Lumoras — nahm sich einzelne der zurückgebliebenen biologischen Proben und verschmolz sie, Zelle für Zelle, mit bestehendem **lumoranischen Biomaterial**. Nicht einmal, sondern unzählige Male.
+Die [[Eldarigöttin|Eldarigöttin]] — seit rund zwei Milliarden Jahren eine der aktivste Gärtnerin Lumoras — nahm sich einzelne der zurückgebliebenen biologischen Proben und verschmolz sie, Zelle für Zelle, mit bestehendem **lumoranischen Biomaterial**. Nicht einmal, sondern unzählige Male.
 
 Wichtig für die Konsistenz: Sie führte das fremde Material nicht als eigene Linie weiter, sondern pfropfte es auf lumoranisches Leben. Das Erbe Lumoras bleibt damit im Kern [[02.05 Geschichte#Die Gasriesenkatastrophe|einlinig]] — es trägt ab hier nur ein eingewachsenes fremdes Fragment.
 
@@ -43,12 +43,12 @@ Vieles dieses „geretteten" Genoms verlor sich rasch wieder. Aber nicht alles. 
 
 Fallengelassen heißt nicht verloren. Andere Götter wurden auf die unbeobachteten Linien aufmerksam und ließen ihre eigene Arbeit und Vorstellung darin aufgehen — meist, um sich eine nachhaltige Energiequelle (ein [[02.04 Religion & Götter#Energie durch Gläubige|verehrendes Volk]]) heranzuziehen. So entstanden über weitere Jahrmillionen:
 
-- [[Menschen]] ← [[02.04 Religion & Götter#Der Eifernde (Arbeitstitel)|Der Eifernde]] (die meistumkämpfte Linie — siehe unten)
-- [[Theriani]] ← [[02.04 Religion & Götter#Der Tiervater (Arbeitstitel)|Der Tiervater]]
-- [[Vulkani]] ← [[02.04 Religion & Götter#Der Tiefenschmied (Arbeitstitel)|Der Tiefenschmied]]
-- [[Aviari]] ← [[02.04 Religion & Götter#Der Himmelsherr (Arbeitstitel)|Der Himmelsherr]]
-- [[Luminaari]] ← [[02.04 Religion & Götter#Die Lichtweberin (Arbeitstitel)|Die Lichtweberin]]
-- [[Leviathari]] ← [[02.04 Religion & Götter#Der Gezeitenherr (Arbeitstitel)|Der Gezeitenherr]]
+- [[Menschen]] ← [[Der Eifernde|Der Eifernde]] (die meistumkämpfte Linie — siehe unten)
+- [[Theriani]] ← [[Der Tiervater|Der Tiervater]]
+- [[Vulkani]] ← [[Der Tiefenschmied|Der Tiefenschmied]]
+- [[Aviari]] ← [[Der Himmelsherr|Der Himmelsherr]]
+- [[Luminaari]] ← [[Die Lichtweberin|Die Lichtweberin]]
+- [[Leviathari]] ← [[Der Gezeitenherr|Der Gezeitenherr]]
 
 Das Ergebnis ließ lange auf sich warten — aber wer heute den Stammbaum der meisten Völker zurückverfolgt, landet bei diesem einen Vorfall.
 
@@ -62,7 +62,7 @@ Daraus folgt der Präzedenzfall, das die ganze Geschichte trägt:
 
 > **Bestraft wird das Einbringen fremden *Lebens* — nie das Einbringen fremden *Wissens*.** Kein Gott wurde je dafür belangt, dass er von außen mitgebrachtes Wissen einführte.
 
-Und genau hier kommt der [[02.04 Religion & Götter#Raum-Zeit-Gott (RZG)|RZG]] ins Spiel. Er bringt **kein fremdes Lebewesen** nach Lumora. Seine Transplantation des [[Der Protagonist|Protagonisten]] ist im Kern nur eingeführtes *Wissen* — ein Bewusstsein, ein Informationsmuster. Der Protagonist selbst ist mit seiner Wiedergeburt ein echter lebender Bewohner Lumoras: ein auf Lumora gezeugter [[Waldeldari|Waldeldari]]-Körper. Fremd ist nur die Information, nicht das Fleisch. *(→ [[Der Raum-Zeit-Gott]], [[Das Kernproblem]].)*
+Und genau hier kommt der [[Raum-Zeit-Gott|RZG]] ins Spiel. Er bringt **kein fremdes Lebewesen** nach Lumora. Seine Transplantation des [[Der Protagonist|Protagonisten]] ist im Kern nur eingeführtes *Wissen* — ein Bewusstsein, ein Informationsmuster. Der Protagonist selbst ist mit seiner Wiedergeburt ein echter lebender Bewohner Lumoras: ein auf Lumora gezeugter [[Waldeldari|Waldeldari]]-Körper. Fremd ist nur die Information, nicht das Fleisch. *(→ [[Der Raum-Zeit-Gott]], [[Das Kernproblem]].)*
 
 ---
 

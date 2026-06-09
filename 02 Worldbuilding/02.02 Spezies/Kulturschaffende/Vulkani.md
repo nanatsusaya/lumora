@@ -11,7 +11,7 @@ tags:
 *Tag:* #vulkani
 *Status:* #wip
 
-**Herkunft:** Aus einer Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[02.04 Religion & Götter#Der Tiefenschmied (Arbeitstitel)|Tiefenschmied]] unter Tage in Hitze und Gestein lenkte.
+**Herkunft:** Aus einer Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[Der Tiefenschmied|Tiefenschmied]] unter Tage in Hitze und Gestein lenkte.
 
 **Biologie:** Klein, kräftig, muskulös. Widerstandsfähige Haut. Außerordentlich robust gegenüber Hitze und Kälte. Lange Bärte sind kulturell verbreitet.
 

@@ -1,3 +1,10 @@
+---
+tags:
+  - part-1
+  - director
+  - rzg-avatar
+  - protagonist
+---
 # Part I - Kapitel 05
 
 ## 1. Entwurf
@@ -243,7 +250,7 @@ Er hebt die Tasche auf, und für einen Moment habe ich das alberne Gefühl, dass
 
 Dann gehen wir los.
 
-### Anmerkungen (2. Entwurf)
+### Anmerkungen
 
 * **Ankunft als Übergang aus K3/K4.** Drei kurze Beats (Schüler, schwarzes Brett, Kollegin) bringen den Protagonisten in den Schulalltag und etablieren seinen Ruf als gemochter, lockerer Lehrer.
 * **Soziale Aufblitzer** (halb abgekratzter Aufkleber, Handy-Video, „...das sagt meine Mutter
@@ -360,6 +367,10 @@ Er sagt es so beiläufig, dass ich kurz nicht weiß, ob das ein Scherz war. Bei 
 
 „Gut, Herr #rzg-avatar ." Ich deute den Flur entlang. „Fangen wir mit dem Wichtigsten an. Lehrerzimmer, Kop
 
+### Anmerkungen
+
+TODO
+
 ## 4. Entwurf
 
 Die Schule empfängt mich wie jeden Morgen mit Lärm. Dreihundert Stimmen, schlagende Spindtüren, das Quietschen von Sohlen auf dem Boden. Und über allem dieser eine Geruch, den es so nur in Schulen gibt: Kreide, altes Holz und die warme, verbrauchte Luft eines Raums voller junger Köpfe.
@@ -464,7 +475,7 @@ Er sagt es so beiläufig, dass ich kurz nicht weiß, ob das ein Scherz war. Bei 
 
 Er nimmt seine Tasche. Dann gehen wir los.
 
-### Anmerkungen (4. Entwurf)
+### Anmerkungen
 
 * Alle Punkte der letzten Durchsicht eingearbeitet: Geruch auf Holz/Kreide umgewichtet (1), echte 10.-Klasse-Aufgabe mit Zwinkern (2), Hetze perlt ab, Kopf schon beim Termin (3), „Ich hab nichts gesehen." (4), Direktor-Pause als Halbsatz statt Einwort (5), konkrete Schulaufsicht/Sporthalle (6), „Er liest einen Manga." als eigener Absatz (7), verschwindender Manga gestrichen + Kontinuität geglättet: er lässt ihn beim Aufstehen in die Tasche gleiten (9).
 * **Offen, zum Besprechen (8):** „Irgendwohin, wo die Dinge am Ende noch aufgehen." — bewusst unverändert gelassen, das ist der thematische Kern. Dazu separat.

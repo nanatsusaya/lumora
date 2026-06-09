@@ -37,4 +37,4 @@ tags:
 - *Drakes:* Schlangenartig, bodenlebend, robust.
 - *Basilisken:* Kleiner, giftig, bewohnen Sümpfe und Höhlen.
 
-> *Kritische Anmerkung:* Drachen als Pseudogötter, die durch einen Kristallkern Noetische Energie speichern — das macht sie zum biologischen Äquivalent der transzendenten Götter. Ein Drache, der intelligent und alt genug wird, könnte theoretisch echte Transzendenz erreichen. Der [[02.04 Religion & Götter#Frosteldari-Pseudogott|Frosteldari-Drachen-Pseudogott]] beweist, dass das möglich ist. Das eröffnet eine Frage: Wie viele Götter Lumoras waren ursprünglich Drachen?
+> *Kritische Anmerkung:* Drachen als Pseudogötter, die durch einen Kristallkern Noetische Energie speichern — das macht sie zum biologischen Äquivalent der transzendenten Götter. Ein Drache, der intelligent und alt genug wird, könnte theoretisch echte Transzendenz erreichen. Der [[Frosteldari-Pseudogott|Frosteldari-Drachen-Pseudogott]] beweist, dass das möglich ist. Das eröffnet eine Frage: Wie viele Götter Lumoras waren ursprünglich Drachen?

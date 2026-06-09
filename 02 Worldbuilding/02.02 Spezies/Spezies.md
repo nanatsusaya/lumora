@@ -32,7 +32,7 @@ Gott sie durch freches Genflipping in eine völlig andere Richtung lenkte — ei
 von keinem Gott geplant war, mit entsprechend eigenwilligen Eigenheiten.
 Offen: Welches Volk? Welche zwei Götter? (Die Mechanik des göttlichen Stellvertreterkriegs um
 Linien ist noch in [[02.05 Geschichte]] / [[02.04 Religion & Götter]] nachzutragen.)
-Vorschlag (jetzt ausgearbeitet): die [[Menschen]] — die meistumkämpfte Linie des gemeinsamen Ursprungs. Siehe [[Der gemeinsame Ursprung]] und [[02.04 Religion & Götter#Der Eifernde (Arbeitstitel)|Der Eifernde]].
+Vorschlag (jetzt ausgearbeitet): die [[Menschen]] — die meistumkämpfte Linie des gemeinsamen Ursprungs. Siehe [[Der gemeinsame Ursprung]] und [[Der Eifernde|Der Eifernde]].
 ```
 
 ---

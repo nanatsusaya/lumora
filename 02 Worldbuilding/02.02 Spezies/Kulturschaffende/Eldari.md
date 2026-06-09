@@ -9,17 +9,17 @@ tags:
 *EN: Eldari (Elves)*
 *Tag:* #eldari
 
-Die **Eldari** sind eine der ältesten kulturschaffenden [[Spezies]] Lumoras — das zweitälteste intelligente Volk nach den [[Drachen]]. Geschaffen wurden sie von der [[02.04 Religion & Götter#Eldarigöttin|Eldarigöttin]] vor rund einer Million Jahren.
+Die **Eldari** sind eine der ältesten kulturschaffenden [[Spezies]] Lumoras — das zweitälteste intelligente Volk nach den [[Drachen]]. Geschaffen wurden sie von der [[Eldarigöttin|Eldarigöttin]] vor rund einer Million Jahren.
 
-Diese Note behandelt die **Spezies**. Die ausgearbeitete Gesellschaft der Waldelfen liegt in [[Waldeldari]], die Göttin in [[02.04 Religion & Götter#Eldarigöttin|02.04]], die Einordnung in die Erdgeschichte in [[02.05 Geschichte]].
+Diese Note behandelt die **Spezies**. Die ausgearbeitete Gesellschaft der Waldelfen liegt in [[Waldeldari]], die Göttin in [[Eldarigöttin]], die Einordnung in die Erdgeschichte in [[02.05 Geschichte]].
 
 ---
 
 ## Herkunft
 
-Die Eldari sind kein Sonderfall, sondern ein gezieltes Produkt der [[02.05 Geschichte#Die Werkstatt der Götter|Werkstatt der Götter]]: eine über Äonen von der [[02.04 Religion & Götter#Eldarigöttin|Eldarigöttin]] geführte **Speziation aus einer Vorläuferlinie**. Was die Eldari als „Erschaffung" durch ihre Göttin verehren (Glaubensversion), ist systemisch das geduldige, generationenweise Lenken vieler Genome bis zum gewünschten Ergebnis.
+Die Eldari sind kein Sonderfall, sondern ein gezieltes Produkt der [[02.05 Geschichte#Die Werkstatt der Götter|Werkstatt der Götter]]: eine über Äonen von der [[Eldarigöttin|Eldarigöttin]] geführte **Speziation aus einer Vorläuferlinie**. Was die Eldari als „Erschaffung" durch ihre Göttin verehren (Glaubensversion), ist systemisch das geduldige, generationenweise Lenken vieler Genome bis zum gewünschten Ergebnis.
 
-Die Eldarigöttin wünschte sich ein Volk *wie sie selbst* — weise, verständnisvoll, im Einklang mit der Natur, verantwortungsvoll und friedfertig. Aber keine zahmen Haustiere: Es sollte sich verteidigen können und eine tragende **Säule Lumoras** werden, nicht isoliert und ängstlich existieren — eine Lehre aus dem Verlust ihres ersten Volkes. Sie war damit nicht die Erste: Ein [[02.04 Religion & Götter#Drachengott|anderer Gott]] brachte zuvor mit den [[Drachen]] das erste intelligente Volk hervor. *(Details → [[02.04 Religion & Götter#Eldarigöttin|Eldarigöttin]].)*
+Die Eldarigöttin wünschte sich ein Volk *wie sie selbst* — weise, verständnisvoll, im Einklang mit der Natur, verantwortungsvoll und friedfertig. Aber keine zahmen Haustiere: Es sollte sich verteidigen können und eine tragende **Säule Lumoras** werden, nicht isoliert und ängstlich existieren — eine Lehre aus dem Verlust ihres ersten Volkes. Sie war damit nicht die Erste: Ein [[Drachengott|anderer Gott]] brachte zuvor mit den [[Drachen]] das erste intelligente Volk hervor. *(Details → [[Eldarigöttin|Eldarigöttin]].)*
 
 ---
 
@@ -171,7 +171,7 @@ TODO:
 
 *Die ausführliche Gesellschaft der Waldelfen → [[Waldeldari]].* Hier nur das Speziesübergreifende:
 
-- **Staatsform:** lange monarchisch; in den letzten ~100.000 Jahren durch die [[02.04 Religion & Götter#Eldarigöttin|Eldarigöttin]] auf **Clans, Disziplinen und ein Triumvirat** umgestellt (→ [[Waldeldari#Die göttliche Schablone|göttliche Schablone]]).
+- **Staatsform:** lange monarchisch; in den letzten ~100.000 Jahren durch die [[Eldarigöttin|Eldarigöttin]] auf **Clans, Disziplinen und ein Triumvirat** umgestellt (→ [[Waldeldari#Die göttliche Schablone|göttliche Schablone]]).
 - **Begleiter-System:** Ein Eldari kann aus Respekt oder einer Lebensschuld heraus Begleiter eines anderen werden — eine bindende soziale Verpflichtung.
 - **Gift:** In höheren sozialen Schichten wird Gift eingesetzt, um Fähigkeiten anderer zu *schwächen* (nicht zu töten). Kinder des Hochadels erhalten daher Unterricht in Giftlehre. *(Schattenseite der Clan-Rivalität → [[Waldeldari#Clans|Clans]].)*
 
@@ -179,7 +179,7 @@ TODO:
 
 ## Phänotypen & ihr Riss
 
-**Wüsteneldari-Besonderheit:** Sie können in noetisch toten Regionen überleben und N-Kraft nutzen — eine Anpassung, die ihnen der [[02.04 Religion & Götter#Wüsteneldari-Gott (Arbeitstitel)|Wüstengott]] lehrte und die sie von anderen Eldari kulturell und praktisch trennt.
+**Wüsteneldari-Besonderheit:** Sie können in noetisch toten Regionen überleben und N-Kraft nutzen — eine Anpassung, die ihnen der [[Wüsteneldari-Gott|Wüstengott]] lehrte und die sie von anderen Eldari kulturell und praktisch trennt.
 
 > *Kritische Anmerkung:* Die drei Eldari-Gruppen sind biologisch eine Spezies, aber religiös und kulturell völlig verschieden. Das ist ein exzellentes Spannungsfeld. Der Konflikt zwischen Eldarigöttin und Wüstengott ist kein abstrakter Götterkampf — er spiegelt sich in realen Spannungen zwischen Bevölkerungsgruppen wider. Dieser Riss sollte sichtbar sein, wenn der Protagonist auf Eldari trifft.
 
@@ -187,7 +187,7 @@ TODO:
 
 ## Religion
 
-Die spirituelle Liebe der Eldari — die Verehrung der [[02.04 Religion & Götter#Eldarigöttin|Eldarigöttin]] — ist zugleich der innerweltliche Ausdruck der [[02.04 Religion & Götter#Energie durch Gläubige|Energie-Ökonomie der Götter]]: freiwillig geschenkte Noetische Energie. Details → [[Waldeldari]] / [[02.04 Religion & Götter]].
+Die spirituelle Liebe der Eldari — die Verehrung der [[Eldarigöttin|Eldarigöttin]] — ist zugleich der innerweltliche Ausdruck der [[02.04 Religion & Götter#Energie durch Gläubige|Energie-Ökonomie der Götter]]: freiwillig geschenkte Noetische Energie. Details → [[Waldeldari]] / [[02.04 Religion & Götter]].
 
 ```
 TODO: Wie verhält sich der Protagonist (als Waldeldari geboren) zu Wüsten- und Frostelfen?

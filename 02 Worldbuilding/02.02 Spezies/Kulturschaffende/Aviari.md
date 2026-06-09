@@ -11,7 +11,7 @@ tags:
 *Tag:* #aviari
 *Status:* #wip
 
-**Herkunft:** Aus einer Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[02.04 Religion & Götter#Der Himmelsherr (Arbeitstitel)|Himmelsherr]] für Wind und Flug leichter machte.
+**Herkunft:** Aus einer Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[Der Himmelsherr|Himmelsherr]] für Wind und Flug leichter machte.
 
 **Biologie:** Humanoide mit vogelähnlichen Merkmalen — Federn, Flügel, scharfe Augen. Körper leicht und aerodynamisch. Flugfähig.
 

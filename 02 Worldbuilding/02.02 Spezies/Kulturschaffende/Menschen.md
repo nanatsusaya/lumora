@@ -10,7 +10,7 @@ tags:
 *EN: humans*
 *Tag:* #humans
 
-**Herkunft:** Wie die meisten humanoiden Völker stammen die Menschen aus dem geretteten [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatgut]] (→ [[Der gemeinsame Ursprung]]). Ihre Linie war im Werkstatt-Spiel der Götter die meistumkämpfte und wurde so oft umgelenkt, dass keine Spezialisierung haften blieb — zurück blieb ein Generalist, der nur den rastlosen Ehrgeiz seines fast vergessenen Schöpfers, des [[02.04 Religion & Götter#Der Eifernde (Arbeitstitel)|Eifernden]], in sich trägt.
+**Herkunft:** Wie die meisten humanoiden Völker stammen die Menschen aus dem geretteten [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatgut]] (→ [[Der gemeinsame Ursprung]]). Ihre Linie war im Werkstatt-Spiel der Götter die meistumkämpfte und wurde so oft umgelenkt, dass keine Spezialisierung haften blieb — zurück blieb ein Generalist, der nur den rastlosen Ehrgeiz seines fast vergessenen Schöpfers, des [[Der Eifernde|Eifernden]], in sich trägt.
 
 **Biologie:** Vielseitige, anpassungsfähige Wesen mittlerer Größe. Haut- und Haarfarben variieren stark je nach Region und Kontinent. Keine speziellen biologischen Sonderkräfte — Kompensation durch Einfallsreichtum und Kooperation.
 
@@ -33,5 +33,5 @@ Wie verhält sich die Menschheit zu den anderen Völkern diplomatisch?
 ```
 TODO (Herkunft & Tempo):
 - Entstehung: Vermutlich deutlich jünger als die Eldari. Idee: das Lumora-Pendant des Homo sapiens entstand evtl. erst vor ~150.000 Jahren. Dann hätte ihre Entwicklung bis zu einer technologisch etwa „früh viktorianischen" Gesellschaft nur rund halb so lange gedauert wie auf der Erde — konsistent mit der durch Götter beschleunigten Biologie und der These „jüngere Völker entwickeln sich schneller" (→ [[Eldari#Die zwei Uhren & das gemächliche Tempo]]).
-- Wüsteneldari-Vernichter (~100.000 Jahre, siehe [[02.04 Religion & Götter#Eldarigöttin|02.04]]): Mit der Neudatierung der Menschen wackelt das. Evtl. ein anderes Volk als „Gegner" wählen (ein rivalisierendes Eldari-Reich? die Drachen?).
+- Wüsteneldari-Vernichter (~100.000 Jahre, siehe [[Eldarigöttin]]): Mit der Neudatierung der Menschen wackelt das. Evtl. ein anderes Volk als „Gegner" wählen (ein rivalisierendes Eldari-Reich? die Drachen?).
 ```

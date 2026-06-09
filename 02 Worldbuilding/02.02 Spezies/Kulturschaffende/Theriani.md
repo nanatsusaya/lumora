@@ -11,7 +11,7 @@ tags:
 *Tag:* #theriani
 *Status:* #wip
 
-**Herkunft:** Aus einer fallengelassenen Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[02.04 Religion & Götter#Der Tiervater (Arbeitstitel)|Tiervater]] zur Tierverwandtschaft hin formte; die vielen Unterarten spiegeln seine Lust an der Vielfalt.
+**Herkunft:** Aus einer fallengelassenen Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[Der Tiervater|Tiervater]] zur Tierverwandtschaft hin formte; die vielen Unterarten spiegeln seine Lust an der Vielfalt.
 
 **Biologie:** Humanoide mit tierischen Merkmalen — Fell, Klauen, Schwänze, je nach Unterart stark variierend. Jede Unterart ist an ihr spezifisches Biotop angepasst (Wolfsmenschen in Wäldern, Fischmenschen in Küstengebieten, etc.). Fortpflanzung innerhalb der Theriani-Art ist möglich; Kinder können Merkmale beider Elternteile zeigen.
 

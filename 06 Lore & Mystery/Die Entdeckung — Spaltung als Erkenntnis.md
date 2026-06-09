@@ -29,7 +29,7 @@ Der Protagonist ist das exakte Gegenteil. Er ist nicht aufgestiegen, sondern **z
 
 Für jeden Gott ist „ein Bewusstsein, geteilt und gegen sich selbst" *undenkbar*, weil Göttlichkeit Integration **ist** — ein gespaltener Gott ist für sie ein Widerspruch in sich (der einzige reale Fall, der Ursprungsgott, beweist es: Er ist für die eigene Spaltung blind). Selbst ein wissenschaftlicher, gereifter Gott bleibt ein *integriertes* Wesen. Der Protagonist ist das einzige denkende Wesen Lumoras, dem die Spaltung nicht Theorie, sondern **Autobiografie** ist.
 
-Das ist kausal sauber, kein mystisches Auserwähltsein: Seine Fragmentierung ist die direkte, physikalische Folge des Transfers eines Void-Bewusstseins in einen noetischen Körper über eine Regionsgrenze. Und sie ist exklusiv: Pseudogötter und aufgestiegene Sterbliche (wie die [[02.04 Religion & Götter#Eldarigöttin (Arbeitstitel)|Eldarigöttin]]) sind *aufgestiegen*, also integriert. Nur der transplantierte Sterbliche ist herabgesetzt.
+Das ist kausal sauber, kein mystisches Auserwähltsein: Seine Fragmentierung ist die direkte, physikalische Folge des Transfers eines Void-Bewusstseins in einen noetischen Körper über eine Regionsgrenze. Und sie ist exklusiv: Pseudogötter und aufgestiegene Sterbliche (wie die [[Eldarigöttin|Eldarigöttin]]) sind *aufgestiegen*, also integriert. Nur der transplantierte Sterbliche ist herabgesetzt.
 
 ---
 
@@ -69,11 +69,11 @@ Skaliert man dieses Gesetz, erklärt es das gesamte [[Das Kernproblem|Makroprobl
 
 Kein einzelner Eureka-Moment, sondern eine über die Reise verteilte Kette — **jeder Baustein durch eine Tat erworben**:
 
-1. **Der Anstoß.** Der [[02.04 Religion & Götter#Strippenzieher-Gott (Arbeitstitel)|Strippenzieher-Gott]] *spürt*, dass mit dem Ursprungsgott etwas nicht stimmt, kann es aber nicht fassen — als Gott fehlt ihm das Denkmodell. Er trägt diese Unruhe an den Protagonisten heran und macht ihn so zum Detektiv. (Zugleich der Ursprung von dessen Misstrauen gegen die Drei Regeln.)
+1. **Der Anstoß.** Der [[Strippenzieher-Gott|Strippenzieher-Gott]] *spürt*, dass mit dem Ursprungsgott etwas nicht stimmt, kann es aber nicht fassen — als Gott fehlt ihm das Denkmodell. Er trägt diese Unruhe an den Protagonisten heran und macht ihn so zum Detektiv. (Zugleich der Ursprung von dessen Misstrauen gegen die Drei Regeln.)
 2. **Die Begriffe.** Erst auf seiner Reise durch Lumora und in deren tiefere Geschichte fallen die Worte „Ordnungsgott" / „Chaosgott" — stets als *antagonistisch* geprägte Gegenpole. Der Protagonist hat sofort das Yin-Yang-Bild im Kopf (Mann/Frau, Gut/Böse) — wendet es aber zunächst *nicht* auf die Kernfrage an.
 3. **Die Analyse.** Im „Detektiv-Spiel" seziert er das Konzept der Götter — analytisch, wie ein Außenstehender, weil er Noetik nie instinktiv, sondern als Modell gelernt hat.
 4. **Die Konfrontation.** Beim Zusammentreffen mit dem RZG beobachtet er aus der Nähe die geteilte, nicht-lokale Natur transzendierter Wesen. Langsam formt sich die Frage: *Könnte der Ursprungsgott eine gespaltene Persönlichkeit haben?*
-5. **Die Deutung (nicht Beobachtung).** Er stellt diese Frage vor den drei Göttern aus [[Part I - Kapitel 02|Kapitel 2]]. Sie können den Ursprungsgott *nicht neu beobachten* (niemand durchschaut ihn) — aber mit dem nun **denkbaren Rahmen** endlich *deuten*, was sie längst wussten: die Natur der Regeln, die Orthyros-Katastrophe, das Muster des „Chaosgottes". Die Wahrheit verdichtet sich.
+5. **Die Deutung (nicht Beobachtung).** Er stellt diese Frage vor den drei Göttern aus [[08 Writing/08.01 Fertig/Part I - Kapitel 02|Kapitel 2]]. Sie können den Ursprungsgott *nicht neu beobachten* (niemand durchschaut ihn) — aber mit dem nun **denkbaren Rahmen** endlich *deuten*, was sie längst wussten: die Natur der Regeln, die Orthyros-Katastrophe, das Muster des „Chaosgottes". Die Wahrheit verdichtet sich.
 6. **Der Höhepunkt.** Es bricht durch: **Der Ursprungsgott IST der Chaosgott.** Und [[Die Drei Regeln|Regel 3]] sagt — sobald der Chaosgott droht, Lumora zu vernichten, müssen *alle* Götter gemeinsam gegen ihn vorgehen.
 
 *(Wie dieser Akt aufgelöst wird — was die Wahrheit konkret bewirkt, wie Regel 3 sich gegen ihren eigenen Urheber wendet — ist noch offen, siehe unten.)*

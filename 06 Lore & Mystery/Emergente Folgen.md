@@ -19,7 +19,7 @@ Niemand ist der Bösewicht; das Unheil entsteht aus der *Struktur*, nicht aus b�
 
 - **Die Drei Regeln.** Aufgestellt als Schutz des Sonnensystems — und genau dadurch eine Falle, die jedes Gegenmittel verbietet. *(→ [[Die Drei Regeln]])*
 - **Harmonisches Zusammenleben.** Biologisch zur Sanftmut selektiert — und gerade deshalb blind für die Gefahr auf der Ebene von Kulturen und Distanz. *(→ [[03.07 Noetische Evolution]])*
-- **Die Eldarigöttin.** Ihre Liebe ist echt — aber im falschen Zeitmaßstab; ihre Fürsorge kommt stets einen Schritt zu spät. *(→ [[02.04 Religion & Götter#Eldarigöttin|Eldarigöttin]])*
+- **Die Eldarigöttin.** Ihre Liebe ist echt — aber im falschen Zeitmaßstab; ihre Fürsorge kommt stets einen Schritt zu spät. *(→ [[Eldarigöttin|Eldarigöttin]])*
 - **Die göttliche Schablone der Eldari.** Eingeführt, um ein sanftes Volk überdauern zu lassen — und sät dabei selbst die Hybris und den Fortschrittsdrang, die es zur Katastrophe treiben. *(→ [[Waldeldari#Die göttliche Schablone|göttliche Schablone]])*
 - **Die Stärken der Eldari.** Langes Leben, lebende Technik, geringe Zahl — jede Stärke kippt im beschleunigten Zeitalter zur tödlichen Schwäche. *(→ [[Eldari#Eine zum Aussterben verdammte Spezies?|die Eldari-Falle]])*
 

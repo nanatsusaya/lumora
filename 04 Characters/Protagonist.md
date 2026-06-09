@@ -44,7 +44,7 @@ Die wenigen bekannten Fakten seiner Vergangenheit tragen bereits seine ganze Psy
 
 ## Überführung nach Lumora (Transfer & Tod)
 
-Auf der Erde nähert sich ihm der [[02.04 Religion & Götter#Raum-Zeit-Gott (RZG)|RZG]] in Gestalt eines neuen Arbeitskollegen. Mit scheinbar billigen „Zaubertricks" zieht er den Protagonisten — einen heimlichen Fantasy-Nerd — ins Gespräch. Der Protagonist findet die Tricks großartig und fragt von sich aus, ob er ein paar lernen könne, um damit später sein Kind zum Lachen zu bringen. Am nächsten Tag führt der „Kollege" ihn nach der Arbeit an einen abgelegenen Ort mit schöner Aussicht und fragt, ob er „die Magie" *wirklich* erlernen wolle. Der Protagonist deutet es als verspielte Geste eines Trickmagiers und bejaht. Dem RZG genügt das als Einwilligung — er tötet ihn mit einem Kleinlaster, und die Geschichte beginnt.
+Auf der Erde nähert sich ihm der [[Raum-Zeit-Gott|RZG]] in Gestalt eines neuen Arbeitskollegen. Mit scheinbar billigen „Zaubertricks" zieht er den Protagonisten — einen heimlichen Fantasy-Nerd — ins Gespräch. Der Protagonist findet die Tricks großartig und fragt von sich aus, ob er ein paar lernen könne, um damit später sein Kind zum Lachen zu bringen. Am nächsten Tag führt der „Kollege" ihn nach der Arbeit an einen abgelegenen Ort mit schöner Aussicht und fragt, ob er „die Magie" *wirklich* erlernen wolle. Der Protagonist deutet es als verspielte Geste eines Trickmagiers und bejaht. Dem RZG genügt das als Einwilligung — er tötet ihn mit einem Kleinlaster, und die Geschichte beginnt.
 
 > Die Einwilligung ist kein Zufall, sondern ein Schlupfloch um die [[02.04 Religion & Götter#Die Drei Regeln des Ursprungsgottes|Drei Regeln]]: Der RZG *entführt* nicht, er lässt frei zustimmen — dem Buchstaben nach regelkonform, dem Sinn nach Verrat.
 
@@ -76,7 +76,7 @@ Auf der Erde nähert sich ihm der [[02.04 Religion & Götter#Raum-Zeit-Gott (RZG
 
 Sein zentraler Fehler ist das **selektive Hören und Wegschauen**: Er nimmt von der Welt nur, was ihn unmittelbar betrifft, und überhört oder übersieht den Rest (siehe oben: *Emotionale Blindheit*, *Ignoriert soziale Spannungen*). Genau dieser Fehler wird sein Verhängnis — und er teilt ihn mit dem Wesen, das ihn nach Lumora bringt.
 
-- **Der Spiegel.** Der Protagonist hört „lern ein paar Zaubertricks" und überhört das „willst du das *wirklich*". Der [[02.04 Religion & Götter#Raum-Zeit-Gott (RZG)|RZG]] hört das „Ja" und überhört, dass kein Verstehen dahintersteht. Beide nehmen das Wort und ignorieren die Bedeutung. Die Katastrophe hat zwei Autoren — Mensch und Gott sind, je auf ihre Art, **derselbe Fehler in zwei Maßstäben**.
+- **Der Spiegel.** Der Protagonist hört „lern ein paar Zaubertricks" und überhört das „willst du das *wirklich*". Der [[Raum-Zeit-Gott|RZG]] hört das „Ja" und überhört, dass kein Verstehen dahintersteht. Beide nehmen das Wort und ignorieren die Bedeutung. Die Katastrophe hat zwei Autoren — Mensch und Gott sind, je auf ihre Art, **derselbe Fehler in zwei Maßstäben**.
 - **Gleich in der Sünde, entgegengesetzt im Preis.** Das selektive Hören des Protagonisten kostet *ihn*; das des RZG kostet ihn *alles* — und den Gott *nichts*. Darum ist sein späterer Zorn auf den RZG *zugleich* heuchlerisch (er tat dasselbe) *und* berechtigt (die Folgen sind grotesk ungleich). Diese Doppeldeutigkeit nicht auflösen.
 - **Der Bogen.** Seine ganze Entwicklung auf Lumora — vom Wegschauer zum Verantwortungsträger — ist das mühsame Erlernen des *Gegenteils*: wirklich hinhören, wirklich hinsehen. Wenn er den RZG viel später in dessen wahrer Gestalt voller Hass anschnauzt, brüllt er im Grunde sein altes Ich an. Die Konfrontation ist daher kein bloßes „ich hasse dich", sondern: Er erkennt sich im Verhassten.
 
@@ -104,7 +104,7 @@ Die Rettung Lumoras ist anfangs irrelevant für ihn. Lumora wird erst dann zur P
 
 - **Misstrauen:** Wird von Lumoranern als Außenseiter wahrgenommen — denkt und handelt fundamental anders.
 - **Politische Intrigen:** Als Kind einer aristokratischen Eldari-Familie: Machtspiele und Erwartungen.
-- **Göttereinfluss:** Der [[02.04 Religion & Götter#Strippenzieher-Gott|Strippenzieher-Gott]] lenkt sein Leben subtil — was der Protagonist nicht weiß und später nicht gutheißen wird.
+- **Göttereinfluss:** Der [[Strippenzieher-Gott|Strippenzieher-Gott]] lenkt sein Leben subtil — was der Protagonist nicht weiß und später nicht gutheißen wird.
 
 ---
 
@@ -121,7 +121,7 @@ Die Rettung Lumoras ist anfangs irrelevant für ihn. Lumora wird erst dann zur P
 - *Vater (Eldari):* Streng, oft abwesend. Die Verantwortung liegt bei der Mutter.
 - *Geschwister:* Potenzielle Verbündete oder Rivalen (noch nicht ausgearbeitet).
 
-**[[02.04 Religion & Götter#Raum-Zeit-Gott|Raum-Zeit-Gott]]:**
+**[[Raum-Zeit-Gott|Raum-Zeit-Gott]]:**
 - Brachte ihn nach Lumora, ohne die menschlichen Konsequenzen zu berücksichtigen.
 - Spätes Wiederauftauchen in der Geschichte → Antworten und neue Konflikte.
 
@@ -143,7 +143,7 @@ Der Protagonist war auf der Erde männlich und Vater. Er wird auf Lumora als Eld
 
 ## Entwicklung — Schlüsselmomente
 
-**Startpunkt:** Geburt auf Lumora. Ersteinmal extrem Wütend auf den [[02.04 Religion & Götter#Raum-Zeit-Gott (RZG)|Raum-Zeit-Gott]], wütet unkontrolliert als Neugeborenes. Entdeckt langsam die neue Realität. Erste intuitive N-Kraft-Nutzung → Erstaunen und Misstrauen bei anderen.
+**Startpunkt:** Geburt auf Lumora. Ersteinmal extrem Wütend auf den [[Raum-Zeit-Gott|Raum-Zeit-Gott]], wütet unkontrolliert als Neugeborenes. Entdeckt langsam die neue Realität. Erste intuitive N-Kraft-Nutzung → Erstaunen und Misstrauen bei anderen.
 
 **Frühe Entwicklung:**
 - Beginnt zu wachsen, lernt N-Kraft-Fähigkeiten. Überrascht Lehrer mit fortgeschrittenen Fragen → erhält Extra-Unterricht.

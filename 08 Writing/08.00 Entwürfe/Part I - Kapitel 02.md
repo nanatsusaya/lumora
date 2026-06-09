@@ -5,6 +5,7 @@ tags:
   - "#rzg"
   - eldari-goddess
   - puppeteer-god
+  - protagonist
 ---
 # Part I - Kapitel 02
 

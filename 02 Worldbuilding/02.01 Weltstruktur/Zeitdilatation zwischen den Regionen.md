@@ -10,7 +10,7 @@ Die Zeit läuft nicht überall im Universum gleich schnell. Weil die [[Kosmologi
 
 > **In Lumoras Region vergeht die Zeit deutlich schneller als in der Region der Erde.**
 
-Das ist keine gravitative Dilatation im Sinne der Relativitätstheorie (die bräuchte ein Schwarzes-Loch-Niveau) — sondern eine Eigenschaft der **Region selbst**: Ihr gesamter physikalischer Takt ist schneller. Innerhalb einer Region läuft die Zeit einheitlich; nur *zwischen* Regionen entsteht der Unterschied. Wer beide Regionen überbrücken kann, kann ihn nutzen — und genau das ist die Domäne des [[02.04 Religion & Götter#Raum-Zeit-Gott (RZG)|RZG]].
+Das ist keine gravitative Dilatation im Sinne der Relativitätstheorie (die bräuchte ein Schwarzes-Loch-Niveau) — sondern eine Eigenschaft der **Region selbst**: Ihr gesamter physikalischer Takt ist schneller. Innerhalb einer Region läuft die Zeit einheitlich; nur *zwischen* Regionen entsteht der Unterschied. Wer beide Regionen überbrücken kann, kann ihn nutzen — und genau das ist die Domäne des [[Raum-Zeit-Gott|RZG]].
 
 ## Der Faktor
 

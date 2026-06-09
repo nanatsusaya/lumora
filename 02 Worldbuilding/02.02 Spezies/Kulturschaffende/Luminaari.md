@@ -11,7 +11,7 @@ tags:
 *Tag:* #luminaari
 *Status:* #wip
 
-**Herkunft:** Aus einer zarten Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die die [[02.04 Religion & Götter#Die Lichtweberin (Arbeitstitel)|Lichtweberin]] auf Licht und N-Feld-Verschmelzung hin formte.
+**Herkunft:** Aus einer zarten Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die die [[Die Lichtweberin|Lichtweberin]] auf Licht und N-Feld-Verschmelzung hin formte.
 
 **Biologie:** Winzig, humanoid, mit lichtdurchlässigen Flügeln. Haut und Flügel brechen Licht und erzeugen schimmernde Farben. Biolumineszenz: Intensität und Farbe variieren mit Energielevel und emotionalem Zustand — ein unwillkürlicher emotionaler Anzeiger. Langlebig, aber körperlich empfindlich.
 

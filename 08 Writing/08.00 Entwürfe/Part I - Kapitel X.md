@@ -1,3 +1,9 @@
+---
+tags:
+  - part-1
+  - rzg-avatar
+  - protagonist
+---
 # Part I - Kapitel X
 
 ## 1. Entwurf

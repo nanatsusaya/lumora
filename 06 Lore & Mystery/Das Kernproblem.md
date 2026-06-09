@@ -37,7 +37,7 @@ Drei simple Sätze, vor rund 2,2 Milliarden Jahren formuliert, führen zwangslä
 
 Wenn **kein Gott** auf Lumora im großen Maßstab handeln darf, bleibt nur ein Hebel: ein Akteur, der *kein Gott* ist und dessen Handeln nicht als göttlicher Eingriff zählt — ein Sterblicher von außerhalb, über das Schlupfloch der freien Einwilligung hereingeholt.
 
-Genau das ist der Plan des [[02.04 Religion & Götter#Strippenzieher-Gott (Arbeitstitel)|Strippenzieher-Gottes]] und des [[02.04 Religion & Götter#Raum-Zeit-Gott (RZG)|RZG]]: den [[Der Protagonist|Protagonisten]] von der Erde zu holen.
+Genau das ist der Plan des [[Strippenzieher-Gott|Strippenzieher-Gottes]] und des [[Raum-Zeit-Gott|RZG]]: den [[Der Protagonist|Protagonisten]] von der Erde zu holen.
 
 > **Das Isekai-Setup ist damit keine erzählerische Setzung — es fällt zwingend aus der Lore heraus.** Die Welt erzeugt aus ihrer eigenen Logik die Notwendigkeit eines Fremden.
 

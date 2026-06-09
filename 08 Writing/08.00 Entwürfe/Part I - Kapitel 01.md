@@ -1,3 +1,9 @@
+---
+tags:
+  - part-1
+  - protagonist
+  - wife
+---
 # Part I - Kapitel 01
 
 ## 1. Entwurf
@@ -249,3 +255,5 @@ Ich schnuppere über ihre Schulter hinweg. „Am Geruch krieg ich's nicht raus."
 „Natürlich weiß ich das." Ich lasse sie los und lehne mich neben ihr an die Theke. „Ich hab heute Morgen schon mit dem Rektor einen Termin ausgemacht — ich kläre, wer den Nachmittag für mich übernimmt." Ich sehe sie an, ganz ernst jetzt. „Ich verpasse den Termin auf keinen Fall."
 
 ### Anmerkungen
+
+TODO

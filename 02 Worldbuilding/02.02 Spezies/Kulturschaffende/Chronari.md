@@ -33,6 +33,6 @@ Beide Familien: Schimmer verstärkt sich mit Alter und Erfahrung. Sehr erfahrene
 - Zwei gleichrangige Herrscher (je einer pro Familie), Entscheidungen durch Konsens.
 - Reisen grundsätzlich in Paaren (je ein Vertreter jeder Familie) — kulturelle Pflicht, um Balance zu wahren.
 - Tradition: Heranwachsende müssen die Heimat für mindestens ein Jahrzehnt verlassen.
-- Nomineller Gott: [[02.04 Religion & Götter#Raum-Zeit-Gott|Raum-Zeit-Gott]] — interagiert jedoch kaum mit ihnen, weshalb die Chronari pragmatisch auch andere Götter anbeten.
+- Nomineller Gott: [[Raum-Zeit-Gott|Raum-Zeit-Gott]] — interagiert jedoch kaum mit ihnen, weshalb die Chronari pragmatisch auch andere Götter anbeten.
 
 > *Kreative Anmerkung:* Die "Reisen in Paaren"-Tradition ist kulturell elegant — aber steckt dahinter mehr? Könnten die Chronari instinktiv spüren, dass gespaltene Wesen (Ursprungsgott/Chaosgott) gefährlich sind, und sich deshalb gegen die eigene Spaltung wehren? Das wäre ein unbewusstes Foreshadowing auf das große Geheimnis.
