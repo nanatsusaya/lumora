@@ -1,3 +1,8 @@
+---
+tags:
+  - wip
+  - working-title
+---
 # Der Schuldirektor
 
 *Tag:* #director

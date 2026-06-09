@@ -2,12 +2,11 @@
 tags:
   - wip
   - the-boy
+  - working-title
 ---
-
 # Der Junge
 
 *Tag:* #the-boy
-*Status:* #working-title #wip
 
 > *Status: TODO — Rohfassung aus Archiv. Name noch nicht vergeben.*
 
