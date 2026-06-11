@@ -81,8 +81,6 @@ Nicht streng gehandhabt, aber als Norm: Die Frau kümmert sich um Familie und Le
 
 ## Erziehung & Peer-Zirkel
 
-*Tag:* #eldari-upbringing
-
 Eldari-Kinder lernen grundsätzlich frei — begleitend, erkundend, fragend (→ [[Eldari#Reifung, Kindheit & Lernen|Reifung & Lernen]]). Es gibt keine Schulhäuser; es gibt ohnehin praktisch [[#Der Familienbaum|keine Gebäude außer den Familienbäumen]].
 
 Der **Hochadel** bildet die Ausnahme von der Einsamkeit: Angesehene Stämme sammeln ihren Nachwuchs in **Tutoren- und Peer-Zirkeln** — kleine, erlesene Gruppen unter Anleitung, in denen die Kinder der führenden Familien gemeinsam lernen, sich messen und früh ihre künftigen Netzwerke (und Rivalitäten) knüpfen. Kein Massenunterricht, sondern elitäre Kreise. *(In einem solchen Zirkel begegnet der [[Protagonist]] auch [[Der Junge]].)*
@@ -166,6 +164,60 @@ Die Eldari sprechen **eldarisch** — eine melodisch klingende Sprache mit viele
 **Waldeldari-spezifisch:**
 
 Erwachsene unterdrücken **Mimik und Gestik** fast vollständig und übermitteln Gefühle stattdessen über Noetische Energie. Für die Kindererziehung verwenden sie aber weiterhin einfache Gesten und Mimik, wenn auch nicht mehr so ausdrucksstark. Für andere Völker, die das nicht lesen können, wirken erwachsene Waldeldari dadurch wie **schöne, aber gefühlskalte Statuen**. Zusammen damit, dass sie mit Fremden in Kindersprache reden müssen, verfestigt das ihren Ruf als herablassende, elitäre Snobs.
+
+### Selbstbezeichnung — Elværi & Elværin
+
+*EN: Elværi (the people) / Elværin (the language)*
+*Tag:* #elvaeri 
+
+In ihrer eigenen, gesungenen Sprache nennen sich die Waldeldari **Elværi**; ihre Sprache heißt **Elværin**. Was die Außenwelt „Eldari" / „eldarisch" schreibt, ist nur die **menschliche Umschrift** eines Namens, den eine menschliche Stimme gar nicht vollständig treffen kann — ein **Exonym**, keine Selbstbezeichnung. *(Wüsten- und Frosteldari sind eine eigene Situation und hier nicht mitgemeint.)*
+
+**Das `æ`-Zeichen.** Das `æ` ist kein Schmuck, sondern steht für **einen geschriebenen Vokal, der in Wahrheit zwei Töne zugleich ist** — den mit der Stimme erzeugten Grundton plus einen noetisch geformten Oberton, den ein menschlicher Kehlkopf nicht hervorbringt. Ein Mensch liest „ae" und spricht *einen* flachen Vokal; ein erwachsener Elværi singt an dieser Stelle einen *Akkord*. Der Eigenname trägt die Unsagbarkeit also sichtbar in sich — dieselbe Asymmetrie wie bei [[#Elværin-Fachbegriffe für Klang & Resonanz|Sael]].
+
+> *Schreibkonvention:* Das `æ` wird im Text konsequent verwendet (*Elværi, Elværin*); nur wo Technik es erzwingt, ersatzweise `ae` (*Elvaeri, Elvaerin*).
+
+### Elværin-Fachbegriffe für Klang & Resonanz
+
+Eine **klein gehaltene** Menge eigener Elværin-Begriffe für Klang-, Wellen- und Resonanzkonzepte — Material für das [[05.02 Vermittlung des Magiesystems#Das Eldarin-Übersetzungs-Mittel|Übersetzungs-Mittel]]. Drei rasten sauber in Erd-Physik ein, einer bleibt unübersetzbar (**asymmetrische Übersetzung**).
+
+**Maelor** *(EN: Maelor)* — die Wucht, die Größe der Welle. **Erd-Entsprechung: Amplitude.** Handwerks-/Lernsprache; rastet bei [[05.02 Vermittlung des Magiesystems#Das Meilenstein-Skelett des Bogens|M3]] ins Erd-Verständnis ein.
+
+**Enai** *(EN: Enai)* — die Art des Tons, das „Was" eines Effekts. **Erd-Entsprechung: Frequenz / Tonhöhe (Effekt-Art).** Handwerkssprache.
+
+**Anaren** *(EN: Anaren)* — der Gleichschritt zweier Schwingungen. **Erd-Entsprechung: Phase.** Lebt zweimal: früh als Gefühlswort der Mutter („beides in Anaren halten" — Liebe und Technik), spät als exakter Begriff. Trägt das Leitmotiv „Liebe oder Technik? Beides, in Phase".
+
+**Sael** *(EN: Sael)* — der wahrgenommene Klang als Empfindung; die innere Resonanz, gefühlt. **Erd-Entsprechung: keine** — hier läuft der Physikerverstand ins Leere. Das *früheste* Wort: ein Kind lernt es wie „Hunger" oder „müde", als Gefühl, nicht als Begriff (→ M1). Bleibt für den [[Protagonist]]en für immer fremd.
+
+> *Anmerkung:* Auf 3–5 Begriffe deckeln (Conlang-Falle vermeiden). Ein optionales fünftes — **Maren**, der erlebte Eigenklang/Charakter eines Feldes (das gefühlte „Wer", ebenfalls unübersetzbar) — erst prägen, falls die Hof-Intrige es braucht.
+
+### Elværin-Lautregel
+
+Damit künftige Elværin-Worte zusammenpassen (abgeleitet aus der Belcanto-Logik: gesungen, vokalgetragen, legato):
+
+- **Kern** aus Liquiden/Nasalen `l r m n` plus weichem `v` und reinen Vokalen `a e i o`; harte Verschlusslaute (`k g t d`) und `th` nur sparsam.
+- **`-ae-` / `æ`** als melodische Signatur (bei `æ` der un-menschliche Doppelton).
+- **Wortenden** auf Vokal (`-a -e -i`) oder klingenden Sonor (`-en -el -or -ar`); **kein** `-s`-Ende, kein `th`.
+- Max. **3 Silben**, offene Silben bevorzugt, **keine** Apostrophe, keine Konsonantenballung.
+- Das Suffix **`-ari/-ani`** bleibt **Völkernamen** vorbehalten, nie für Dingwörter.
+
+### Wann Elværin im Text steht
+
+Weil Elværin die Muttersprache des [[Protagonist]]en ist, liest sie sich für ihn *transparent* — der Prosatext bleibt Deutsch/Englisch. Sichtbar Elværin bleibt nur, was sich **selbst für einen Muttersprachler nicht übersetzen lässt**:
+
+1. **Eigennamen** — *Elværi, Elværin*, Orte, Clans, der [[#Der Familienbaum|Familienbaum]], Rituale; und (geplant) die Elværi-Exonyme der anderen [[Kulturschaffende Spezies|kulturschaffenden Spezies]].
+2. **Das unübersetzbar Gefühlte** — *Sael* und seinesgleichen (die Asymmetrie).
+3. **Fachbegriffe im Lern-Moment** — *Maelor, Enai, Anaren*: erst Fremdwort, dann Übersetzungs-Schnapp, am Ende bleibt das Wort stehen (Leser wird zweisprachig).
+
+Alles Übrige — Alltagswörter und das **System selbst** („Noetische Energie" hat innerweltlich kein Wort; Figuren sagen Magie, Segen, Fluch) — bleibt in der Lesersprache. Die ersten Kapitel tragen ohnehin **null Systemsprache** (→ [[05.02 Vermittlung des Magiesystems#Erzählstrategie: vom Empfinden zur Struktur|05.02]]).
+
+```
+TODO (eigener, kontrollierter Durchgang): Vault-weite Umbenennung Eldari → Elværi,
+Eldarin → Elværin (Dateinamen, Querlinks, Götter, Wald-/Wüsten-/Frosteldari).
+Bis dahin ist diese Sektion die Single Source of Truth für die neue Schreibung.
+TODO (eigene Runde): Speziesnamen-Durchgang — Elværi-Exonyme der anderen Völker prägen.
+Hybrid: Exonym in der Erzählung (Elværin-Klang), Eigenname des Volkes klingt bewusst fremd.
+`æ` nur dort, wo ein un-menschlicher Ton gemeint ist — nicht dekorativ.
+```
 
 ---
 
