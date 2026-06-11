@@ -35,17 +35,17 @@ Spätere Lehre folgt dem kanonischen Eldari-Muster: **begleitendes Lernen** (Kin
 
 ## Wüsteneldari: ein anderer Träger (Hypothese)
 
-Die Wüsteneldari leben in [[03.05 Grenzen & Einschränkungen#Noetisch tote Regionen|noetisch toten Zonen]] — das N-Feld ist dort schwach. Eine Waldmutter justiert das Säuglingsfeld *in einem reichen Umgebungsfeld* per Gesang; eine Wüstenmutter kann sich darauf nicht verlassen.
+Die Wüsteneldari leben in [[03.05 Grenzen & Einschränkungen#Noetisch tote Regionen|noetisch toten Zonen]] — das N-Feld ist dort extrem schwach. Eine Waldmutter justiert das Säuglingsfeld *in einem reichen Umgebungsfeld* per Gesang; eine Wüstenmutter kann sich darauf nicht verlassen.
 
-**Hypothese:** Ihr Träger muss **konzentrierter und körpernäher** sein — direkte Feldkopplung über Körperkontakt, Atem oder Rhythmus statt ausladender Melodie. Die Umwelt erzwingt den anderen Mechanismus — *nicht* Primitivität.
+**Das ist inzwischen physikalisch hergeleitet, nicht mehr nur geraten:** Weil die [[Noetische Wahrnehmung#Wahrnehmung in schwachen Regionen & Voids|Dämpfung mit der Feldschwäche steigt]], trägt eine vom Gesang getragene Resonanzwelle im schwachen Feld kaum — sie verklingt, bevor sie das Kind formend erreicht. Der Träger **muss** also auf etwas ausweichen, das nicht auf Feld-Reichweite angewiesen ist: **direkte Feldkopplung über Körperkontakt** (Haut an Haut), womöglich gestützt durch Atem oder Rhythmus statt ausladender Melodie. Die Umwelt erzwingt diese **Richtung** — *nicht* Primitivität.
 
-> *Kritische Anmerkung:* Reine Hypothese, abgeleitet aus dem N-toten-Zonen-Kanon. Sie passt ausdrücklich zur Warnung in [[Eldari]], Wüsteneldari nicht als „degradierte Sänger" zu behandeln, sondern als hocheffiziente, *andere* N-Kraft-Nutzung. Vor Fixierung gegen die noch zu schreibende Wüsteneldari-Gesellschaftsnotiz prüfen.
+> *Kritische Anmerkung:* Hergeleitet ist die **Richtung** (kontaktnah statt fernwellig). Die **konkrete kulturelle Form** — reiner Hautkontakt, Atemführung, perkussiver Rhythmus, Berührungsmuster oder etwas ganz anderes — ist weiter offen. Das passt ausdrücklich zur Warnung in [[Eldari]], Wüsteneldari nicht als „degradierte Sänger" zu behandeln, sondern als hocheffiziente, *andere* N-Kraft-Nutzung. Vor Fixierung gegen die noch zu schreibende Wüsteneldari-Gesellschaftsnotiz prüfen.
 
 ```
 TODO:
 - Eigene Notiz „Wüsteneldari" (02.03) existiert noch nicht — anlegen.
 - Verhältnis der Wüsteneldari zur klassischen Eldari-Sprache festlegen (weniger ornamentiert, aber beherrscht?).
-- Träger & Prägungsmechanismus konkretisieren: Kontakt? Atem? Rhythmus? Etwas ganz anderes?
+- Konkrete Form der kontaktnahen Prägung festlegen: reiner Hautkontakt? Atemführung? Perkussiver Rhythmus? Etwas anderes?
 ```
 
 ---
