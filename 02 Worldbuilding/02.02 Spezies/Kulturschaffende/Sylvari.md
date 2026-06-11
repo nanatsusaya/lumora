@@ -27,5 +27,5 @@ tags:
 TODO: Die Sylvari sind bisher nur ein Grundriss.
 Wie verhalten sie sich gegenüber anderen Völkern?
 Gibt es Sylvari-Wälder, die von anderen Völkern als heilig oder verboten gelten?
-Verbindung zu den Eldari (beide naturverbunden) — Freunde, Rivalen, Ignoranz?
+Verbindung zu den Elværi (beide naturverbunden) — Freunde, Rivalen, Ignoranz?
 ```

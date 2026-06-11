@@ -259,7 +259,7 @@ Dann gehen wir los.
 
 Die Schule empfängt mich wie jeden Morgen mit Lärm. Dreihundert Stimmen, schlagende Spindtüren, das Quietschen von Sohlen auf dem Boden. Und über allem dieser eine Geruch, den es so nur in Schulen gibt: Kreide, altes Holz und zu viele junge Menschen auf zu wenig Raum.
 
-> Die Eldari lehren in entweder Einzelunterricht, oder in kleinen Gruppen in ihren Baumhäusern. Sie verwenden Schiefertafeln und Kreide. Nur haben die Eldari selbst deutlich weniger eigen Geruch. Dieser Geruchsvergleich passt irgendwie, aber irgendwie habe ich noch das Gefühl, dass er nicht 100pro passt. Es fehlt etwas, ich kann aber noch nicht sagen was.
+> Die Elværi lehren in entweder Einzelunterricht, oder in kleinen Gruppen in ihren Baumhäusern. Sie verwenden Schiefertafeln und Kreide. Nur haben die Elværi selbst deutlich weniger eigen Geruch. Dieser Geruchsvergleich passt irgendwie, aber irgendwie habe ich noch das Gefühl, dass er nicht 100pro passt. Es fehlt etwas, ich kann aber noch nicht sagen was.
 
 „Morgen, Herr #protagonist !"
 

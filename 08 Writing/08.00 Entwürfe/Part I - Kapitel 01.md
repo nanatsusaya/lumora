@@ -137,7 +137,7 @@ Eigener Versuch von Kapitel 01, mit den Prinzipien aus unserer Diskussion. Danie
 **Was ich geändert habe:**
 - *Die „stabile Hand".* Statt es zu behaupten, zeige ich es: „eine Hand, die genau weiß, wo sie hingehört." Der angekommene, gefestigte Mann steckt in der Geste, nicht im Adjektiv.
 - *Der Spiegelblick.* Die klassische Inventarliste („ein Mann Anfang dreißig mit …") habe ich in Handlung aufgelöst — Wasser, Hand über den Kiefer, der kratzende Bart. So entsteht das Bild beiläufig statt als Steckbrief.
-- *Männlicher / „besser aussehend" als Kontrast.* Breite Schultern, „ein Rücken, der das Tragen gewohnt ist", ruhiger, vertrauenswürdiger Ausdruck — solide, geerdete Männlichkeit. Dazu der gepflanzte Satz „dunkel, schlicht, nichts, das auffällt — ich war noch nie einer, der angesehen werden wollte." Das ist der bewusste Gegenpol zur späteren Wandlung (Eldari-Frau, Farbe, Kleider, *gesehen* werden wollen, Pfirsichduft). Der Mann am Anfang will unsichtbar sein; die Frau später blüht in Sichtbarkeit auf.
+- *Männlicher / „besser aussehend" als Kontrast.* Breite Schultern, „ein Rücken, der das Tragen gewohnt ist", ruhiger, vertrauenswürdiger Ausdruck — solide, geerdete Männlichkeit. Dazu der gepflanzte Satz „dunkel, schlicht, nichts, das auffällt — ich war noch nie einer, der angesehen werden wollte." Das ist der bewusste Gegenpol zur späteren Wandlung (Elværi-Frau, Farbe, Kleider, *gesehen* werden wollen, Pfirsichduft). Der Mann am Anfang will unsichtbar sein; die Frau später blüht in Sichtbarkeit auf.
 
 ```
 OFFENE FRAGEN:

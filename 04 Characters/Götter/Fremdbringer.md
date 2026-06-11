@@ -15,7 +15,7 @@ tags:
 - Heute verschollen/außerhalb. Weiß vermutlich nicht, dass aus seinen toten Geschöpfen fast alle humanoiden Völker Lumoras wurden.
 - Sein Vermächtnis: das [[Der gemeinsame Ursprung|gemeinsame Saatgut]] und das Präzedenz-Gesetz, das später den [[Raum-Zeit-Gott]] deckt.
 
-> *Anmerkung:* Sein Laster — die Ungeduld — ist der exakte Gegenpol zur Geduld der [[Eldarigöttin]]. Ausgerechnet sein ungeduldiges Scheitern lieferte ihr den Rohstoff für ihr geduldigstes Werk.
+> *Anmerkung:* Sein Laster — die Ungeduld — ist der exakte Gegenpol zur Geduld der [[Elværigöttin]]. Ausgerechnet sein ungeduldiges Scheitern lieferte ihr den Rohstoff für ihr geduldigstes Werk.
 
 ```
 TODO: Kehrt der Fremdbringer je zurück? Weiß er von seinem Erbe?

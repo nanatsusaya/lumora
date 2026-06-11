@@ -37,9 +37,9 @@ Dies ist die direkte Manifestation des Kern-Axioms: *(→ [[01.05 Die Urgesetze 
 
 ### Der kosmische Vergleich — warum gerade Lumora
 
-Die Götter kommen von anderswo (→ der [[Ursprungsgott|Ursprungsgott]] wurde vertrieben, die [[Eldarigöttin|Eldarigöttin]] stammt aus einer fremden Welt, der [[Raum-Zeit-Gott|RZG]] reist zwischen den Welten). Das heißt: Auch anderswo im Universum gibt es Welten mit noetischem Leben — und damit überall dasselbe Grundproblem aus harmonischem Erbe und kriegerischer Kultur. *(→ [[03.07 Noetische Evolution#Die Grenze des Prinzips — die Selektionsebene|die Selektionsebene]])*
+Die Götter kommen von anderswo (→ der [[Ursprungsgott|Ursprungsgott]] wurde vertrieben, die [[Elværigöttin|Elværigöttin]] stammt aus einer fremden Welt, der [[Raum-Zeit-Gott|RZG]] reist zwischen den Welten). Das heißt: Auch anderswo im Universum gibt es Welten mit noetischem Leben — und damit überall dasselbe Grundproblem aus harmonischem Erbe und kriegerischer Kultur. *(→ [[03.07 Noetische Evolution#Die Grenze des Prinzips — die Selektionsebene|die Selektionsebene]])*
 
-Der entscheidende Unterschied: **Anderswo ist Eingreifen möglich.** Driftet eine Welt zu weit Richtung Abgrund, kann ein dort ansässiger Gott eingreifen — zum Guten wie zum Schlechten (auf der Heimatwelt der Eldarigöttin tat ein Gott es, um eine Rivalin zu vernichten). Der Hebel *existiert*.
+Der entscheidende Unterschied: **Anderswo ist Eingreifen möglich.** Driftet eine Welt zu weit Richtung Abgrund, kann ein dort ansässiger Gott eingreifen — zum Guten wie zum Schlechten (auf der Heimatwelt der Elværigöttin tat ein Gott es, um eine Rivalin zu vernichten). Der Hebel *existiert*.
 
 Auf Lumora ist genau dieser Hebel entfernt. Die Drei Regeln verbieten jedes Eingreifen im großen Maßstab — selbst dem einen Gott, der *helfen will* (dem [[Strippenzieher-Gott|Strippenzieher-Gott]]). Nicht Bosheit lähmt ihn, sondern eine Regel.
 

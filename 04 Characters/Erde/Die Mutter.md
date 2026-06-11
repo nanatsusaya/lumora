@@ -20,5 +20,5 @@ Ihr Tod verstärkte seinen Rückzug auf den kleinen warmen Kreis (Frau und Kind)
 ```
 TODO: Name vergeben.
 TODO: Wie war ihre Persönlichkeit? Was hat sie dem Protagonisten mitgegeben?
-TODO: Gibt es auf Lumora ein Echo dieser Figur — z. B. in der Beziehung zur Eldari-Mutter?
+TODO: Gibt es auf Lumora ein Echo dieser Figur — z. B. in der Beziehung zur Elværi-Mutter?
 ```

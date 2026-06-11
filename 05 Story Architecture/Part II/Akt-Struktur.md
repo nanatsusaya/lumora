@@ -5,7 +5,7 @@ tags:
 ---
 # Part II — Akt-Struktur
 
-**Dramatischer Zweck:** Wiedergeboren als Eldari-Kind wächst der Protagonist in eine fremde Welt hinein — bis ein Tod ihn zwingt, die Heldenreise zu beginnen.
+**Dramatischer Zweck:** Wiedergeboren als Elværi-Kind wächst der Protagonist in eine fremde Welt hinein — bis ein Tod ihn zwingt, die Heldenreise zu beginnen.
 
 ---
 
@@ -15,7 +15,7 @@ tags:
 - Erkennt: Er ist ein Elf — und eine Frau. Schwierige Verarbeitung, aber keine andere Wahl.
 - Beginnt zu lernen, entdeckt N-Kraft-Fähigkeiten → positiv überrascht.
 - Bekommt Extra-Lehrerin (Wüstenelfe), weil der Standardlehrer mit seinen Fragen nicht klarkommt.
-- Aufbau der außerordentlich innigen Beziehung zur Eldari-Mutter.
+- Aufbau der außerordentlich innigen Beziehung zur Elværi-Mutter.
 
 ## Wendepunkt
 
@@ -27,9 +27,9 @@ tags:
 
 - Mehrere Tage Depression.
 - Entschluss: stark werden, um alle zu schützen. Die Heldenreise beginnt.
-- Erkennt: Innerhalb der Eldari-Reiche kann er nur einen gewissen Punkt erreichen.
+- Erkennt: Innerhalb der Elværi-Reiche kann er nur einen gewissen Punkt erreichen.
 - Verlässt die Heimat. Erhält von den Eltern ein mächtiges Reittier.
-- Erste Begleiterin: eine junge Eldari-Kriegerin.
+- Erste Begleiterin: eine junge Elværi-Kriegerin.
 
 ---
 
@@ -42,7 +42,7 @@ tags:
 
 **Mama, bitte!:** Protagonistin will Psychoangriff-Technik der Wüstenelfe lernen. Mutter verbietet es. Protagonistin nervt überall. Gipfel: schmuggelt sich als Paketbote ins Triumvirat-Treffen. Ein Triumviratsmitglied lacht und interveniert. Mutter gibt nach — aber nur mit ihr dabei.
 
-**Kleider:** Protagonistin entwickelt mit Handwerkern neue Farbstoffe. Trägt beim ersten Ball ein Kleid in Gelb-Orange-Rot → große Aufmerksamkeit. Bringt Mode und Identität in die Waldeldari-Gesellschaft.
+**Kleider:** Protagonistin entwickelt mit Handwerkern neue Farbstoffe. Trägt beim ersten Ball ein Kleid in Gelb-Orange-Rot → große Aufmerksamkeit. Bringt Mode und Identität in die Waldelværi-Gesellschaft.
 
 **Vorfahren:** Eine Vorfahrin kämpfte gegen einen Drachen, um den Stammbaum zu schützen. Eine zweite schaffte es, einen Drachenkristall am Fuß des Stammbaums anzuschließen — wahrscheinlich der Grund, warum der Drache überhaupt ankam.
 

@@ -5,7 +5,7 @@ In dieser Notiz geben wir eine Übersicht, welche kulturschaffende Spezies exist
 Folgende kulturschaffende Spezies sind bekannt:
 
 * [[Menschen]]
-* [[Eldari]]
+* [[Elværi]]
 * [[Theriani]]
 * [[Vulkani]]
 * [[Aviari]]
@@ -30,7 +30,7 @@ Die Anzahl der jeweiligen Spezien in Lumora variiert zum Teil extrem. Dies läss
 | Volk           | Herkunft                               | Bevölkerung | Besonderheit                        |
 | -------------- | -------------------------------------- | ----------- | ----------------------------------- |
 | [[Menschen]]   | Alle Kontinente                        | ~1 Mrd.     | Anpassungsfähigkeit, Pioniergeist   |
-| [[Eldari]]     | Wälder, Täler, Nordregionen, Wüsten    | ~300 Mio.   | Langlebig, Hüter der Geschichte     |
+| [[Elværi]]     | Wälder, Täler, Nordregionen, Wüsten    | ~300 Mio.   | Langlebig, Hüter der Geschichte     |
 | [[Theriani]]   | Biotopabhängig                         | ~600 Mio.   | Tiermenschen, viele Unterarten      |
 | [[Vulkani]]    | Unterirdisch, Berge                    | ~400 Mio.   | Schmiedekunst, Materialkontrolle    |
 | [[Aviari]]     | Berge, schwer zugängliche Orte         | ~30 Mio.    | Flugfähig, Gravitationsmanipulation |

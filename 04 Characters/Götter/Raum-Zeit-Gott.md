@@ -45,5 +45,5 @@ tags:
 ```
 TODO: Wer ist der RZG genau? Wo kommt er her?
 Welche Stellung hat er in der Göttergesellschaft Lumoras?
-Welche Beziehung hat er zur [[Eldarigöttin]]?
+Welche Beziehung hat er zur [[Elværigöttin]]?
 ```

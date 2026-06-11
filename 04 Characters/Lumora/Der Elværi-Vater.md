@@ -3,15 +3,15 @@ tags:
   - wip
   - working-title
 ---
-# Der Eldari-Vater
+# Der Elværi-Vater
 
-*EN: The Eldari Father*
-*Tag:* #eldari-father
+*EN: The Elværi Father*
+*Tag:* #elvaeri-father
 
-Waldeldari-Vater des [[Protagonist]] auf Lumora. Wohlhabend, aristokratisch, sozial angesehen.
+Waldelværi-Vater des [[Protagonist]] auf Lumora. Wohlhabend, aristokratisch, sozial angesehen.
 
 **Bekannte Details:**
-- Streng, oft abwesend. Die emotionale Verantwortung liegt bei der [[Die Eldari-Mutter|Eldari-Mutter]].
+- Streng, oft abwesend. Die emotionale Verantwortung liegt bei der [[Die Elværi-Mutter|Elværi-Mutter]].
 - Gibt dem Protagonisten beim Abschied ein mächtiges Reittier mit — sein greifbarster Liebesbeweis.
 
 **Thematische Bedeutung:**
@@ -21,5 +21,5 @@ Spiegelt den abwesenden Erdvater des Protagonisten — aber nicht als Wiederholu
 TODO: Name vergeben.
 TODO: Charakter vertiefen — was treibt ihn an? Worin liegt seine Strenge begründet?
 TODO: Gibt es einen Moment direkter Verbindung zwischen ihm und dem Protagonisten?
-TODO: Was ist sein Beruf / seine gesellschaftliche Rolle in der Waldeldari-Gesellschaft?
+TODO: Was ist sein Beruf / seine gesellschaftliche Rolle in der Waldelværi-Gesellschaft?
 ```

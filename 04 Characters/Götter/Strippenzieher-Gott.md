@@ -24,7 +24,7 @@ tags:
 
 ```
 TODO: Wer ist der Strippenzieher-Gott? Woher kommt er?
-Welche Verbindungen hat er in Lumora (zur [[Eldarigöttin]]? Zu anderen Göttern)?
+Welche Verbindungen hat er in Lumora (zur [[Elværigöttin]]? Zu anderen Göttern)?
 Wie kommt der Protagonist am Ende mit ihm zurecht?
 
 Kritische Anmerkung: Der Strippenzieher-Gott ist die narrativ interessanteste Figur
