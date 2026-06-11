@@ -50,6 +50,29 @@ TODO:
 
 ---
 
+## Ausbildungszeiten richtig verstanden
+
+Ein häufiges Missverständnis: Die „über hundert Jahre", die in Eldari-Zusammenhängen für noetische Bildung genannt werden, sind **kein durchgehender Lehrgang**. Ein Eldari vertieft das Noetische System über die Lebensphasen — Kleinkind, Kind, Jugendlicher, Junger Erwachsener, Erwachsener — durch Unterricht, alltägliches Anwenden und genaues Erforschen der eigenen Fähigkeiten, aber **eingewoben ins normale Leben**, nicht rund um die Uhr. Es läuft wie beim menschlichen Lesen-, Schreib- und Spracherwerb: schrittweise über das Aufwachsen verteilt, neben allem anderen.
+
+Der eigentliche Denkfehler ist, **zwei getrennte Uhren** in eins zu werfen:
+
+- **Die Reife-Uhr** (biologisch, ungefähr fest): Mit ~60–80 sieht ein Eldari erwachsen aus, sein Feld liest sich aber bis zur Pubertät (~150) als „Kind" (→ [[Eldari#Reifung, Kindheit & Lernen|Eldari]]). Diese Uhr gatet die **rohe Kapazität** — [[03.03 Das Noetische Profil#Wucht|Wucht]] und die Stufen des [[03.05 Grenzen & Einschränkungen#Das Resonanzfeld|Resonanzfeldes]]. Daran ändert kein Fleiß etwas.
+- **Die Lern-Uhr** (Können & Verständnis, individuell): [[03.03 Das Noetische Profil#Wissen|Wissen]], [[03.03 Das Noetische Profil#Weisheit|Weisheit]], [[03.03 Das Noetische Profil#Wahrnehmung|Wahrnehmung]] und ein gutes Stück [[03.03 Das Noetische Profil#Wille|Wille]]. Sie läuft frei — beim einen schneller, beim anderen langsamer.
+
+Daraus folgt:
+
+- **Jahreszahlen sind Richtwerte, keine Stundenpläne.** „X Jahre bis zu einem Niveau" ist ein Orientierungs- bzw. Durchschnittswert. Ein begabtes Kind ist früher so weit, ein anderes braucht länger.
+- **Die Alterklasse ist ein grobes Fenster, kein Skill-Tor.** Dass jemand ab einem Alter als „Jugendlicher" gilt, heißt nicht, dass er bis genau dahin alle Kind-Fähigkeiten lernt — meist ist er früher fertig, manchmal später. Wie beim Spracherwerb: Kinder lernen Kindersprache, ein neugieriges Kind kann aber auch fortgeschrittene Register früh aufschnappen. (Passend dazu hängen die Eldari-Sprachstufen [[Eldari#Sprache|ausdrücklich nicht vom Alter, sondern von der Übungsdauer]] ab.)
+- **Die Lern-Uhr kann der Reife-Uhr vorauseilen.** Ein Kind kann ein Konzept längst *verstehen*, bevor sein Feld es *tragen* kann — Verständnis vor biologischer Kapazität.
+
+> *Hinweis:* Diese beiden Uhren betreffen das *einzelne* Wesen. Sie sind nicht zu verwechseln mit den *zivilisatorischen* [[Eldari#Die zwei Uhren & das gemächliche Tempo|„zwei Uhren"]], mit denen das langsame Technik-Tempo des Volkes erklärt wird.
+
+> *Anmerkung (interpretierend, #wip ):* Genau hier sitzt der [[Protagonist]] als Extremfall — erwachsener Geist, Kind-Feld. Seine Lern-Uhr rast (Erd-Wissen, scharfe Wahrnehmung, erwachsene Disziplin), seine Reife-Uhr steht auf „Kleinkind" (kaum Wucht, unreifes Feld). Das ist der **mechanische Boden des Verstehen-≠-Können-Konflikts**: Die erlernbaren Achsen können hoch sein, während die biologisch gegateten kindlich bleiben. Welche Achse genau wie stark an welcher Uhr hängt, ist noch offen.
+
+Erzählerische Verdichtung dieser langen Kindheit → [[05.02 Vermittlung des Magiesystems#Das Pacing-Problem: 150 Jahre Kindheit|Pacing]].
+
+---
+
 ## Verwandte Notizen
 
 - [[Eldari]] — Spezies-Basis (Biologie, Reifung, Sprache)
