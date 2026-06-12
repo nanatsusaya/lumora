@@ -210,12 +210,51 @@ Weil Elværin die Muttersprache des [[Protagonist]]en ist, liest sie sich für i
 
 Alles Übrige — Alltagswörter und das **System selbst** („Noetische Energie" hat innerweltlich kein Wort; Figuren sagen Magie, Segen, Fluch) — bleibt in der Lesersprache. Die ersten Kapitel tragen ohnehin **null Systemsprache** (→ [[05.02 Vermittlung des Magiesystems#Erzählstrategie: vom Empfinden zur Struktur|05.02]]).
 
+### Die Völker-Endungen — Ansehen als gesungene Beugung
+
+Die Elværin-Namen aller kulturschaffenden Spezies tragen ihr **Ansehen in der Endung** — eine gesungene Beugung, kein bloßes Etikett:
+
+- **`-ani`** — herabsetzend bis neutral
+- **`-ari`** — neutral bis akzeptiert
+- **`-æri`** — respektiert
+- **`-ōri`** — ehrenvoll
+
+Das ist eine **Tendenz, keine harte Grenze**, und **nicht statisch**: Bei einer Sprache, die sich seit ~1.000.000 Jahren über neun Kontinente entwickelt, verschiebt sich das Ansehen eines Volkes — und mit ihm seine Endung. Jemanden bewusst mit der „falschen" Endung zu benennen, ist darum eine **Geste** — Beleidigung oder Ehrung (Nährboden der Hof-Intrige).
+
+Die Skala misst **Macht, Alter und Ehrfurcht, nicht moralische Zustimmung**: Die Drakōri (Drachen) stehen auf `-ōri`, obwohl — *weil* — sie gefürchtet sind. Die Elværi stufen sich **selbst** auf `-æri` ein; einzig die Drachen, älter und mächtiger als sie, stehen darüber. „Respektiere die Älteren."
+
+**Die Ehrlaute.** Die beiden Sonderzeichen sind nicht nur Klang, sondern die zwei höchsten Stufen dieser Skala:
+
+- **`æ`** — der verschmolzene Doppelton (Grundton + un-menschlicher Oberton; siehe [[#Selbstbezeichnung — Elværi & Elværin|oben]]) = Stufe *respektiert*.
+- **`ō`** — ein tiefer, gehaltener Ehrenton = Stufe *ehrenvoll*.
+
+Je höher das Ansehen, desto un-menschlicher der Ton, den die Elværi dem Namen *gewähren* — hohes Ansehen heißt, Anteil am eigenen, heiligen Elværi-Klang zu erhalten. Die besondere Nähe der Luminæri ist so der *Grund* für ihr `æ`, nicht dessen Bedeutung.
+
+> *Erzählhandwerk — die Beugung muss man hören.* Auf dem Papier unterscheiden sich `-ani` und `-ari` kaum; das Ansehen liegt im **gesungenen Ton**, den die Schrift kaum fasst. Für das Erd-Ohr des [[Protagonist]]en (und den Leser) ist der Unterschied zunächst unhörbar — er muss erst *lernen, ihn zu hören*. Das hängt sich direkt an das [[05.02 Vermittlung des Magiesystems#Das Elværin-Übersetzungs-Mittel|Übersetzungs-Mittel]] und die Asymmetrie an: die Struktur (Endung) sieht er, den *Wert* (Ton) erfühlt er spät.
+
+### Die Völker im Elværin (Waldelværi-Exonyme)
+
+Wie die Waldelværi die zwölf kulturschaffenden Spezies benennen. **Wichtig:** Die Wort-Wurzel (lat./gr./jap.) ist nur **unser Hilfsmittel** zur Prägung — in Lumora gibt es kein Latein oder Griechisch; es zählt allein die *innerweltliche* Bedeutung. Es sind **Exonyme** (die Sicht der Elværi); jedes Volk hat seinen eigenen Namen für sich selbst. Dieses Set ist **Waldelværin** — Wüsten-/Frostelværi würden anders benennen.
+
+| Elværin | Fantasy-Pendant | Wurzel (Hilfsmittel) | Innerweltliche Bedeutung | Stufe |
+|---|---|---|---|---|
+| **Hakani** | Menschen | jap. *hakanai* „flüchtig, vergänglich" | „die Flüchtigen" | `-ani` |
+| **Elværi** | Elfen | Eigenbegriff (*elf/elven* + Ehrlaut æ) | Selbstbezeichnung | `-æri` |
+| **Theriani** | Tiermenschen | gr. *therion* „wildes Tier" | „die Wilden" | `-ani` |
+| **Anelari** | Zwerge | gr. *anḗlios* „sonnenlos" | „die Sonnenlosen" | `-ari` |
+| **Volari** | Vogelmenschen | lat. *volare* „fliegen" | „die Himmelsstürmer" | `-ari` |
+| **Luminæri** | Feen | lat. *lumen* „Licht" | „die Lichtbringer" | `-æri` |
+| **Bythari** | Meervolk | gr. *bythós* „Meerestiefe" | „die aus der Tiefe" | `-ari` |
+| **Vatæri** | Zeitseher (früher: Chronari) | lat. *vates* „Seher" | „die Seher" | `-æri` |
+| **Sapari** | Golems | lat. *sapiens* „weise" | „die Wissenden" | `-ari` |
+| **Tepani** | Echsenmenschen | lat. *tepor* „Wärme, Lauwärme" | „die Wärmebedürftigen" | `-ani` |
+| **Drakōri** | Drachen | gr. *drákōn* „Drache, Schlange" | „die Urgewaltigen" *(EN: the mighty ancients)* | `-ōri` |
+| **Sylvari** | Pflanzenmenschen | lat. *silva* „Wald" | „die Waldreichen" | `-ari` |
+
+> *Anmerkung:* Die **Theriani** sind (geplant) das einzige Volk, das im Elværi-Staat des Protagonisten dauerhaft mitlebt — in dienender/familiärer Rolle, dem Protagonisten fast wie „Haustiere" erscheinend: geduldet, kaum respektiert, daher `-ani`.
+
 ```
-ERLEDIGT (2026-06-11): Vault-weite Umbenennung zur neuen Schreibung durchgeführt.
-Diese Sektion bleibt die Single Source of Truth für Lautregel und Begriffe.
-TODO (eigene Runde): Speziesnamen-Durchgang — Elværi-Exonyme der anderen Völker prägen.
-Hybrid: Exonym in der Erzählung (Elværin-Klang), Eigenname des Volkes klingt bewusst fremd.
-`æ` nur dort, wo ein un-menschlicher Ton gemeint ist — nicht dekorativ.
+TODO (eigene Runde, später): Die hier definierten Völker-Namen vault-weit anwenden — Spezies-Notizen, Übersicht (Kulturschaffende Spezies.md) und Querlinks auf die neuen Elværin-Namen umstellen.
 ```
 
 ---
