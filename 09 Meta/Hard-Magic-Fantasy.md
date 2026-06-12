@@ -1,5 +1,6 @@
 ---
 tags:
+  - meta
   - "#hard-magic"
 ---
 # Hard-Magic-Fantasy — Genre-Grundlage & Einordnung Lumoras
