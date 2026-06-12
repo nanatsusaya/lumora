@@ -117,7 +117,7 @@ Entscheidend ist die Trennung zu echter Intimität — **Senden ≠ das Feld öf
 - **Multi-Adressierung:** Ein Meister betritt einen Saal mit Dutzenden Elværi und sendet jedem *zugleich* etwas anderes — dem Freund Wärme, dem Rivalen Spott, allen übrigen ein höfliches Hallo.
 - **Spionage & Abschirmung:** Wer eine Signatur kennt und genug Können hat, kann sich in ein privates Gespräch einklinken; Gegenmaßnahme ist Abschirmung. (Nährboden der Hof-Intrige.)
 
-**Warum das Erlernen so schwer ist:** Es braucht zweierlei. Erstens das **angeborene Feingefühl**, Schallwellen mit Noetischer Energie zu formen — das Menschen und die meisten anderen Völker schlicht nicht haben. Zweitens die Kunst, dabei **keine** ungewollten [[03.01 Noetisches System#Noetischer Effekt|noetischen Effekte]] zu erzeugen, während man zugleich die richtigen „Schwingungen" sendet *und* die eigenen Gefühle in Gesicht und Händen beherrscht. Bis das intuitiv sitzt, vergehen Jahrzehnte.
+**Warum das Erlernen so schwer ist:** Es braucht zweierlei. Erstens das **angeborene Feingefühl**, Schallwellen mit Noetischer Energie zu formen — das Hakani und die meisten anderen Völker schlicht nicht haben. Zweitens die Kunst, dabei **keine** ungewollten [[03.01 Noetisches System#Noetischer Effekt|noetischen Effekte]] zu erzeugen, während man zugleich die richtigen „Schwingungen" sendet *und* die eigenen Gefühle in Gesicht und Händen beherrscht. Bis das intuitiv sitzt, vergehen Jahrzehnte.
 
 **Andere Völker.** Wer in der Elværi-Gesellschaft lebt, ein Händler ist, der mit in einem Elværi Staaten aktiv Handelt, oder ein Diplomaten fremder Länder ist, kann die Sprache lernen. In aller Regel aber nur die **Kindersprache**, denn allein dafür braucht es 5–10 Jahre täglicher Praxis. Stufe 2 zu erreichen ist bei den meisten Völkern verschwindend selten. Für die Elværi klingen damit *alle* anderen wie Kleinkinder — und ein erwachsener Elværi muss mit ihnen tatsächlich in Kleinkindersprache reden, damit sie ihn verstehen. Das ist der Kern, warum sich andere herablassend behandelt fühlen und die Elværi als elitäre Snobs gelten.
 
@@ -162,7 +162,7 @@ Der Disruptor, der ihnen droht, ist **gefertigte, nicht-lebende, iterierbare Tec
 ```
 TODO:
 - Die [[Golethari]] sind NICHT dieser Disruptor: Ihr silizium-*biologischer* Flüssigkristallkörper entwickelt sich ebenso langsam über Generationen. Elværi und Golethari sind beide das langsame Lager.
-- Lumora-Pendant zum Computerchip: vermutlich ein *gefertigter* Kristall-Schaltkreis (03.04 beschreibt Kristalle bereits als programmierbare Modulatoren), der wie eine Fabrik iteriert. Wer entwickelt ihn zuerst? (Menschen? → [[Menschen]])
+- Lumora-Pendant zum Computerchip: vermutlich ein *gefertigter* Kristall-Schaltkreis (03.04 beschreibt Kristalle bereits als programmierbare Modulatoren), der wie eine Fabrik iteriert. Wer entwickelt ihn zuerst? (Hakani? → [[Hakani]])
 ```
 
 ---

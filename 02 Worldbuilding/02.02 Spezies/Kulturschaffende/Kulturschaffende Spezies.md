@@ -4,7 +4,7 @@ In dieser Notiz geben wir eine Übersicht, welche kulturschaffende Spezies exist
 
 Folgende kulturschaffende Spezies sind bekannt:
 
-* [[Menschen]]
+* [[Hakani]]
 * [[Elværi]]
 * [[Theriani]]
 * [[Vulkani]]
@@ -29,7 +29,7 @@ Die Anzahl der jeweiligen Spezien in Lumora variiert zum Teil extrem. Dies läss
 
 | Volk           | Herkunft                               | Bevölkerung | Besonderheit                        |
 | -------------- | -------------------------------------- | ----------- | ----------------------------------- |
-| [[Menschen]]   | Alle Kontinente                        | ~1 Mrd.     | Anpassungsfähigkeit, Pioniergeist   |
+| [[Hakani]]   | Alle Kontinente                        | ~1 Mrd.     | Anpassungsfähigkeit, Pioniergeist   |
 | [[Elværi]]     | Wälder, Täler, Nordregionen, Wüsten    | ~300 Mio.   | Langlebig, Hüter der Geschichte     |
 | [[Theriani]]   | Biotopabhängig                         | ~600 Mio.   | Tiermenschen, viele Unterarten      |
 | [[Vulkani]]    | Unterirdisch, Berge                    | ~400 Mio.   | Schmiedekunst, Materialkontrolle    |
@@ -44,4 +44,4 @@ Die Anzahl der jeweiligen Spezien in Lumora variiert zum Teil extrem. Dies läss
 
 ### Gesamtbevölkerung Lumoras
 
-Die Gesamtbevölkerung Lumoras beträgt etwa ~2,5 Milliarden. Davon sind Menschen (~1 Mrd.) mit Abstand die größte Gruppe, gefolgt von Theriani (~600 Mio.) und Vulkani (~400 Mio.). Drachen (~50.000) sind die bei weitem seltenste intelligente Spezies. 
+Die Gesamtbevölkerung Lumoras beträgt etwa ~2,5 Milliarden. Davon sind Hakani (~1 Mrd.) mit Abstand die größte Gruppe, gefolgt von Theriani (~600 Mio.) und Vulkani (~400 Mio.). Drachen (~50.000) sind die bei weitem seltenste intelligente Spezies. 

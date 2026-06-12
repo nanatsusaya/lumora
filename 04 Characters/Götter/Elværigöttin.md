@@ -20,7 +20,7 @@ tags:
 
 **Entwicklung der Elværi-Fraktionen:**
 - *Frostelværi:* Vor ~250.000 Jahren stießen nördliche Elværi auf einen mächtigen Eisdrachen. Konflikte → Drache stieg zum Pseudogott auf. Frostelværi beten im Alltag dem [[Frostelværi-Pseudogott]], sehen die Elværigöttin als Mutter. Sie akzeptierte das — was später als Schwäche wahrgenommen wurde.
-- *Wüstenelværi:* Vor ~100.000 Jahren wurde ein Elværi-Reich von Menschen vernichtet. Überlebende flohen in eine große Wüste mit noetisch totem Gebiet. Ein listiger Gott (der [[Wüstenelværi-Gott]]) half ihnen. Sie wandten sich von ihr ab. Seither ist die Elværigöttin verärgert — ihre Interventionen in der Wüste scheitern.
+- *Wüstenelværi:* Vor ~100.000 Jahren wurde ein Elværi-Reich von Hakani vernichtet. Überlebende flohen in eine große Wüste mit noetisch totem Gebiet. Ein listiger Gott (der [[Wüstenelværi-Gott]]) half ihnen. Sie wandten sich von ihr ab. Seither ist die Elværigöttin verärgert — ihre Interventionen in der Wüste scheitern.
 
 **Heutige Stellung:** Eine der ältesten Gottheiten auf Lumora. Starker Einfluss durch die Waldelfen. Kraft mittelmäßig für Götter-Maßstäbe ("Schwächere der Starken"). Reagierte auf den Verlust der Wüstenelværi mit aktiverer Lenkung der Waldelfen: Einführung von Clans, Triumvirat (statt Monarchie), Disziplinen → Waldelfen wurden zu einem der mächtigsten Völker Lumoras.
 

@@ -15,7 +15,7 @@ tags:
 
 Das erklärt, warum so verschiedene Völker bei aller Fremdheit immer wieder *Ähnlichkeiten* zeigen: denselben aufrechten Bauplan, vergleichbare Sinne, kompatible Sprache und Kultur. Sie sind keine unabhängigen Schöpfungen, sondern Zweige desselben Stammes.
 
-Betroffen sind: [[Menschen]], [[Elværi]], [[Theriani]], [[Vulkani]], [[Aviari]], [[Luminaari]], [[Leviathari]].
+Betroffen sind: [[Hakani]], [[Elværi]], [[Theriani]], [[Vulkani]], [[Aviari]], [[Luminaari]], [[Leviathari]].
 
 Nicht betroffen sind Völker mit deutlich abweichendem Körperbau ([[Drachen]], [[Chronari]], [[Golethari]], [[Kharell]], [[Sylvari]]) — ihr Bauplan verrät ihren eigenen, getrennten Ursprung.
 
@@ -43,7 +43,7 @@ Vieles dieses „geretteten" Genoms verlor sich rasch wieder. Aber nicht alles. 
 
 Fallengelassen heißt nicht verloren. Andere Götter wurden auf die unbeobachteten Linien aufmerksam und ließen ihre eigene Arbeit und Vorstellung darin aufgehen — meist, um sich eine nachhaltige Energiequelle (ein [[02.04 Religion & Götter#Energie durch Gläubige|verehrendes Volk]]) heranzuziehen. So entstanden über weitere Jahrmillionen:
 
-- [[Menschen]] ← [[Der Eifernde|Der Eifernde]] (die meistumkämpfte Linie — siehe unten)
+- [[Hakani]] ← [[Der Eifernde|Der Eifernde]] (die meistumkämpfte Linie — siehe unten)
 - [[Theriani]] ← [[Der Tiervater|Der Tiervater]]
 - [[Vulkani]] ← [[Der Tiefenschmied|Der Tiefenschmied]]
 - [[Aviari]] ← [[Der Himmelsherr|Der Himmelsherr]]
@@ -72,14 +72,14 @@ Dieser Ursprung ist eine reinrassige [[Emergente Folgen|emergente Folge]]: Aus e
 
 > **Das Laster des Fremdbringers — die Ungeduld — ist der exakte Gegenpol zur Geduld der Elværigöttin. Ausgerechnet sein ungeduldiges Scheitern lieferte ihr den Rohstoff für ihr geduldigstes Werk.** Er hält seine Geschöpfe vermutlich bis heute für tot — während sie in Wahrheit triumphierten.
 
-> *Anmerkung (Kandidat „verpfuschtes Geschöpf"):* Die [[Menschen]] sind der beste Kandidat für das in [[Spezies]] notierte „verpfuschte Geschöpf". Ihre Linie war im Werkstatt-Spiel die meistumkämpfte; rivalisierende Götter lenkten sie ständig um, sodass keine biologische Spezialisierung haften blieb. Zurück blieb ein anpassungsfähiger Generalist, der nur die rastlose Ambition des Eifernden erbte — und heute an keinen Gott mehr fest gebunden ist. Das speist zugleich ihre Gefährlichkeit (→ [[02.05 Geschichte#Das Makroproblem — Die Selbstzerstörungsdynamik|Makroproblem]]). Zu bestätigen.
+> *Anmerkung (Kandidat „verpfuschtes Geschöpf"):* Die [[Hakani]] sind der beste Kandidat für das in [[Spezies]] notierte „verpfuschte Geschöpf". Ihre Linie war im Werkstatt-Spiel die meistumkämpfte; rivalisierende Götter lenkten sie ständig um, sodass keine biologische Spezialisierung haften blieb. Zurück blieb ein anpassungsfähiger Generalist, der nur die rastlose Ambition des Eifernden erbte — und heute an keinen Gott mehr fest gebunden ist. Das speist zugleich ihre Gefährlichkeit (→ [[02.05 Geschichte#Das Makroproblem — Die Selbstzerstörungsdynamik|Makroproblem]]). Zu bestätigen.
 
 ## Die gefühlte Verwandtschaft — wenn das Blut leise spricht
 
 Die gemeinsame Linie wirkt bis heute — nicht im Bewusstsein, sondern im Instinkt. Die sieben Völker sind untereinander **sehr entfernt** verwandt, etwa so wie alle Säugetiere der Erde miteinander verwandt sind. Das genügt für eine leise, vorbewusste Resonanz:
 
 - **Geteiltes Signal-Set.** Alle sieben teilen denselben humanoiden Bauplan, denselben Geschlechtsdimorphismus (kräftigere männliche, zierlichere weibliche Statur) und dieselben Attraktivitäts- und Niedlichkeits-Reize — Symmetrie, Proportion, das Baby-Schema. Weil die „Sprache der Schönheit" dieselbe ist, kann ein Angehöriger der einen Art die Reize der anderen *lesen*: beidseitig, keine Einbahnstraße.
-- **Schutz- und Anziehungsinstinkte greifen über Artgrenzen.** Ein Säugling wirkt süß, egal welcher der sieben Arten er angehört, und weckt denselben Beschützerreflex. Und ein Mensch kann einen Elværi attraktiv finden — und umgekehrt —, weil beide auf demselben Reizvokabular antworten.
+- **Schutz- und Anziehungsinstinkte greifen über Artgrenzen.** Ein Säugling wirkt süß, egal welcher der sieben Arten er angehört, und weckt denselben Beschützerreflex. Und ein Hakani kann einen Elværi attraktiv finden — und umgekehrt —, weil beide auf demselben Reizvokabular antworten.
 - **Die abweichenden Völker sind spürbar fremd.** [[Drachen]], [[Chronari]], [[Golethari]], [[Kharell]], [[Sylvari]] gehören voll zur weltlichen Gemeinschaft, doch die gefühlte Distanz ist größer. Ein männlicher Elværi mag eine [[Golethari]] *abstrakt* für wohlproportioniert halten — aber die warme Kin-Resonanz und die eigentliche Anziehung zünden nicht, weil das gemeinsame Signal-Set fehlt. (Der Gradient gilt relativ: Auch ein Golethari empfindet die humanoide Familie als „die anderen".)
 
 **Anziehung, aber keine Vermischung.** So real die wechselseitige Anziehung innerhalb der Familie ist — die sieben sind **reproduktiv isolierte Arten**. Wie Hund und Pferd: verwandt und einander zugetan, aber ohne gemeinsame Nachkommen. Es gibt **keine Halb-Elfen, keine Misch-Völker**. (Kreuzung *innerhalb* einer Art bleibt möglich — Elværi-Phänotypen untereinander, Theriani-Unterarten untereinander.)

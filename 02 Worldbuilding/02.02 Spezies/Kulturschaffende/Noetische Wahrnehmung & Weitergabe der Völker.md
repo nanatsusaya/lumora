@@ -35,7 +35,7 @@ Statt jedes Volk einzeln zu behandeln, lässt sich die ganze Vielfalt aus wenige
 | [[Drachen]] | Kristallkern-Speicher (Kanon) | offen | Wanderjahre; Einzelgänger (Kanon, partiell) |
 | [[Luminaari]] | Licht + Elektromagnetismus, Biolumineszenz (Kanon) | Licht (Hyp.) | kollektive Licht-/Illusionsrituale (Hinweis) |
 | [[Theriani]] | tierische Sinne je Unterart (Kanon) | offen (Hyp.: Körper/Bewegung?) | Lücke (stammesbasiert) |
-| [[Menschen]] | keine biologische Spezialisierung (Kanon) | Artefakte/Technik (Hyp.) | Lücke (Hyp.: handwerklich-explizit) |
+| [[Hakani]] | keine biologische Spezialisierung (Kanon) | Artefakte/Technik (Hyp.) | Lücke (Hyp.: handwerklich-explizit) |
 | [[Aviari]] | offen | offen | Lücke |
 | [[Kharell]] | offen | offen | Lücke |
 | [[Leviathari]] | offen | offen | Lücke |
@@ -47,7 +47,7 @@ Statt jedes Volk einzeln zu behandeln, lässt sich die ganze Vielfalt aus wenige
 
 **Das Sinnesregister ist nicht universell.** Die Völker nehmen Noetik durch sehr verschiedene Kanäle wahr (Klang bei Elværi, Licht bei Luminaari, kristalline Resonanz bei Chronari/Golethari/Drachen, tierische Sinne bei Theriani). Das ist erzählerisch ein Gewinn → [[05.02 Vermittlung des Magiesystems#Kontrast der Völker als Lehrmotor|Kontrast als Lehrmotor]].
 
-**Die Menschen sind der Sonderfall.** Generalisten ohne biologische Spezialisierung, die [[Menschen|N-Kraft über Artefakte und Technik]] nutzen und fremde Felder nicht lesen können. Sie würden Noetik vermutlich wie **Ingenieurskunst** lehren — explizit, handwerklich — im Gegensatz zur elværischen *Sprache/Gefühl*-Tradition. Genau das ist der thematische Anker des Protagonisten → [[05.02 Vermittlung des Magiesystems#Die Ironie des Protagonisten|Protagonisten-Ironie]].
+**Die Hakani sind der Sonderfall.** Generalisten ohne biologische Spezialisierung, die [[Hakani|N-Kraft über Artefakte und Technik]] nutzen und fremde Felder nicht lesen können. Sie würden Noetik vermutlich wie **Ingenieurskunst** lehren — explizit, handwerklich — im Gegensatz zur elværischen *Sprache/Gefühl*-Tradition. Genau das ist der thematische Anker des Protagonisten → [[05.02 Vermittlung des Magiesystems#Die Ironie des Protagonisten|Protagonisten-Ironie]].
 
 > *Kritische Anmerkung:* Die solitären [[Drachen]] werfen eine echte offene Frage auf: Wenn die [[03.05 Grenzen & Einschränkungen#Das Feld in der frühen Entwicklung — Mutter und Kind|Mutter-Kind-Feldsynchronisation]] der Prägungsmechanismus ist — wie prägt eine noetisch hochaktive Einzelgänger-Spezies ihre Jungen? Entweder stärker biologisch vorverdrahtet (vgl. [[03.06 Anwendung & Fähigkeitsentwicklung|„fest verdrahtetes" Erbe]]) oder über eine kurze, intensive Elternphase. Ungeklärt.
 
@@ -60,7 +60,7 @@ Damit klar ist, worauf hier gebaut werden kann: **Nur die [[Elværi]] haben Kind
 ```
 TODO (offene Lücken, nach Priorität):
 - Wüstenelværi: Prägung & Trägermedium (→ Noetische Prägung & Erziehung (Elværi)); eigene Notiz existiert noch nicht.
-- Menschen: lehren sie Noetik wirklich handwerklich/explizit? Verhältnis Wissen↔Weisheit hier am ehesten anders als bei allen anderen.
+- Hakani: lehren sie Noetik wirklich handwerklich/explizit? Verhältnis Wissen↔Weisheit hier am ehesten anders als bei allen anderen.
 - Drachen: Prägung bei Einzelgängern (s. o.).
 - Chronari / Golethari: Prägung von klein auf (nur Initiation im Jugendalter belegt).
 - Aviari, Kharell, Leviathari, Sylvari, Theriani: Sinnesregister, Träger, Lehre allesamt offen.

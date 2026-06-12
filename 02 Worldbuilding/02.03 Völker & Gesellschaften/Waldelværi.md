@@ -236,20 +236,20 @@ Je höher das Ansehen, desto un-menschlicher der Ton, den die Elværi dem Namen 
 
 Wie die Waldelværi die zwölf kulturschaffenden Spezies benennen. **Wichtig:** Die Wort-Wurzel (lat./gr./jap.) ist nur **unser Hilfsmittel** zur Prägung — in Lumora gibt es kein Latein oder Griechisch; es zählt allein die *innerweltliche* Bedeutung. Es sind **Exonyme** (die Sicht der Elværi); jedes Volk hat seinen eigenen Namen für sich selbst. Dieses Set ist **Waldelværin** — Wüsten-/Frostelværi würden anders benennen.
 
-| Elværin | Fantasy-Pendant | Wurzel (Hilfsmittel) | Innerweltliche Bedeutung | Stufe |
-|---|---|---|---|---|
-| **Hakani** | Menschen | jap. *hakanai* „flüchtig, vergänglich" | „die Flüchtigen" | `-ani` |
-| **Elværi** | Elfen | Eigenbegriff (*elf/elven* + Ehrlaut æ) | Selbstbezeichnung | `-æri` |
-| **Theriani** | Tiermenschen | gr. *therion* „wildes Tier" | „die Wilden" | `-ani` |
-| **Anelari** | Zwerge | gr. *anḗlios* „sonnenlos" | „die Sonnenlosen" | `-ari` |
-| **Volari** | Vogelmenschen | lat. *volare* „fliegen" | „die Himmelsstürmer" | `-ari` |
-| **Luminæri** | Feen | lat. *lumen* „Licht" | „die Lichtbringer" | `-æri` |
-| **Bythari** | Meervolk | gr. *bythós* „Meerestiefe" | „die aus der Tiefe" | `-ari` |
-| **Vatæri** | Zeitseher (früher: Chronari) | lat. *vates* „Seher" | „die Seher" | `-æri` |
-| **Sapari** | Golems | lat. *sapiens* „weise" | „die Wissenden" | `-ari` |
-| **Tepani** | Echsenmenschen | lat. *tepor* „Wärme, Lauwärme" | „die Wärmebedürftigen" | `-ani` |
-| **Drakōri** | Drachen | gr. *drákōn* „Drache, Schlange" | „die Urgewaltigen" *(EN: the mighty ancients)* | `-ōri` |
-| **Sylvari** | Pflanzenmenschen | lat. *silva* „Wald" | „die Waldreichen" | `-ari` |
+| Elværin      | Fantasy-Pendant              | Wurzel (Hilfsmittel)                   | Innerweltliche Bedeutung                       | Stufe  |
+| ------------ | ---------------------------- | -------------------------------------- | ---------------------------------------------- | ------ |
+| **Hakani**   | Menschen                     | jap. *hakanai* „flüchtig, vergänglich" | „die Flüchtigen"                               | `-ani` |
+| **Elværi**   | Elfen                        | Eigenbegriff (*elf/elven* + Ehrlaut æ) | Selbstbezeichnung                              | `-æri` |
+| **Theriani** | Tiermenschen                 | gr. *therion* „wildes Tier"            | „die Wilden"                                   | `-ani` |
+| **Anelari**  | Zwerge                       | gr. *anḗlios* „sonnenlos"              | „die Sonnenlosen"                              | `-ari` |
+| **Volari**   | Vogelmenschen                | lat. *volare* „fliegen"                | „die Himmelsstürmer"                           | `-ari` |
+| **Luminæri** | Feen                         | lat. *lumen* „Licht"                   | „die Lichtbringer"                             | `-æri` |
+| **Bythari**  | Meervolk                     | gr. *bythós* „Meerestiefe"             | „die aus der Tiefe"                            | `-ari` |
+| **Vatæri**   | Zeitseher (früher: Chronari) | lat. *vates* „Seher"                   | „die Seher"                                    | `-æri` |
+| **Sapari**   | Golems                       | lat. *sapiens* „weise"                 | „die Wissenden"                                | `-ari` |
+| **Tepani**   | Echsenmenschen               | lat. *tepor* „Wärme, Lauwärme"         | „die Wärmebedürftigen"                         | `-ani` |
+| **Drakōri**  | Drachen                      | gr. *drákōn* „Drache, Schlange"        | „die Urgewaltigen" *(EN: the mighty ancients)* | `-ōri` |
+| **Sylvari**  | Pflanzenmenschen             | lat. *silva* „Wald"                    | „die Waldreichen"                              | `-ari` |
 
 > *Anmerkung:* Die **Theriani** sind (geplant) das einzige Volk, das im Elværi-Staat des Protagonisten dauerhaft mitlebt — in dienender/familiärer Rolle, dem Protagonisten fast wie „Haustiere" erscheinend: geduldet, kaum respektiert, daher `-ani`.
 
