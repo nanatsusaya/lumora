@@ -11,3 +11,4 @@ Die Inhalte aus diesem Bereich sind nicht zwingendermaßen direkt in der Lumora 
 
 * [[Singbare Sprachen]] betrachtet werden reale linguistisch-musikalische Grundlage
 * [[Hard-Magic-Fantasy]] — Genre-Grundlage des Begriffs, Abgrenzung und Referenzwerke für Lumora
+* [[Wellenbegriffe]] — reale Physik der Wellenbegriffe des Noetischen Systems (Frequenz, Resonanz, Interferenz, Dekohärenz …)
