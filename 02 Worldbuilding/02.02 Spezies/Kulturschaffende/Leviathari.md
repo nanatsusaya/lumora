@@ -23,6 +23,6 @@ tags:
 TODO: Die Leviathari sind unterentwickelt. 
 Welche Rolle spielen sie politisch? 
 Kontrollieren sie Handelswege unter dem Meer? 
-Konflikte mit Seevölkern (Hakani, Aviari)?
+Konflikte mit Seevölkern (Hakani, Volari)?
 Bevölkerungszahl fehlt noch.
 ```

@@ -36,7 +36,7 @@ Statt jedes Volk einzeln zu behandeln, lässt sich die ganze Vielfalt aus wenige
 | [[Luminaari]] | Licht + Elektromagnetismus, Biolumineszenz (Kanon) | Licht (Hyp.) | kollektive Licht-/Illusionsrituale (Hinweis) |
 | [[Theriani]] | tierische Sinne je Unterart (Kanon) | offen (Hyp.: Körper/Bewegung?) | Lücke (stammesbasiert) |
 | [[Hakani]] | keine biologische Spezialisierung (Kanon) | Artefakte/Technik (Hyp.) | Lücke (Hyp.: handwerklich-explizit) |
-| [[Aviari]] | offen | offen | Lücke |
+| [[Volari]] | offen | offen | Lücke |
 | [[Kharell]] | offen | offen | Lücke |
 | [[Leviathari]] | offen | offen | Lücke |
 | [[Sylvari]] | botanische Resonanz (Hyp.) | offen | Lücke |
@@ -63,7 +63,7 @@ TODO (offene Lücken, nach Priorität):
 - Hakani: lehren sie Noetik wirklich handwerklich/explizit? Verhältnis Wissen↔Weisheit hier am ehesten anders als bei allen anderen.
 - Drachen: Prägung bei Einzelgängern (s. o.).
 - Chronari / Golethari: Prägung von klein auf (nur Initiation im Jugendalter belegt).
-- Aviari, Kharell, Leviathari, Sylvari, Theriani: Sinnesregister, Träger, Lehre allesamt offen.
+- Volari, Kharell, Leviathari, Sylvari, Theriani: Sinnesregister, Träger, Lehre allesamt offen.
 - Luminaari: kollektive Rituale als Lehrform bestätigen oder verwerfen.
 ```
 

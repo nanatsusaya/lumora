@@ -8,7 +8,7 @@ Folgende kulturschaffende Spezies sind bekannt:
 * [[Elværi]]
 * [[Theriani]]
 * [[Anelari]]
-* [[Aviari]]
+* [[Volari]]
 * [[Luminaari]]
 * [[Leviathari]]
 * [[Chronari]]
@@ -33,7 +33,7 @@ Die Anzahl der jeweiligen Spezien in Lumora variiert zum Teil extrem. Dies läss
 | [[Elværi]]     | Wälder, Täler, Nordregionen, Wüsten    | ~300 Mio.   | Langlebig, Hüter der Geschichte     |
 | [[Theriani]]   | Biotopabhängig                         | ~600 Mio.   | Tiermenschen, viele Unterarten      |
 | [[Anelari]]    | Unterirdisch, Berge                    | ~400 Mio.   | Schmiedekunst, Materialkontrolle    |
-| [[Aviari]]     | Berge, schwer zugängliche Orte         | ~30 Mio.    | Flugfähig, Gravitationsmanipulation |
+| [[Volari]]     | Berge, schwer zugängliche Orte         | ~30 Mio.    | Flugfähig, Gravitationsmanipulation |
 | [[Luminaari]]  | Magische Wälder, versteckte Lichtungen | ~50 Mio.    | Illusionen, Lichtmanipulation       |
 | [[Leviathari]] | Ozeane, Seen, Flussmündungen           | TBD         | Amphibisch, Wassermagie             |
 | [[Chronari]]   | Abgelegene, noetisch aktive Regionen   | ~10 Mio.    | Zeitverzögerung und Voraussicht     |
