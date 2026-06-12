@@ -22,7 +22,7 @@ Aezion ist ein blauer Riese. Im Vergleich zu unserer Sonne strahlt er intensiver
 
 ```
 TODO: Wie wirkt sich die stärkere UV-Strahlung auf die Biologie der Völker aus?
-Haben bestimmte Völker (z. B. Sylvari, Luminaari) evolutionäre Anpassungen an 
+Haben bestimmte Völker (z. B. Sylvari, Luminæri) evolutionäre Anpassungen an 
 stärkere Strahlung entwickelt? Ist das ein narrativ relevanter Faktor?
 ```
 

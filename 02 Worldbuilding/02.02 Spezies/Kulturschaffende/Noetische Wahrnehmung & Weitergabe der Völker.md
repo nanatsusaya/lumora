@@ -33,7 +33,7 @@ Statt jedes Volk einzeln zu behandeln, lässt sich die ganze Vielfalt aus wenige
 | [[Chronari]] | kristalline Resonanz + Tachyon-/Zeitsignaturen (Kanon) | offen (Hyp.: paarweise Balance?) | Paar-Reise & Heimatverlassen als Initiation (Kanon, partiell) |
 | [[Golethari]] | kristalline Infrastruktur (Kanon) | offen | Symbionten-Wahl bei Reife; „Sucher"-Status (Kanon, partiell) |
 | [[Drachen]] | Kristallkern-Speicher (Kanon) | offen | Wanderjahre; Einzelgänger (Kanon, partiell) |
-| [[Luminaari]] | Licht + Elektromagnetismus, Biolumineszenz (Kanon) | Licht (Hyp.) | kollektive Licht-/Illusionsrituale (Hinweis) |
+| [[Luminæri]] | Licht + Elektromagnetismus, Biolumineszenz (Kanon) | Licht (Hyp.) | kollektive Licht-/Illusionsrituale (Hinweis) |
 | [[Theriani]] | tierische Sinne je Unterart (Kanon) | offen (Hyp.: Körper/Bewegung?) | Lücke (stammesbasiert) |
 | [[Hakani]] | keine biologische Spezialisierung (Kanon) | Artefakte/Technik (Hyp.) | Lücke (Hyp.: handwerklich-explizit) |
 | [[Volari]] | offen | offen | Lücke |
@@ -45,7 +45,7 @@ Statt jedes Volk einzeln zu behandeln, lässt sich die ganze Vielfalt aus wenige
 
 ## Beobachtungen
 
-**Das Sinnesregister ist nicht universell.** Die Völker nehmen Noetik durch sehr verschiedene Kanäle wahr (Klang bei Elværi, Licht bei Luminaari, kristalline Resonanz bei Chronari/Golethari/Drachen, tierische Sinne bei Theriani). Das ist erzählerisch ein Gewinn → [[05.02 Vermittlung des Magiesystems#Kontrast der Völker als Lehrmotor|Kontrast als Lehrmotor]].
+**Das Sinnesregister ist nicht universell.** Die Völker nehmen Noetik durch sehr verschiedene Kanäle wahr (Klang bei Elværi, Licht bei Luminæri, kristalline Resonanz bei Chronari/Golethari/Drachen, tierische Sinne bei Theriani). Das ist erzählerisch ein Gewinn → [[05.02 Vermittlung des Magiesystems#Kontrast der Völker als Lehrmotor|Kontrast als Lehrmotor]].
 
 **Die Hakani sind der Sonderfall.** Generalisten ohne biologische Spezialisierung, die [[Hakani|N-Kraft über Artefakte und Technik]] nutzen und fremde Felder nicht lesen können. Sie würden Noetik vermutlich wie **Ingenieurskunst** lehren — explizit, handwerklich — im Gegensatz zur elværischen *Sprache/Gefühl*-Tradition. Genau das ist der thematische Anker des Protagonisten → [[05.02 Vermittlung des Magiesystems#Die Ironie des Protagonisten|Protagonisten-Ironie]].
 
@@ -64,7 +64,7 @@ TODO (offene Lücken, nach Priorität):
 - Drachen: Prägung bei Einzelgängern (s. o.).
 - Chronari / Golethari: Prägung von klein auf (nur Initiation im Jugendalter belegt).
 - Volari, Kharell, Leviathari, Sylvari, Theriani: Sinnesregister, Träger, Lehre allesamt offen.
-- Luminaari: kollektive Rituale als Lehrform bestätigen oder verwerfen.
+- Luminæri: kollektive Rituale als Lehrform bestätigen oder verwerfen.
 ```
 
 ---

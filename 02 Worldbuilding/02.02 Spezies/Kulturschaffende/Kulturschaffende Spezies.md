@@ -9,7 +9,7 @@ Folgende kulturschaffende Spezies sind bekannt:
 * [[Theriani]]
 * [[Anelari]]
 * [[Volari]]
-* [[Luminaari]]
+* [[Luminæri]]
 * [[Leviathari]]
 * [[Chronari]]
 * [[Golethari]]
@@ -34,7 +34,7 @@ Die Anzahl der jeweiligen Spezien in Lumora variiert zum Teil extrem. Dies läss
 | [[Theriani]]   | Biotopabhängig                         | ~600 Mio.   | Tiermenschen, viele Unterarten      |
 | [[Anelari]]    | Unterirdisch, Berge                    | ~400 Mio.   | Schmiedekunst, Materialkontrolle    |
 | [[Volari]]     | Berge, schwer zugängliche Orte         | ~30 Mio.    | Flugfähig, Gravitationsmanipulation |
-| [[Luminaari]]  | Magische Wälder, versteckte Lichtungen | ~50 Mio.    | Illusionen, Lichtmanipulation       |
+| [[Luminæri]]  | Magische Wälder, versteckte Lichtungen | ~50 Mio.    | Illusionen, Lichtmanipulation       |
 | [[Leviathari]] | Ozeane, Seen, Flussmündungen           | TBD         | Amphibisch, Wassermagie             |
 | [[Chronari]]   | Abgelegene, noetisch aktive Regionen   | ~10 Mio.    | Zeitverzögerung und Voraussicht     |
 | [[Golethari]]  | Wüsten, Vulkanregionen                 | ~30 Mio.    | Siliziumbasiert, Kristallspeicher   |
