@@ -19,7 +19,7 @@ Der Protagonist ist das Herzstück der Geschichte. Er ist kein klassischer Held 
 
 **Herkunft:** Erde. Lehrer auf einer normalen Schule im Bereich der Naturwissenschaften.
 
-**Neugeburt:** Auf Lumora als Eldari-Frau (Waldelfe) wiedergeboren. Hat ab dem Moment der Geburt sein volles Bewusstsein. Ist sich seiner alten Identität vollständig bewusst.
+**Neugeburt:** Auf Lumora als Elværi-Frau (Waldelfe) wiedergeboren. Hat ab dem Moment der Geburt sein volles Bewusstsein. Ist sich seiner alten Identität vollständig bewusst.
 
 > *Kritische Anmerkung:* Der Geschlechterwechsel (Gender Bender) ist kein Gimmick — er ist thematisch zentral. Der Protagonist trägt buchstäblich zwei Identitäten: die alte (männlich, Vater, Erdmensch) und die neue (weiblich, Elfin, Lumorianerin). Das ist die persönliche Spiegelung des Ursprungsgott-Chaosgott-Themas. Behandle das mit der Ernsthaftigkeit, die es verdient.
 
@@ -103,7 +103,7 @@ Die Rettung Lumoras ist anfangs irrelevant für ihn. Lumora wird erst dann zur P
 ## Äußerer Konflikt
 
 - **Misstrauen:** Wird von Lumoranern als Außenseiter wahrgenommen — denkt und handelt fundamental anders.
-- **Politische Intrigen:** Als Kind einer aristokratischen Eldari-Familie: Machtspiele und Erwartungen.
+- **Politische Intrigen:** Als Kind einer aristokratischen Elværi-Familie: Machtspiele und Erwartungen.
 - **Göttereinfluss:** Der [[Strippenzieher-Gott|Strippenzieher-Gott]] lenkt sein Leben subtil — was der Protagonist nicht weiß und später nicht gutheißen wird.
 
 ---
@@ -117,8 +117,8 @@ Die Rettung Lumoras ist anfangs irrelevant für ihn. Lumora wird erst dann zur P
 
 **Lumora — neue Familie:**
 - Wohlhabend, aristokratisch, sozial angesehen.
-- *Mutter (Eldari):* Liebevoll, aber überfürsorglich. Außerordentlich innige Beziehung zum Protagonisten. → Wird zum emotionalen Kern von Teil 2.
-- *Vater (Eldari):* Streng, oft abwesend. Die Verantwortung liegt bei der Mutter.
+- *Mutter (Elværi):* Liebevoll, aber überfürsorglich. Außerordentlich innige Beziehung zum Protagonisten. → Wird zum emotionalen Kern von Teil 2.
+- *Vater (Elværi):* Streng, oft abwesend. Die Verantwortung liegt bei der Mutter.
 - *Geschwister:* Potenzielle Verbündete oder Rivalen (noch nicht ausgearbeitet).
 
 **[[Raum-Zeit-Gott|Raum-Zeit-Gott]]:**
@@ -129,12 +129,12 @@ Die Rettung Lumoras ist anfangs irrelevant für ihn. Lumora wird erst dann zur P
 
 ## Der Gender Bender
 
-Der Protagonist war auf der Erde männlich und Vater. Er wird auf Lumora als Eldari-Frau wiedergeboren.
+Der Protagonist war auf der Erde männlich und Vater. Er wird auf Lumora als Elværi-Frau wiedergeboren.
 
 **Umgang damit:**
 - Verarbeitung ist schwierig, aber er hat keine andere Wahl.
-- Findet eine praktische Seite: Kleider. Er fand schon auf der Erde schöne, bunte Frauenkleider toll und sah sie gern an. Er spielte sogar mit dem Gedanken, sich selbst etwas farbenfroher zu kleiden — nichts Extravagantes, nur etwas Hübsches, wie es heute viele Männer tun. Doch sobald er sich das als Mann vorstellte, kam er sich albern und unpassend vor und ließ es bleiben. Als Eldari-Frau kann er das endlich ausleben.
-- Bringt modische Innovationen in die Eldari-Gesellschaft: neue Farben, Kleiderschnitte, Stoffe.
+- Findet eine praktische Seite: Kleider. Er fand schon auf der Erde schöne, bunte Frauenkleider toll und sah sie gern an. Er spielte sogar mit dem Gedanken, sich selbst etwas farbenfroher zu kleiden — nichts Extravagantes, nur etwas Hübsches, wie es heute viele Männer tun. Doch sobald er sich das als Mann vorstellte, kam er sich albern und unpassend vor und ließ es bleiben. Als Elværi-Frau kann er das endlich ausleben.
+- Bringt modische Innovationen in die Elværi-Gesellschaft: neue Farben, Kleiderschnitte, Stoffe.
 - Thematisiert aktiv Selbstfindung und Identität — sowohl für sich selbst als auch in Gesprächen mit anderen Figuren.
 
 > *Kreative Anmerkung:* Der Kleid-Subplot klingt zunächst leicht — ist es aber nicht. Er ist das sichtbarste Zeichen der Selbstfindung des Protagonisten. Wenn er ein Kleid in Gelb-Orange-Rot auf einem Ball trägt und die Gesellschaft reagiert: das ist kein modischer Moment, das ist ein politischer. Identität ist immer politisch, in jeder Welt.
@@ -154,8 +154,8 @@ Der Protagonist war auf der Erde männlich und Vater. Er wird auf Lumora als Eld
 **Wendepunkt:** Tod des Jungen durch Drachenwesen-Angriff. Mehrere Tage Depression → Entschluss: stark werden, um alle zu schützen. **Heldenreise beginnt.**
 
 **Mittlerer Bogen:**
-- Erkennt, dass die Grenzen innerhalb des Eldari-Reiches zu eng sind.
-- Verlässt die Heimat. Erster Begleiter: eine junge Eldari-Kriegerin.
+- Erkennt, dass die Grenzen innerhalb des Elværi-Reiches zu eng sind.
+- Verlässt die Heimat. Erster Begleiter: eine junge Elværi-Kriegerin.
 
 **Späterer Bogen:**
 - Erkennt das kosmische Problem Lumoras.
@@ -183,5 +183,5 @@ TODO: Name des Protagonisten fehlt noch.
 TODO: Soll der Protagonist von Null zu Anführer wachsen?
 Oder ist der Bogen eher: vom Einzelkämpfer zum kooperativen Koordinator?
 (Beide sind möglich — die zweite Option passt besser zum ingenieurhaften Charaktertyp.)
-TODO: Wie heißt die erste Begleiterin (Eldari-Kriegerin)?
+TODO: Wie heißt die erste Begleiterin (Elværi-Kriegerin)?
 ```

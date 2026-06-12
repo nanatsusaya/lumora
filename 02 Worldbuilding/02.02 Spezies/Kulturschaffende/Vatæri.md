@@ -1,15 +1,17 @@
 ---
 tags:
   - wip
-  - "#chronari"
+  - "#vataeri"
   - working-title
   - species
 ---
-# Chronari
+# Vatæri
 
-*EN: Chronari (Time-Beings)*
-*Tag:* #chronari
+*EN: Vatæri (Time-Beings)*
+*Tag:* #vataeri
 *Status:* #wip
+
+Die **Vatæri** (Zeitseher; kein klassisches Fantasy-Pendant) sind das Volk der Zukunftsdeutung — eine der zwölf kulturschaffenden [[Spezies]]. *Vatæri* ist ihr [[Waldelværi#Die Völker im Elværin (Waldelværi-Exonyme)|Elværin-Name]] (von lat. *vates*, „Seher" → „die Seher"); der Ehrlaut `æ` markiert die Stufe *respektiert*.
 
 **Biologie:** Humanoid, in zwei Familien unterteilt, die sich äußerlich deutlich unterscheiden:
 
@@ -19,10 +21,10 @@ Robuster Körper mit Chitinplatten an Schultern, Armen und Beinen. Dunkle Hautt�
 **Vorausblicker (Schlankenartige Familie):**
 Schlank, geschmeidig. Perlmuttschimmernde Haut (sanftes Silber/Blau je nach Blickwinkel). Leicht schuppige Haut, sanft gebogene Wirbelsäule, geschlitzte Augen (gold/violett leuchtend). Verlängerte Finger mit kristallinen Ausläufern — Kanäle für Noetische Energie. Haare aus kristallähnlichem Material. Fließende, fast tänzerische Bewegungen.
 
-Beide Familien: Schimmer verstärkt sich mit Alter und Erfahrung. Sehr erfahrene Chronari wirken kaum noch greifbar.
+Beide Familien: Schimmer verstärkt sich mit Alter und Erfahrung. Sehr erfahrene Vatæri wirken kaum noch greifbar.
 
-![[Chronari.webp]]
-*Konzeptskizze: Chronari — links die chitinartige Familie (Zeitverzögerer), rechts die schlanke Familie (Vorausblicker). Arbeitsentwurf.*
+![[Vatæri.webp]]
+*Konzeptskizze: Vatæri — links die chitinartige Familie (Zeitverzögerer), rechts die schlanke Familie (Vorausblicker). Arbeitsentwurf.*
 
 **Fähigkeiten:**
 - **Zeitverlangsamung** (Zeitverzögerer): Manipulation des Noetischen Feldes und der Gravitation → lokalen Zeitfluss verlangsamen. Hoher Energieaufwand, nur kurzzeitig möglich.
@@ -33,6 +35,6 @@ Beide Familien: Schimmer verstärkt sich mit Alter und Erfahrung. Sehr erfahrene
 - Zwei gleichrangige Herrscher (je einer pro Familie), Entscheidungen durch Konsens.
 - Reisen grundsätzlich in Paaren (je ein Vertreter jeder Familie) — kulturelle Pflicht, um Balance zu wahren.
 - Tradition: Heranwachsende müssen die Heimat für mindestens ein Jahrzehnt verlassen.
-- Nomineller Gott: [[Raum-Zeit-Gott|Raum-Zeit-Gott]] — interagiert jedoch kaum mit ihnen, weshalb die Chronari pragmatisch auch andere Götter anbeten.
+- Nomineller Gott: [[Raum-Zeit-Gott|Raum-Zeit-Gott]] — interagiert jedoch kaum mit ihnen, weshalb die Vatæri pragmatisch auch andere Götter anbeten.
 
-> *Kreative Anmerkung:* Die "Reisen in Paaren"-Tradition ist kulturell elegant — aber steckt dahinter mehr? Könnten die Chronari instinktiv spüren, dass gespaltene Wesen (Ursprungsgott/Chaosgott) gefährlich sind, und sich deshalb gegen die eigene Spaltung wehren? Das wäre ein unbewusstes Foreshadowing auf das große Geheimnis.
+> *Kreative Anmerkung:* Die "Reisen in Paaren"-Tradition ist kulturell elegant — aber steckt dahinter mehr? Könnten die Vatæri instinktiv spüren, dass gespaltene Wesen (Ursprungsgott/Chaosgott) gefährlich sind, und sich deshalb gegen die eigene Spaltung wehren? Das wäre ein unbewusstes Foreshadowing auf das große Geheimnis.

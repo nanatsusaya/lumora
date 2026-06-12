@@ -3,7 +3,7 @@ tags:
   - "#wip"
   - part-1
   - "#rzg"
-  - eldari-goddess
+  - elvaeri-goddess
   - puppeteer-god
   - protagonist
 ---
@@ -131,12 +131,12 @@ Hier geht es um fünf Götter:
 
 * Person 1: ein noch unbekannter zumeist ängstlicher Gott
 * Person 2: der [[02.04 Religion & Götter#Strippenzieher-Gott (Arbeitstitel)|Strippenzieher-Gott]]
-* Person 3: die [[02.04 Religion & Götter#Eldarigöttin (Arbeitstitel)|Eldarigöttin]]
+* Person 3: die [[02.04 Religion & Götter#Elvaerigöttin (Arbeitstitel)|Elværigöttin]]
 * Die Person über die Gesprochen wird ist der [[02.04 Religion & Götter#Ursprungsgott|Ursprungsgott]]
 * Die Person zu den die drei Götter gehen ist der [[02.04 Religion & Götter#Raum-Zeit-Gott (RZG)|Raum-Zeit-Gott]]
 * Das Thema ist der [[__Lore & Mystery#Der doppelte Auslöser der Geschichte|drohende Untergang Lumoras]] und die [[02.05 Geschichte#Die Drei Regeln|Die Drei Regeln]]
 * Ich muss den Text noch umschreiben. Es darf nicht so wirken, als würden hier drei Menschen irgendwo hingehen.
-* Der #rzg entscheidet hier, nachdem er ein "Blick in die Zukunft" geworfen hat, dass Lumora wirklich vor der Auslöschung steht. Er beschließt, einen Außenseiter einzubeziehen. Dieser soll unter den Eldari aufwachsen.
+* Der #rzg entscheidet hier, nachdem er ein "Blick in die Zukunft" geworfen hat, dass Lumora wirklich vor der Auslöschung steht. Er beschließt, einen Außenseiter einzubeziehen. Dieser soll unter den Elværi aufwachsen.
 
 ## 2. Entwurf
 
@@ -279,7 +279,7 @@ Neufassung der Götter-Szene aus dem 1. Entwurf. Ziel: keine menschlichen Reakti
 
 **Die Zweite — der [[02.04 Religion & Götter#Strippenzieher-Gott (Arbeitstitel)|Strippenzieher-Gott]], gleichgültig-strategisch.** Um sie *ordnet* sich alles, Linien richten sich aus. Sie spricht in ruhigen, vollständigen Sätzen und *rechnet*, wo andere fühlen. Die Katastrophe ist für sie eine Aufgabe, kein Schrecken — darum bleibt sie unberührt, selbst hier.
 
-**Die Dritte — die [[02.04 Religion & Götter#Eldarigöttin (Arbeitstitel)|Eldarigöttin]], vorsichtig-wachsam.** Um sie ein Hauch von *Wachstum* (hier gedämpft, woran sie die Gefahr erkennt). Sie beobachtet, wägt, spricht zuletzt und am knappsten. Genau das macht sie für den Raum-Zeit-Gott zum „leisesten Geräusch" — und liefert den Grund, warum er *sie* behält.
+**Die Dritte — die [[02.04 Religion & Götter#Elvaerigöttin (Arbeitstitel)|Elværigöttin]], vorsichtig-wachsam.** Um sie ein Hauch von *Wachstum* (hier gedämpft, woran sie die Gefahr erkennt). Sie beobachtet, wägt, spricht zuletzt und am knappsten. Genau das macht sie für den Raum-Zeit-Gott zum „leisesten Geräusch" — und liefert den Grund, warum er *sie* behält.
 
 **Der Raum-Zeit-Gott** spricht *außerhalb der Zeit*: Zeitformen mischen sich („Es ist lange her. Es wird lange her sein."), die Stimme kommt „von überall und von weit entferntem Damals", sein Blick in die Zukunft ist ein Verfolgen *vieler Linien*, die alle gleich enden. Genau deshalb braucht er etwas, das „in keiner Linie steht" — ein freier, unvorhergesehener Faktor. Das hält die Szene systemkonform (kein fixes Schicksal, sondern eine Lücke in der Vorhersage) und bleibt zugleich kryptisch.
 
@@ -295,7 +295,7 @@ Alle körperlichen Reflexe (Räuspern, Zittern, Blinzeln, Seufzen, Zischen) wurd
 Muss nicht durchgehalten werden. Dies ist die *Einführung* — der erste Kontakt darf teuer sein, weil er das Vokabular etabliert. Ist es einmal gesetzt, reicht später *ein einziger Marker* als Kürzel (die ausgerichteten Linien, das gedämpfte Grün), und ein halber Satz ruft die ganze Präsenz auf. Prinzip: **reich einführen, danach sparsam zitieren** — wirkt sogar stärker, weil es vertraut ist.
 
 **Bewusste Eingriffe gegenüber dem Original (noch zu bestätigen).**
-- Eldarigöttin von „panisch" → „gefasst-vorsichtig" gedreht. Grund: macht das „leiseste Geräusch"-Motiv plausibel (der RZG behält sie, *weil* sie nicht ins Lärmen verfällt) und trennt sie klar von der Ängstlichen.
+- Elværigöttin von „panisch" → „gefasst-vorsichtig" gedreht. Grund: macht das „leiseste Geräusch"-Motiv plausibel (der RZG behält sie, *weil* sie nicht ins Lärmen verfällt) und trennt sie klar von der Ängstlichen.
 - Zukunftsblick als „alle Linien enden gleich" angelegt. Grund: begründet das Außenseiter-/freie-Variable-Motiv und bleibt systemkonform — kein fixes Schicksal, sondern eine *Lücke in der Vorhersage* —, und bleibt zugleich kryptisch.
 
 **Zur Zeile „Vergehen." (geändert von „Vergeht.").**
@@ -305,7 +305,7 @@ Verworfen: „Vergeht…" (Auslassungspunkte). Das liest sich als Verstummen / I
 
 ```
 OFFENE ENTSCHEIDUNGEN:
-- Eldarigöttin: gefasst-vorsichtig (aktuell) oder doch ängstlicher?
+- Elværigöttin: gefasst-vorsichtig (aktuell) oder doch ängstlicher?
 - Zukunftsblick-Framing „alle Linien enden gleich" endgültig übernehmen?
   (berührt Kanon: 03.05 Grenzen / Götter — Zukunft als Wahrscheinlichkeiten, nicht fix)
 - „Vergehen." pur lassen oder mit stockendem Folgesatz verdeutlichen?

@@ -3,12 +3,12 @@ tags:
   - wip
   - working-title
 ---
-# Die Eldari-Mutter
+# Die Elværi-Mutter
 
-*EN: The Eldari Mother*
-*Tag:* #eldari-mother
+*EN: The Elværi Mother*
+*Tag:* #elvaeri-mother
 
-Waldeldari-Mutter des [[Protagonist]] auf Lumora. Wohlhabend, aristokratisch, sozial angesehen. Emotionaler Kern von Part II.
+Waldelværi-Mutter des [[Protagonist]] auf Lumora. Wohlhabend, aristokratisch, sozial angesehen. Emotionaler Kern von Part II.
 
 **Charakter:**
 - Liebevoll, aber überfürsorglich.
@@ -21,11 +21,11 @@ Waldeldari-Mutter des [[Protagonist]] auf Lumora. Wohlhabend, aristokratisch, so
 - *Mama, bitte!:* Verbietet zunächst den Psychoangriff-Unterricht. Gibt nach, als ein Triumviratsmitglied zu Gunsten des Protagonisten interveniert — aber nur unter der Bedingung, dass sie beim Training dabei ist.
 
 **Thematische Bedeutung:**
-Sie ist das, was der Protagonist auf der Erde verloren hat: eine Mutter, die bleibt. Gleichzeitig spiegelt die Überfürsorglichkeit die [[Eldarigöttin]] — auch sie liebt im falschen Zeitmaßstab und kommt einen Schritt zu spät.
+Sie ist das, was der Protagonist auf der Erde verloren hat: eine Mutter, die bleibt. Gleichzeitig spiegelt die Überfürsorglichkeit die [[Elværigöttin]] — auch sie liebt im falschen Zeitmaßstab und kommt einen Schritt zu spät.
 
 ```
 TODO: Name vergeben.
 TODO: Wie reagiert sie, wenn der Protagonist die Heimat verlässt?
 TODO: Welche Rolle spielt sie in Part II?
-TODO: Hat sie eine Beziehung zur Eldarigöttin — weiß sie, dass ihr Kind besonders ist?
+TODO: Hat sie eine Beziehung zur Elværigöttin — weiß sie, dass ihr Kind besonders ist?
 ```

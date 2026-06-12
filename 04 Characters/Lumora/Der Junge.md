@@ -20,7 +20,7 @@ Wichtige Nebenfigur in Kapitel 2. Kein Begleiter, kein Feind — ein kompliziert
 
 ## Profil
 
-**Volk:** Eldari (Waldelfe).
+**Volk:** Elværi (Waldelfe).
 **Soziale Stellung:** Niedrig. Eltern und Umfeld sozial schwach. Fühlt sich klein und unbedeutend.
 
 **Charakter:**
@@ -59,7 +59,7 @@ Dann: ein Entschluss.
 
 **Das ist der Startschuss der Heldenreise.**
 
-Der Protagonist erkennt außerdem: Innerhalb der Eldari-Reiche kann er nur einen gewissen Punkt erreichen. Er muss hinaus in die Welt.
+Der Protagonist erkennt außerdem: Innerhalb der Elværi-Reiche kann er nur einen gewissen Punkt erreichen. Er muss hinaus in die Welt.
 
 ---
 

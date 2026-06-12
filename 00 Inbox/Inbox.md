@@ -58,7 +58,7 @@ Er überwindet die regionale N-Kraft-Schwäche nicht durch eine Ausnahme vom Sys
 
 ## Der Protagonist hat bereits einen Partner
 
-Bei den Waldelfen steht explizit dabei, dass sie nur einen Partner im Leben wählen. Das ist so eine Resonanzverbindungssache. Wir könnten definieren, dass der Protagonist, selbst als erwachsene Eldarifrau, so eine Beziehung nie eingehen kann, da sie mit ihrer Ehefrau aus dem letzten Leben bereits so eine Bindung eingegangen ist.
+Bei den Waldelfen steht explizit dabei, dass sie nur einen Partner im Leben wählen. Das ist so eine Resonanzverbindungssache. Wir könnten definieren, dass der Protagonist, selbst als erwachsene Elværifrau, so eine Beziehung nie eingehen kann, da sie mit ihrer Ehefrau aus dem letzten Leben bereits so eine Bindung eingegangen ist.
 Sowas könnte sie zufällig herausfinden, weil sich ihr jemand aufdringen will und sie gewaltätig zu der seinen machen will. Dabei stoßt das Resonanzfeld des Protagonisten den fremden ab, da das Feld bereits einen Partner hat. Das könnte eine zutiefst psychologische Ursache bei dem Protagonisten haben.
 Im Übrigen hört sich das nach einem spannenden Story Ark an mit einer überraschenden Wende.
 
@@ -66,24 +66,24 @@ Im Übrigen hört sich das nach einem spannenden Story Ark an mit einer überras
 
 ## Ich mach mir sorgen um meine Kinder, das verstehst du nicht!
 
-Irgendwann wenn der #protagonist auf die #eldari-goddess trifft und mit ihr redet, stellt er fest, dass sie sich ihrem Volk, den #eldari gegenüber wie eine Glucke bzw. Helikopter-Mutter verhält. Sie gibt ihnen kaum Raum zu wachsen. Jede Regierungsform, jede größere Entscheidung der Richtungsentscheidung, alles hat sie bestimmt. Immer.
+Irgendwann wenn der #protagonist auf die #elvaeri-goddess trifft und mit ihr redet, stellt er fest, dass sie sich ihrem Volk, den #elvaeri gegenüber wie eine Glucke bzw. Helikopter-Mutter verhält. Sie gibt ihnen kaum Raum zu wachsen. Jede Regierungsform, jede größere Entscheidung der Richtungsentscheidung, alles hat sie bestimmt. Immer.
 
-Und wenn man das Thema der #theriani in deren Staat anspricht, dass diese praktisch null Mitspracherecht haben und das früher oder später zu einer Rebellion führen muss, behauptet #eldari-goddess , dass das doch nur zu dem besten der #theriani sei. Immerhin leben die #eldari viel länger und hätten viel mehr Erfahrung und wüssten es damit besser. Der #protagonist ist darauf hin vollkommen entsetzt, dass selbst die #eldari-goddess dieses völlig übertriebene und fehlamplatz elitäre Verhalten an den Tag legt. Es wird eindeutig klar, dass das Verhalten der #eldari fast vollständig auf das unpassende und unangemessene Verhalten der Göttin zurück zu führen ist. 
+Und wenn man das Thema der #theriani in deren Staat anspricht, dass diese praktisch null Mitspracherecht haben und das früher oder später zu einer Rebellion führen muss, behauptet #elvaeri-goddess , dass das doch nur zu dem besten der #theriani sei. Immerhin leben die #elvaeri viel länger und hätten viel mehr Erfahrung und wüssten es damit besser. Der #protagonist ist darauf hin vollkommen entsetzt, dass selbst die #elvaeri-goddess dieses völlig übertriebene und fehlamplatz elitäre Verhalten an den Tag legt. Es wird eindeutig klar, dass das Verhalten der #elvaeri fast vollständig auf das unpassende und unangemessene Verhalten der Göttin zurück zu führen ist. 
 
-Im Umkehrschluss wird auch immer klarer, dass die #eldari überhaupt kein Grund haben, so Elitär und versnoppt zu sein, da sie als Rasse immer noch an Mutters Brust hängen und überhaupt keine Schritte zur Selbstverwirklichung gemacht haben, und dass selbst nach einer Millionen Jahren! Ein völliges versagen seitens der Göttin und des Volkes.
+Im Umkehrschluss wird auch immer klarer, dass die #elvaeri überhaupt kein Grund haben, so Elitär und versnoppt zu sein, da sie als Rasse immer noch an Mutters Brust hängen und überhaupt keine Schritte zur Selbstverwirklichung gemacht haben, und dass selbst nach einer Millionen Jahren! Ein völliges versagen seitens der Göttin und des Volkes.
 
-Wenn der #protagonist versucht dass der #eldari-goddess verständlich zu machen, dass ein Kind, und in dem Fall ist das Kind ein ganzes Volk, die Chance braucht, selbst zu reifen und erwachsen zu werden, weigert sich die Göttin und sagt:
+Wenn der #protagonist versucht dass der #elvaeri-goddess verständlich zu machen, dass ein Kind, und in dem Fall ist das Kind ein ganzes Volk, die Chance braucht, selbst zu reifen und erwachsen zu werden, weigert sich die Göttin und sagt:
 
 "Das kannst du nicht verstehen. Sie sind meine Kinder. Und ich mach mir einfach sorgen um ihr Wohlergehen. Sowas kannst du einfach nicht nachvollziehen." 
 
-Dieser Satz, diese Behauptung, dem #protagonist gegenüber, der gezwungen wurde wegen den Aktionen des #rzg und der #eldari-goddess seine Ehefrau und sein ungeborenes Kind zurück zu lassen. Der #protagonist versucht seit seiner Wiedergeburt einen Weg zurück zu seiner Familie zu finden weil er sich unglaubliche Sorgen um deren Wohlergehen macht. Und dann muss er sich von genau der Person die für diese Sorgen verantwortlich ist so einen Vorwurf hören.
+Dieser Satz, diese Behauptung, dem #protagonist gegenüber, der gezwungen wurde wegen den Aktionen des #rzg und der #elvaeri-goddess seine Ehefrau und sein ungeborenes Kind zurück zu lassen. Der #protagonist versucht seit seiner Wiedergeburt einen Weg zurück zu seiner Familie zu finden weil er sich unglaubliche Sorgen um deren Wohlergehen macht. Und dann muss er sich von genau der Person die für diese Sorgen verantwortlich ist so einen Vorwurf hören.
 
 Der #protagonist wird darauf hin wütend. Sehr. Verständlicherweise.
 
 ---
-## Eldari Sprachproblem & des Protagonisten neue Mutter
+## Elværi Sprachproblem & des Protagonisten neue Mutter
 
-Die #eldari Mutter des #protagonist ist gutherzig. Sie hat keine wirkichen Vorurteile gegenüber andere Rassen, zumindest nicht solange sie nicht begründet sind. Sie versucht auch immer freundlich und warmherzig anderen gegenüber zu sein. Dieselben Werte bringt sie dem #protagonist bei. Leider geht das ganz schön nach hinten los, wenn der #protagonist dann plötzlich gezwungen wird, mit erwachsenen Menschen (oder so) in Kleinkindsprache zu reden. Das macht den #protagonist unwohl und auch seinem Gegenüber.
+Die #elvaeri Mutter des #protagonist ist gutherzig. Sie hat keine wirkichen Vorurteile gegenüber andere Rassen, zumindest nicht solange sie nicht begründet sind. Sie versucht auch immer freundlich und warmherzig anderen gegenüber zu sein. Dieselben Werte bringt sie dem #protagonist bei. Leider geht das ganz schön nach hinten los, wenn der #protagonist dann plötzlich gezwungen wird, mit erwachsenen Menschen (oder so) in Kleinkindsprache zu reden. Das macht den #protagonist unwohl und auch seinem Gegenüber.
 
 Wie und wo das vorkommt werden wir noch sehen, aber hier an der Stelle ist es mal eine Erinnerung!
 

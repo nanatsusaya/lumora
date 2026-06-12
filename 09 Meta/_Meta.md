@@ -6,7 +6,7 @@ tags:
 
 Dieser Ordner behandelt alles, was *über* das Projekt spricht — nicht *in* ihm.
 
-Kein Worldbuilding, keine Lore, keine Charaktere. Stattdessen: das Gerüst dahinter. Projektrahmen, Konventionen, Begriffe, Werkzeuge. Alles, was man verstehen muss, um mit dem Vault zu arbeiten — oder um zu erklären, wie dieses Projekt funktioniert.
+Kein Worldbuilding, keine Lore, keine Charaktere. Stattdessen: das Gerüst dahinter. Projektrahmen, Konventionen, Begriffe, Werkzeuge. Alles, was man verstehen muss, um mit dem Vault zu arbeiten — oder um zu erklären, wie dieses Projekt funktioniert. Dazu zählt auch das **kreative Selbstverständnis** des Projekts (Genre-Haltung, Mythopoetik). Reines Fachwissen, das ein konkretes In-World-*System* speist (Physik, Linguistik), liegt dagegen in `07 Research`.
 
 **Faustregel:** Wenn du das Werk irgendwann veröffentlichst oder übergibst, würden diese Dateien nicht im Buch stehen — aber sie würden im Begleitdokument stehen.
 
@@ -20,7 +20,7 @@ Kein Worldbuilding, keine Lore, keine Charaktere. Stattdessen: das Gerüst dahin
 | [[Gründungsdokument]] | Was ein Gründungsdokument ist und welche Rolle es in Lumora spielt |
 | [[Elevator Premise]] | Was eine Elevator Premise ist und wie sie für Lumora formuliert ist |
 | [[Mythopoetisch]] | Was Mythopoesie bedeutet und warum Lumora mythopoetisch arbeitet |
-| [[Hard Magic Fantasy]] | Was Hard Magic Fantasy ist, Sandersons Gesetze, und warum Lumora diesen Ansatz wählt |
+| [[Hard-Magic-Fantasy]] | Genre-Grundlage (hard vs. soft magic, Sandersons Gesetze) und Lumoras bewusste Genre-Entscheidung |
 
 ---
 

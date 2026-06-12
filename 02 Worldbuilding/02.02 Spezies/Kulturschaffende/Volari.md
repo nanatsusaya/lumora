@@ -1,15 +1,17 @@
 ---
 tags:
   - wip
-  - "#aviari"
+  - "#volari"
   - working-title
   - species
 ---
-# Aviari
+# Volari
 
-*EN: Aviari (Bird-People)*
-*Tag:* #aviari
+*EN: Volari (Bird-People)*
+*Tag:* #volari
 *Status:* #wip
+
+Die **Volari** (klassischer Fantasy-Begriff: *Vogelmenschen / Aviane*) sind das flugfähige Vogelvolk Lumoras — eine der zwölf kulturschaffenden [[Spezies]]. *Volari* ist ihr [[Waldelværi#Die Völker im Elværin (Waldelværi-Exonyme)|Elværin-Name]] (von lat. *volare*, „fliegen" → „die Himmelsstürmer").
 
 **Herkunft:** Aus einer Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[Der Himmelsherr|Himmelsherr]] für Wind und Flug leichter machte.
 
@@ -24,6 +26,6 @@ tags:
 ```
 TODO: "Schwebende Inseln" — gibt es diese auf Lumora? Wenn ja, würden sie durch
 kontinuierliche noetische Gravitations-Manipulation gehalten werden müssen.
-Das hätte enorme Konsequenzen: Wer hält sie oben? Aviari-Kollektive?
+Das hätte enorme Konsequenzen: Wer hält sie oben? Volari-Kollektive?
 Oder sind sie auf Gebiete mit natürlich starkem N-Feld beschränkt?
 ```

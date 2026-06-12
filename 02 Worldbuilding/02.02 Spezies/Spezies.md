@@ -32,7 +32,7 @@ Gott sie durch freches Genflipping in eine völlig andere Richtung lenkte — ei
 von keinem Gott geplant war, mit entsprechend eigenwilligen Eigenheiten.
 Offen: Welches Volk? Welche zwei Götter? (Die Mechanik des göttlichen Stellvertreterkriegs um
 Linien ist noch in [[02.05 Geschichte]] / [[02.04 Religion & Götter]] nachzutragen.)
-Vorschlag (jetzt ausgearbeitet): die [[Menschen]] — die meistumkämpfte Linie des gemeinsamen Ursprungs. Siehe [[Der gemeinsame Ursprung]] und [[Der Eifernde|Der Eifernde]].
+Vorschlag (jetzt ausgearbeitet): die [[Hakani]] — die meistumkämpfte Linie des gemeinsamen Ursprungs. Siehe [[Der gemeinsame Ursprung]] und [[Der Eifernde|Der Eifernde]].
 ```
 
 ---
@@ -58,6 +58,6 @@ Eine Spezies kann sich grundsätzlich **nur innerhalb ihrer eigenen Spezies** fo
 *EN: phenotype*
 *Tag:* #phenotype
 
-Was manchmal wie separate Unterarten innerhalb einer Spezies wirkt (z.B. Wald-, Wüsten- und Frosteldari), ist biologisch betrachtet immer noch **dieselbe Spezies** — vergleichbar mit unterschiedlichen Hautfarben oder Körperbautypen beim Menschen der Erde, entstanden durch Umweltanpassung. Die Unterschiede zwischen diesen Gruppen sind kultureller und religiöser, nicht genetischer Natur. 
+Was manchmal wie separate Unterarten innerhalb einer Spezies wirkt (z.B. Wald-, Wüsten- und Frostelværi), ist biologisch betrachtet immer noch **dieselbe Spezies** — vergleichbar mit unterschiedlichen Hautfarben oder Körperbautypen beim Menschen der Erde, entstanden durch Umweltanpassung. Die Unterschiede zwischen diesen Gruppen sind kultureller und religiöser, nicht genetischer Natur. 
 
 Solche unterschiede sind werden als [Phänotyp](https://de.wikipedia.org/wiki/Ph%C3%A4notyp) bezeichnet.

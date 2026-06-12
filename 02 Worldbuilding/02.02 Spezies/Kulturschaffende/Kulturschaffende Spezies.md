@@ -4,17 +4,17 @@ In dieser Notiz geben wir eine Übersicht, welche kulturschaffende Spezies exist
 
 Folgende kulturschaffende Spezies sind bekannt:
 
-* [[Menschen]]
-* [[Eldari]]
+* [[Hakani]]
+* [[Elværi]]
 * [[Theriani]]
-* [[Vulkani]]
-* [[Aviari]]
-* [[Luminaari]]
-* [[Leviathari]]
-* [[Chronari]]
-* [[Golethari]]
-* [[Kharell]]
-* [[Drachen]]
+* [[Anelari]]
+* [[Volari]]
+* [[Luminæri]]
+* [[Bythari]]
+* [[Vatæri]]
+* [[Sapari]]
+* [[Tepani]]
+* [[Drakōri]]
 * [[Sylvari]]
 
 ## Noetik bei Kulturschaffenden
@@ -29,19 +29,19 @@ Die Anzahl der jeweiligen Spezien in Lumora variiert zum Teil extrem. Dies läss
 
 | Volk           | Herkunft                               | Bevölkerung | Besonderheit                        |
 | -------------- | -------------------------------------- | ----------- | ----------------------------------- |
-| [[Menschen]]   | Alle Kontinente                        | ~1 Mrd.     | Anpassungsfähigkeit, Pioniergeist   |
-| [[Eldari]]     | Wälder, Täler, Nordregionen, Wüsten    | ~300 Mio.   | Langlebig, Hüter der Geschichte     |
+| [[Hakani]]   | Alle Kontinente                        | ~1 Mrd.     | Anpassungsfähigkeit, Pioniergeist   |
+| [[Elværi]]     | Wälder, Täler, Nordregionen, Wüsten    | ~300 Mio.   | Langlebig, Hüter der Geschichte     |
 | [[Theriani]]   | Biotopabhängig                         | ~600 Mio.   | Tiermenschen, viele Unterarten      |
-| [[Vulkani]]    | Unterirdisch, Berge                    | ~400 Mio.   | Schmiedekunst, Materialkontrolle    |
-| [[Aviari]]     | Berge, schwer zugängliche Orte         | ~30 Mio.    | Flugfähig, Gravitationsmanipulation |
-| [[Luminaari]]  | Magische Wälder, versteckte Lichtungen | ~50 Mio.    | Illusionen, Lichtmanipulation       |
-| [[Leviathari]] | Ozeane, Seen, Flussmündungen           | TBD         | Amphibisch, Wassermagie             |
-| [[Chronari]]   | Abgelegene, noetisch aktive Regionen   | ~10 Mio.    | Zeitverzögerung und Voraussicht     |
-| [[Golethari]]  | Wüsten, Vulkanregionen                 | ~30 Mio.    | Siliziumbasiert, Kristallspeicher   |
-| [[Kharell]]    | Wüsten, Sümpfe, Tropen                 | ~50 Mio.    | Territorialbewusstsein, Echsenvolk  |
-| [[Drachen]]    | Gebirge, Vulkane, N-Hotspots           | ~50.000     | Pseudo-Götter, Kristallkern         |
+| [[Anelari]]    | Unterirdisch, Berge                    | ~400 Mio.   | Schmiedekunst, Materialkontrolle    |
+| [[Volari]]     | Berge, schwer zugängliche Orte         | ~30 Mio.    | Flugfähig, Gravitationsmanipulation |
+| [[Luminæri]]  | Magische Wälder, versteckte Lichtungen | ~50 Mio.    | Illusionen, Lichtmanipulation       |
+| [[Bythari]] | Ozeane, Seen, Flussmündungen           | TBD         | Amphibisch, Wassermagie             |
+| [[Vatæri]]   | Abgelegene, noetisch aktive Regionen   | ~10 Mio.    | Zeitverzögerung und Voraussicht     |
+| [[Sapari]]  | Wüsten, Vulkanregionen                 | ~30 Mio.    | Siliziumbasiert, Kristallspeicher   |
+| [[Tepani]]    | Wüsten, Sümpfe, Tropen                 | ~50 Mio.    | Territorialbewusstsein, Echsenvolk  |
+| [[Drakōri]]    | Gebirge, Vulkane, N-Hotspots           | ~50.000     | Pseudo-Götter, Kristallkern         |
 | [[Sylvari]]    | Uralte Wälder                          | TBD         | Pflanzenwesen, Naturmagie           |
 
 ### Gesamtbevölkerung Lumoras
 
-Die Gesamtbevölkerung Lumoras beträgt etwa ~2,5 Milliarden. Davon sind Menschen (~1 Mrd.) mit Abstand die größte Gruppe, gefolgt von Theriani (~600 Mio.) und Vulkani (~400 Mio.). Drachen (~50.000) sind die bei weitem seltenste intelligente Spezies. 
+Die Gesamtbevölkerung Lumoras beträgt etwa ~2,5 Milliarden. Davon sind Hakani (~1 Mrd.) mit Abstand die größte Gruppe, gefolgt von Theriani (~600 Mio.) und Anelari (~400 Mio.). Drakōri (~50.000) sind die bei weitem seltenste intelligente Spezies. 

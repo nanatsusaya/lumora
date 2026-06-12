@@ -21,20 +21,24 @@ For the full philosophy and motivation behind this project, read: `01 Kern von L
 
 ```
 Lumora/
+├── 00 Inbox/             ← Loose notes & ideas, unsorted.
 ├── 01 Kern von Lumora/   ← Sacred foundation. Do not change these.
 ├── 02 Worldbuilding/     ← World details. Evolves as needed.
 ├── 03 Noetic System/     ← Magic system mechanics. Evolves as needed.
-├── 04 Characters/        ← Not yet developed.
-├── 05 Story Architecture/← Not yet developed.
-├── 06 Lore & Mystery/    ← Not yet developed.
+├── 04 Characters/        ← Character roster: protagonist, gods, key figures.
+├── 05 Story Architecture/← Act structure & chapter overviews (Part I–V).
+├── 06 Lore & Mystery/    ← Core lore & the central mysteries.
+├── 07 Research/          ← External references only. Never mix with own lore.
 ├── 08 Writing/           ← Prose drafts (German only).
 └── 09 Meta/              ← Project philosophy & framing.
+
 ```
 
 **Key distinction:**
 - `01 Kern` = inviolable philosophical core. Never change these to fix story problems.
 - `02–03` = system details. Can evolve if an idea earns it.
-- `04–08` = practical story work. Flexible, mostly not yet started.
+- `04–06` = practical story work (characters, story architecture, lore). In active development.
+- `07 Research` = external references only. **Never mix with own lore.**
 
 ---
 
@@ -50,8 +54,10 @@ Before diving into any topic, read the relevant file — don't rely on this docu
 | Noetic System basics | `03 Noetic System/03.01 Noetisches System.md` |
 | How Noetik works (mechanics) | `03 Noetic System/03.02 Funktionsweise.md` |
 | Limits & constraints | `03 Noetic System/03.05 Grenzen & Einschränkungen.md` |
-| World & cosmology | `02 Worldbuilding/02.01 Weltstruktur/02.01 Kosmologie & Universumsstruktur.md` |
-| Peoples & species | `02 Worldbuilding/02.02 Völker & Spezies/02.02 Völker & Spezies.md` |
+| World & cosmology | `02 Worldbuilding/02.01 Weltstruktur/Kosmologie & Universumsstruktur.md` |
+| Peoples & species (overview of all twelve) | `02 Worldbuilding/02.02 Spezies/Kulturschaffende/Kulturschaffende Spezies.md` |
+| Forest-elf society + **Elværin language & species naming (canonical)** | `02 Worldbuilding/02.03 Völker & Gesellschaften/Waldelværi.md` |
+| How the magic system is conveyed (Elværin translation device) | `05 Story Architecture/05.02 Vermittlung des Magiesystems.md` |
 
 ---
 
@@ -64,6 +70,8 @@ Before diving into any topic, read the relevant file — don't rely on this docu
 - Initial character roster (protagonist, gods, Lumora & Earth figures) — `04 Characters/`
 - Core lore & mystery foundation (foreign-bringer, foreign seed, the three rules) — `06 Lore & Mystery/`
 - Story architecture skeleton: act structure + chapter overviews for Part I–V — `05 Story Architecture/`
+- The twelve culture-bearing peoples, cosmology & history basics — `02 Worldbuilding/`
+- **Elværin language system + vault-wide species naming** (see Vault Conventions → Species & Elværin Naming)
 
 ### In Progress 🔄
 - Story architecture: deepening acts, chapters, and scene-level structure (`05`)
@@ -141,7 +149,9 @@ Generic headings (e.g. "Geschichte", "Gesellschaft", "Sonnensystem") do **not** 
 #### All Tags in English
 
 All `*Tag:*` identifiers and `*Status:*` flags are in English. No German tags.
-Examples: `#primal-god`, `#humans`, `#desert-of-tears`, `#n-force`
+Examples: `#primal-god`, `#hakani`, `#desert-of-tears`, `#n-force`
+
+Names with special letters use an **ASCII slug** for the tag (e.g. *Elværi* → `#elvaeri`, *Drakōri* → `#drakori`, *Luminæri* → `#luminaeri`, *Vatæri* → `#vataeri`); prose, title and filename keep the special letters.
 
 #### Writing Style Inside Notes
 
@@ -168,8 +178,34 @@ Question 2
 
 **Obsidian cross-references**:
 ```
-[[02.02 Völker & Spezies#Golethari|Golethari]]
+[[Waldelværi#Der Familienbaum|Familienbäume]]
 ```
+
+#### Species & Elværin Naming (canonical)
+
+All twelve culture-bearing peoples now carry their **Elværin** names throughout the vault. The classic fantasy term is kept only as a gloss / in a "Fantasy-Pendant" column.
+
+| Elværin | Classic term |
+|---|---|
+| **Hakani** | Menschen (Lumora humans — *not* Earth humans) |
+| **Elværi** | Elfen (forest-elves; the protagonist's people) |
+| **Theriani** | Tierwesen (mammalian beast-folk) |
+| **Anelari** | Zwerge |
+| **Volari** | Vogelmenschen |
+| **Luminæri** | Feen |
+| **Bythari** | Meervolk / Fischmenschen |
+| **Vatæri** | Zeitseher (time-seers) |
+| **Sapari** | Golems (silicon crystal beings) |
+| **Tepani** | Echsenmenschen |
+| **Drakōri** | Drachen |
+| **Sylvari** | Pflanzenwesen |
+
+- **"Eldari" / "eldarisch" is now only the in-world *human exonym* for the Elværi** (the human transliteration of their unsayable, sung self-name). Do **not** revert it to a species name.
+- The **word ending carries esteem**: `-ani` (low) → `-ari` (neutral) → `-æri` (respected) → `-ōri` (revered). The special letters `æ` and `ō` are sung honor-tones — only **Elværi** & **Luminæri** carry `æ`, only **Drakōri** carries `ō`.
+- **Spelling:** prose, titles and filenames use the special letters (`Elværi`, `Drakōri`); tag slugs use ASCII (`#elvaeri`, `#drakori`).
+- **"Drache" caveat:** only the species *as a people* is **Drakōri**. Compounds and creatures keep "Drache" — *Drachenkristall, Drachenodem, Drachengott, Eisdrache,* and the sub-species (Feuer-/Eis-/Wind-/Wasserdrachen, Wyvern, Drake, Basilisk).
+- The Earth-origin **Menschen** (the protagonist's former kind) always stay *Menschen* — never Hakani.
+- **Single source of truth:** `02 Worldbuilding/02.03 Völker & Gesellschaften/Waldelværi.md` → section **"Sprache"** (Lautregel, coined terms, the full naming table, the esteem scale).
 
 ### Translation Format (Novel)
 
@@ -255,7 +291,7 @@ Claude is an **active creative collaborator**, not just a consistency checker.
 
 ---
 
-**Last updated:** 2026-06-09
-**Project stage:** Story Architecture & Character Development
+**Last updated:** 2026-06-12
+**Project stage:** Story Architecture & Character Development; Elværin language system established
 **Next milestone:** Deepen story architecture (acts, chapters, scenes) across Part I–V
-**Conventions last revised:** 2026-05-28 (added vault tag system, section format, writing style)
+**Conventions last revised:** 2026-06-12 (Elværin species naming + language system applied vault-wide; fixed stale paths)

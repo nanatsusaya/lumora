@@ -13,7 +13,7 @@ tags:
 - Ist neben dem [[Ursprungsgott]] der zweitmächtigste Gott in Lumoras Sonnensystem.
 - Sein Verständnis von Raumzeit und Gravitation übersteigt das aller anderen bekannten Götter.
 - Schafft es, Grenzen zwischen Welten und Regionen zu durchschreiten — daher sein Weg zur Erde.
-- Nomineller Gott der [[Chronari]] (nicht durch Schöpfung, sondern durch Anerkennung; interagiert kaum mit ihnen).
+- Nomineller Gott der [[Vatæri]] (nicht durch Schöpfung, sondern durch Anerkennung; interagiert kaum mit ihnen).
 - Lebt in Lumoras Sonnensystem, weil es ein ruhiges, geordnetes Plätzchen ist — hilft ihm, sein Verständnis der RaumZeit und des Universums zu vertiefen.
 - Listiger Charakter — man weiß nie genau, was seine wahren Ziele sind.
 - **Handlung:** Erkennt nach Gespräch mit dem [[Strippenzieher-Gott]] das Problem Lumoras. Entscheidet, jemanden von der Erde zu holen (den Protagonisten). Tarnt sich auf der Erde als Arbeitskollege. Tötet den Protagonisten. Nach dem Transfer interessiert er sich zunächst nicht mehr für ihn: "Seine Aufgabe sei hiermit erledigt."
@@ -45,5 +45,5 @@ tags:
 ```
 TODO: Wer ist der RZG genau? Wo kommt er her?
 Welche Stellung hat er in der Göttergesellschaft Lumoras?
-Welche Beziehung hat er zur [[Eldarigöttin]]?
+Welche Beziehung hat er zur [[Elværigöttin]]?
 ```

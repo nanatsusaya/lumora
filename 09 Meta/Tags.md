@@ -73,7 +73,7 @@ Markiert Namen — von Göttern, Charakteren oder anderen benannten Entitäten �
 
 **Wann entfernen:** Wenn der Name final festgelegt und im Vault konsistent verwendet wird.
 
-**Aktuell gesetzt bei:** Alle Götternamen (Ursprungsgott, Chaosgott, STG, Strippenzieher, Eldarigöttin, Wüstengott, Frosteldari-Pseudogott), alle Charakternamen (Protagonist, Der Junge).
+**Aktuell gesetzt bei:** Alle Götternamen (Ursprungsgott, Chaosgott, STG, Strippenzieher, Elværigöttin, Wüstengott, Frostelværi-Pseudogott), alle Charakternamen (Protagonist, Der Junge).
 
 ---
 
