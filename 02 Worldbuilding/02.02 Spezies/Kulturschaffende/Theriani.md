@@ -13,7 +13,7 @@ tags:
 
 **Herkunft:** Aus einer fallengelassenen Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[Der Tiervater|Tiervater]] zur Tierverwandtschaft hin formte; die vielen Unterarten spiegeln seine Lust an der Vielfalt.
 
-**Biologie:** Humanoide mit tierischen Merkmalen — Fell, Klauen, Schwänze, je nach Unterart stark variierend. **Allen Theriani gemeinsam ist, dass ihre Tieranteile ausschließlich *säugetierartig* sind** — das grenzt sie klar von den vogelartigen [[Volari]], den echsenartigen [[Kharell]] und dem Meervolk der Bythari ab. Jede Unterart ist an ihr spezifisches Biotop angepasst (Wolfsmenschen in Wäldern, Ottermenschen in Küstengebieten, etc.). Fortpflanzung innerhalb der Theriani-Art ist möglich; Kinder können Merkmale beider Elternteile zeigen.
+**Biologie:** Humanoide mit tierischen Merkmalen — Fell, Klauen, Schwänze, je nach Unterart stark variierend. **Allen Theriani gemeinsam ist, dass ihre Tieranteile ausschließlich *säugetierartig* sind** — das grenzt sie klar von den vogelartigen [[Volari]], den echsenartigen [[Tepani]] und dem Meervolk der Bythari ab. Jede Unterart ist an ihr spezifisches Biotop angepasst (Wolfsmenschen in Wäldern, Ottermenschen in Küstengebieten, etc.). Fortpflanzung innerhalb der Theriani-Art ist möglich; Kinder können Merkmale beider Elternteile zeigen.
 
 **Kultur:** Leben in Stämmen, die sich stark am repräsentierten Tier orientieren. Enge Verbindung zur Natur und zu Tiergöttern. Keine universelle Theriani-Kultur — jede Unterart hat eigene Traditionen.
 
