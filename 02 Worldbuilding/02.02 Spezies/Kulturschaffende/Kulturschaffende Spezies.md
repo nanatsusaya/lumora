@@ -12,7 +12,7 @@ Folgende kulturschaffende Spezies sind bekannt:
 * [[Luminæri]]
 * [[Bythari]]
 * [[Vatæri]]
-* [[Golethari]]
+* [[Sapari]]
 * [[Kharell]]
 * [[Drachen]]
 * [[Sylvari]]
@@ -37,7 +37,7 @@ Die Anzahl der jeweiligen Spezien in Lumora variiert zum Teil extrem. Dies läss
 | [[Luminæri]]  | Magische Wälder, versteckte Lichtungen | ~50 Mio.    | Illusionen, Lichtmanipulation       |
 | [[Bythari]] | Ozeane, Seen, Flussmündungen           | TBD         | Amphibisch, Wassermagie             |
 | [[Vatæri]]   | Abgelegene, noetisch aktive Regionen   | ~10 Mio.    | Zeitverzögerung und Voraussicht     |
-| [[Golethari]]  | Wüsten, Vulkanregionen                 | ~30 Mio.    | Siliziumbasiert, Kristallspeicher   |
+| [[Sapari]]  | Wüsten, Vulkanregionen                 | ~30 Mio.    | Siliziumbasiert, Kristallspeicher   |
 | [[Kharell]]    | Wüsten, Sümpfe, Tropen                 | ~50 Mio.    | Territorialbewusstsein, Echsenvolk  |
 | [[Drachen]]    | Gebirge, Vulkane, N-Hotspots           | ~50.000     | Pseudo-Götter, Kristallkern         |
 | [[Sylvari]]    | Uralte Wälder                          | TBD         | Pflanzenwesen, Naturmagie           |

@@ -161,7 +161,7 @@ Der Disruptor, der ihnen droht, ist **gefertigte, nicht-lebende, iterierbare Tec
 
 ```
 TODO:
-- Die [[Golethari]] sind NICHT dieser Disruptor: Ihr silizium-*biologischer* Flüssigkristallkörper entwickelt sich ebenso langsam über Generationen. Elværi und Golethari sind beide das langsame Lager.
+- Die [[Sapari]] sind NICHT dieser Disruptor: Ihr silizium-*biologischer* Flüssigkristallkörper entwickelt sich ebenso langsam über Generationen. Elværi und Sapari sind beide das langsame Lager.
 - Lumora-Pendant zum Computerchip: vermutlich ein *gefertigter* Kristall-Schaltkreis (03.04 beschreibt Kristalle bereits als programmierbare Modulatoren), der wie eine Fabrik iteriert. Wer entwickelt ihn zuerst? (Hakani? → [[Hakani]])
 ```
 

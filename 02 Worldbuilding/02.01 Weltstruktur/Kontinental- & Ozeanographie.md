@@ -49,7 +49,7 @@ seinen eigenen Namen für fremde Landmassen?
 
 Eine Glaswüste — das gesamte Gebiet wurde vor mehreren tausend Jahren verglast. Einst existierte hier ein reiches Hakani-Land, das mit Drachenkristallen experimentierte. Die Drachen tolerierten das irgendwann nicht mehr und verwandelten das gesamte Land mit Drachenodem in eine Glasfläche.
 
-Heute ist es die Heimat der [[Golethari]]. Unterirdisch befinden sich noch gut erhaltene Ruinen des einstigen Landes.
+Heute ist es die Heimat der [[Sapari]]. Unterirdisch befinden sich noch gut erhaltene Ruinen des einstigen Landes.
 
 > *Kritische Anmerkung:* Die Wüste der tausend Tränen ist einer der stärksten Worldbuilding-Momente im Archiv. Sie demonstriert gleichzeitig: Drachenmacht, die Konsequenz von Regelverstößen, den Wert von Kristallen als Ressource, und die Tatsache, dass Geschichte auf Lumora buchstäblich unter der Oberfläche schlummert. Die Ruinen darunter sind ein narrativer Schatz — Expeditionen, Konflikte um Ressourcen, Geheimnisse einer verschwundenen Zivilisation. Der Ort verdient mehr als eine Erwähnung in der Geographie-Tabelle.
 
