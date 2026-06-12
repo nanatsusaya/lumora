@@ -2,13 +2,11 @@
 tags:
   - wip
 ---
+# Research
 
-Alles externe.
+Dieser Bereich enthält Grundlagenforschung in verschiedenen Bereichen, die für die Entwicklung der Welt von Lumora notwendig ist.
+Die Inhalte aus diesem Bereich sind nicht zwingendermaßen direkt in der Lumora Story zu wieder zu finden, aber sie erklären, woher die Aspekte dieser Welt ihren Ursprung haben.
 
-- Philosophie
-- Physikideen
-- Mythologie
-- Inspirationen
-- Referenzen
+## Übersicht
 
-Nie mit eigener Lore vermischen.
+* [[Singbare Sprachen]] betrachtet werden reale linguistisch-musikalische Grundlage
