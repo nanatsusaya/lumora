@@ -30,7 +30,7 @@ Statt jedes Volk einzeln zu behandeln, lässt sich die ganze Vielfalt aus wenige
 | Volk | Sinnesregister | Trägermedium | Lehre / Weitergabe |
 |---|---|---|---|
 | [[Elværi]] | Klang + direkte Feldwahrnehmung (Kanon) | Stimme / Gesang (Kanon) | begleitendes Lernen; Peer-Zirkel des Hochadels (Kanon) |
-| [[Chronari]] | kristalline Resonanz + Tachyon-/Zeitsignaturen (Kanon) | offen (Hyp.: paarweise Balance?) | Paar-Reise & Heimatverlassen als Initiation (Kanon, partiell) |
+| [[Vatæri]] | kristalline Resonanz + Tachyon-/Zeitsignaturen (Kanon) | offen (Hyp.: paarweise Balance?) | Paar-Reise & Heimatverlassen als Initiation (Kanon, partiell) |
 | [[Golethari]] | kristalline Infrastruktur (Kanon) | offen | Symbionten-Wahl bei Reife; „Sucher"-Status (Kanon, partiell) |
 | [[Drachen]] | Kristallkern-Speicher (Kanon) | offen | Wanderjahre; Einzelgänger (Kanon, partiell) |
 | [[Luminæri]] | Licht + Elektromagnetismus, Biolumineszenz (Kanon) | Licht (Hyp.) | kollektive Licht-/Illusionsrituale (Hinweis) |
@@ -45,7 +45,7 @@ Statt jedes Volk einzeln zu behandeln, lässt sich die ganze Vielfalt aus wenige
 
 ## Beobachtungen
 
-**Das Sinnesregister ist nicht universell.** Die Völker nehmen Noetik durch sehr verschiedene Kanäle wahr (Klang bei Elværi, Licht bei Luminæri, kristalline Resonanz bei Chronari/Golethari/Drachen, tierische Sinne bei Theriani). Das ist erzählerisch ein Gewinn → [[05.02 Vermittlung des Magiesystems#Kontrast der Völker als Lehrmotor|Kontrast als Lehrmotor]].
+**Das Sinnesregister ist nicht universell.** Die Völker nehmen Noetik durch sehr verschiedene Kanäle wahr (Klang bei Elværi, Licht bei Luminæri, kristalline Resonanz bei Vatæri/Golethari/Drachen, tierische Sinne bei Theriani). Das ist erzählerisch ein Gewinn → [[05.02 Vermittlung des Magiesystems#Kontrast der Völker als Lehrmotor|Kontrast als Lehrmotor]].
 
 **Die Hakani sind der Sonderfall.** Generalisten ohne biologische Spezialisierung, die [[Hakani|N-Kraft über Artefakte und Technik]] nutzen und fremde Felder nicht lesen können. Sie würden Noetik vermutlich wie **Ingenieurskunst** lehren — explizit, handwerklich — im Gegensatz zur elværischen *Sprache/Gefühl*-Tradition. Genau das ist der thematische Anker des Protagonisten → [[05.02 Vermittlung des Magiesystems#Die Ironie des Protagonisten|Protagonisten-Ironie]].
 
@@ -55,14 +55,14 @@ Statt jedes Volk einzeln zu behandeln, lässt sich die ganze Vielfalt aus wenige
 
 ## Lücken-Lage (ehrlich)
 
-Damit klar ist, worauf hier gebaut werden kann: **Nur die [[Elværi]] haben Kindheit *und* Lehre kanonisch ausgearbeitet.** [[Chronari]] und [[Golethari]] haben Ansätze. Bei allen übrigen Völkern steht zu Aufzucht und noetischer Weitergabe praktisch nichts. Das ist Freiheit und Falle zugleich — wir sollten **nicht** jetzt sieben Völker gleichzeitig ausdefinieren, nur weil das Thema sie berührt.
+Damit klar ist, worauf hier gebaut werden kann: **Nur die [[Elværi]] haben Kindheit *und* Lehre kanonisch ausgearbeitet.** [[Vatæri]] und [[Golethari]] haben Ansätze. Bei allen übrigen Völkern steht zu Aufzucht und noetischer Weitergabe praktisch nichts. Das ist Freiheit und Falle zugleich — wir sollten **nicht** jetzt sieben Völker gleichzeitig ausdefinieren, nur weil das Thema sie berührt.
 
 ```
 TODO (offene Lücken, nach Priorität):
 - Wüstenelværi: Prägung & Trägermedium (→ Noetische Prägung & Erziehung (Elværi)); eigene Notiz existiert noch nicht.
 - Hakani: lehren sie Noetik wirklich handwerklich/explizit? Verhältnis Wissen↔Weisheit hier am ehesten anders als bei allen anderen.
 - Drachen: Prägung bei Einzelgängern (s. o.).
-- Chronari / Golethari: Prägung von klein auf (nur Initiation im Jugendalter belegt).
+- Vatæri / Golethari: Prägung von klein auf (nur Initiation im Jugendalter belegt).
 - Volari, Kharell, Bythari, Sylvari, Theriani: Sinnesregister, Träger, Lehre allesamt offen.
 - Luminæri: kollektive Rituale als Lehrform bestätigen oder verwerfen.
 ```
