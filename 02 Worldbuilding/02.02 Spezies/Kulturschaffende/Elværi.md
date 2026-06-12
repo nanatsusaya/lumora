@@ -9,7 +9,7 @@ tags:
 *EN: Elværi (Elves)*
 *Tag:* #elvaeri
 
-Die **Elværi** sind eine der ältesten kulturschaffenden [[Spezies]] Lumoras — das zweitälteste intelligente Volk nach den [[Drachen]]. Geschaffen wurden sie von der [[Elværigöttin|Elværigöttin]] vor rund einer Million Jahren.
+Die **Elværi** sind eine der ältesten kulturschaffenden [[Spezies]] Lumoras — das zweitälteste intelligente Volk nach den [[Drakōri]]. Geschaffen wurden sie von der [[Elværigöttin|Elværigöttin]] vor rund einer Million Jahren.
 
 Diese Note behandelt die **Spezies**. Die ausgearbeitete Gesellschaft der Waldelfen liegt in [[Waldelværi]], die Göttin in [[Elværigöttin]], die Einordnung in die Erdgeschichte in [[02.05 Geschichte]].
 
@@ -19,7 +19,7 @@ Diese Note behandelt die **Spezies**. Die ausgearbeitete Gesellschaft der Waldel
 
 Die Elværi sind kein Sonderfall, sondern ein gezieltes Produkt der [[02.05 Geschichte#Die Werkstatt der Götter|Werkstatt der Götter]]: eine über Äonen von der [[Elværigöttin|Elværigöttin]] geführte **Speziation aus einer Vorläuferlinie**. Was die Elværi als „Erschaffung" durch ihre Göttin verehren (Glaubensversion), ist systemisch das geduldige, generationenweise Lenken vieler Genome bis zum gewünschten Ergebnis.
 
-Die Elværigöttin wünschte sich ein Volk *wie sie selbst* — weise, verständnisvoll, im Einklang mit der Natur, verantwortungsvoll und friedfertig. Aber keine zahmen Haustiere: Es sollte sich verteidigen können und eine tragende **Säule Lumoras** werden, nicht isoliert und ängstlich existieren — eine Lehre aus dem Verlust ihres ersten Volkes. Sie war damit nicht die Erste: Ein [[Drachengott|anderer Gott]] brachte zuvor mit den [[Drachen]] das erste intelligente Volk hervor. *(Details → [[Elværigöttin|Elværigöttin]].)*
+Die Elværigöttin wünschte sich ein Volk *wie sie selbst* — weise, verständnisvoll, im Einklang mit der Natur, verantwortungsvoll und friedfertig. Aber keine zahmen Haustiere: Es sollte sich verteidigen können und eine tragende **Säule Lumoras** werden, nicht isoliert und ängstlich existieren — eine Lehre aus dem Verlust ihres ersten Volkes. Sie war damit nicht die Erste: Ein [[Drachengott|anderer Gott]] brachte zuvor mit den [[Drakōri]] das erste intelligente Volk hervor. *(Details → [[Elværigöttin|Elværigöttin]].)*
 
 ---
 
@@ -123,7 +123,7 @@ Entscheidend ist die Trennung zu echter Intimität — **Senden ≠ das Feld öf
 
 ```
 TODO:
-- Drachen als mögliche Ausnahme: Könnten sie Stufe 2 (oder mehr) erreichen? Beim Ausbau der Drachen prüfen.
+- Drakōri als mögliche Ausnahme: Könnten sie Stufe 2 (oder mehr) erreichen? Beim Ausbau der Drakōri prüfen.
 - Wüstenelværi & Sprache MIT VORSICHT: nicht „degradiert". Sie sind hocheffizient mit ihrer N-Kraft in toten Zonen und (geplant) Meister der Resonanzfeld-Manipulation / des Eindringens in Gedanken. Ihr Verhältnis zur klassischen Sprache (evtl. weniger ornamentiert, aber durchaus beherrscht) später festlegen.
 - Innerweltlicher Elværi-Begriff für „Noetische Energie" noch offen (Platzhalter war „Mana").
 - Erzählhandwerk: Konvention finden, wie Elværi-Erwachsenendialog (kaum Stimme/Mimik, gesendete Gefühle) im Roman dargestellt wird.

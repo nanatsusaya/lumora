@@ -47,7 +47,7 @@ seinen eigenen Namen für fremde Landmassen?
 *Tag:* #desert-of-tears
 *Status:* #wip
 
-Eine Glaswüste — das gesamte Gebiet wurde vor mehreren tausend Jahren verglast. Einst existierte hier ein reiches Hakani-Land, das mit Drachenkristallen experimentierte. Die Drachen tolerierten das irgendwann nicht mehr und verwandelten das gesamte Land mit Drachenodem in eine Glasfläche.
+Eine Glaswüste — das gesamte Gebiet wurde vor mehreren tausend Jahren verglast. Einst existierte hier ein reiches Hakani-Land, das mit Drachenkristallen experimentierte. Die Drakōri tolerierten das irgendwann nicht mehr und verwandelten das gesamte Land mit Drachenodem in eine Glasfläche.
 
 Heute ist es die Heimat der [[Sapari]]. Unterirdisch befinden sich noch gut erhaltene Ruinen des einstigen Landes.
 
@@ -57,5 +57,5 @@ Heute ist es die Heimat der [[Sapari]]. Unterirdisch befinden sich noch gut erha
 TODO: Was steckt in den Ruinen unter der Glaswüste?
 Gibt es Überlebende der alten Hakani-Zivilisation (oder Nachkommen)?
 Welche konkreten Experimente haben die Hakani mit Drachenkristallen gemacht?
-Warum war das für die Drachen eine rote Linie — gab es einen letzten Auslöser?
+Warum war das für die Drakōri eine rote Linie — gab es einen letzten Auslöser?
 ```

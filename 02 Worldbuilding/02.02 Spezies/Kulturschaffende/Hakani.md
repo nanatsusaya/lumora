@@ -35,5 +35,5 @@ Wie verhalten sich die Hakani zu den anderen Völkern diplomatisch?
 ```
 TODO (Herkunft & Tempo):
 - Entstehung: Vermutlich deutlich jünger als die Elværi. Idee: das Lumora-Pendant des Homo sapiens entstand evtl. erst vor ~150.000 Jahren. Dann hätte ihre Entwicklung bis zu einer technologisch etwa „früh viktorianischen" Gesellschaft nur rund halb so lange gedauert wie auf der Erde — konsistent mit der durch Götter beschleunigten Biologie und der These „jüngere Völker entwickeln sich schneller" (→ [[Elværi#Die zwei Uhren & das gemächliche Tempo]]).
-- Wüstenelværi-Vernichter (~100.000 Jahre, siehe [[Elværigöttin]]): Mit der Neudatierung der Hakani wackelt das. Evtl. ein anderes Volk als „Gegner" wählen (ein rivalisierendes Elværi-Reich? die Drachen?).
+- Wüstenelværi-Vernichter (~100.000 Jahre, siehe [[Elværigöttin]]): Mit der Neudatierung der Hakani wackelt das. Evtl. ein anderes Volk als „Gegner" wählen (ein rivalisierendes Elværi-Reich? die Drakōri?).
 ```

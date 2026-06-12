@@ -14,7 +14,7 @@ Folgende kulturschaffende Spezies sind bekannt:
 * [[Vatæri]]
 * [[Sapari]]
 * [[Tepani]]
-* [[Drachen]]
+* [[Drakōri]]
 * [[Sylvari]]
 
 ## Noetik bei Kulturschaffenden
@@ -39,9 +39,9 @@ Die Anzahl der jeweiligen Spezien in Lumora variiert zum Teil extrem. Dies läss
 | [[Vatæri]]   | Abgelegene, noetisch aktive Regionen   | ~10 Mio.    | Zeitverzögerung und Voraussicht     |
 | [[Sapari]]  | Wüsten, Vulkanregionen                 | ~30 Mio.    | Siliziumbasiert, Kristallspeicher   |
 | [[Tepani]]    | Wüsten, Sümpfe, Tropen                 | ~50 Mio.    | Territorialbewusstsein, Echsenvolk  |
-| [[Drachen]]    | Gebirge, Vulkane, N-Hotspots           | ~50.000     | Pseudo-Götter, Kristallkern         |
+| [[Drakōri]]    | Gebirge, Vulkane, N-Hotspots           | ~50.000     | Pseudo-Götter, Kristallkern         |
 | [[Sylvari]]    | Uralte Wälder                          | TBD         | Pflanzenwesen, Naturmagie           |
 
 ### Gesamtbevölkerung Lumoras
 
-Die Gesamtbevölkerung Lumoras beträgt etwa ~2,5 Milliarden. Davon sind Hakani (~1 Mrd.) mit Abstand die größte Gruppe, gefolgt von Theriani (~600 Mio.) und Anelari (~400 Mio.). Drachen (~50.000) sind die bei weitem seltenste intelligente Spezies. 
+Die Gesamtbevölkerung Lumoras beträgt etwa ~2,5 Milliarden. Davon sind Hakani (~1 Mrd.) mit Abstand die größte Gruppe, gefolgt von Theriani (~600 Mio.) und Anelari (~400 Mio.). Drakōri (~50.000) sind die bei weitem seltenste intelligente Spezies. 

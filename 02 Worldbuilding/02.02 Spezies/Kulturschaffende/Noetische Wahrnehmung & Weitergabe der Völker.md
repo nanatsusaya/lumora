@@ -32,7 +32,7 @@ Statt jedes Volk einzeln zu behandeln, lässt sich die ganze Vielfalt aus wenige
 | [[Elværi]] | Klang + direkte Feldwahrnehmung (Kanon) | Stimme / Gesang (Kanon) | begleitendes Lernen; Peer-Zirkel des Hochadels (Kanon) |
 | [[Vatæri]] | kristalline Resonanz + Tachyon-/Zeitsignaturen (Kanon) | offen (Hyp.: paarweise Balance?) | Paar-Reise & Heimatverlassen als Initiation (Kanon, partiell) |
 | [[Sapari]] | kristalline Infrastruktur (Kanon) | offen | Symbionten-Wahl bei Reife; „Sucher"-Status (Kanon, partiell) |
-| [[Drachen]] | Kristallkern-Speicher (Kanon) | offen | Wanderjahre; Einzelgänger (Kanon, partiell) |
+| [[Drakōri]] | Kristallkern-Speicher (Kanon) | offen | Wanderjahre; Einzelgänger (Kanon, partiell) |
 | [[Luminæri]] | Licht + Elektromagnetismus, Biolumineszenz (Kanon) | Licht (Hyp.) | kollektive Licht-/Illusionsrituale (Hinweis) |
 | [[Theriani]] | tierische Sinne je Unterart (Kanon) | offen (Hyp.: Körper/Bewegung?) | Lücke (stammesbasiert) |
 | [[Hakani]] | keine biologische Spezialisierung (Kanon) | Artefakte/Technik (Hyp.) | Lücke (Hyp.: handwerklich-explizit) |
@@ -45,11 +45,11 @@ Statt jedes Volk einzeln zu behandeln, lässt sich die ganze Vielfalt aus wenige
 
 ## Beobachtungen
 
-**Das Sinnesregister ist nicht universell.** Die Völker nehmen Noetik durch sehr verschiedene Kanäle wahr (Klang bei Elværi, Licht bei Luminæri, kristalline Resonanz bei Vatæri/Sapari/Drachen, tierische Sinne bei Theriani). Das ist erzählerisch ein Gewinn → [[05.02 Vermittlung des Magiesystems#Kontrast der Völker als Lehrmotor|Kontrast als Lehrmotor]].
+**Das Sinnesregister ist nicht universell.** Die Völker nehmen Noetik durch sehr verschiedene Kanäle wahr (Klang bei Elværi, Licht bei Luminæri, kristalline Resonanz bei Vatæri/Sapari/Drakōri, tierische Sinne bei Theriani). Das ist erzählerisch ein Gewinn → [[05.02 Vermittlung des Magiesystems#Kontrast der Völker als Lehrmotor|Kontrast als Lehrmotor]].
 
 **Die Hakani sind der Sonderfall.** Generalisten ohne biologische Spezialisierung, die [[Hakani|N-Kraft über Artefakte und Technik]] nutzen und fremde Felder nicht lesen können. Sie würden Noetik vermutlich wie **Ingenieurskunst** lehren — explizit, handwerklich — im Gegensatz zur elværischen *Sprache/Gefühl*-Tradition. Genau das ist der thematische Anker des Protagonisten → [[05.02 Vermittlung des Magiesystems#Die Ironie des Protagonisten|Protagonisten-Ironie]].
 
-> *Kritische Anmerkung:* Die solitären [[Drachen]] werfen eine echte offene Frage auf: Wenn die [[03.05 Grenzen & Einschränkungen#Das Feld in der frühen Entwicklung — Mutter und Kind|Mutter-Kind-Feldsynchronisation]] der Prägungsmechanismus ist — wie prägt eine noetisch hochaktive Einzelgänger-Spezies ihre Jungen? Entweder stärker biologisch vorverdrahtet (vgl. [[03.06 Anwendung & Fähigkeitsentwicklung|„fest verdrahtetes" Erbe]]) oder über eine kurze, intensive Elternphase. Ungeklärt.
+> *Kritische Anmerkung:* Die solitären [[Drakōri]] werfen eine echte offene Frage auf: Wenn die [[03.05 Grenzen & Einschränkungen#Das Feld in der frühen Entwicklung — Mutter und Kind|Mutter-Kind-Feldsynchronisation]] der Prägungsmechanismus ist — wie prägt eine noetisch hochaktive Einzelgänger-Spezies ihre Jungen? Entweder stärker biologisch vorverdrahtet (vgl. [[03.06 Anwendung & Fähigkeitsentwicklung|„fest verdrahtetes" Erbe]]) oder über eine kurze, intensive Elternphase. Ungeklärt.
 
 ---
 
@@ -61,7 +61,7 @@ Damit klar ist, worauf hier gebaut werden kann: **Nur die [[Elværi]] haben Kind
 TODO (offene Lücken, nach Priorität):
 - Wüstenelværi: Prägung & Trägermedium (→ Noetische Prägung & Erziehung (Elværi)); eigene Notiz existiert noch nicht.
 - Hakani: lehren sie Noetik wirklich handwerklich/explizit? Verhältnis Wissen↔Weisheit hier am ehesten anders als bei allen anderen.
-- Drachen: Prägung bei Einzelgängern (s. o.).
+- Drakōri: Prägung bei Einzelgängern (s. o.).
 - Vatæri / Sapari: Prägung von klein auf (nur Initiation im Jugendalter belegt).
 - Volari, Tepani, Bythari, Sylvari, Theriani: Sinnesregister, Träger, Lehre allesamt offen.
 - Luminæri: kollektive Rituale als Lehrform bestätigen oder verwerfen.

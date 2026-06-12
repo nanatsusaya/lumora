@@ -17,7 +17,7 @@ Das erklärt, warum so verschiedene Völker bei aller Fremdheit immer wieder *Ä
 
 Betroffen sind: [[Hakani]], [[Elværi]], [[Theriani]], [[Anelari]], [[Volari]], [[Luminæri]], [[Bythari]].
 
-Nicht betroffen sind Völker mit deutlich abweichendem Körperbau ([[Drachen]], [[Vatæri]], [[Sapari]], [[Tepani]], [[Sylvari]]) — ihr Bauplan verrät ihren eigenen, getrennten Ursprung.
+Nicht betroffen sind Völker mit deutlich abweichendem Körperbau ([[Drakōri]], [[Vatæri]], [[Sapari]], [[Tepani]], [[Sylvari]]) — ihr Bauplan verrät ihren eigenen, getrennten Ursprung.
 
 ---
 
@@ -80,7 +80,7 @@ Die gemeinsame Linie wirkt bis heute — nicht im Bewusstsein, sondern im Instin
 
 - **Geteiltes Signal-Set.** Alle sieben teilen denselben humanoiden Bauplan, denselben Geschlechtsdimorphismus (kräftigere männliche, zierlichere weibliche Statur) und dieselben Attraktivitäts- und Niedlichkeits-Reize — Symmetrie, Proportion, das Baby-Schema. Weil die „Sprache der Schönheit" dieselbe ist, kann ein Angehöriger der einen Art die Reize der anderen *lesen*: beidseitig, keine Einbahnstraße.
 - **Schutz- und Anziehungsinstinkte greifen über Artgrenzen.** Ein Säugling wirkt süß, egal welcher der sieben Arten er angehört, und weckt denselben Beschützerreflex. Und ein Hakani kann einen Elværi attraktiv finden — und umgekehrt —, weil beide auf demselben Reizvokabular antworten.
-- **Die abweichenden Völker sind spürbar fremd.** [[Drachen]], [[Vatæri]], [[Sapari]], [[Tepani]], [[Sylvari]] gehören voll zur weltlichen Gemeinschaft, doch die gefühlte Distanz ist größer. Ein männlicher Elværi mag eine [[Sapari]] *abstrakt* für wohlproportioniert halten — aber die warme Kin-Resonanz und die eigentliche Anziehung zünden nicht, weil das gemeinsame Signal-Set fehlt. (Der Gradient gilt relativ: Auch ein Sapari empfindet die humanoide Familie als „die anderen".)
+- **Die abweichenden Völker sind spürbar fremd.** [[Drakōri]], [[Vatæri]], [[Sapari]], [[Tepani]], [[Sylvari]] gehören voll zur weltlichen Gemeinschaft, doch die gefühlte Distanz ist größer. Ein männlicher Elværi mag eine [[Sapari]] *abstrakt* für wohlproportioniert halten — aber die warme Kin-Resonanz und die eigentliche Anziehung zünden nicht, weil das gemeinsame Signal-Set fehlt. (Der Gradient gilt relativ: Auch ein Sapari empfindet die humanoide Familie als „die anderen".)
 
 **Anziehung, aber keine Vermischung.** So real die wechselseitige Anziehung innerhalb der Familie ist — die sieben sind **reproduktiv isolierte Arten**. Wie Hund und Pferd: verwandt und einander zugetan, aber ohne gemeinsame Nachkommen. Es gibt **keine Halb-Elfen, keine Misch-Völker**. (Kreuzung *innerhalb* einer Art bleibt möglich — Elværi-Phänotypen untereinander, Theriani-Unterarten untereinander.)
 

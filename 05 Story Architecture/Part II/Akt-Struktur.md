@@ -44,7 +44,7 @@ tags:
 
 **Kleider:** Protagonistin entwickelt mit Handwerkern neue Farbstoffe. Trägt beim ersten Ball ein Kleid in Gelb-Orange-Rot → große Aufmerksamkeit. Bringt Mode und Identität in die Waldelværi-Gesellschaft.
 
-**Vorfahren:** Eine Vorfahrin kämpfte gegen einen Drachen, um den Stammbaum zu schützen. Eine zweite schaffte es, einen Drachenkristall am Fuß des Stammbaums anzuschließen — wahrscheinlich der Grund, warum der Drache überhaupt ankam.
+**Vorfahren:** Eine Vorfahrin kämpfte gegen einen Drakōri, um den Stammbaum zu schützen. Eine zweite schaffte es, einen Drachenkristall am Fuß des Stammbaums anzuschließen — wahrscheinlich der Grund, warum der Drakōri überhaupt ankam.
 
 ---
 
