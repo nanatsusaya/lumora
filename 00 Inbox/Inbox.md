@@ -2,7 +2,6 @@
 tags:
   - wip
 ---
-
 # Lose Ideensammlung
 
 Hier kommt alles rein, was noch nicht einsortiert ist.
@@ -34,18 +33,18 @@ Nichts verlieren. Noch nicht bewerten.
 - Er entdeckt dabei die Erde und die Menschen des 21. Jahrhunderts
 - Er bringt den MC durch **Reinkarnation** nach Lumora: das Bewusstsein des MC bleibt erhalten, er bekommt aber einen neuen, Lumora-nativen Körper
 
-### Warum er in noetisch schwachen Regionen handeln kann
+### Warum der RZG in noetisch schwachen Regionen handeln kann
 
 > *„Nur weil etwas schwerer ist, heißt es nicht, dass es nicht geht. Es ist nur schwerer."*
 
 Er überwindet die regionale N-Kraft-Schwäche nicht durch eine Ausnahme vom System — sondern durch außerordentliche Kompetenz innerhalb des Systems. Seine Speichermethoden sind so effizient, dass er mit importierter Energie aus einer stärkeren Region arbeiten kann. Dies ist konsistent mit [[03.05 Grenzen & Einschränkungen]] (gespeicherte Energie als Ergänzung zur lokalen Quelle).
 
-### Offene Fragen
-
+```
 - Wie genau reist er zwischen Universumsregionen?
 - Was sind seine Motive, den MC nach Lumora zu bringen?
 - Wie aktiv greift er in die Story ein?
 - Welche Einschränkungen hat er trotz seiner Fähigkeiten noch?
+```
 
 ---
 
