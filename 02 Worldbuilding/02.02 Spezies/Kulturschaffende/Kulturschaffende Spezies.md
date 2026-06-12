@@ -7,7 +7,7 @@ Folgende kulturschaffende Spezies sind bekannt:
 * [[Hakani]]
 * [[Elværi]]
 * [[Theriani]]
-* [[Vulkani]]
+* [[Anelari]]
 * [[Aviari]]
 * [[Luminaari]]
 * [[Leviathari]]
@@ -32,7 +32,7 @@ Die Anzahl der jeweiligen Spezien in Lumora variiert zum Teil extrem. Dies läss
 | [[Hakani]]   | Alle Kontinente                        | ~1 Mrd.     | Anpassungsfähigkeit, Pioniergeist   |
 | [[Elværi]]     | Wälder, Täler, Nordregionen, Wüsten    | ~300 Mio.   | Langlebig, Hüter der Geschichte     |
 | [[Theriani]]   | Biotopabhängig                         | ~600 Mio.   | Tiermenschen, viele Unterarten      |
-| [[Vulkani]]    | Unterirdisch, Berge                    | ~400 Mio.   | Schmiedekunst, Materialkontrolle    |
+| [[Anelari]]    | Unterirdisch, Berge                    | ~400 Mio.   | Schmiedekunst, Materialkontrolle    |
 | [[Aviari]]     | Berge, schwer zugängliche Orte         | ~30 Mio.    | Flugfähig, Gravitationsmanipulation |
 | [[Luminaari]]  | Magische Wälder, versteckte Lichtungen | ~50 Mio.    | Illusionen, Lichtmanipulation       |
 | [[Leviathari]] | Ozeane, Seen, Flussmündungen           | TBD         | Amphibisch, Wassermagie             |
@@ -44,4 +44,4 @@ Die Anzahl der jeweiligen Spezien in Lumora variiert zum Teil extrem. Dies läss
 
 ### Gesamtbevölkerung Lumoras
 
-Die Gesamtbevölkerung Lumoras beträgt etwa ~2,5 Milliarden. Davon sind Hakani (~1 Mrd.) mit Abstand die größte Gruppe, gefolgt von Theriani (~600 Mio.) und Vulkani (~400 Mio.). Drachen (~50.000) sind die bei weitem seltenste intelligente Spezies. 
+Die Gesamtbevölkerung Lumoras beträgt etwa ~2,5 Milliarden. Davon sind Hakani (~1 Mrd.) mit Abstand die größte Gruppe, gefolgt von Theriani (~600 Mio.) und Anelari (~400 Mio.). Drachen (~50.000) sind die bei weitem seltenste intelligente Spezies. 

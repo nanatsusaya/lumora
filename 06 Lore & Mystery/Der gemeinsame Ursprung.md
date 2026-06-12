@@ -15,7 +15,7 @@ tags:
 
 Das erklärt, warum so verschiedene Völker bei aller Fremdheit immer wieder *Ähnlichkeiten* zeigen: denselben aufrechten Bauplan, vergleichbare Sinne, kompatible Sprache und Kultur. Sie sind keine unabhängigen Schöpfungen, sondern Zweige desselben Stammes.
 
-Betroffen sind: [[Hakani]], [[Elværi]], [[Theriani]], [[Vulkani]], [[Aviari]], [[Luminaari]], [[Leviathari]].
+Betroffen sind: [[Hakani]], [[Elværi]], [[Theriani]], [[Anelari]], [[Aviari]], [[Luminaari]], [[Leviathari]].
 
 Nicht betroffen sind Völker mit deutlich abweichendem Körperbau ([[Drachen]], [[Chronari]], [[Golethari]], [[Kharell]], [[Sylvari]]) — ihr Bauplan verrät ihren eigenen, getrennten Ursprung.
 
@@ -45,7 +45,7 @@ Fallengelassen heißt nicht verloren. Andere Götter wurden auf die unbeobachtet
 
 - [[Hakani]] ← [[Der Eifernde|Der Eifernde]] (die meistumkämpfte Linie — siehe unten)
 - [[Theriani]] ← [[Der Tiervater|Der Tiervater]]
-- [[Vulkani]] ← [[Der Tiefenschmied|Der Tiefenschmied]]
+- [[Anelari]] ← [[Der Tiefenschmied|Der Tiefenschmied]]
 - [[Aviari]] ← [[Der Himmelsherr|Der Himmelsherr]]
 - [[Luminaari]] ← [[Die Lichtweberin|Die Lichtweberin]]
 - [[Leviathari]] ← [[Der Gezeitenherr|Der Gezeitenherr]]
