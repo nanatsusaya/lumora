@@ -1,15 +1,17 @@
 ---
 tags:
   - wip
-  - "#leviathari"
+  - "#bythari"
   - working-title
   - species
 ---
-# Leviathari
+# Bythari
 
-*EN: Leviathari (Sea-People)*
-*Tag:* #leviathari
+*EN: Bythari (Sea-People)*
+*Tag:* #bythari
 *Status:* #wip
+
+Die **Bythari** (klassischer Fantasy-Begriff: *Meervolk / Fischmenschen*) sind das amphibische Volk der Tiefe — eine der zwölf kulturschaffenden [[Spezies]]. *Bythari* ist ihr [[Waldelværi#Die Völker im Elværin (Waldelværi-Exonyme)|Elværin-Name]] (von gr. *bythós*, „Meerestiefe" → „die aus der Tiefe") — ein Name, der diesem geheimnisvollsten, unheimlichsten Volk Lumoras seine Aura gibt.
 
 **Herkunft:** Aus einer Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[Der Gezeitenherr|Gezeitenherr]] ins Wasser zog.
 
@@ -20,7 +22,7 @@ tags:
 **N-Kraft-Nutzung:** Wasser manipulieren, Strömungen lenken, Schutzkuppeln erschaffen.
 
 ```
-TODO: Die Leviathari sind unterentwickelt. 
+TODO: Die Bythari sind unterentwickelt. 
 Welche Rolle spielen sie politisch? 
 Kontrollieren sie Handelswege unter dem Meer? 
 Konflikte mit Seevölkern (Hakani, Volari)?

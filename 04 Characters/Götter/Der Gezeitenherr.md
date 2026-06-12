@@ -8,6 +8,6 @@ tags:
 *EN: The Tide-Lord*
 *Tag:* #tide-lord
 
-- Schöpfer-Gott der [[Leviathari]]. Gott der Meere und Strömungen.
+- Schöpfer-Gott der [[Bythari]]. Gott der Meere und Strömungen.
 - Zog eine Linie ins Wasser — amphibisch und tieftauglich.
-- Wird als einer der „Meeresgötter" der Leviathari verehrt.
+- Wird als einer der „Meeresgötter" der Bythari verehrt.
