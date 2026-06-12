@@ -20,7 +20,6 @@ Kein Worldbuilding, keine Lore, keine Charaktere. Stattdessen: das Gerüst dahin
 | [[Gründungsdokument]] | Was ein Gründungsdokument ist und welche Rolle es in Lumora spielt |
 | [[Elevator Premise]] | Was eine Elevator Premise ist und wie sie für Lumora formuliert ist |
 | [[Mythopoetisch]] | Was Mythopoesie bedeutet und warum Lumora mythopoetisch arbeitet |
-| [[Hard Magic Fantasy]] | Was Hard Magic Fantasy ist, Sandersons Gesetze, und warum Lumora diesen Ansatz wählt |
 
 ---
 

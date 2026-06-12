@@ -10,3 +10,4 @@ Die Inhalte aus diesem Bereich sind nicht zwingendermaßen direkt in der Lumora 
 ## Übersicht
 
 * [[Singbare Sprachen]] betrachtet werden reale linguistisch-musikalische Grundlage
+* [[Hard-Magic-Fantasy]] — Genre-Grundlage des Begriffs, Abgrenzung und Referenzwerke für Lumora
