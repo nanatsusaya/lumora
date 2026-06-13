@@ -5,7 +5,7 @@ tags:
 ---
 # Part IV — Akt-Struktur
 
-**Dramatischer Zweck:** Die Wahrheit über den Ursprungsgott nähert sich — und mit ihr die tiefste Identitätskrise des Protagonisten.
+**Dramatischer Zweck:** Die Wahrheit über den Ursprungsgott nähert sich — und mit ihr die Identitätskrise des Protagonisten.
 
 ---
 

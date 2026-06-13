@@ -5,7 +5,7 @@ tags:
 ---
 # Part I — Akt-Struktur
 
-**Dramatischer Zweck:** Ein gewöhnlicher Mann auf der Erde wird zur unvorhergesehenen Variable — und stirbt, bevor er begreift, was er akzeptiert hat.
+**Dramatischer Zweck:** Ein gewöhnlicher Mann auf der Erde sagt Ja zu einem Angebot, das er nicht durchschaut — und stirbt.
 
 ---
 

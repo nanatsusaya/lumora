@@ -5,7 +5,7 @@ tags:
 ---
 # Part V — Akt-Struktur
 
-**Dramatischer Zweck:** Enthüllung, Konfrontation, Integration. Lumora wird nicht von außen gerettet, sondern weil das Wesen an ihrer Wurzel sich selbst findet.
+**Dramatischer Zweck:** Enthüllung, Konfrontation, Integration. Lumora wird nicht von außen gerettet, sondern weil der, der an ihrer Wurzel sitzt, sich selbst erkennt.
 
 ---
 
