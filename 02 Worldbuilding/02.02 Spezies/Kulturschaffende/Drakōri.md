@@ -2,7 +2,6 @@
 tags:
   - wip
   - "#drakori"
-  - working-title
   - species
 ---
 # Drakōri

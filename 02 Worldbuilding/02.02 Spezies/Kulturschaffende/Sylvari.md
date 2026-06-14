@@ -2,7 +2,6 @@
 tags:
   - wip
   - "#sylvari"
-  - working-title
   - species
 ---
 # Sylvari

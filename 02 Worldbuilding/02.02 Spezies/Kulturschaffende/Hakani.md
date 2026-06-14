@@ -2,7 +2,6 @@
 tags:
   - wip
   - "#hakani"
-  - working-title
   - species
 ---
 # Hakani

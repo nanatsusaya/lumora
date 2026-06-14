@@ -16,6 +16,7 @@ Dieser Bereich enthält das verborgene Wissen Lumoras — Geheimnisse, die die W
 - [[Emergente Folgen]] — das Leitmotiv: gut gemeinte/neutrale Strukturen erzeugen ungewollte, oft tragische Folgen (inkl. struktureller Vorurteilsbildung).
 - [[Der gemeinsame Ursprung]] — die verborgene Genealogie fast aller humanoiden Völker; warum sie verwandt sind und warum der RZG-Transfer erlaubt ist.
 - [[Die Entdeckung — Spaltung als Erkenntnis]] — *wie* der Protagonist die Wahrheit findet: Fragmentierung als Erkenntnisorgan. Der größte Spoiler neben Ursprungsgott = Chaosgott.
+- [[Das Heimlicht der Anelari]] — der verborgene Grund hinter dem ewigen Kriegszyklus der [[Anelari]]; ein noetischer Parasit als Mikrokosmos der Selbstzerstörungsdynamik.
 - [[Offene Geheimnisse]] — noch zu klärende Fragen.
 - [[Der Ursprungsgott]], [[Der Raum-Zeit-Gott]], [[Der Protagonist]] — vertiefende Profile.
 - [[Foreshadowing]] · [[Story Start]] · [[Story Ende]] — Erzählhandwerk und Auflösung.

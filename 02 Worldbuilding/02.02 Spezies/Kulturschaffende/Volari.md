@@ -2,7 +2,6 @@
 tags:
   - wip
   - "#volari"
-  - working-title
   - species
 ---
 # Volari

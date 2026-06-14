@@ -2,7 +2,6 @@
 tags:
   - wip
   - "#sapari"
-  - working-title
   - species
 ---
 # Sapari

@@ -2,7 +2,6 @@
 tags:
   - wip
   - "#bythari"
-  - working-title
   - species
 ---
 # Bythari

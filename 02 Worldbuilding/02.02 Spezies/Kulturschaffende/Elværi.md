@@ -1,7 +1,6 @@
 ---
 tags:
   - wip
-  - working-title
   - species
 ---
 # Elværi

@@ -2,7 +2,6 @@
 tags:
   - wip
   - "#vataeri"
-  - working-title
   - species
 ---
 # Vatæri

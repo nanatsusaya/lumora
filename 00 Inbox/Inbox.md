@@ -92,3 +92,11 @@ Wie und wo das vorkommt werden wir noch sehen, aber hier an der Stelle ist es ma
 
 Kristalle die Licht produzieren.
 Kristalle die gezüchtet wurden und aussehen wie blumen und pflanzen und sich zwischen echten blumen und pflanzen befinden und samftes licht abstrahlen und so alles hell und angenehm machen.
+
+---
+
+## Problem Anelari
+
+Irgendwann trifft der #protagonist auf den Gott der #anelari . Er spricht ihn drauf an, wieso sich die Anelari gegenseitig bekriegen. Er erklärt die Hintergründe zu dem Pilzbefall und seine Vermutung, dass ein anderer Gott dahinter steht, insbesondere, da der Pilz die Nähe zwischen #anelari und ihren Gott dämpft. Der Gott versucht dagegen vorzugehen, aber diese Biologische Waffe (der Pilz) ist so effektiv, dass es durchaus sein kann, dass in einigen Jahrhunderten er das ganze Volk verliert.
+
+Der #protagonist erklärt wie man eine solche Biowaffe auf Lumora einschmuggeln kann. Es braucht auf Lumora einen passenden Träger, ein Virus oder bestehenden Pilz. Dann designt man außerhalb der Reichweite des #primary-god ein passenden für sich allein stehend harmloses Virus, dass den Träger "schnell" übernimmt und anpasst. Man schickt das Virus per Asteroid auf kollisionskurs mit Lumora. Die Götter untersuchen den Asteroiden und dessen Biomasse. Da niemand eine gefahr für Lumora erkennt wird das als natürliches Phänomen akzeptiert und zugelassen. Der Asteroid fällt auf Lumora, den gewünschten Ort, der Virus wird aktiv, verbindet sich mit seinen Träger und erschafft den Pilz. Der Pilz wiederum fängt an sehr indirekt die #anelari zu unterwandern. Die #anelari verlieren ihre Verbindung zu ihrem Gott und zur rechten Zeit können andere Götter dessen Platz einnehmen, darunter auch der eigentliche Täter. Und niemand ahnt etwas.

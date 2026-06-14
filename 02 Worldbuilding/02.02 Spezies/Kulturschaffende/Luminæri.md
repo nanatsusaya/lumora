@@ -2,7 +2,6 @@
 tags:
   - wip
   - "#luminaeri"
-  - working-title
   - species
 ---
 # Luminæri

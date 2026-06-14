@@ -2,7 +2,6 @@
 tags:
   - wip
   - "#theriani"
-  - working-title
   - species
 ---
 # Theriani

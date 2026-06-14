@@ -2,7 +2,6 @@
 tags:
   - wip
   - "#tepani"
-  - working-title
   - species
 ---
 # Tepani
