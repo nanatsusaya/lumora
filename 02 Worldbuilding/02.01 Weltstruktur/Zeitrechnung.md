@@ -84,8 +84,8 @@ Beide besonderen Tage fallen auf eine **Periapsis** (Orthyros-Nähe) — also mi
 
 #### Lichttag
 
-Periapsis auf der **Aezion zugewandten** Seite (Lumora steht zwischen Aezion und Orthyros) — Lumora wird von zwei Seiten beleuchtet (Orthyros steht groß und voll erleuchtet am Himmel, sein Äquatorgürtel leuchtet hell), der gesamte Tag ist taghell. Von vielen Völkern als Neujahr oder Fest der Freunde und Familie begangen.
+Periapsis auf der **Aezion zugewandten** Seite (Lumora steht zwischen Aezion und Orthyros): der gesamte Tag ist taghell *(Mechanik → [[Orthyros-Lumora-System#Lichttag|Lichttag]])*. Von vielen Völkern als Neujahr oder Fest der Freunde und Familie begangen.
 
 #### Dunkeltag
 
-Periapsis auf der **Aezion abgewandten** Seite (Lumora steht hinter Orthyros, im Schattenkegel) — der gesamte Tag ist Nacht: kein direktes Sonnenlicht, kein von Orthyros reflektiertes Licht, und der leuchtende Äquatorgürtel ist auf dieser Seite erloschen (→ [[Orthyros-Lumora-System#Belichtung & der Dunkeltag|Belichtung & der Dunkeltag]]). Die volle Finsternis dauert rund **eine Eigenrotation** (≈ ein Tag); je ein **Dämmertag** davor und danach ist dunkler als gewöhnlich, aber nicht völlig finster. Trotzdem **warm**, denn Lumora ist Orthyros gerade am nächsten. Tag der Toten und Ahnen. Manche Völker betrachten ihn als Neujahr.
+Periapsis auf der **Aezion abgewandten** Seite (Lumora steht hinter Orthyros, im Schattenkegel): der gesamte Tag ist Nacht *(Mechanik → [[Orthyros-Lumora-System#Dunkeltag|Dunkeltag]])*. Trotzdem **warm**, denn Lumora ist Orthyros gerade am nächsten. Tag der Toten und Ahnen. Manche Völker betrachten ihn als Neujahr.

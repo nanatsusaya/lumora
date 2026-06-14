@@ -2,7 +2,7 @@
 tags:
   - wip
 ---
-# Das Orthyros-Lumora-System
+# Orthyros-Lumora-System
 
 Diese Notiz bündelt die **Bahnmechanik** des Mondes [[Sonnensystem#Lumora|Lumora]] um den Gasriesen [[Sonnensystem#Orthyros — der Gasriese|Orthyros]] und alles, was unmittelbar daraus folgt: die ungewöhnliche Bahnform, ihre Ursache, die zwei Jahreszyklen, die Doppelbelichtung und der [[Zeitrechnung#Dunkeltag|Dunkeltag]]. Die **reale physikalische Grundlage** dazu steht in [[Keplerbahnen & zentrale Kräfte]]; hier geht es um die konkrete Anwendung in Lumora.
 
@@ -34,28 +34,45 @@ Die „Gummiband"-Kraft verlangt eine **ausgedehnte, annähernd gleichförmig ve
 
 ## Die zwei Jahreszyklen
 
-Lumora hat **keine Achsneigung**; seine Jahreszeiten hängen allein an der **Distanz zu Orthyros**. Weil die Gummiband-Bahn Orthyros **zweimal pro Umlauf** nahekommt und **zweimal** fernsteht, gibt es **zwei Sommer** (Periapsis, nah) und **zwei Winter** (Apoapsis, fern) pro Jahr. Drei Effekte treiben die Erwärmung, und alle drei erreichen ihr Maximum **gleichzeitig in der Periapsis**:
+Lumora hat **keine Achsneigung**; seine Jahreszeiten hängen allein an der **Distanz zu Orthyros**. Weil die Gummiband-Bahn Orthyros **zweimal pro Umlauf** nahekommt und **zweimal** fernsteht, gibt es **zwei Sommer** ([Periapsis](https://de.wikipedia.org/wiki/Apsis_(Astronomie)), nah) und **zwei Winter** (Apoapsis, fern) pro Jahr. Drei Effekte treiben die Erwärmung, und alle drei erreichen ihr Maximum **gleichzeitig in der Periapsis**:
 
 1. **Reflektiertes Licht** von Orthyros — bei halbem Abstand rund **viermal** so hell (∝ 1/Abstand²).
 2. **Gezeitenwärme** — steigt noch steiler mit der Nähe (grob ∝ 1/Abstand³).
 3. **Reibungswärme** — Lumora pflügt in Orthyros-Nähe am schnellsten durch den feinen Staub des Halos; die Reibungsheizung skaliert steil mit der Geschwindigkeit. Sie ist im Sommer am stärksten, im Winter vernachlässigbar (dann bestimmt allein Aezion die Temperatur).
 
-Auch wenn sich Lumora auf der Sonnenabgewandten Seite von Orthyros befindet, ist der Planet i.A. wärmer. Der Primäre Faktor für die Jahreszeiten auf Lumora ist damit nicht [[Sonnensystem#Aezion — die Zentralsonne|Aezion]] sondern Orthyros.
+Auch wenn sich Lumora auf der Sonnenabgewandten Seite von Orthyros befindet, ist der Planet i.A. wärmer. Der Primäre Faktor für die Jahreszeiten auf Lumora ist damit nicht [[Sonnensystem#Aezion — der Zentralstern|Aezion]] sondern Orthyros.
 
 > *Folge für die Wahrnehmung:* Weil halber Abstand zugleich „doppelt so groß" und „viermal so hell" bedeutet, **sieht** man den Sommer kommen — Orthyros schwillt am Himmel an und wird heller —, bevor man ihn fühlt.
 
 ---
 
-## Belichtung & die Licht-/Dunkeltage
+## Lumoras Belichtung
 
-Lumora empfängt Licht aus zwei Quellen: **direkt von Aezion** und **reflektiert von Orthyros** (Details → [[Sonnensystem#Lumoras Belichtung|Lumoras Belichtung]]). Dazu kommt der leuchtende [[Sonnensystem#Orthyros — der Gasriese|Äquatorgürtel]], dessen **Fluoreszenz vom Sonnenlicht angetrieben** wird: Auf Orthyros' Tagseite leuchtet er hell, zur sonnenabgewandten Seite hin verlischt er, am sonnenfernsten Punkt ganz.
+Lumora empfängt Licht aus zwei Quellen gleichzeitig:
 
-Einmal pro Umlauf — in der Aezion **abgewandten** Periapsis — taucht Lumora **hinter Orthyros in dessen Schattenkegel**. Dann fällt alles Licht zugleich weg: kein direktes Sonnenlicht (Kernschatten), kein reflektiertes Licht (Lumora sieht Orthyros' Nachtseite) und kein Bandleuchten (auf dieser Seite erloschen). Das ist der **Dunkeltag** — der einzige vollständig dunkle Tag des Jahres.
+1. **Direktes Licht von Aezion** — die Zentralsonne beleuchtet Lumora direkt.
+2. **Reflektiertes Licht von Orthyros** — der Gasriese reflektiert Aezions Licht zusätzlich auf Lumora; dazu kommt der leuchtende [[Sonnensystem#Orthyros — der Gasriese|Äquatorgürtel]].
+
+Das macht Lumora im Durchschnitt sehr hell. Vollständige Dunkelheit tritt nur einmal im Jahr ein — am [[#Dunkeltag]], wenn Lumora in den Schattenkegel hinter Orthyros eintritt.
+
+![[Lumora-Umlaufbahn-Belichtung.webp]]
+
+*Skizze: Lumora in vier Orbitalpositionen um Orthyros. Aezion (gelb, links), Orthyros (Mitte). Die rechte Orbitalposition liegt im Schattenkegel — das entspricht dem Dunkeltag. In allen anderen Positionen ist Lumora von beiden Seiten beleuchtet.*
+
+Der leuchtende Äquatorgürtel **fluoresziert** vom Sonnenlicht Aezions: Auf Orthyros' Tagseite leuchtet er hell, zur sonnenabgewandten Seite hin verlischt er, am sonnenfernsten Punkt ganz. Beide besonderen Tage fallen auf eine **Periapsis** (Hochsommer, Orthyros am nächsten und größten) und liegen einander im Jahr gegenüber; sie unterscheiden sich nur durch die Seite, auf der Lumora zu Orthyros steht.
+
+### Lichttag
+
+Periapsis auf der **Aezion zugewandten** Seite: Lumora steht zwischen Aezion und Orthyros und sieht dessen voll beleuchtete Tagseite — ein großer, heller Orthyros mit hell leuchtendem Äquatorgürtel. Von beiden Seiten erhellt, ist der gesamte Tag taghell. *(Kalender & Kultur → [[Zeitrechnung#Lichttag]].)*
+
+### Dunkeltag
+
+Periapsis auf der **Aezion abgewandten** Seite: Lumora taucht hinter Orthyros in dessen **Schattenkegel**. Alle Lichtquellen fallen zugleich weg — kein direktes Sonnenlicht (Kernschatten), kein reflektiertes Licht (Lumora sieht Orthyros' Nachtseite) und kein Bandleuchten (auf dieser Seite erloschen). Es ist der einzige vollständig dunkle Tag des Jahres.
 
 - **Reicht der Schatten bis Lumora?** Ja, mit großem Spielraum: Der Schattenkegel eines Gasriesen in der habitablen Zone reicht Millionen Kilometer weit; Lumora umkreist Orthyros in einem winzigen Bruchteil davon und taucht vollständig ein (wie Jupiters Monde).
 - **Warum nur ein Tag?** In der Periapsis ist Lumora am schnellsten; obwohl Orthyros dort am größten erscheint, durchquert Lumora den Kernschatten in rund **einer Eigenrotation** (≈ ein [[Zeitrechnung#Tag|Tag]]). Je ein **Dämmertag** davor und danach (Halbschatten + verlöschendes Band) ist dunkler als gewöhnlich, aber nicht völlig finster.
 
-Die Aezion **zugewandte** Periapsis ist der spiegelbildliche Fall: Lumora steht zwischen Aezion und Orthyros, sieht die voll beleuchtete Orthyros-Seite und wird von beiden Seiten erhellt — der taghelle [[Zeitrechnung#Lichttag|Lichttag]]. Beide besonderen Tage fallen damit auf eine Periapsis (Hochsommer) und liegen einander im Jahr gegenüber.
+*(Kalender & Kultur → [[Zeitrechnung#Dunkeltag]].)*
 
 ---
 
@@ -71,10 +88,7 @@ Orthyros erscheint als große, bleiche Scheibe mit Wolkenbändern und dem hellen
 
 ```
 TODO (Quantitativ): Exakte Werte sind bewusst offen. Für eine spätere Festlegung müssen zusammenpassen: Orthyros-Masse/-Dichte (massearm, aufgebläht), Halo-Dichte und -Masse (muss Orthyros im Bahnbereich überwiegen → Gummiband), Bahnradius, scheinbare Größe (mond- bis doppelt-mondgroß), Umlaufzeit (629 Tage). Diese Größen sind gekoppelt; ein konsistenter Zahlensatz wäre erst bei erzählerischem Bedarf zu fixieren.
-TODO (Sichtbarkeit): „Orthyros immer sichtbar" setzt eine gebundene Rotation Lumoras voraus (eine feste Seite zu Orthyros). Das widerspricht dem 27-Stunden-Tag. Klären: gebundene Rotation ODER Orthyros geht auf/unter (nur eine Hemisphäre sieht ihn dauerhaft).
 TODO (Halo-Masse): Ob ein realistisch dünner Halo Orthyros' Schwerkraft im Bahnbereich wirklich überwiegt, hängt an Orthyros' (geringer) Masse. Plausibel, aber zahlenmäßig offen.
-TODO (Konsistenz Vault): Verweise auf das Myzel/„Staubband" in 02.05 Geschichte und
-06 Lore & Mystery an die hiesige Fassung angleichen (Äquatorgürtel in der Atmosphäre + dunkler Halo).
 ```
 
 ---

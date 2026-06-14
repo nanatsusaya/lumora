@@ -20,7 +20,7 @@ Der entscheidende Unterschied liegt in der Kruste. Wo die Erdkruste höchstens ~
 
 Das Gestein der dicken Kruste ist im Allgemeinen massiver als auf der Erde — aber durchzogen von unzähligen **Höhlen, Spalten und Kavernen**. In diesen Hohlräumen hat sich ein vollständig eigenes Biotop entwickelt.
 
-> *Anmerkung:* Ein Teil der Krustenwärme stammt aus Gezeitenkräften, die Orthyros im Mantel erzeugt. Die genaue Himmelsmechanik (Bahn, Jahreszeiten) wird derzeit noch überarbeitet → [[Sonnensystem]] / [[Zeitrechnung]]. Das Prinzip „näher an Orthyros = wärmerer Mantel" bleibt davon unberührt.
+> *Anmerkung:* Ein Teil der Krustenwärme stammt aus Gezeitenkräften, die Orthyros im Mantel erzeugt. Die genaue Himmelsmechanik (Bahn, Jahreszeiten) ist beschrieben in [[Orthyros-Lumora-System]] / [[Zeitrechnung]]. Das Prinzip „näher an Orthyros = wärmerer Mantel" bleibt davon unberührt.
 
 ---
 
@@ -43,7 +43,7 @@ Während der [[02.05 Geschichte#Die Werkstatt der Götter|Werkstatt der Götter]
 
 ## Unterirdische Jahreszeiten
 
-Auch die Unterwelt kennt Warm- und Kaltzeiten. Ihr Motor sind die **Gezeitenkräfte von Orthyros**: Je näher Lumora an Orthyros steht, desto stärker bewegt sich das flüssige Gestein unter der Kruste — und desto wärmer wird die Kruste. So entsteht unter Tage ein eigener Warm-/Kaltrhythmus, der **synchron zu den Jahreszeiten der Oberfläche** läuft, weil beide letztlich an derselben Ursache hängen: der Nähe zu Orthyros. *(→ [[Zeitrechnung#Jahreszeiten|Jahreszeiten]]; die genaue Bahnmechanik wird noch überarbeitet.)*
+Auch die Unterwelt kennt Warm- und Kaltzeiten. Ihr Motor sind die **Gezeitenkräfte von Orthyros**: Je näher Lumora an Orthyros steht, desto stärker bewegt sich das flüssige Gestein unter der Kruste — und desto wärmer wird die Kruste. So entsteht unter Tage ein eigener Warm-/Kaltrhythmus, der **synchron zu den Jahreszeiten der Oberfläche** läuft, weil beide letztlich an derselben Ursache hängen: der Nähe zu Orthyros. *(→ [[Zeitrechnung#Jahreszeiten|Jahreszeiten]], [[Orthyros-Lumora-System|Bahnmechanik]].)*
 
 ---
 

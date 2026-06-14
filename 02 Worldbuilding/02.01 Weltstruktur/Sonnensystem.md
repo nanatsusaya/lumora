@@ -11,14 +11,14 @@ Das Sonnensystem ist relativ jung und dynamisch — ein Spiegelbild seiner turbu
 ---
 ## Aktueller Aufbau
 
-### Aezion — die Zentralstern
+### Aezion — der Zentralstern
 
 *EN: Aezion*
 *Tag:* #aezion
 
 Aezion ist ein **gelber Zwerg** vom sonnenähnlichen Typ (Spektralklasse G). In Farbe, Strahlung und Größe gleicht er weitgehend der Sonne der Erde: ein warmes, gelb-weißes Licht ohne die harte UV-Strahlung heißerer Sterne. Entscheidend ist seine **Langlebigkeit** — ein gelber Zwerg brennt rund zehn Milliarden Jahre stabil. Das Sonnensystem ist bereits **über vier Milliarden Jahre** alt; Aezion steht damit etwa in seiner Lebensmitte und trägt das System mühelos über alle Zeiträume, die für Sterbliche wie Götter je eine Rolle spielen.
 
-> **Aezion gibt dem Himmel Lumoras ein warmes, gelb-weißes Licht. Das Fremdartige an Lumoras Himmel stammt nicht von der Sonne, sondern von [[#Orthyros — der Gasriese|Orthyros]] und der Doppelbelichtung (→ [[#Lumoras Belichtung]]).**
+> **Aezion gibt dem Himmel Lumoras ein warmes, gelb-weißes Licht. Das Fremdartige an Lumoras Himmel stammt nicht von der Sonne, sondern von [[#Orthyros — der Gasriese|Orthyros]] und der Doppelbelichtung (→ [[Orthyros-Lumora-System#Belichtung & die Licht-/Dunkeltage|Lumoras Belichtung]]).**
 
 > *Anmerkung (Entstehung):* Der Ursprungsgott traf auf ein bereits weitgehend fertiges, stabiles System — er griff gestaltend ein, schuf es aber nicht aus dem Nichts. Aezions Stabilität ist eine Vorbedingung dieses Eingriffs, kein Werk des Gottes.
 
@@ -68,13 +68,6 @@ Der Gasriese, der Lumoras Schicksal bestimmt. Ein **massearmer, aufgeblähter Ri
 
 **Am Himmel Lumoras:** Orthyros erscheint als große, bleiche Scheibe mit sichtbaren Wolkenbändern und dem hellen Äquatorfaden. Seine Größe „atmet" mit den Jahreszeiten — im Winter (Apoapsis, fern) etwa **mondgroß**, im Sommer (Periapsis, nah) rund **doppelt so groß**. Da halber Abstand zugleich rund viermal so viel reflektiertes Licht bedeutet, wird Orthyros zum Sommer hin sichtbar größer *und* heller (→ [[Orthyros-Lumora-System]]).
 
-> *Kritische Anmerkung:* Frühere Fassung — „nimmt ein Fünftel des Himmels ein, immer sichtbar". Astronomisch unmöglich in Kombination mit dem langen Jahr (629 Tage = ein Umlauf): Ein Mond, der seinen Planeten den Himmel füllen ließe, müsste ihn in Tagen umkreisen, nicht in ~2 Erdjahren. Mit dem langen Jahr ergibt sich zwangsläufig ein mond- bis doppelt-mondgroßer Orthyros (Herleitung → [[Orthyros-Lumora-System#Orthyros am Himmel|Orthyros am Himmel]]).
-
-```
-TODO: „Immer sichtbar" stimmt nur bei gebundener Rotation Lumoras (feste Seite zu Orthyros). Das widerspricht dem 27-Stunden-Tag. Bei eigenständiger Rotation geht Orthyros auf und unter und steht nur über einer Hemisphäre dauerhaft hoch (siehe [[Das Orthyros-Lumora-System#Offene Punkte|Offene Punkte]]).
-TODO: Monat = Orthyros-Rotation = 37 Lumoratage (~42 Erdtage) — für einen Gasriesen sehr langsam (reale rotieren in ~10 h). Eine langsamere Rotation schwächt auch die Bänderung, an der der Äquatorgürtel hängt. Bewusst so lassen oder Wert prüfen?
-```
-
 #### Monde des Orthyros
 
 | Mond | Beschreibung |
@@ -111,32 +104,3 @@ Dunkler, kalter Planet mit träge rotierender Umlaufbahn. Komplexe Zusammensetzu
 ### Asteroidengürtel
 
 Umgibt das äußere System. Schickt gelegentlich kleinere Brocken Richtung inneres System. Kulturell als Omen oder Warnung gedeutet — je nach Volk unterschiedlich.
-
----
-
-## Lumoras Belichtung
-
-Lumora empfängt Licht aus zwei Quellen gleichzeitig:
-
-1. **Direktes Licht von Aezion** — die Zentralsonne beleuchtet Lumora direkt.
-2. **Reflektiertes Licht von Orthyros** — der Gasriese reflektiert Aezions Licht zusätzlich auf Lumora.
-
-Das macht Lumora im Durchschnitt sehr hell. Vollständige Dunkelheit tritt nur auf, wenn Lumora in den Schattenkegel hinter Orthyros eintritt (**Dunkeltag**).
-
-![[Lumora-Umlaufbahn-Belichtung.webp]]
-
-*Skizze: Lumora in vier Orbitalpositionen um Orthyros. Aezion (gelb, links), Orthyros (blau, Mitte). Die rechte Orbitalposition liegt im Schattenkegel — das entspricht dem Dunkeltag. In allen anderen Positionen ist Lumora von beiden Seiten beleuchtet.*
-
-#### Lumoras Apsiden
-
-[Apsiden](https://de.wikipedia.org/wiki/Apsis_(Astronomie)) sind die Punkte, an denen Lumora seinem Zentralgestirn [[#Orthyros — der Gasriese|Orthyros]] am nächsten (**Periapsis**) bzw. am fernsten (**Apoapsis**) steht. Da Lumora **keine Achsneigung** besitzt, hängt seine Temperatur allein an dieser Distanz: je näher an Orthyros, desto mehr reflektiertes Licht, Gezeitenwärme und Reibungswärme im Halo — desto wärmer (→ [[Orthyros-Lumora-System#Die zwei Jahreszyklen|Die zwei Jahreszyklen]]). Die Apsiden treiben damit unmittelbar die [[Zeitrechnung#Jahreszeiten|Jahreszeiten]].
-
-##### Periapsis
-
-Lumora steht Orthyros am nächsten — der Höhepunkt eines Sommers. Die Periapsis tritt **zweimal pro Jahr** ein: einmal, während Lumora *vor* Orthyros steht (Aezion zugewandt), und einmal, während es *hinter* Orthyros steht (im Schattenkegel). Beide Male ist Lumora gleich nah an Orthyros und damit gleich warm — die beiden Periapsen unterscheiden sich nur in der **Belichtung**, nicht in der Temperatur (→ [[Zeitrechnung#Besondere Tage|Licht- und Dunkeltag]]).
-
-##### Apoapsis
-
-Lumora steht Orthyros am fernsten — der Tiefpunkt eines Winters: weniger reflektiertes Licht, geringere Gezeitenwärme, Frost. Auch die Apoapsis tritt zweimal pro Jahr ein.
-
-> *Anmerkung (Himmelsmechanik — geklärt):* „Zwei Periapsen pro Umlauf" ist kein Fehler, sondern die Signatur von Lumoras **Gummiband-Bahn**: Orthyros steht nahe dem **Mittelpunkt** der Bahnellipse (nicht in einem Brennpunkt), erzeugt durch den [[Orthyros-Lumora-System#Der dunkle Halo|dunklen Halo]]. Dadurch treten nächster und fernster Punkt je zweimal pro Umlauf auf. Herleitung → [[Orthyros-Lumora-System]], reale Physik → [[Keplerbahnen & zentrale Kräfte]].
