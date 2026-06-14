@@ -6,7 +6,7 @@ tags:
 # Der Tiervater
 
 *EN: The Beast-Father*
-*Tag:* #beast-father
+*Tag:* #beast-lord
 
 - Schöpfer-Gott der [[Theriani]]. Urtümlicher Gott des Instinkts und der Tierwelt.
 - Formte eine fallengelassene Linie zur Tierverwandtschaft hin; die vielen Unterarten (Wolf-, Fisch-, Katzentypen …) spiegeln seine Lust an der Vielfalt.
