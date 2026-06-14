@@ -139,6 +139,17 @@ Die Einreise in Waldelværi-Gebiete ist sehr streng — nur befähigtes Personal
 
 > *Kritische Anmerkung:* Der Elværi-Elitismus ist eine **gestufte, paternalistische Form von Speziesismus** — Lumoras Pendant zu Rassismus, nur entlang *Spezies*-Linien. Eine Nation ist die Summe ihrer Bürger, in Lumora spezifischer: der Spezies, aus denen sie besteht. 
 
+### Meinung über andere Völker
+
+Hier werden einmal ganz Allgemein beschrieben, wie die Waldelværi über andere Völker denken. Das beinhaltet keine Fixe Meinung, sonderen eine Tenzenz, oder im besten Fall Vorurteile, die die Elværi über die Völker haben:
+
+* **Anelari:**
+	* Sie waren vor einigen Generationen ein friedfertiges und schlaues Volk. Inzwischen hat sich scheinbar das gesamte Volk in einen endlosen Krieg verloren. Die Unterwelt badet im Blut dieses Volkes. Eventuell sollten wir sie lieber "Anelani" nennen.
+	* Der Handel war nicht leicht aber immer lohnenswert.
+	* Sie sind großartige Handwerker.
+	* Ihre Angst vor der Sonne macht sie sehr speziell.
+	* Sie haben einen seltsamen Kalender. 
+
 ---
 
 ## Gesellschaftliche Werte
