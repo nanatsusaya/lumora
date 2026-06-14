@@ -56,7 +56,7 @@ Theriani können sich **über Schlag-Grenzen hinweg** fortpflanzen (Katzenschlag
 
 - **Der Schlag selbst ist diskret und blendet nicht.** Ein Wurf aus zwei Schlägen bringt mehrere Junge hervor, jedes mit dem *vollen* Merkmalspaket *eines* Elternschlags — reine Katzen- *und* reine Hundetypen im selben Wurf, aber **keine** Verschmelzung zu einem „Mischling“.
 - **Hintergrundmerkmale blenden dagegen sehr wohl** (Fellfarbe, Größe, Augenfarbe) — ein Katzen-Kind kann die Fellfarbe seines Hunde-Elternteils tragen.
-- **Latente Schläge & Rückschläge:** Jeder Theriani trägt mehr Schlag-Anlagen, als er zeigt — in einem gleichförmigen Stamm kann gelegentlich ein „fremder“ Schlag auftauchen (Erzählhaken).
+- **Latente Schläge & Rückschläge:** Jeder Theriani trägt mehr Schlag-Anlagen, als er zeigt — in einem gleichförmigen Rudel kann gelegentlich ein „fremder“ Schlag auftauchen (Erzählhaken).
 
 Die **Geburtenrate ist hoch** (Würfe mit mehreren Jungen) — die biologische Wurzel ihrer großen Zahl und schnellen Ausbreitung.
 
@@ -73,7 +73,18 @@ Handfest und wenig abstrakt: Theriani denken selten lange über komplexe Themen 
 
 ## Gesellschaft
 
-Leben in **Stämmen**, die sich stark am vertretenen Tier — ihrem [[#Schläge|Schlag]] — orientieren. Keine universelle Theriani-Kultur; jeder Schlag, jeder Stamm hat eigene Traditionen. Ihr Ruf als fleißig und zuverlässig macht sie zu gefragten Einwanderern, u. a. in [[Waldelværi#Immigration & Speziesismus|Elværi-Gebieten]]. *(Details → [[02.03 Völker & Gesellschaften]].)*
+Theriani haben **kaum Politik** — passend zu ihrem Naturell: Sie denken im Nahen und Konkreten, alles über die spürbare Gruppe hinaus ist ihnen zu komplex. Sie organisieren sich in einer Staffel von Gruppen, die fast immer **klein bleibt**:
+
+- **Rudel** *(EN: Pack)* — die kin-nahe Basiseinheit; bis zur Größe eines kleinen Dorfes. Hier lebt und denkt ein Theriani.
+- **Horde** *(EN: Horde)* (selten *Rotte*) — mehrere Rudel; ein Dorf bis kleine Stadt. Bis hierher reicht der gedankliche Horizont der meisten.
+- **Großhorde** *(EN: Great Horde)* — Zusammenschluss mehrerer Dörfer/Städte. Schon selten.
+- **Zugverbund** *(EN: Host)* — die größte, **extrem seltene** Form: ganze Regionen. Entsteht praktisch nur unter Kriegsdruck oder bei großen Ereignissen, und nur um ein **herausragend charismatisches oder körperlich beeindruckendes** Individuum herum. Stirbt es oder endet die Gefahr, zerfällt der Zugverbund rasch wieder.
+
+Geführt wird zumeist durch **Krieger** (gegenwärtige Stärke → [[03.03 Das Noetische Profil#Wucht|Wucht]]) und **Älteste** (gelebtes Gedächtnis → [[03.03 Das Noetische Profil#Weisheit|Weisheit]]). Die [[#Schläge|Schläge]] prägen Rudel und Horde stark, da ein Rudel meist verwandtschaftlich und damit weitgehend schlag-rein ist.
+
+> *Kontrast & Folge:* Wo die [[Elværi]] über-strukturiert (Clans, Triumvirat) und die [[Anelari]] zyklisch staatenbildend sind, kohärieren Theriani **nie dauerhaft**. Das macht sie trotz ihrer ~600 Mio. **politisch vernachlässigbar** — zahlreich und körperlich stark, aber ohne gemeinsamen Willen und damit keine geschlossene Macht (und kopflos kaum zu erobern: kein Zentrum, das man schlägt). Der seltene Zugverbund unter einem Warlord ist entsprechend ein ungewohntes, gefährliches Ausnahmeereignis.
+
+**In Waldelværi-Staaten** lösen sich die Theriani-Strukturen teils in die Elværi-Gesellschaft auf: Ein Rudel (bei großen [[Waldelværi#Der Familienbaum|Familienbäumen]] eine ganze Horde) wird in einen Familienbaum und damit in den Elværi-**Stamm** eingebunden — das Verhältnis beider Völker → [[Waldelværi#Theriani — Rudel im Stamm|Rudel im Stamm]]. *(Weitere Gesellschaftsdetails → [[02.03 Völker & Gesellschaften]].)*
 
 ## Religion
 
@@ -85,5 +96,5 @@ Jeder [[#Schläge|Schlag]] verehrt scheinbar einen *eigenen* Gott, dessen Gestal
 TODO:
 - „Vor kurzem“ konkret eichen: Die Timeline (02.05) verankert die Elværi bei ~1 Mio. Jahren; die Theriani als jüngstes Volk gehören deutlich später (Größenordnung Jahrtausende–Zehntausende?). Genaue Zahl gegen 02.05 Geschichte und die (noch zu schreibende) Hakani-Geschichte festlegen.
 - Politik: Gibt es ein Theriani-Reich, oder bleibt alles kleinteilig/stammesbasiert? Städte oder eher nomadisch? Koexistenz mit den Hakani (zweitgrößtes ↔ größtes Volk)?
-- Heiraten Theriani eher innerhalb des eigenen Schlags (assortativ → schlag-reine Stämme) oder über Schläge hinweg? Soziale Folgen.
+- Heiraten Theriani eher innerhalb des eigenen Schlags (assortativ → schlag-reine Rudel) oder über Schläge hinweg? Soziale Folgen.
 ```

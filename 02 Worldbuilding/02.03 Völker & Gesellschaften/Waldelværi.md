@@ -139,6 +139,23 @@ Die Einreise in Waldelværi-Gebiete ist sehr streng — nur befähigtes Personal
 
 > *Kritische Anmerkung:* Der Elværi-Elitismus ist eine **gestufte, paternalistische Form von Speziesismus** — Lumoras Pendant zu Rassismus, nur entlang *Spezies*-Linien. Eine Nation ist die Summe ihrer Bürger, in Lumora spezifischer: der Spezies, aus denen sie besteht. 
 
+### Theriani — Rudel im Stamm
+
+Mit den [[Theriani]] verbindet die Waldelværi eine besondere, tiefe Symbiose — ein Musterbeispiel, wie zwei grundverschiedene Völker harmonisch zusammenleben. Die Waldelværi haben das [[Theriani#Gesellschaft|Rudel-Denken]] der Theriani verstanden und binden ein kleines **Rudel** (bei großen Bäumen eine ganze **Horde**) in ihren [[#Der Familienbaum|Familienbaum]] — und damit in ihren **Stamm** — ein. Da im Baum der Stamm lebt, *werden* die eingebundenen Theriani Teil des Stammes; die Begriffe **Rudel** und **Stamm** verschmelzen.
+
+**Asymmetrische Wahrnehmung** ist der Kern: Ein Theriani im Baum sieht das (stets [[Elværi|elværische]]) Baum-Oberhaupt als seinen **Rudelführer**; das Stamm-Oberhaupt sieht den Theriani als **Stammesmitglied**. Derselbe Bund, zwei kulturelle Brillen — und beide passen.
+
+**Arbeitsteilung** (Tendenz, kein Absolutismus): Die Theriani kümmern sich um die Alltäglichkeiten des Lebens, die Elværi um Familien- und [[#Clans|Clanpolitik]] — jeder tut, wofür sein Kopf gebaut ist. Die Theriani behalten ihre **eigene Führungsschicht** (Krieger, Älteste), die nun aber dem Stamm-Oberhaupt untersteht:
+
+- Der **Kriegerführer** eines Rudels wird zum **Beschützer des Familienbaums** — während Elværi-Krieger zu **Soldaten des Staates** werden.
+- Theriani können sehr wohl auch Staatssoldaten werden, aber nur in Clans der [[#Die drei Disziplinen & das Triumvirat|Administrationsdisziplin]] (speziell dem Militär), wo kampfstarke Theriani sogar bevorzugt werden.
+
+**Klientel, nicht Leibeigenschaft.** Innerlich ist das ein **Klientel-/Hausgemeinschaftsmodell** (vgl. römische *clientela*, mittelalterliches Gefolge): freiwillig (Theriani wandern ein und *suchen* die Zugehörigkeit), als Stammesmitglied geschützt und genährt, mit über Generationen steigendem Ansehen. **Von außen** sieht es jedoch anders aus: Theriani arbeiten scheinbar nur für die Waldelværi und haben **null politischen Einfluss** — zusammen mit dem elitären Ruf der Waldelværi lässt das Außenstehende sie leicht als **Diener oder gar Sklaven** missdeuten. (Was hier ein Missverständnis ist, könnte bei den ressourcenarmen [[Elværi#Phänotypen & ihr Riss|Frostelværi]] bittere Realität werden.)
+
+**Warum noch immer `-ani`?** Obwohl die Theriani längst eng eingebunden sind, führen die Elværi sie weiter als `-ani` (niedrigste [[#Die Völker-Endungen — Ansehen als gesungene Beugung|Ansehensstufe]]). Der Grund ist kein Hass, sondern **Trägheit eines sehr langen Gedächtnisses**: Sowohl die Theriani als Volk als auch die heutige Triumvirat-Ordnung sind aus Waldelværi-Sicht *neu*. Diese Einstufung wird sich **zu Lebzeiten des [[Protagonist|Protagonisten]]** ändern — er, in einen Baum hineingeboren und mit Außenblick, ist ein denkbarer Auslöser dieses Stufenwechsels.
+
+> *Wichtig:* Diese tiefe Einbindung ist eine **Waldelværi**-Besonderheit. [[Elværi#Phänotypen & ihr Riss|Frost- und Wüstenelværi]] haben sie nicht — ihnen fehlt das Substrat (ein noetisch wachsender Familienbaum gedeiht weder im hohen Norden noch in der [[03.05 Grenzen & Einschränkungen#Noetisch tote Regionen|noetisch toten Wüste]]), und ihre Ressourcenlage ist eine völlig andere.
+
 ### Meinung über andere Völker
 
 Hier werden einmal ganz Allgemein beschrieben, wie die Waldelværi über andere Völker denken. Das beinhaltet keine Fixe Meinung, sonderen eine Tenzenz, oder im besten Fall Vorurteile, die die Elværi über die Völker haben:

@@ -164,6 +164,11 @@ TODO:
 
 ---
 
+```
+TODO (Frostelværi, später ausbauen):
+- Frost- und Wüstenelværi geraten in eine harte Ressourcenklemme (können ihre Familien kaum erweitern). Speziell die Frostelværi könnten sich zu einem Sklaven haltenden Volk entwickeln — und ausgerechnet Theriani könnten dort echte Sklaven werden (z. B. Eisbär-Theriani, die in Minen schuften). Bewusster Gegenpol zur freiwilligen Klientel-Symbiose bei den Waldelværi (→ [[Waldelværi#Theriani — Rudel im Stamm]]).
+```
+
 ## N-Kraft
 
 Die N-Kraft-Nutzung der Elværi ist feinfühlig und präzise, mit Schwerpunkt auf **Heilung, Naturmagie und Schutz**: Sie beschleunigen Pflanzenwachstum, beruhigen Tiere, formen ihre Umgebung subtil. (Die Kriegerkaste wendet dieselbe Präzision auf den Kampf an — kontrolliertes, sparsames Feuer.)
