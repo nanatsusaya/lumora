@@ -75,3 +75,12 @@ Drei Konsequenzen:
 - **Leise Noetik.** Selbstverstärkung ist *körperinterne* Wirkung — und die strahlt kaum ins N-Feld ab (→ [[03.08 Noetische Wahrnehmung#Wie Wahrnehmung funktioniert — was beim Sensitiven ankommt|gerichtet vs. innerlich]]). Theriani-Magie *broadcastet* nicht; sie wirkt still im eigenen Körper — anders als das öffentliche Elværi-Senden.
 - **Können über Verstehen.** Ihre Stärke sitzt in [[03.03 Das Noetische Profil#Weisheit|Weisheit]] (verinnerlichtes Können) und [[03.03 Das Noetische Profil#Wucht|Wucht]], weniger in theoretischem [[03.03 Das Noetische Profil#Wissen|Wissen]] — sie meistern durch *Tun und Spüren*, nicht durch Theorie (→ [[03.06 Anwendung & Fähigkeitsentwicklung#Erlernte Praxis|Erlernte Praxis]]). Das ist die noetische Seite ihres handfesten, wenig abstrakten Wesens.
 - **Körperdrang.** Theriani *müssen* ihren Körper einsetzen. Wo Elværi stundenlang sitzend über Philosophie debattieren und [[Anelari]] sich ins Werken vertiefen, suchen Theriani Bewegung, Sport, körperliche Arbeit — was sie zu gefragten, ausdauernden Arbeitskräften macht (mit ein Grund für ihren hohen Einwanderer-Anteil in [[Waldelværi#Immigration & Speziesismus|Elværi-Gebieten]]). Und sie mehren gern ihre Zahl.
+
+
+---
+
+## Religion
+
+Jeder [[#Schläge — die Morph-Varianten|Schlag]] verehrt scheinbar einen *eigenen* Gott, dessen Gestalt zum jeweiligen Tier-Aussehen passt — die „Tiergötter“ und Totems der Theriani. In Wahrheit ist es **immer derselbe Gott**: der [[Der Tiervater|Tiervater]] in vielen Aspekten und Gesichtern. Die Theriani ahnen das nicht — sie halten ihre Tiergötter für getrennt, so wie sie ihre [[#Schläge — die Morph-Varianten|Schläge]] für fast eigene Völker halten (ein weiterer Fall von [[01.04 Zentrale Themen#Begrenzte Erkenntnis|begrenzter Erkenntnis]]).
+
+Für den Gott ist diese Zersplitterung kein Nachteil: Die [[03.04 Erweiterte Konzepte#Energie durch Gläubige — Mechanik|Gläubigen-Energie]] aller Schläge fließt *ihm* zu, gleich unter welchem Gesicht er empfangen wird.
