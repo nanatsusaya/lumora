@@ -122,12 +122,14 @@ Das macht Lumora im Durchschnitt sehr hell. Vollständige Dunkelheit tritt nur a
 
 #### Lumoras Apsiden
 
-[Apside](https://de.wikipedia.org/wiki/Apsis_(Astronomie)) sind die Punkte, an denen Lumora am nächsten, bzw. am weitesten von [[#Aezion — die Zentralsonne|Aezion]] entfernt sind. Es gibt zwei stück, und beide haben Auswirkungen auf Lumoras Belichtung:
+[Apsiden](https://de.wikipedia.org/wiki/Apsis_(Astronomie)) sind die Punkte, an denen Lumora seinem Zentralgestirn [[#Orthyros — der Gasriese|Orthyros]] am nächsten (**Periapsis**) bzw. am fernsten (**Apoapsis**) steht. Da Lumora **keine Achsneigung** besitzt, hängt seine Temperatur allein an dieser Distanz: je näher an Orthyros, desto mehr reflektiertes Licht und Gezeitenwärme — desto wärmer. Die Apsiden treiben damit unmittelbar die [[Zeitrechnung#Jahreszeiten|Jahreszeiten]].
 
 ##### Periapsis
 
-Lumora befindet sich vom Zentralgestirn aus betrachtet auf gerader Linie zwischen [[#Aezion — die Zentralsonne|Aezion]] und [[#Orthyros — der Gasriese|Orthyros]]. Für einen Tag wird Lumora von zwei Seiten beleuchtet. Es ist ein ganzen Tag lang taghell.
+Lumora steht Orthyros am nächsten — der Höhepunkt eines Sommers. Die Periapsis tritt **zweimal pro Jahr** ein: einmal, während Lumora *vor* Orthyros steht (Aezion zugewandt), und einmal, während es *hinter* Orthyros steht (im Schattenkegel). Beide Male ist Lumora gleich nah an Orthyros und damit gleich warm — die beiden Periapsen unterscheiden sich nur in der **Belichtung**, nicht in der Temperatur (→ [[Zeitrechnung#Besondere Tage|Licht- und Dunkeltag]]).
 
 ##### Apoapsis
 
-Lumora befindet sich vom Zentralgestirn aus betrachtet in Orthyros Schatten. Für einen Tag ist Lumora in komplette Dunkelheit gehüllt. Es ist ein ganzen Tag lang finstere Nacht.
+Lumora steht Orthyros am fernsten — der Tiefpunkt eines Winters: weniger reflektiertes Licht, geringere Gezeitenwärme, Frost. Auch die Apoapsis tritt zweimal pro Jahr ein.
+
+> *Anmerkung (offene Himmelsmechanik):* „Zwei Periapsen pro Umlauf" entspricht keiner gewöhnlichen Keplerbahn — die hätte genau eine. Es setzt eine Sonderkonfiguration voraus (z. B. Orthyros näher am Bahnzentrum als an einem Brennpunkt). Falls hier später physikalische Strenge zählt, ist das die Stelle, die eine saubere Herleitung braucht.

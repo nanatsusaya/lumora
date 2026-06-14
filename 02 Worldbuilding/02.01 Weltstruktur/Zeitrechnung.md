@@ -57,7 +57,7 @@ Die obigen Einheiten sind reine **Kalenderastronomie** — sie beschreiben Bahne
 
 ## Jahreszeiten
 
-Durch die elliptische Bahn Lumoras um Orthyros entstehen **pro Jahr zwei vollständige Jahreszyklen** — zwei Winter und zwei Sommer.
+Lumora hat **keine Achsneigung** — seine Jahreszeiten hängen deshalb allein an der **Distanz zu Orthyros** (reflektiertes Licht + Gezeitenwärme), nicht am Sonnenstand. Durch die elliptische Bahn um Orthyros entstehen **pro Jahr zwei vollständige Jahreszyklen** — zwei Sommer (nah, Periapsis) und zwei Winter (fern, Apoapsis).
 
 | Phase        | Bedingung                      | Charakter                                                                                            |
 | ------------ | ------------------------------ | ---------------------------------------------------------------------------------------------------- |
@@ -68,21 +68,24 @@ Durch die elliptische Bahn Lumoras um Orthyros entstehen **pro Jahr zwei vollst�
 
 ```
 TODO: Die doppelten Jahreszeiten sollen später nach Göttern benannt werden.
-Welche zwei Götter-Paare bieten sich an? Eine Möglichkeit wäre:
-Sommer 1 = Sonnensommer (Aezion-nah), Sommer 2 = Orthros-Sommer (Periapsis).
-Gibt es auch eine kulturelle Unterscheidung zwischen beiden Sommern?
+Beide Sommer sind physikalisch gleich (gleiche Orthyros-Nähe); der Unterschied ist
+die Aezion-Seite: Lichttag-Sommer (Lumora vor Orthyros) vs. Dunkeltag-Sommer
+(Lumora hinter Orthyros). Welche zwei Götter-Paare bieten sich an?
+Gibt es eine kulturelle Unterscheidung zwischen beiden Sommern?
 ```
+
+Beide Sommer sind gleich warm (gleiche Orthyros-Nähe); sie unterscheiden sich nur in der Belichtung — einer trägt den taghellen [[#Lichttag]], der andere den stockdunklen [[#Dunkeltag]]. **Dunkel heißt hier nicht kalt:** der Dunkeltag fällt mitten in einen Sommer.
 
 > *Anmerkung:* Zwei Sommer und zwei Winter pro Jahr sind nicht nur Astronomie — sie strukturieren das gesamte gesellschaftliche Leben. Erntezyklen, Kriegssaisons, religiöse Feste, Handelsrouten: alles passt sich dem Doppelrhythmus an. Das ist ein unterschätzter Weltbaustein.
 
 ## Besondere Tage
 
-Passend zu den [[Sonnensystem#Lumoras Apsiden|Periapsis Zeiten]] gibt es in der Zeitrechnung von Lumora je nach Kultur zwei herausragende Tage:
+Beide besonderen Tage fallen auf eine **Periapsis** (Orthyros-Nähe) — also mitten in die beiden Sommer. Sie liegen einander im Jahr gegenüber und unterscheiden sich nur durch die Seite, auf der Lumora zu Orthyros steht:
 
 #### Lichttag
 
-[[Sonnensystem#Periapsis|Periapsis]] auf der sonnenzugewandten Seite — der gesamte Tag ist taghell. Von vielen Völkern als Neujahr oder Fest der Freunde und Familie begangen.
+Periapsis auf der **Aezion zugewandten** Seite (Lumora steht zwischen Aezion und Orthyros) — Lumora wird von zwei Seiten beleuchtet, der gesamte Tag ist taghell. Von vielen Völkern als Neujahr oder Fest der Freunde und Familie begangen.
 
-### Dunkeltag
+#### Dunkeltag
 
-[[Sonnensystem#Apoapsis|Apoapsis]] auf der sonnenabgewandten Seite — der gesamte Tag ist Nacht. Tag der Toten und Ahnen. Manche Völker betrachten ihn als Neujahr.
+Periapsis auf der **Aezion abgewandten** Seite (Lumora steht hinter Orthyros, im Schattenkegel) — der gesamte Tag ist Nacht. Trotzdem **warm**, denn Lumora ist Orthyros gerade am nächsten. Tag der Toten und Ahnen. Manche Völker betrachten ihn als Neujahr.
