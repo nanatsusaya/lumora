@@ -44,7 +44,7 @@ Die Wurzel dieser ausgeprägten Familienbindung liegt schon in der Biologie: Das
 *EN: Family Tree* *(Arbeitstitel)*
 *Tag:* #elvaeri-tree
 
-Die mit Abstand beeindruckendste „Technologie" der Waldelværi sind ihre **Familienbäume** — und das eindrücklichste Beispiel für [[Elværi#N-Kraft-Nutzung & „Noetik statt Technik"|Noetik statt Technik]].
+Die mit Abstand beeindruckendste „Technologie" der Waldelværi sind ihre **Familienbäume** — und das eindrücklichste Beispiel für [[Elværi#N-Kraft|Noetik statt Technik]].
 
 - Immer wenn eine weibliche Waldelværi geboren wird, wird für sie der Samen eines besonderen Baumes gepflanzt.
 - Ein Familienbaum ist eine **noetisch aktive Zuchtpflanze**: Er nutzt selbst die N-Kraft, um sein gigantisches Wachstum zu tragen. Über Jahrhunderte bis Jahrtausende kann er zu einem Giganten heranwachsen — die größten erreichen das Ausmaß des Empire State Building und beherbergen bis zu **10.000 Personen**.
@@ -110,7 +110,7 @@ Nach den Familienbanden bilden die Waldelværi vor allem **Clanbande**: Familien
 - Bei Streitigkeiten halten Clans zusammen; innerhalb des Clans unterstützt man sich (besonders eine Tochter, die eine neue Familie gründet, wird von der Elternfamilie gestützt).
 - Zwischen Clans kommt es zu wettbewerbsähnlichen Reibereien — als Volk arbeitet man dennoch zusammen.
 
-**Ehre oder Intrige?** Ob Clan-Rivalität sauber-ehrenhaft oder durch verdeckte Intrige ausgetragen wird, unterscheidet sich von Clan zu Clan *und* von Nation zu Nation. Geprägt hat das oft, welche [[#Immigration & Speziesismus|Einwanderervölker]] eine Nation über die Äonen willkommen hieß — ein intrigenfreudiges Volk kann den Ton einer ganzen Kultur verschieben. Die Schattenseite zeigt sich im [[Elværi#Gesellschaft — Überblick|Gift-Brauch]] der Oberschicht: Fähigkeiten von Rivalen werden geschwächt, nicht getötet.
+**Ehre oder Intrige?** Ob Clan-Rivalität sauber-ehrenhaft oder durch verdeckte Intrige ausgetragen wird, unterscheidet sich von Clan zu Clan *und* von Nation zu Nation. Geprägt hat das oft, welche [[#Immigration & Speziesismus|Einwanderervölker]] eine Nation über die Äonen willkommen hieß — ein intrigenfreudiges Volk kann den Ton einer ganzen Kultur verschieben. Die Schattenseite zeigt sich im [[Elværi#Gesellschaft|Gift-Brauch]] der Oberschicht: Fähigkeiten von Rivalen werden geschwächt, nicht getötet.
 
 ---
 

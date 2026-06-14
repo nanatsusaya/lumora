@@ -12,6 +12,17 @@ Die **Elværi** sind eine der ältesten kulturschaffenden [[Spezies]] Lumoras �
 
 Diese Note behandelt die **Spezies**. Die ausgearbeitete Gesellschaft der Waldelfen liegt in [[Waldelværi]], die Göttin in [[Elværigöttin]], die Einordnung in die Erdgeschichte in [[02.05 Geschichte]].
 
+**Steckbrief**
+
+- **Elværin-Name:** Elværi (`-æri`, Selbstbezeichnung; menschliches Exonym „Eldari“)
+- **Fantasy-Pendant:** Elfen
+- **Schöpfergott:** [[Elværigöttin]]
+- **Lebensraum:** Wälder & Täler (Wald), Nordregionen (Frost), noetisch tote Wüsten (Wüste)
+- **Bevölkerung:** ~300 Mio.
+- **Lebensspanne:** ~1.000–1.500 Jahre (Ausreißer ~2.000)
+- **N-Kraft-Schwerpunkt:** Heilung, Naturmagie, Schutz — feinste Kontrolle
+- **Status:** #wip
+
 ---
 
 ## Herkunft
@@ -36,7 +47,14 @@ Die Elværigöttin wünschte sich ein Volk *wie sie selbst* — weise, verständ
 
 ---
 
-## Lebensspanne & noetische Selbst-Reparatur
+## Lebensraum
+
+Die Elværi gliedern sich in drei umweltbedingte [[Spezies#Phänotyp-Varianten|Phänotyp-Varianten]]: **Waldelværi** in Wäldern und Tälern, **Frostelværi** in den Nordregionen, **Wüstenelværi** in noetisch toten Wüstengebieten. Die mit Abstand ausgearbeitete Gesellschaft ist die der Waldelfen → [[Waldelværi]].
+
+---
+## Besonderheiten
+
+### Lebensspanne & noetische Selbst-Reparatur
 
 Die Langlebigkeit der Elværi ist **kein** Zufall einer „von Natur aus" zähen Biologie — ihr Körper ist für sich genommen nicht viel widerstandsfähiger als der anderer Völker. Was sie trägt, ist **fortlaufende, niederschwellige, intuitive Selbst-Heilung**: Als noetisch hochaktives Volk mit Schwerpunkt Heilung reparieren Elværi ihren Alterungsschaden (Zellschäden, Verschleiß) kaum bewusst, aber immerzu. Das erklärt *beides zugleich* — ihre **Langlebigkeit** und ihre **makellose Schönheit**: Wo Erdorganismen mit hohem Alter knorrig und „deformiert" werden, weil sich Schaden ansammelt, hält die Elværi-Reparatur den Körper jung. (Dazu kommt EDs ästhetische Absicht — sie wollte ein Volk wie sich selbst.)
 
@@ -55,9 +73,7 @@ Daraus folgt:
 TODO (innerweltliche Deutung, später): Aus dem kürzeren Leben der Wüstenelværi ließe sich eine Folklore formen — „die Strafe der Göttin für ihren Verrat ist ihr kürzeres Leben". Systemisch ist es schlicht die schwache N-Feld-Grundlage ihrer Heimat; kulturell wird daraus eine Schuldgeschichte.
 ```
 
----
-
-## Reifung, Kindheit & Lernen
+### Reifung, Kindheit & Lernen
 
 Die Reifung verläuft proportional zur Lebensspanne — nur viel langsamer als beim Menschen:
 
@@ -73,25 +89,7 @@ Das schafft eine heikle Zone: Zwischen ~60 und ~150 sieht ein Elværi längst er
 
 > *Anmerkung — der Protagonist:* Ihr Feld liest sich rund **150 Jahre** lang als *Kind* — während ihr Verstand vom ersten Tag an der eines Erwachsenen ist. Anderthalb Jahrhunderte als „Kind" behandelt zu werden, fern von allem Ernsten, ist ein weit schärferer Konflikt als der übliche Wiedergeburts-Frust — mit harter mechanischer Grundlage. *(Aristokratische Erziehung in Peer-Zirkeln → [[Waldelværi#Erziehung & Peer-Zirkel|Waldelværi]].)*
 
----
-
-## Wesen & Fokus
-
-Die lange Lebensspanne verschiebt, was einem Elværi wichtig ist. Der Drang nach Fortschritt, der Hunger nach Verbesserung ist — **auf individueller Ebene** — viel schwächer ausgeprägt als beim Erdmenschen. Statt in materiellen Fortschritt investiert ein Elværi seine Zeit eher in **noetische und persönliche Tiefe**: Meisterschaft, Kunst, Wissen, Familie und das Gedeihen seines Stammes.
-
-> *Anmerkung:* Das gilt für *Individuen*, nicht zwingend für *Gesellschaften* — Elværi-Nationen können sehr wohl getrieben und zukunftsorientiert sein (→ [[Waldelværi]]).
-
----
-
-## N-Kraft-Nutzung & „Noetik statt Technik"
-
-Die N-Kraft-Nutzung der Elværi ist feinfühlig und präzise, mit Schwerpunkt auf **Heilung, Naturmagie und Schutz**: Sie beschleunigen Pflanzenwachstum, beruhigen Tiere, formen ihre Umgebung subtil. (Die Kriegerkaste wendet dieselbe Präzision auf den Kampf an — kontrolliertes, sparsames Feuer.)
-
-Den aller größten Teil ihrer Geschichte gingen die Elværi damit den Weg **„Noetik statt Technik"**: Sie woben die N-Kraft so tief in den Alltag, dass mechanische Maschinen überflüssig blieben — Magie ist für sie keine Ausnahme, sondern eine *Sprache*. Ihre „Technologie" ist deshalb **bio-noetisch** (allen voran die lebenden [[Waldelværi#Der Familienbaum|Familienbäume]]), nicht industriell. Erst in den letzten **2–5 Jahrtausenden** verschob sich das stückweise Richtung breiterer Technik — getrieben vom Fortschrittsdruck der heutigen Staatsform. Auf Elværi-Zeitskalen ist das ein Wimpernschlag.
-
----
-
-## Sprache
+### Sprache
 
 *EN: Elværin*
 *Tag:* #elvaerin
@@ -129,9 +127,7 @@ TODO:
 - Protagonisten-Doppelhandicap: Kind-Feld → kann nicht senden/privat adressieren und kann öffentliche Gefühls-Broadcasts nicht filtern; dazu die Erd-Gewohnheit, mit Gesicht und Händen zu sprechen → wirkt auf Elværi kindlich/ungehobelt.
 ```
 
----
-
-## Die zwei Uhren & das gemächliche Tempo
+### Die zwei Uhren & das gemächliche Tempo
 
 Ein scheinbarer Widerspruch: Die Elværi sind seit einer Million Jahren intelligent — der Homo sapiens existiert erst ~300.000 Jahre —, stehen technologisch aber nicht weiter. Auflösung: Es gibt **zwei Uhren**.
 
@@ -140,11 +136,7 @@ Ein scheinbarer Widerspruch: Die Elværi sind seit einer Million Jahren intellig
 
 Die Elværi-Zivilisation bleibt langsam, weil zwei Bremsen zusammenwirken: die **Decke** des bio-noetischen Pfads (einen Familienbaum „iteriert" man nicht in Jahren, sondern in Jahrhunderten) und der **zyklische Reset** — Elværi-Nationen steigen auf und fallen; die gemütlichen gingen unter, die überdauernden wurden härter und kriegerischer. Netto bleibt die Vorwärtsdrift winzig. *(Noetisch-evolutionäre Wurzel → [[03.07 Noetische Evolution]].)*
 
----
-
-## Eine zum Aussterben verdammte Spezies?
-
-*Status:* #wip
+### Eine zum Aussterben verdammte Spezies?
 
 Die eigentliche Tragik der Elværi: **Jede ihrer Stärken kippt im beschleunigten Zeitalter zur tödlichen Schwäche.**
 
@@ -164,9 +156,31 @@ TODO:
 - Lumora-Pendant zum Computerchip: vermutlich ein *gefertigter* Kristall-Schaltkreis (03.04 beschreibt Kristalle bereits als programmierbare Modulatoren), der wie eine Fabrik iteriert. Wer entwickelt ihn zuerst? (Hakani? → [[Hakani]])
 ```
 
+### Phänotypen & ihr Riss
+
+**Wüstenelværi-Besonderheit:** Sie können in noetisch toten Regionen überleben und N-Kraft nutzen — eine Anpassung, die ihnen der [[Wüstenelværi-Gott|Wüstengott]] lehrte und die sie von anderen Elværi kulturell und praktisch trennt.
+
+> *Kritische Anmerkung:* Die drei Elværi-Gruppen sind biologisch eine Spezies, aber religiös und kulturell völlig verschieden. Das ist ein exzellentes Spannungsfeld. Der Konflikt zwischen Elværigöttin und Wüstengott ist kein abstrakter Götterkampf — er spiegelt sich in realen Spannungen zwischen Bevölkerungsgruppen wider. Dieser Riss sollte sichtbar sein, wenn der Protagonist auf Elværi trifft.
+
 ---
 
-## Gesellschaft — Überblick
+## N-Kraft
+
+Die N-Kraft-Nutzung der Elværi ist feinfühlig und präzise, mit Schwerpunkt auf **Heilung, Naturmagie und Schutz**: Sie beschleunigen Pflanzenwachstum, beruhigen Tiere, formen ihre Umgebung subtil. (Die Kriegerkaste wendet dieselbe Präzision auf den Kampf an — kontrolliertes, sparsames Feuer.)
+
+Den aller größten Teil ihrer Geschichte gingen die Elværi damit den Weg **„Noetik statt Technik"**: Sie woben die N-Kraft so tief in den Alltag, dass mechanische Maschinen überflüssig blieben — Magie ist für sie keine Ausnahme, sondern eine *Sprache*. Ihre „Technologie" ist deshalb **bio-noetisch** (allen voran die lebenden [[Waldelværi#Der Familienbaum|Familienbäume]]), nicht industriell. Erst in den letzten **2–5 Jahrtausenden** verschob sich das stückweise Richtung breiterer Technik — getrieben vom Fortschrittsdruck der heutigen Staatsform. Auf Elværi-Zeitskalen ist das ein Wimpernschlag.
+
+---
+
+## Wesen
+
+Die lange Lebensspanne verschiebt, was einem Elværi wichtig ist. Der Drang nach Fortschritt, der Hunger nach Verbesserung ist — **auf individueller Ebene** — viel schwächer ausgeprägt als beim Erdmenschen. Statt in materiellen Fortschritt investiert ein Elværi seine Zeit eher in **noetische und persönliche Tiefe**: Meisterschaft, Kunst, Wissen, Familie und das Gedeihen seines Stammes.
+
+> *Anmerkung:* Das gilt für *Individuen*, nicht zwingend für *Gesellschaften* — Elværi-Nationen können sehr wohl getrieben und zukunftsorientiert sein (→ [[Waldelværi]]).
+
+---
+
+## Gesellschaft
 
 *Die ausführliche Gesellschaft der Waldelfen → [[Waldelværi]].* Hier nur das Speziesübergreifende:
 
@@ -176,17 +190,11 @@ TODO:
 
 ---
 
-## Phänotypen & ihr Riss
-
-**Wüstenelværi-Besonderheit:** Sie können in noetisch toten Regionen überleben und N-Kraft nutzen — eine Anpassung, die ihnen der [[Wüstenelværi-Gott|Wüstengott]] lehrte und die sie von anderen Elværi kulturell und praktisch trennt.
-
-> *Kritische Anmerkung:* Die drei Elværi-Gruppen sind biologisch eine Spezies, aber religiös und kulturell völlig verschieden. Das ist ein exzellentes Spannungsfeld. Der Konflikt zwischen Elværigöttin und Wüstengott ist kein abstrakter Götterkampf — er spiegelt sich in realen Spannungen zwischen Bevölkerungsgruppen wider. Dieser Riss sollte sichtbar sein, wenn der Protagonist auf Elværi trifft.
-
----
-
 ## Religion
 
 Die spirituelle Liebe der Elværi — die Verehrung der [[Elværigöttin|Elværigöttin]] — ist zugleich der innerweltliche Ausdruck der [[02.04 Religion & Götter#Energie durch Gläubige|Energie-Ökonomie der Götter]]: freiwillig geschenkte Noetische Energie. Details → [[Waldelværi]] / [[02.04 Religion & Götter]].
+
+## Offene Fragen
 
 ```
 TODO: Wie verhält sich der Protagonist (als Waldelværi geboren) zu Wüsten- und Frostelfen?
