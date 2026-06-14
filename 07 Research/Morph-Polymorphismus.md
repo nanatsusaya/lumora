@@ -6,7 +6,7 @@ tags:
 ---
 # Morph-Polymorphismus — Eine Spezies, viele Gestalten
 
-*Externe Referenz.* Diese Notiz sammelt die **reale Biologie**, die erklärt, wie *eine* Spezies — die [[Theriani]] — dramatisch verschiedene Tier-Gestalten (die [[Spezies#Morph-Varianten|Morph-Varianten]] bzw. innerweltlich „[[Theriani#Schläge — die Morph-Varianten|Schläge]]": katzen-, hunde-, bären-, marderartig …) als **Varianten derselben Art** tragen kann, obwohl diese Gestalten so verschieden wirken wie Katze und Hund. Reale Wissenschaft, bewusst von der Lore getrennt; die in-world-Mechanik lebt in [[Theriani]] und [[Spezies]].
+*Externe Referenz.* Diese Notiz sammelt die **reale Biologie**, die erklärt, wie *eine* Spezies — die [[Theriani]] — dramatisch verschiedene Tier-Gestalten (die [[Spezies#Morph-Varianten|Morph-Varianten]] bzw. innerweltlich „[[Theriani#Schläge|Schläge]]": katzen-, hunde-, bären-, marderartig …) als **Varianten derselben Art** tragen kann, obwohl diese Gestalten so verschieden wirken wie Katze und Hund. Reale Wissenschaft, bewusst von der Lore getrennt; die in-world-Mechanik lebt in [[Theriani]] und [[Spezies]].
 
 > **Leitfrage:** Klassische Biologie sagt: Katze und Hund sind verschiedene Arten und können sich nicht fortpflanzen. Wie kann ein Hunde-„Schlag" und ein Katzen-„Schlag" der Theriani dennoch *dieselbe*, kreuzbare Spezies sein?
 >
@@ -127,4 +127,4 @@ Entscheidend: Ein Supergen vererbt sich **diskret, wie ein Allel**. Kreuzt man z
 - **Biologischer Speziesbegriff:** Mayr, E. (1942): *Systematics and the Origin of Species.*
 - **Chromosomenzahlen:** Haushund 2n = 78, Hauskatze 2n = 38 (Standard-Karyologie) — illustriert, warum eine reale Katze × Hund-Kreuzung scheitert.
 
-> *Anmerkung:* Reale Wissenschaft, bewusst von der Lore getrennt. Die innerweltliche Mechanik steht in [[Theriani]] (die „Schläge", ihr Ursprung beim [[Der Tiervater|Tiervater]]) und in [[Spezies#Variationstyp|Spezies → Variationstyp]]. Verwandte Lore-Wurzel: [[Der gemeinsame Ursprung]].
+> *Anmerkung:* Reale Wissenschaft, bewusst von der Lore getrennt. Die innerweltliche Mechanik steht in [[Theriani]] (die „Schläge", ihr Ursprung beim [[Der Tiervater|Tiervater]]) und in [[Spezies#Variationstyp|Spezies → Variationstyp]]. Verwandte Lore-W

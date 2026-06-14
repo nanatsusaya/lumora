@@ -22,7 +22,7 @@ Schöpfer-Gott der [[Theriani]] und einer der begabteste **Biologen** unter Lumo
 
 **Verehrung:** Alle Theriani verehren ihn — *wie* (ein Gott, viele Gesichter, je ein „Tiergott“ pro Schlag) steht bei seinem Volk → [[Theriani#Religion|Religion der Theriani]].
 
-**N-Kraft seines Volkes:** Verstärkung tierischer Fähigkeiten — körpernah und direkt (→ [[Theriani#N-Kraft — der gestählte Körper|Theriani]]).
+**N-Kraft seines Volkes:** Verstärkung tierischer Fähigkeiten — körpernah und direkt (→ [[Theriani#N-Kraft|Theriani]]).
 
 **Verhältnis zu anderen Göttern:** Seine **Ziele sind unbekannt**, sein Auftreten wirkt **übereilt, fast aggressiv**. Dabei hat er sich gegenüber anderen Göttern und deren Geschöpfen *nicht* kämpferisch verhalten — und blieb stets innerhalb der Regeln (kein Import fremden Lebens wie der [[Fremdbringer]], sondern die legale Arbeit an einer vorhandenen Linie). Dass er dennoch in kurzer Zeit eines der stärksten, zahlreichsten Völker hervorbrachte, macht viele Götter **skeptisch**. Die [[Elværigöttin]] aber — die Kooperation stets der Konfrontation vorzieht — gibt ihm einen **Vertrauensvorschuss**: Er nahm eine Linie, die *sie* fallen ließ, tut also nur, was sie selbst tut. Darum hat sie auch nichts dagegen, dass seine Theriani **eng mit den Elværi zusammenarbeiten** (→ [[Waldelværi#Immigration & Speziesismus|Einwanderung in Elværi-Gebiete]]).
 
