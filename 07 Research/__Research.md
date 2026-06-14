@@ -13,3 +13,4 @@ Dieser Bereich sammelt **reales Fachwissen**, das ein konkretes In-World-System 
 * [[Singbare Sprachen]] — reale linguistisch-musikalische Grundlage des Elværin
 * [[Wellenbegriffe]] — reale Physik der Wellenbegriffe des Noetischen Systems (Frequenz, Amplitude, Phase, Interferenz, Resonanz, Dekohärenz …)
 * [[Morph-Polymorphismus]] — reale Biologie hinter den Theriani-„Schlägen“ (Supergene, Polyphenismus, geteiltes Genom: eine Spezies, viele Gestalten)
+* [[Keplerbahnen & zentrale Kräfte]] — reale Physik der Bahnbewegung (Keplergesetze, Ellipsen, „Gummiband"-Kraftgesetz) hinter Lumoras Umlauf um Orthyros

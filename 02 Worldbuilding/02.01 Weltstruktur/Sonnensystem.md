@@ -11,20 +11,16 @@ Das Sonnensystem ist relativ jung und dynamisch — ein Spiegelbild seiner turbu
 ---
 ## Aktueller Aufbau
 
-### Aezion — die Zentralsonne
+### Aezion — die Zentralstern
 
-*EN: Aezion — the central star*
+*EN: Aezion*
 *Tag:* #aezion
 
-Aezion ist ein blauer Riese. Im Vergleich zu unserer Sonne strahlt er intensiver und kurzwelliger; seine UV-Strahlung und sein starkes Magnetfeld prägen die Atmosphären aller umlaufenden Körper. Blaue Riesen haben eine kürzere Lebensdauer als gelbe Zwerge — das Sonnensystem hat damit eine inhärente Endlichkeit, die auf geologischen Zeitskalen für die Götter sichtbar ist, für sterbliche Kulturen jedoch außerhalb jeder Vorstellung liegt.
+Aezion ist ein **gelber Zwerg** vom sonnenähnlichen Typ (Spektralklasse G). In Farbe, Strahlung und Größe gleicht er weitgehend der Sonne der Erde: ein warmes, gelb-weißes Licht ohne die harte UV-Strahlung heißerer Sterne. Entscheidend ist seine **Langlebigkeit** — ein gelber Zwerg brennt rund zehn Milliarden Jahre stabil. Das Sonnensystem ist bereits **über vier Milliarden Jahre** alt; Aezion steht damit etwa in seiner Lebensmitte und trägt das System mühelos über alle Zeiträume, die für Sterbliche wie Götter je eine Rolle spielen.
 
-> **Aezion gibt dem Himmel Lumoras eine bläulich-weiße Tönung, die sich von dem unterscheidet, was Erdmenschen kennen.**
+> **Aezion gibt dem Himmel Lumoras ein warmes, gelb-weißes Licht. Das Fremdartige an Lumoras Himmel stammt nicht von der Sonne, sondern von [[#Orthyros — der Gasriese|Orthyros]] und der Doppelbelichtung (→ [[#Lumoras Belichtung]]).**
 
-```
-TODO: Wie wirkt sich die stärkere UV-Strahlung auf die Biologie der Völker aus?
-Haben bestimmte Völker (z. B. Sylvari, Luminæri) evolutionäre Anpassungen an 
-stärkere Strahlung entwickelt? Ist das ein narrativ relevanter Faktor?
-```
+> *Anmerkung (Entstehung):* Der Ursprungsgott traf auf ein bereits weitgehend fertiges, stabiles System — er griff gestaltend ein, schuf es aber nicht aus dem Nichts. Aezions Stabilität ist eine Vorbedingung dieses Eingriffs, kein Werk des Gottes.
 
 ### Innerer Gürtel — Steinplaneten
 
@@ -48,12 +44,14 @@ Ursprünglich eigenständiger Planet, durch den Einfluss von Orthyros zum Mond g
 
 #### Soluthar — der zerstörte Planet
 
-*EN: Soluthar — the destroyed planet*
+*EN: Soluthar*
 *Tag:* #soluthar
 
-Ursprünglich ein zweiter habitabler Planet in der habitablen Zone. Durch die Gasriesenkatastrophe zerstört. Seine Überreste bilden das **fluoreszierende Staubband** um Orthyros.
+Ursprünglich ein zweiter habitabler Planet in der habitablen Zone. Durch die [[02.05 Geschichte#Die Gasriesenkatastrophe|Gasriesenkatastrophe]] zerstört. Seine Überreste teilen sich in zwei sehr verschiedene Spuren.
 
-Das fluoreszierende Material ist kein gewöhnlicher Staub: Es ist ein myzeliales Netzwerk, das einst Teil des lebenden Planeten Soluthar war. Es leuchtet bis heute — wie ein Geist, der nicht vergehen will.
+Der **lebende Teil** Soluthars — ein **myzeliales Netzwerk**, das einst zu seiner Biosphäre gehörte — überdauerte und bildet heute den leuchtenden **Äquatorgürtel** in der obersten Atmosphäre von [[#Orthyros — der Gasriese|Orthyros]] (Details dort). Er leuchtet bis heute — wie ein Geist, der nicht vergehen will.
+
+Der größtenteils **tote Teil** — Gestein, Metall, Gas — verteilte sich als feiner, dunkler Staub. Er ist jedoch **zu massearm**, um Lumoras Bahnform zu prägen; die dafür nötige Masse liefert der primordiale [[Orthyros-Lumora-System#Der dunkle Halo|dunkle Halo]] um Orthyros, nicht Soluthar.
 
 Das gesamte heute auf [[#Orthyros — der Gasriese|Orthyros]] vorkommende Myzel stammt ursprünglich von Soluthar. Lumoras eigene Biosphäre hat dagegen **nichts** von Soluthar geerbt: Alles Leben auf Lumora geht einlinig auf die Lumora-eigenen Einzeller nach der [[02.05 Geschichte#Die Gasriesenkatastrophe|Gasriesenkatastrophe]] zurück.
 
@@ -61,12 +59,21 @@ Das gesamte heute auf [[#Orthyros — der Gasriese|Orthyros]] vorkommende Myzel 
 
 ### Orthyros — der Gasriese
 
-*EN: Orthyros — the gas giant*
+*EN: Orthyros*
 *Tag:* #orthyros
 
-Der Gasriese, der Lumoras Schicksal bestimmt. Genannt „der Hüter des Himmels". Schattierungen aus Blau, Grün und Orange. Turbulente Atmosphäre; in seinen oberen Schichten leuchten die Überreste Soluthars wie ein schützender Schleier.
+Der Gasriese, der Lumoras Schicksal bestimmt. Ein **massearmer, aufgeblähter Riese geringer Dichte**, dessen ausgedehnte, von Bändern durchzogene Atmosphäre in Blau, Grün und Orange schimmert. Die geringe Dichte ist Bedingung, nicht Zierde: Nur ein leichter Orthyros erlaubt Lumoras besondere **Gummiband-Bahn** (→ [[Orthyros-Lumora-System]]).
 
-Von Lumora aus: **Nimmt ein Fünftel des Himmels ein. Immer sichtbar.** Das ist eine fundamentale Erfahrung für alle Bewohner Lumoras — ein Gasriese am Himmel, der sich nie verbirgt.
+**Der Äquatorgürtel:** In Orthyros' oberster Gasschicht, **allein entlang des Äquators**, liegt das leuchtende [[#Soluthar — der zerstörte Planet|Myzel Soluthars]] wie ein glühendes Band um den Planeten. Dass es sich am Äquator sammelt und nicht zu den Polen wandert, folgt aus der Bänderung der Atmosphäre und der dort wärmsten, sonnenreichsten Breite. Das Band **fluoresziert** — angeregt vom Sonnenlicht Aezions —, ist deshalb auf der **sonnenabgewandten Seite dunkel** und am sonnenfernsten Punkt ganz erloschen. Diese Fluoreszienz sowie die Verdunkelung trägt unmittelbar den [[Zeitrechnung#Lichttag|Lichttag]] und den [[Zeitrechnung#Dunkeltag|Dunkeltag]] (→ [[Orthyros-Lumora-System#Belichtung & die Licht-/Dunkeltage|Belichtung & die Licht-/Dunkeltage]]).
+
+**Am Himmel Lumoras:** Orthyros erscheint als große, bleiche Scheibe mit sichtbaren Wolkenbändern und dem hellen Äquatorfaden. Seine Größe „atmet" mit den Jahreszeiten — im Winter (Apoapsis, fern) etwa **mondgroß**, im Sommer (Periapsis, nah) rund **doppelt so groß**. Da halber Abstand zugleich rund viermal so viel reflektiertes Licht bedeutet, wird Orthyros zum Sommer hin sichtbar größer *und* heller (→ [[Orthyros-Lumora-System]]).
+
+> *Kritische Anmerkung:* Frühere Fassung — „nimmt ein Fünftel des Himmels ein, immer sichtbar". Astronomisch unmöglich in Kombination mit dem langen Jahr (629 Tage = ein Umlauf): Ein Mond, der seinen Planeten den Himmel füllen ließe, müsste ihn in Tagen umkreisen, nicht in ~2 Erdjahren. Mit dem langen Jahr ergibt sich zwangsläufig ein mond- bis doppelt-mondgroßer Orthyros (Herleitung → [[Orthyros-Lumora-System#Orthyros am Himmel|Orthyros am Himmel]]).
+
+```
+TODO: „Immer sichtbar" stimmt nur bei gebundener Rotation Lumoras (feste Seite zu Orthyros). Das widerspricht dem 27-Stunden-Tag. Bei eigenständiger Rotation geht Orthyros auf und unter und steht nur über einer Hemisphäre dauerhaft hoch (siehe [[Das Orthyros-Lumora-System#Offene Punkte|Offene Punkte]]).
+TODO: Monat = Orthyros-Rotation = 37 Lumoratage (~42 Erdtage) — für einen Gasriesen sehr langsam (reale rotieren in ~10 h). Eine langsamere Rotation schwächt auch die Bänderung, an der der Äquatorgürtel hängt. Bewusst so lassen oder Wert prüfen?
+```
 
 #### Monde des Orthyros
 
@@ -122,7 +129,7 @@ Das macht Lumora im Durchschnitt sehr hell. Vollständige Dunkelheit tritt nur a
 
 #### Lumoras Apsiden
 
-[Apsiden](https://de.wikipedia.org/wiki/Apsis_(Astronomie)) sind die Punkte, an denen Lumora seinem Zentralgestirn [[#Orthyros — der Gasriese|Orthyros]] am nächsten (**Periapsis**) bzw. am fernsten (**Apoapsis**) steht. Da Lumora **keine Achsneigung** besitzt, hängt seine Temperatur allein an dieser Distanz: je näher an Orthyros, desto mehr reflektiertes Licht und Gezeitenwärme — desto wärmer. Die Apsiden treiben damit unmittelbar die [[Zeitrechnung#Jahreszeiten|Jahreszeiten]].
+[Apsiden](https://de.wikipedia.org/wiki/Apsis_(Astronomie)) sind die Punkte, an denen Lumora seinem Zentralgestirn [[#Orthyros — der Gasriese|Orthyros]] am nächsten (**Periapsis**) bzw. am fernsten (**Apoapsis**) steht. Da Lumora **keine Achsneigung** besitzt, hängt seine Temperatur allein an dieser Distanz: je näher an Orthyros, desto mehr reflektiertes Licht, Gezeitenwärme und Reibungswärme im Halo — desto wärmer (→ [[Orthyros-Lumora-System#Die zwei Jahreszyklen|Die zwei Jahreszyklen]]). Die Apsiden treiben damit unmittelbar die [[Zeitrechnung#Jahreszeiten|Jahreszeiten]].
 
 ##### Periapsis
 
@@ -132,4 +139,4 @@ Lumora steht Orthyros am nächsten — der Höhepunkt eines Sommers. Die Periaps
 
 Lumora steht Orthyros am fernsten — der Tiefpunkt eines Winters: weniger reflektiertes Licht, geringere Gezeitenwärme, Frost. Auch die Apoapsis tritt zweimal pro Jahr ein.
 
-> *Anmerkung (offene Himmelsmechanik):* „Zwei Periapsen pro Umlauf" entspricht keiner gewöhnlichen Keplerbahn — die hätte genau eine. Es setzt eine Sonderkonfiguration voraus (z. B. Orthyros näher am Bahnzentrum als an einem Brennpunkt). Falls hier später physikalische Strenge zählt, ist das die Stelle, die eine saubere Herleitung braucht.
+> *Anmerkung (Himmelsmechanik — geklärt):* „Zwei Periapsen pro Umlauf" ist kein Fehler, sondern die Signatur von Lumoras **Gummiband-Bahn**: Orthyros steht nahe dem **Mittelpunkt** der Bahnellipse (nicht in einem Brennpunkt), erzeugt durch den [[Orthyros-Lumora-System#Der dunkle Halo|dunklen Halo]]. Dadurch treten nächster und fernster Punkt je zweimal pro Umlauf auf. Herleitung → [[Orthyros-Lumora-System]], reale Physik → [[Keplerbahnen & zentrale Kräfte]].

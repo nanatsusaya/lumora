@@ -10,12 +10,12 @@ Das Zeit System Lumoras ergibt sich direkt aus den Umlaufbahnen des Planeten von
 
 ### Übersicht
 
-| Einheit    | Umrechnung                 | Beschreibung                                                 |
-| ---------- | -------------------------- | ------------------------------------------------------------ |
-| [[#Tag]]   | 27 Erdstunden              | eine vollständige Eigenrotation Lumoras                      |
-| [[#Monat]] | 37 Lumoratage              | eine vollständige Eigenrotation von Orthyros                 |
-| [[#Jahr]]  | 629 Lumoratage / 17 Monate | eine vollständige Umrundung Lumoras um Orthyros              |
-| [[#Woche]] | 11 Lumoratage              | 57 Wochen pro Jahr<br>(627 reguläre Tage + Licht-/Dunkeltag) |
+| Einheit    | Umrechnung                 | Beschreibung                                                                                |
+| ---------- | -------------------------- | ------------------------------------------------------------------------------------------- |
+| [[#Tag]]   | 27 Erdstunden              | eine vollständige Eigenrotation Lumoras                                                     |
+| [[#Monat]] | 37 Lumoratage              | eine vollständige Eigenrotation von Orthyros                                                |
+| [[#Jahr]]  | 629 Lumoratage / 17 Monate | eine vollständige Umrundung Lumoras um Orthyros                                             |
+| [[#Woche]] | 11 Lumoratage              | 57 Wochen pro Jahr<br>(627 reguläre Tage + [[#Lichttag\|Licht]]-/[[#Dunkeltag\|Dunkeltag]]) |
 
 ### Tag
 
@@ -35,7 +35,7 @@ Ein Monat dauert exakt **37** [[#Tag|Lumoratage]].
 
 Ein Jahr auf Lumora entspricht eine vollständige Umrundung des [[Sonnensystem#Lumora|Mondes Lumora]] um sein Zentralgestirn [[Sonnensystem#Orthyros — der Gasriese|Orthyros]].
 
-Ein Jahr dauert exakt **629** [[#Tag|Lumoratage]] oder exakt **17* [[#Monat|Lumoramonate]].
+Ein Jahr dauert exakt **629** [[#Tag|Lumoratage]] oder exakt **17** [[#Monat|Lumoramonate]].
 
 ### Woche
 
@@ -57,7 +57,7 @@ Die obigen Einheiten sind reine **Kalenderastronomie** — sie beschreiben Bahne
 
 ## Jahreszeiten
 
-Lumora hat **keine Achsneigung** — seine Jahreszeiten hängen deshalb allein an der **Distanz zu Orthyros** (reflektiertes Licht + Gezeitenwärme), nicht am Sonnenstand. Durch die elliptische Bahn um Orthyros entstehen **pro Jahr zwei vollständige Jahreszyklen** — zwei Sommer (nah, Periapsis) und zwei Winter (fern, Apoapsis).
+Lumora hat **keine Achsneigung** — seine Jahreszeiten hängen deshalb allein an der **Distanz zu Orthyros** (reflektiertes Licht, Gezeitenwärme und Reibungswärme im Halo), nicht am Sonnenstand. Weil Orthyros nahe dem **Mittelpunkt** von Lumoras Bahnellipse steht (**Gummiband-Bahn**, → [[Orthyros-Lumora-System]]), kommt Lumora ihm **zweimal pro Umlauf** am nächsten: So entstehen **pro Jahr zwei vollständige Jahreszyklen** — zwei Sommer (nah, Periapsis) und zwei Winter (fern, Apoapsis). Sichtbar wird das auch am Himmel: Orthyros erscheint im Sommer rund doppelt so groß wie im Winter.
 
 | Phase        | Bedingung                      | Charakter                                                                                            |
 | ------------ | ------------------------------ | ---------------------------------------------------------------------------------------------------- |
@@ -84,8 +84,8 @@ Beide besonderen Tage fallen auf eine **Periapsis** (Orthyros-Nähe) — also mi
 
 #### Lichttag
 
-Periapsis auf der **Aezion zugewandten** Seite (Lumora steht zwischen Aezion und Orthyros) — Lumora wird von zwei Seiten beleuchtet, der gesamte Tag ist taghell. Von vielen Völkern als Neujahr oder Fest der Freunde und Familie begangen.
+Periapsis auf der **Aezion zugewandten** Seite (Lumora steht zwischen Aezion und Orthyros) — Lumora wird von zwei Seiten beleuchtet (Orthyros steht groß und voll erleuchtet am Himmel, sein Äquatorgürtel leuchtet hell), der gesamte Tag ist taghell. Von vielen Völkern als Neujahr oder Fest der Freunde und Familie begangen.
 
 #### Dunkeltag
 
-Periapsis auf der **Aezion abgewandten** Seite (Lumora steht hinter Orthyros, im Schattenkegel) — der gesamte Tag ist Nacht. Trotzdem **warm**, denn Lumora ist Orthyros gerade am nächsten. Tag der Toten und Ahnen. Manche Völker betrachten ihn als Neujahr.
+Periapsis auf der **Aezion abgewandten** Seite (Lumora steht hinter Orthyros, im Schattenkegel) — der gesamte Tag ist Nacht: kein direktes Sonnenlicht, kein von Orthyros reflektiertes Licht, und der leuchtende Äquatorgürtel ist auf dieser Seite erloschen (→ [[Orthyros-Lumora-System#Belichtung & der Dunkeltag|Belichtung & der Dunkeltag]]). Die volle Finsternis dauert rund **eine Eigenrotation** (≈ ein Tag); je ein **Dämmertag** davor und danach ist dunkler als gewöhnlich, aber nicht völlig finster. Trotzdem **warm**, denn Lumora ist Orthyros gerade am nächsten. Tag der Toten und Ahnen. Manche Völker betrachten ihn als Neujahr.

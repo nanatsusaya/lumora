@@ -108,3 +108,9 @@ Der #protagonist erklärt wie man eine solche Biowaffe auf Lumora einschmuggeln 
 Der #protagonist kommt das erste Mal während des Sommers aus dem Haus und sieht mit erschrecken Orthyros, den Gasriesen am Himmel. Er ist groß, sehr groß. Als Baby/Kleinkind hält er seine offene Hand zwischen sich und Orthyros und er kann Orthyros immer noch Problemlos sehen. Er hält beide Babyhände aneinander zwischen sich und Orthyros und sieht ihn immer noch. Erst wenn er die Finger maximal spreizt, seine Damen sich an den Finger Berühren, sind die äußersten Fingerspitzen seiner beiden Kleinen Finger außerhalb von Orthyros. Selbst wenn er eine Erwachsene Hand zwischen sich und Orthyros hält, Finger zusammen, sieht er Links und rechts immer noch die Ränder von Orthyros.
 
 **ACHTUNG:** als #foreshadowing kann man bereits im Kapitel eins einmal den Mond sehen und es Reicht bereits der Daumen aus, diesen zu verstecken.
+
+---
+
+# Der sichtbare Halo um Orthyros
+
+In einem Astrolabium sieht der #protagonist in alten Aufzeichnungen, wie ein großer Asteroid auf Orthyros zuraste und dort einschlug, während Lumora zu der Zeit im Winter war und man einen guten Blick auf Orthyros hatte. Die Beobachter haben viele Aufzeichnungen von dem ganzen gemacht, wie der Asteroid sichtbar näher kam und als er die Nähe von Orthyros betrat, fing er deutlich mehr an zu leuchten. Das Leuchten waren die Staubpartikel im [[Orthyros-Lumora-System#Der dunkle Halo|dunkeln Halo]]. Den Einschlagskrater kann man heute noch sehen, an der Stelle hat sich ein Wirbelsturm gebildet der seit dem Einschlag immer noch aktiv ist. Diesen Wirbel kann man im Sommer mit bloßen Auge sehen, was man früh per #foreshadowing bereits ankündigen kann.
