@@ -35,7 +35,7 @@ Wichtige Nebenfigur in Kapitel 2. Kein Begleiter, kein Feind — ein kompliziert
 
 ---
 
-## Der Höhepunkt — und sein Tod
+## Höhepunkt & Tod
 
 Eine Drachenunterart (*Wyvern oder ähnlich*) greift die Gruppe an. Der Protagonist versucht, alle zu retten ohne zu kämpfen — realistisch einschätzend, dass Kinder gegen ein Drachenwesen keine Chance haben.
 

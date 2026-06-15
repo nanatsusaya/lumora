@@ -3,7 +3,7 @@ tags:
   - wip
   - spoiler
 ---
-# Die Entdeckung — Spaltung als Erkenntnis
+# Die Entdeckung
 
 > **Spoiler-Warnung:** Diese Notiz beschreibt, *wie* der Protagonist die zentrale Wahrheit Lumoras findet. Sie ist damit — neben [[Der Ursprungsgott|Ursprungsgott = Chaosgott]] — der größte Spoiler der ganzen Geschichte. Nur für den Autor.
 
@@ -19,7 +19,7 @@ Die naheliegenden Antworten tragen **nicht**. Sein Vorteil darf nicht *Wissen, I
 
 ---
 
-## Das Prinzip: Integration gegen Fragmentierung
+## Integration gegen Fragmentierung
 
 Jeder Gott wurde zum Gott durch **Aufstieg** — mehr Wissen, mehr Wille, tiefere Kohärenz, größere Einheit. [[02.04 Religion & Götter#Transzendenz|Transzendenz]] ist der Gipfel der **Integration**: ein Bewusstsein, das sich zu reiner, kohärenter noetischer Energie verdichtet. Götter sind, ihrem Wesen nach, *ganze, einheitliche, aufgestiegene* Wesen.
 
@@ -53,11 +53,11 @@ Drei Wesen, dasselbe Phänomen, drei Verhältnisse dazu:
 - **Der [[Der Ursprungsgott|Ursprungsgott]]** — blind aus **unerkannter Selbst-Spaltung**. Er hält die andere Hälfte für ein fremdes Wesen.
 - **Der [[Der Protagonist|Protagonist]]** — sehend aus **bewusst gelebter Spaltung**.
 
-> Er ist die Antwort auf die Blindheit beider Götter, weil er *bewusst durchlebt*, was sie *unbewusst erleiden*. (Erweitert das bestehende Leitmotiv [[Story Start#Mensch und Gott — derselbe Fehler|Mensch und Gott, derselbe Fehler]].)
+> Er ist die Antwort auf die Blindheit beider Götter, weil er *bewusst durchlebt*, was sie *unbewusst erleiden*. (Erweitert das bestehende Leitmotiv [[Story Start#Mensch und Gott|Mensch und Gott, derselbe Fehler]].)
 
 ---
 
-## Das verborgene Naturgesetz: Teilung erzeugt noetische Instabilität
+## Teilung erzeugt noetische Instabilität
 
 Ein Baustein, der zugleich Foreshadowing und tiefere Erklärung ist: **Innere Teilung → mangelnde Kontrolle über die eigene Noetik.** Eingeführt über Nebenfiguren, die im Charakter gespalten sind und gerade deshalb ihre noetischen Fähigkeiten nicht sauber beherrschen.
 
@@ -80,7 +80,7 @@ Kein einzelner Eureka-Moment, sondern eine über die Reise verteilte Kette — *
 
 ---
 
-## Erzählhandwerk — die Leitplanken
+## Erzählleitplanken
 
 - **Die Spannung ist dramatische Ironie, kein Whodunit.** Der Leser springt bei „Ordnungs-/Chaosgott" sofort auf „die zwei sind eins" — das ist beabsichtigt. Der Konflikt ist nicht das *Erkennen*, sondern das **Sehend-Machen eines Kosmos, der den Gedanken nicht denken kann**. (Kanon: das Geheimnis ist verborgen, *weil niemand die Sprache hat, es zu denken* → [[Der Ursprungsgott]].)
 - **Götter dürfen nie „nachschauen und es sehen".** Sonst kippt die Agency zurück zu ihnen, und es entsteht die Frage, warum nicht früher. Der Protagonist liefert den *Rahmen* zum Deuten, nicht neue Beobachtungen.

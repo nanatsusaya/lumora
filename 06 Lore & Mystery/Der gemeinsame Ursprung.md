@@ -3,7 +3,7 @@ tags:
   - wip
   - spoiler
 ---
-# Der gemeinsame Ursprung — die verwandten Völker
+# Der gemeinsame Ursprung
 
 > **Spoiler-Warnung:** Diese Notiz enthält die verborgene Genealogie fast aller humanoiden Völker Lumoras. Nur für den Autor.
 
@@ -27,7 +27,7 @@ Vor rund 200 Millionen Jahren (Lumora-Zeit) brachte ein ungeduldiger Gott — de
 
 ---
 
-## Was die Elværigöttin tat
+## Rolle der Elværigöttin
 
 Die [[Elværigöttin|Elværigöttin]] — seit rund zwei Milliarden Jahren eine der aktivste Gärtnerin Lumoras — nahm sich einzelne der zurückgebliebenen biologischen Proben und verschmolz sie, Zelle für Zelle, mit bestehendem **lumoranischen Biomaterial**. Nicht einmal, sondern unzählige Male.
 
@@ -39,7 +39,7 @@ Vieles dieses „geretteten" Genoms verlor sich rasch wieder. Aber nicht alles. 
 
 ---
 
-## Die fallengelassenen Linien — die übrigen Götter
+## Die übrigen Götter
 
 Fallengelassen heißt nicht verloren. Andere Götter wurden auf die unbeobachteten Linien aufmerksam und ließen ihre eigene Arbeit und Vorstellung darin aufgehen — meist, um sich eine nachhaltige Energiequelle (ein [[02.04 Religion & Götter#Energie durch Gläubige|verehrendes Volk]]) heranzuziehen. So entstanden über weitere Jahrmillionen:
 
@@ -54,7 +54,7 @@ Das Ergebnis ließ lange auf sich warten — aber wer heute den Stammbaum der me
 
 ---
 
-## Das Gesetz dahinter — fremdes Leben vs. fremdes Wissen
+## Fremdes Leben vs. fremdes Wissen
 
 Warum wurde die Elværigöttin für ihre Arbeit **nie** bestraft, der Fremdbringer aber verbannt? Weil sie mit Material arbeitete, das bereits auf Lumora war. Dass es ursprünglich von außen kam, spielt keine Rolle: Wie ein aus der Tiefe des Alls einschlagender Asteroid wird alles, was einmal auf Lumora ist, Teil der Welt — ob da lebende Materie dabei war oder nicht. Bestraft wird der **Verursacher** des Einschleppens, nicht die Materie (das „Opfer").
 
@@ -72,9 +72,9 @@ Dieser Ursprung ist eine reinrassige [[Emergente Folgen|emergente Folge]]: Aus e
 
 > **Das Laster des Fremdbringers — die Ungeduld — ist der exakte Gegenpol zur Geduld der Elværigöttin. Ausgerechnet sein ungeduldiges Scheitern lieferte ihr den Rohstoff für ihr geduldigstes Werk.** Er hält seine Geschöpfe vermutlich bis heute für tot — während sie in Wahrheit triumphierten.
 
-> *Anmerkung (Kandidat „verpfuschtes Geschöpf"):* Die [[Hakani]] sind der beste Kandidat für das in [[Spezies]] notierte „verpfuschte Geschöpf". Ihre Linie war im Werkstatt-Spiel die meistumkämpfte; rivalisierende Götter lenkten sie ständig um, sodass keine biologische Spezialisierung haften blieb. Zurück blieb ein anpassungsfähiger Generalist, der nur die rastlose Ambition des Eifernden erbte — und heute an keinen Gott mehr fest gebunden ist. Das speist zugleich ihre Gefährlichkeit (→ [[02.05 Geschichte#Das Makroproblem — Die Selbstzerstörungsdynamik|Makroproblem]]). Zu bestätigen.
+> *Anmerkung (Kandidat „verpfuschtes Geschöpf"):* Die [[Hakani]] sind der beste Kandidat für das in [[Spezies]] notierte „verpfuschte Geschöpf". Ihre Linie war im Werkstatt-Spiel die meistumkämpfte; rivalisierende Götter lenkten sie ständig um, sodass keine biologische Spezialisierung haften blieb. Zurück blieb ein anpassungsfähiger Generalist, der nur die rastlose Ambition des Eifernden erbte — und heute an keinen Gott mehr fest gebunden ist. Das speist zugleich ihre Gefährlichkeit (→ [[02.05 Geschichte#Das Makroproblem|Makroproblem]]). Zu bestätigen.
 
-## Die gefühlte Verwandtschaft — wenn das Blut leise spricht
+## Die gefühlte Verwandtschaft
 
 Die gemeinsame Linie wirkt bis heute — nicht im Bewusstsein, sondern im Instinkt. Die sieben Völker sind untereinander **sehr entfernt** verwandt, etwa so wie alle Säugetiere der Erde miteinander verwandt sind. Das genügt für eine leise, vorbewusste Resonanz:
 
@@ -88,9 +88,9 @@ Die gemeinsame Linie wirkt bis heute — nicht im Bewusstsein, sondern im Instin
 
 ---
 
-## Der Protagonist — Heimkehr zu entfernten Verwandten
+## Der Protagonist
 
-Weil das Saatgut von der **Erde** stammte, sind die sieben Völker buchstäblich die sehr entfernten Verwandten des [[Der Protagonist|Protagonisten]] — er ist selbst ein Erdmensch. Das ist der tiefere Grund für die [[#Die gefühlte Verwandtschaft — wenn das Blut leise spricht|gefühlte Vertrautheit]]: nicht nur derselbe humanoide Bauplan, sondern dieselbe Wurzel.
+Weil das Saatgut von der **Erde** stammte, sind die sieben Völker buchstäblich die sehr entfernten Verwandten des [[Der Protagonist|Protagonisten]] — er ist selbst ein Erdmensch. Das ist der tiefere Grund für die [[#Die gefühlte Verwandtschaft|gefühlte Vertrautheit]]: nicht nur derselbe humanoide Bauplan, sondern dieselbe Wurzel.
 
 Dieselbe [[Zeitdilatation zwischen den Regionen|Zeitdilatation]], die diesen Stammbaum zeitlich möglich macht, trägt auch den Schluss: Lebt der Protagonist ~200–400 Jahre auf Lumora, vergehen auf der Erde nur ~1–2 Jahre. Er kann heimkehren — verändert, und doch rechtzeitig genug, dass die Welt ihn noch kennt. *(Zahlen → [[Zeitdilatation zwischen den Regionen]].)*
 

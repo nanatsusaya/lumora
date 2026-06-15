@@ -127,7 +127,7 @@ TODO:
 - Protagonisten-Doppelhandicap: Kind-Feld → kann nicht senden/privat adressieren und kann öffentliche Gefühls-Broadcasts nicht filtern; dazu die Erd-Gewohnheit, mit Gesicht und Händen zu sprechen → wirkt auf Elværi kindlich/ungehobelt.
 ```
 
-### Die zwei Uhren & das gemächliche Tempo
+### Lebenstempo
 
 Ein scheinbarer Widerspruch: Die Elværi sind seit einer Million Jahren intelligent — der Homo sapiens existiert erst ~300.000 Jahre —, stehen technologisch aber nicht weiter. Auflösung: Es gibt **zwei Uhren**.
 
@@ -136,7 +136,7 @@ Ein scheinbarer Widerspruch: Die Elværi sind seit einer Million Jahren intellig
 
 Die Elværi-Zivilisation bleibt langsam, weil zwei Bremsen zusammenwirken: die **Decke** des bio-noetischen Pfads (einen Familienbaum „iteriert" man nicht in Jahren, sondern in Jahrhunderten) und der **zyklische Reset** — Elværi-Nationen steigen auf und fallen; die gemütlichen gingen unter, die überdauernden wurden härter und kriegerischer. Netto bleibt die Vorwärtsdrift winzig. *(Noetisch-evolutionäre Wurzel → [[03.07 Noetische Evolution]].)*
 
-### Eine zum Aussterben verdammte Spezies?
+### Aussterberisiko
 
 Die eigentliche Tragik der Elværi: **Jede ihrer Stärken kippt im beschleunigten Zeitalter zur tödlichen Schwäche.**
 
@@ -156,7 +156,7 @@ TODO:
 - Lumora-Pendant zum Computerchip: vermutlich ein *gefertigter* Kristall-Schaltkreis (03.04 beschreibt Kristalle bereits als programmierbare Modulatoren), der wie eine Fabrik iteriert. Wer entwickelt ihn zuerst? (Hakani? → [[Hakani]])
 ```
 
-### Phänotypen & ihr Riss
+### Phänotypen
 
 **Wüstenelværi-Besonderheit:** Sie können in noetisch toten Regionen überleben und N-Kraft nutzen — eine Anpassung, die ihnen der [[Wüstenelværi-Gott|Wüstengott]] lehrte und die sie von anderen Elværi kulturell und praktisch trennt.
 
@@ -166,7 +166,7 @@ TODO:
 
 ```
 TODO (Frostelværi, später ausbauen):
-- Frost- und Wüstenelværi geraten in eine harte Ressourcenklemme (können ihre Familien kaum erweitern). Speziell die Frostelværi könnten sich zu einem Sklaven haltenden Volk entwickeln — und ausgerechnet Theriani könnten dort echte Sklaven werden (z. B. Eisbär-Theriani, die in Minen schuften). Bewusster Gegenpol zur freiwilligen Klientel-Symbiose bei den Waldelværi (→ [[Waldelværi#Theriani — Rudel im Stamm]]).
+- Frost- und Wüstenelværi geraten in eine harte Ressourcenklemme (können ihre Familien kaum erweitern). Speziell die Frostelværi könnten sich zu einem Sklaven haltenden Volk entwickeln — und ausgerechnet Theriani könnten dort echte Sklaven werden (z. B. Eisbär-Theriani, die in Minen schuften). Bewusster Gegenpol zur freiwilligen Klientel-Symbiose bei den Waldelværi (→ [[Waldelværi#Theriani im Stamm]]).
 ```
 
 ## N-Kraft

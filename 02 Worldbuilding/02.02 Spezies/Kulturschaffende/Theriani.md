@@ -25,7 +25,7 @@ Die **Theriani** (klassischer Fantasy-Begriff: *Tiermenschen*) sind das säugeti
 
 Aus einer fallengelassenen Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[Der Tiervater|Tiervater]] zur Tierverwandtschaft hin formte. Die vielen Tier-Gestalten spiegeln seine Lust an der Vielfalt — und sind, anders als bei natürlich evolvierten Völkern, das Ergebnis eines **bewussten, sehr langwierigen Designs**.
 
-Die Theriani so zu bauen — *eine* interfertile Spezies mit dieser diskreten Gestaltvielfalt — dauerte außergewöhnlich lange. Darum traten sie als „fertige“ Spezies erst **vergleichsweise spät** auf die Weltbühne und sind das **jüngste der sieben verwandten humanoiden Völker**. Was ihnen an Alter fehlt, machen sie an Tempo wett: **hohe Geburtenrate** plus die **ökologische Breite ihrer Schläge** haben sie rasch über Lumora verteilt — in der Ausbreitungsgeschwindigkeit nur von den [[Hakani]] übertroffen. Damit gehören sie (mit den Hakani) zur „neuen Geschwindigkeit“, die den alten, langsamen Völkern wie den [[Elværi]] gefährlich wird (→ [[Elværi#Eine zum Aussterben verdammte Spezies?|die Elværi-Falle]]).
+Die Theriani so zu bauen — *eine* interfertile Spezies mit dieser diskreten Gestaltvielfalt — dauerte außergewöhnlich lange. Darum traten sie als „fertige“ Spezies erst **vergleichsweise spät** auf die Weltbühne und sind das **jüngste der sieben verwandten humanoiden Völker**. Was ihnen an Alter fehlt, machen sie an Tempo wett: **hohe Geburtenrate** plus die **ökologische Breite ihrer Schläge** haben sie rasch über Lumora verteilt — in der Ausbreitungsgeschwindigkeit nur von den [[Hakani]] übertroffen. Damit gehören sie (mit den Hakani) zur „neuen Geschwindigkeit“, die den alten, langsamen Völkern wie den [[Elværi]] gefährlich wird (→ [[Elværi#Aussterberisiko|die Elværi-Falle]]).
 
 ## Biologie
 
@@ -64,7 +64,7 @@ Die **Geburtenrate ist hoch** (Würfe mit mehreren Jungen) — die biologische W
 
 Theriani können grundsätzlich *alle* noetischen Fähigkeiten erlernen, ihre **natürliche Begabung** liegt aber in der **körperlichen Selbstverstärkung**. Wo [[Elværi]] glänzend [[Elværi#Lebensspanne & noetische Selbst-Reparatur|sich selbst heilen]], verstärken Theriani intuitiv ihre **Muskelgruppen**, schärfen **Reflexe**, treiben ihre ohnehin guten **Sinnesorgane** weiter hoch oder festigen ihre **Knochenstruktur**. Der [[#Schläge|Schlag]] setzt die körperliche Grundeinstellung, die Noetik *dreht sie hoch*.
 
-- **Leise Noetik.** Selbstverstärkung ist *körperinterne* Wirkung und strahlt kaum ins N-Feld ab (→ [[03.08 Noetische Wahrnehmung#Wie Wahrnehmung funktioniert — was beim Sensitiven ankommt|gerichtet vs. innerlich]]). Theriani-Magie *broadcastet* nicht — anders als das öffentliche Elværi-Senden.
+- **Leise Noetik.** Selbstverstärkung ist *körperinterne* Wirkung und strahlt kaum ins N-Feld ab (→ [[03.08 Noetische Wahrnehmung#Wahrnehmungsprozess|gerichtet vs. innerlich]]). Theriani-Magie *broadcastet* nicht — anders als das öffentliche Elværi-Senden.
 - **Können über Verstehen.** Ihre Stärke sitzt in [[03.03 Das Noetische Profil#Weisheit|Weisheit]] und [[03.03 Das Noetische Profil#Wucht|Wucht]], weniger in theoretischem [[03.03 Das Noetische Profil#Wissen|Wissen]] — sie meistern durch *Tun und Spüren* (→ [[03.06 Anwendung & Fähigkeitsentwicklung#Erlernte Praxis|Erlernte Praxis]]).
 
 ## Wesen
@@ -84,7 +84,7 @@ Geführt wird zumeist durch **Krieger** (gegenwärtige Stärke → [[03.03 Das N
 
 > *Kontrast & Folge:* Wo die [[Elværi]] über-strukturiert (Clans, Triumvirat) und die [[Anelari]] zyklisch staatenbildend sind, kohärieren Theriani **nie dauerhaft**. Das macht sie trotz ihrer ~600 Mio. **politisch vernachlässigbar** — zahlreich und körperlich stark, aber ohne gemeinsamen Willen und damit keine geschlossene Macht (und kopflos kaum zu erobern: kein Zentrum, das man schlägt). Der seltene Zugverbund unter einem Warlord ist entsprechend ein ungewohntes, gefährliches Ausnahmeereignis.
 
-**In Waldelværi-Staaten** lösen sich die Theriani-Strukturen teils in die Elværi-Gesellschaft auf: Ein Rudel (bei großen [[Waldelværi#Der Familienbaum|Familienbäumen]] eine ganze Horde) wird in einen Familienbaum und damit in den Elværi-**Stamm** eingebunden — das Verhältnis beider Völker → [[Waldelværi#Theriani — Rudel im Stamm|Rudel im Stamm]]. *(Weitere Gesellschaftsdetails → [[02.03 Völker & Gesellschaften]].)*
+**In Waldelværi-Staaten** lösen sich die Theriani-Strukturen teils in die Elværi-Gesellschaft auf: Ein Rudel (bei großen [[Waldelværi#Der Familienbaum|Familienbäumen]] eine ganze Horde) wird in einen Familienbaum und damit in den Elværi-**Stamm** eingebunden — das Verhältnis beider Völker → [[Waldelværi#Theriani im Stamm|Rudel im Stamm]]. *(Weitere Gesellschaftsdetails → [[02.03 Völker & Gesellschaften]].)*
 
 ## Religion
 

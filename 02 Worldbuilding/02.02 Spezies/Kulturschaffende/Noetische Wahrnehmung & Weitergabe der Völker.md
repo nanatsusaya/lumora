@@ -45,9 +45,9 @@ Statt jedes Volk einzeln zu behandeln, lässt sich die ganze Vielfalt aus wenige
 
 ## Beobachtungen
 
-**Das Sinnesregister ist nicht universell.** Die Völker nehmen Noetik durch sehr verschiedene Kanäle wahr (Klang bei Elværi, Licht bei Luminæri, kristalline Resonanz bei Vatæri/Sapari/Drakōri, tierische Sinne bei Theriani). Das ist erzählerisch ein Gewinn → [[05.02 Vermittlung des Magiesystems#Kontrast der Völker als Lehrmotor|Kontrast als Lehrmotor]].
+**Das Sinnesregister ist nicht universell.** Die Völker nehmen Noetik durch sehr verschiedene Kanäle wahr (Klang bei Elværi, Licht bei Luminæri, kristalline Resonanz bei Vatæri/Sapari/Drakōri, tierische Sinne bei Theriani). Das ist erzählerisch ein Gewinn → [[05.02 Vermittlung des Magiesystems#Kontrast der Völker|Kontrast als Lehrmotor]].
 
-**Die Hakani sind der Sonderfall.** Generalisten ohne biologische Spezialisierung, die [[Hakani|N-Kraft über Artefakte und Technik]] nutzen und fremde Felder nicht lesen können. Sie würden Noetik vermutlich wie **Ingenieurskunst** lehren — explizit, handwerklich — im Gegensatz zur elværischen *Sprache/Gefühl*-Tradition. Genau das ist der thematische Anker des Protagonisten → [[05.02 Vermittlung des Magiesystems#Die Ironie des Protagonisten|Protagonisten-Ironie]].
+**Die Hakani sind der Sonderfall.** Generalisten ohne biologische Spezialisierung, die [[Hakani|N-Kraft über Artefakte und Technik]] nutzen und fremde Felder nicht lesen können. Sie würden Noetik vermutlich wie **Ingenieurskunst** lehren — explizit, handwerklich — im Gegensatz zur elværischen *Sprache/Gefühl*-Tradition. Genau das ist der thematische Anker des Protagonisten → [[05.02 Vermittlung des Magiesystems#Ironie des Protagonisten|Protagonisten-Ironie]].
 
 > *Kritische Anmerkung:* Die solitären [[Drakōri]] werfen eine echte offene Frage auf: Wenn die [[03.05 Grenzen & Einschränkungen#Das Feld in der frühen Entwicklung — Mutter und Kind|Mutter-Kind-Feldsynchronisation]] der Prägungsmechanismus ist — wie prägt eine noetisch hochaktive Einzelgänger-Spezies ihre Jungen? Entweder stärker biologisch vorverdrahtet (vgl. [[03.06 Anwendung & Fähigkeitsentwicklung|„fest verdrahtetes" Erbe]]) oder über eine kurze, intensive Elternphase. Ungeklärt.
 

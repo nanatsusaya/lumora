@@ -39,7 +39,7 @@ Alle acht Kontinente. Die Hakani sind das am weitesten verbreitete Volk Lumoras.
 
 ### Pioniergeist & Disruption
 
-Jung, zahlreich, erfindungsreich und „ambitioniert auf Kosten der Vorsicht“ — das macht die Hakani zum plausibelsten Träger der **gefertigten, iterierbaren Technik**, die die langsamen bio-noetischen Völker überholen könnte (→ [[Elværi#Eine zum Aussterben verdammte Spezies?|die Elværi-Falle]]). Ihre hohe Zahl ist zugleich die demografische Waffe, gegen die ein kleines, langlebiges Volk im langen Krieg verliert.
+Jung, zahlreich, erfindungsreich und „ambitioniert auf Kosten der Vorsicht“ — das macht die Hakani zum plausibelsten Träger der **gefertigten, iterierbaren Technik**, die die langsamen bio-noetischen Völker überholen könnte (→ [[Elværi#Aussterberisiko|die Elværi-Falle]]). Ihre hohe Zahl ist zugleich die demografische Waffe, gegen die ein kleines, langlebiges Volk im langen Krieg verliert.
 
 ## N-Kraft
 
@@ -68,6 +68,6 @@ TODO: Politische Großstrukturen der Hakani ausarbeiten.
 
 ```
 TODO (Herkunft & Tempo):
-- Entstehung: Vermutlich deutlich jünger als die Elværi. Idee: das Lumora-Pendant des Homo sapiens entstand evtl. erst vor ~150.000 Jahren. Dann hätte ihre Entwicklung bis zu einer technologisch etwa „früh viktorianischen“ Gesellschaft nur rund halb so lange gedauert wie auf der Erde — konsistent mit der durch Götter beschleunigten Biologie (→ [[Elværi#Die zwei Uhren & das gemächliche Tempo]]).
+- Entstehung: Vermutlich deutlich jünger als die Elværi. Idee: das Lumora-Pendant des Homo sapiens entstand evtl. erst vor ~150.000 Jahren. Dann hätte ihre Entwicklung bis zu einer technologisch etwa „früh viktorianischen“ Gesellschaft nur rund halb so lange gedauert wie auf der Erde — konsistent mit der durch Götter beschleunigten Biologie (→ [[Elværi#Lebenstempo]]).
 - Wüstenelværi-Vernichter (~100.000 Jahre, siehe [[Elværigöttin]]): Mit der Neudatierung der Hakani wackelt das. Evtl. ein anderes Volk als „Gegner“ wählen (ein rivalisierendes Elværi-Reich? die Drakōri?).
 ```

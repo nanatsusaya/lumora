@@ -4,7 +4,7 @@ tags:
   - spoiler
   - "#heimlight"
 ---
-# Heimlicht — Der Parasit der Anelari
+# Heimlicht
 
 > **Spoiler-Warnung:** Diese Notiz enthält versteckte Wahrheiten der Welt. Innerweltlich weiß **kein** Anelari davon. Nur für den Autor.
 
@@ -15,7 +15,7 @@ Die Anelari nennen das allgegenwärtige Leuchten ihrer Heimat „Heimlicht" und 
 
 ---
 
-## Was es ist
+## Beschreibung
 
 Das Heimlicht ist ein **noetischer Apex-Parasit**. Es ist zwar **noetisch aktiv**, aber seine Fähigkeit ist **biologisch fest verdrahtet, triebgesteuert und kulturlos** — es lernt nicht, es plant nicht (→ [[03.06 Anwendung & Fähigkeitsentwicklung|erlernbare vs. verdrahtete Noetik]]). Damit steht es kategorisch außerhalb der Völker; die saubere Grenze ist nicht „Pilz vs. Tier", sondern „verdrahtet vs. lernend".
 
@@ -25,11 +25,11 @@ Das Heimlicht ist ein **noetischer Apex-Parasit**. Es ist zwar **noetisch aktiv*
 
 ---
 
-## Was es tut — die verborgene Mechanik
+## Wirkmechanik
 
 Das Heimlicht beeinflusst die Anelari **geistig**: sanft, ohne einem Einzelnen je Befehle geben zu können. Über lange Zeiträume verschiebt es jedoch die **Meinungen, Ansichten und Bedürfnisse einer ganzen Gruppe**.
 
-Entscheidend: Es wirkt **durch** das Harmonie-Gesetz, nicht daran vorbei (→ [[02.03 Völker & Gesellschaften#Harmonie und ihre Grenze|Harmonie und ihre Grenze]]). Es **hebt die Selbstkontrolle nicht auf** — es **verschiebt die Gruppengrenze**: Die Anelari eines benachbarten, fremden Territoriums werden langsam aus dem Harmoniekreis hinausgeschoben, bis sie als **Fremde, Nicht-Verwandte** gelten. Dann darf die ohnehin vorhandene, kontrollierte Letalität der Anelari **nach außen feuern** — Krieg. Der Parasit nutzt also exakt das Schlupfloch, das im Harmonie-Modell ohnehin beschrieben ist.
+Entscheidend: Es wirkt **durch** das Harmonie-Gesetz, nicht daran vorbei (→ [[02.03 Völker & Gesellschaften#Grenzen der Harmonie|Harmonie und ihre Grenze]]). Es **hebt die Selbstkontrolle nicht auf** — es **verschiebt die Gruppengrenze**: Die Anelari eines benachbarten, fremden Territoriums werden langsam aus dem Harmoniekreis hinausgeschoben, bis sie als **Fremde, Nicht-Verwandte** gelten. Dann darf die ohnehin vorhandene, kontrollierte Letalität der Anelari **nach außen feuern** — Krieg. Der Parasit nutzt also exakt das Schlupfloch, das im Harmonie-Modell ohnehin beschrieben ist.
 
 Dazu kommt ein zweiter, **demografischer** Hebel: Das Heimlicht **erhöht die Fruchtbarkeit der Anelari-Frauen**. Die Folge ist eine vollständige, mechanistische Ursachenkette ohne Gedankenkontrolle:
 
@@ -51,7 +51,7 @@ Wird ein Pilz zu groß, **bricht er unter dem Gewicht seines eigenen Körpers zu
 
 ---
 
-## Was niemand weiß
+## Offenes Wissen
 
 - **Die Anelari wissen nichts davon.** Sie erleben ihre Kriege als **eigene Entscheidungen**, das Licht als bloßes Werkzeug, das Eroberungsritual als kulturellen Stolz.
 - Von außen (Elværi u. a.) wirkt es, als seien die Anelari einfach ein **ewig zänkisches Volk** — ein strukturelles Vorurteil mit verborgener Ursache (→ [[Emergente Folgen]]).
@@ -69,7 +69,7 @@ Die richtige Frage ist dabei nicht „was tut der Pilz für den Gott", sondern �
 
 ---
 
-## Thematischer Reim (nur Autorenebene)
+## Thematische Funktion (Autorenebene)
 
 Das Heimlicht ist ein **Mikrokosmos der großen Tragödie Lumoras** (→ [[Das Kernproblem]]): eine verborgene Kraft, die ein Volk **an seinem eigenen Harmonie-Instinkt vorbei** in die Selbstzerstörung schiebt. Es **reimt sich** auf das Zentralmysterium, ist aber ein **eigenständiger Faden**: Der [[Der Protagonist|Protagonist]] muss sich damit nie befassen — es kann schlicht Welt-Wahrheit sein und Stoff für spätere Geschichten auf Lumora. *(Dosieren, nicht vorwegnehmen.)*
 

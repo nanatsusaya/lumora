@@ -13,7 +13,7 @@ Sie weicht an entscheidenden Punkten vom realen wissenschaftlichen Konsens ab �
 
 ---
 
-## Das Universum ist unendlich
+## Unendlichkeit
 
 Das Universum der Novel ist unendlich groß — in alle Richtungen, ohne Grenze.
 
@@ -25,7 +25,7 @@ Es gibt keine äußere Grenze, keine Wand, kein Ende.
 
 ---
 
-## Das Universum ist in Regionen unterteilt
+## Regionen
 
 Das unendliche Universum lässt sich in Regionen unterteilen.
 
@@ -73,7 +73,7 @@ Der **Lauf der Zeit** kann zwischen Regionen variieren. Das ist keine gravitativ
 
 ---
 
-## Die Erde und Lumora: Zwei verschiedene Regionen
+## Erde und Lumora
 
 Die Erde und Lumora befinden sich in unterschiedlichen Universumsregionen.
 
@@ -89,7 +89,7 @@ Die Noetische Kraft ist hier im Vergleich zu den anderen Fundamentalkräften dur
 
 In der Region Lumoras vergeht die Zeit erheblich schneller als in der [[#Die Noetische Kraft als regionale Variable|Region der Erde]] — als Faustregel rund **200 Lumorajahre pro Erdjahr**. → [[Zeitdilatation zwischen den Regionen]].
 
-### Was die Menschen der Erde wissen — und was nicht
+### Wissensstand der Menschen
 
 Die Physik der Menschen des 21. Jahrhunderts ist innerhalb ihrer Universumsregion korrekt.
 

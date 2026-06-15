@@ -54,7 +54,7 @@ Jede einfache (sinusförmige) Welle ist durch drei Größen vollständig bestimm
 
 **In Lumora:** Tragender Mechanismus an vielen Stellen:
 - Gegenphasige eigene Energie **löscht** fremde Wirkung aus — Negation, Abschirmung, „Noetische Interferenz" ([[03.05 Grenzen & Einschränkungen#Das Resonanzfeld|03.05]], [[03.06 Anwendung & Fähigkeitsentwicklung|03.06]]).
-- Koordinierte Gruppen erzielen durch **konstruktive Interferenz** Effekte jenseits des Einzelnen (kollektive Praxis, [[03.02 Funktionsweise#Warum nicht jede Kraft gleich nachgibt|03.02]]).
+- Koordinierte Gruppen erzielen durch **konstruktive Interferenz** Effekte jenseits des Einzelnen (kollektive Praxis, [[03.02 Funktionsweise#Widerstand der Kräfte|03.02]]).
 - Schallverstärkung = phasensynchrones Hinzufügen; Lautlosigkeit = destruktive Auslöschung eigener Schallwellen ([[03.06 Anwendung & Fähigkeitsentwicklung|03.06]]).
 
 > *Wichtige Anmerkung (Kohärenz-Bedingung):* Echte, **stabile** Interferenz verlangt **Kohärenz** — beide Wellen müssen **dieselbe Frequenz** und eine **konstante Phasenbeziehung** haben, und sie müssen im **selben Medium** laufen. Das hat zwei Konsequenzen für Lumora:
@@ -77,22 +77,22 @@ Hier liegt das Herz von Lumoras Wellen-Sprache: **Resonanz** ist der mit Abstand
 
 **Real:** Jedes schwingfähige System hat eine oder mehrere **Eigenfrequenzen**, auf denen es „von Natur aus" am liebsten schwingt — bestimmt durch seine physische Struktur (eine Saite durch Länge/Spannung, ein Kristallgitter durch Bindungslängen und -winkel).
 
-**In Lumora:** Das Siliziumgitter hat charakteristische Eigenfrequenzen „exakt wie eine Saite eine Grundfrequenz und Obertöne hat" ([[03.04 Erweiterte Konzepte#Warum Silizium? — Die physikalische Grundlage|03.04]]). Auch jeder lebende Körper trägt eine körperspezifische Eigenfrequenz → sein [[03.05 Grenzen & Einschränkungen#Das Resonanzfeld|Resonanzfeld]]. Beides physikalisch stimmig.
+**In Lumora:** Das Siliziumgitter hat charakteristische Eigenfrequenzen „exakt wie eine Saite eine Grundfrequenz und Obertöne hat" ([[03.04 Erweiterte Konzepte#Silizium: physikalische Grundlage|03.04]]). Auch jeder lebende Körper trägt eine körperspezifische Eigenfrequenz → sein [[03.05 Grenzen & Einschränkungen#Das Resonanzfeld|Resonanzfeld]]. Beides physikalisch stimmig.
 
 ### Resonanz & resonante Kopplung
 
 **Real:** **Resonanz** tritt auf, wenn ein System mit (nahe) seiner Eigenfrequenz angeregt wird — dann nimmt es besonders viel Energie auf und schwingt mit großer Amplitude. Zwei Systeme **gleicher Eigenfrequenz** koppeln besonders gut (resonante Kopplung): Energie geht verlustarm vom einen aufs andere über.
 
 **In Lumora:** Durchgängig korrekt genutzt:
-- Siliziumkristalle „resonieren harmonisch" mit Noetischer Energie und werden so zu **Resonanzkörpern, nicht passiven Behältern** ([[03.04 Erweiterte Konzepte#Warum Silizium? — Die physikalische Grundlage|03.04]]).
-- Kristalle übertragen Energie verlustarm nur, wenn sie **resonant gekoppelt** sind (ähnliche Eigenfrequenzen) — Transferverlust skaliert mit der Frequenz-Fehlanpassung ([[03.04 Erweiterte Konzepte#Leitung — Noetische Energie entlang der Kristallachsen|03.04]]).
+- Siliziumkristalle „resonieren harmonisch" mit Noetischer Energie und werden so zu **Resonanzkörpern, nicht passiven Behältern** ([[03.04 Erweiterte Konzepte#Silizium: physikalische Grundlage|03.04]]).
+- Kristalle übertragen Energie verlustarm nur, wenn sie **resonant gekoppelt** sind (ähnliche Eigenfrequenzen) — Transferverlust skaliert mit der Frequenz-Fehlanpassung ([[03.04 Erweiterte Konzepte#Leitung|03.04]]).
 - Das [[03.05 Grenzen & Einschränkungen#Das Resonanzfeld|Resonanzfeld]] wehrt Fremdenergie ab, „wie ein Material, das eine bestimmte Schwingungsfrequenz nicht überträgt" — Fremdwelle passt nicht zum Medium → Dämpfung/Brechung. Saubere Resonanz-Logik.
 
 ### Q-Faktor (Güte) — *implizit vorhanden, benennbar*
 
 **Real:** Der **Q-Faktor** misst, wie **scharf** eine Resonanz ist: hoher Q = geringe Dämpfung, lange Nachschwingung, enges Frequenzband. Niedriger Q = breit und schnell abklingend.
 
-**In Lumora:** Implizit schon da: „Je reiner und gleichmäßiger das Gitter, desto schärfer diese Resonanz; Verunreinigungen erhöhen die Dämpfung" ([[03.04 Erweiterte Konzepte#Warum Silizium? — Die physikalische Grundlage|03.04]]) — das ist **wortwörtlich eine Aussage über den Q-Faktor**. Kristallreinheit = hoher Q. Der Begriff ließe sich explizit einführen, falls Kristalltechnik je quantifiziert werden soll.
+**In Lumora:** Implizit schon da: „Je reiner und gleichmäßiger das Gitter, desto schärfer diese Resonanz; Verunreinigungen erhöhen die Dämpfung" ([[03.04 Erweiterte Konzepte#Silizium: physikalische Grundlage|03.04]]) — das ist **wortwörtlich eine Aussage über den Q-Faktor**. Kristallreinheit = hoher Q. Der Begriff ließe sich explizit einführen, falls Kristalltechnik je quantifiziert werden soll.
 
 ### Obertöne & Harmonische
 
@@ -108,19 +108,19 @@ Hier liegt das Herz von Lumoras Wellen-Sprache: **Resonanz** ist der mit Abstand
 
 **Real:** Läuft eine Welle gegen ein Hindernis und wird reflektiert, überlagern sich hin- und rücklaufende Welle zu einem **ortsfesten** Muster: der stehenden Welle. Es gibt unbewegliche Punkte (**Knoten**) und Punkte maximaler Auslenkung (**Bäuche**). Nur bestimmte Frequenzen „passen" zwischen die Grenzen.
 
-**In Lumora:** Exakt das Speicherprinzip der Kristalle: Energie wird „als **stehende Welle** stabilisiert", die Gitterstruktur reflektiert sie intern zurück, konstruktive Interferenz erzeugt einen stationären Zustand ohne Energienachschub ([[03.04 Erweiterte Konzepte#Speicher — Das Kristallgitter als Quantenbehälter|03.04]]). Physikalisch vorbildlich.
+**In Lumora:** Exakt das Speicherprinzip der Kristalle: Energie wird „als **stehende Welle** stabilisiert", die Gitterstruktur reflektiert sie intern zurück, konstruktive Interferenz erzeugt einen stationären Zustand ohne Energienachschub ([[03.04 Erweiterte Konzepte#Speicher|03.04]]). Physikalisch vorbildlich.
 
 ### Moden
 
 **Real:** Jedes erlaubte stehende-Wellen-Muster ist eine **Mode** (Eigenschwingung). Größere/komplexere Resonatoren erlauben mehr Moden; jede Mode hält einen abgegrenzten „Informationskanal".
 
-**In Lumora:** „Die Anzahl der möglichen stehenden-Wellen-Moden bestimmt, wie viel Information — und damit Energie — gespeichert werden kann" ([[03.04 Erweiterte Konzepte#Speicher — Das Kristallgitter als Quantenbehälter|03.04]]). Verschiedene Gitterstrukturen bevorzugen verschiedene Moden → verschiedene Effekttypen. Korrekt und tragfähig.
+**In Lumora:** „Die Anzahl der möglichen stehenden-Wellen-Moden bestimmt, wie viel Information — und damit Energie — gespeichert werden kann" ([[03.04 Erweiterte Konzepte#Speicher|03.04]]). Verschiedene Gitterstrukturen bevorzugen verschiedene Moden → verschiedene Effekttypen. Korrekt und tragfähig.
 
 ### Resonator
 
 **Real:** Ein Bauteil, das stehende Wellen einer Frequenz einfängt und verstärkt — z. B. der **optische Resonator** (Laser): Licht zwischen zwei Spiegeln. Resonatoren sind die Grundlage von Lasern, Mikrowellenöfen, Musikinstrumenten.
 
-**In Lumora:** Genau die im Vault genannte Analogie — das Gitter übernimmt die Rolle der Spiegel, die Noetische Welle ist eingefangen ([[03.04 Erweiterte Konzepte#Speicher — Das Kristallgitter als Quantenbehälter|03.04]]).
+**In Lumora:** Genau die im Vault genannte Analogie — das Gitter übernimmt die Rolle der Spiegel, die Noetische Welle ist eingefangen ([[03.04 Erweiterte Konzepte#Speicher|03.04]]).
 
 ---
 
@@ -177,7 +177,7 @@ Hier liegt das Herz von Lumoras Wellen-Sprache: **Resonanz** ist der mit Abstand
 
 **Real:** Eine Struktur, die eine Welle **gerichtet** führt, statt sie sich frei ausbreiten zu lassen (Lichtleiter, Hohlleiter). Anisotrop = richtungsabhängige Eigenschaften.
 
-**In Lumora:** „Das Gitter wirkt als **anisotroper Wellenleiter**" — Energie propagiert bevorzugt entlang der Kristallachsen, quer dazu schlechter ([[03.04 Erweiterte Konzepte#Leitung — Noetische Energie entlang der Kristallachsen|03.04]]). Fachlich präzise.
+**In Lumora:** „Das Gitter wirkt als **anisotroper Wellenleiter**" — Energie propagiert bevorzugt entlang der Kristallachsen, quer dazu schlechter ([[03.04 Erweiterte Konzepte#Leitung|03.04]]). Fachlich präzise.
 
 ---
 
@@ -188,8 +188,8 @@ Hier liegt das Herz von Lumoras Wellen-Sprache: **Resonanz** ist der mit Abstand
 **Real:** Bei der **Modulation** wird eine konstante **Trägerwelle** durch ein Nutzsignal verändert — in der Amplitude (**AM**) oder Frequenz (**FM**). So „reitet" Information auf dem Träger (Radio). Modulation erzeugt zusätzliche Frequenzanteile, die **Seitenbänder**.
 
 **In Lumora:** Mehrfach genutzt:
-- Die organische Komponente **moduliert** die Eigenfrequenzen des Siliziumkerns ([[03.04 Erweiterte Konzepte#Warum Silizium? — Die physikalische Grundlage|03.04]]).
-- Ein Kristall als **frequenzselektiver Filter**: resonante Frequenzen werden verstärkt, andere gedämpft ([[03.04 Erweiterte Konzepte#Modulation — Gittergeometrie als Informationspräger|03.04]]).
+- Die organische Komponente **moduliert** die Eigenfrequenzen des Siliziumkerns ([[03.04 Erweiterte Konzepte#Silizium: physikalische Grundlage|03.04]]).
+- Ein Kristall als **frequenzselektiver Filter**: resonante Frequenzen werden verstärkt, andere gedämpft ([[03.04 Erweiterte Konzepte#Modulation|03.04]]).
 - Beim Energie-Empfang aus einem Kristall muss der Wirker sein Feld auf die **Trägerfrequenz** des Kristalls abstimmen ([[03.04 Erweiterte Konzepte#Grenzen und Risiken|03.04]]).
 
 > *Anmerkung:* „Filter" und „Modulation" sind in der Physik **verschiedene** Operationen (Filter = Frequenzanteile durchlassen/sperren; Modulation = einem Träger ein Signal aufprägen). Der Vault verwendet „modulieren" gelegentlich im weiteren Sinn von „verändern". Das ist umgangssprachlich vertretbar; wo Präzision zählt, ließe sich zwischen **filtern** (Kristall als Filter) und **modulieren** (Aufprägen einer Information) trennen.

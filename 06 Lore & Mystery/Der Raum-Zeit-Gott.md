@@ -4,18 +4,18 @@ tags:
   - spoiler
   - "#rzg"
 ---
-# Der Raum-Zeit-Gott — Die stille Brücke
+# Der Raum-Zeit-Gott
 
 > **Spoiler-Warnung:** Diese Notiz enthält zentrale Twists und versteckte Wahrheiten der Geschichte. Nur für den Autor.
 
 ---
-## Wer er ist
+## Identität
 
 Der Raum-Zeit-Gott (RZG) ist neben dem Ursprungsgott das einzige vollendete transzendierte Wesen in Lumora. Er wohnt hier — aber Lumora ist für ihn nicht Ziel, sondern Mittel.
 
 Seine eigentlichen Interessen liegen buchstäblich woanders: Er studiert andere Universumsregionen. Die Struktur des Raums, die Varianz physikalischer Konstanten zwischen Regionen, die Natur des N-Feldes unter fremden Bedingungen. Lumora ist ihm eine sichere, energiereiche Heimat — ein guter Ausgangspunkt, mehr nicht.
 
-## Gleichzeitig anwesend und abwesend
+## Anwesenheit & Abwesenheit
 
 Als vollendetes transzendiertes Wesen in kohärentem Quantenzustand ist der RZG nicht lokal fixiert. Er nutzt das praktisch: Ein Teil seines Bewusstseins verweilt in Lumora und sammelt kontinuierlich Noetische Energie aus dem starken lokalen N-Feld. Der andere Teil erforscht ferne Universumsregionen — darunter auch die Region der Erde.
 
@@ -27,7 +27,7 @@ Dass der RZG ein vollendeter transzendierter Gott ist — ein Primärgott — wi
 
 Der Ursprungsgott duldet den RZG — weil der RZG energetisch deutlich schwächer ist. Ein vollendetes transzendiertes Wesen, das seinen Vorrat ständig verbraucht und nie akkumuliert, ist keine Bedrohung. Und der RZG hat kein Interesse an Lumoras inneren Angelegenheiten. Beide haben einen stillen, nie explizit ausgehandelten Pakt: der RZG mischt sich nicht ein, der Ursprungsgott lässt ihn in Ruhe.
 
-## Wie die Geschichte beginnt
+## Rolle beim Story-Beginn
 
 Als das Chaos-Problem eskaliert und die anderen Götter keine Lösung finden, wenden sie sich schließlich an den RZG — den einzigen, der vielleicht eine andere Perspektive hat.
 

@@ -20,7 +20,7 @@ Das gesamte Gesellschaftssystem der Waldelværi — Clans, Disziplinen, Triumvir
 
 Das erklärt, warum mehrere Waldelværi-Staaten auf verschiedenen Kontinenten **dieselbe** Struktur tragen, obwohl sie weitgehend unabhängig voneinander agieren: Es ist überall dieselbe Schablone. Die Unterschiede zwischen den Staaten sind marginal.
 
-> *Kritische Anmerkung:* Diese Schablone ist die **widerwillige Verhärtung der [[Elværigöttin|Elværigöttins]] eigenen Traums**. Sie wollte ein weises, friedfertiges Volk — doch um es überdauern zu lassen, gab sie ihm ein System aus Erfolgsdruck, Hierarchie und Fortschrittsdrang. Sie säte damit selbst die Hybris, die später in die [[02.05 Geschichte#Das Makroproblem — Die Selbstzerstörungsdynamik|Selbstzerstörungsdynamik]] greift.
+> *Kritische Anmerkung:* Diese Schablone ist die **widerwillige Verhärtung der [[Elværigöttin|Elværigöttins]] eigenen Traums**. Sie wollte ein weises, friedfertiges Volk — doch um es überdauern zu lassen, gab sie ihm ein System aus Erfolgsdruck, Hierarchie und Fortschrittsdrang. Sie säte damit selbst die Hybris, die später in die [[02.05 Geschichte#Das Makroproblem|Selbstzerstörungsdynamik]] greift.
 
 ---
 
@@ -56,7 +56,7 @@ Praktisch gibt es **keine anderen Gebäude** neben den Familienbäumen. Ausnahme
 
 **Status:** Größe und Alter eines Familienbaums sind das zentrale Statussymbol — er ist eine **lebende Uhr der Familienzeit**. Je älter und größer der Baum, desto höher das Ansehen der Familie.
 
-> *Kritische Anmerkung — der Reset-Hebel:* Eine Waldelværi-Nation steckt ihre gesamte Identität, Geschichte und ihren Status in wenige **brennbare** lebende Türme. Verliert sie ihre Familienbäume, verliert sie nicht nur Leben, sondern sich selbst. Zwei, drei furchtbare Waffen genügen, um eine Nation auszulöschen — der physische Mechanismus hinter dem [[Elværi#Die zwei Uhren & das gemächliche Tempo|zyklischen Reset]]. Erschreckend einfach.
+> *Kritische Anmerkung — der Reset-Hebel:* Eine Waldelværi-Nation steckt ihre gesamte Identität, Geschichte und ihren Status in wenige **brennbare** lebende Türme. Verliert sie ihre Familienbäume, verliert sie nicht nur Leben, sondern sich selbst. Zwei, drei furchtbare Waffen genügen, um eine Nation auszulöschen — der physische Mechanismus hinter dem [[Elværi#Lebenstempo|zyklischen Reset]]. Erschreckend einfach.
 
 ---
 
@@ -87,7 +87,7 @@ Der **Hochadel** bildet die Ausnahme von der Einsamkeit: Angesehene Stämme samm
 
 ---
 
-## „Stamm" — Familie, Stammbaum und Clan
+## Stamm, Stammbaum und Clan
 
 *EN: Stock / Stem*
 *Tag:* #stem
@@ -139,7 +139,7 @@ Die Einreise in Waldelværi-Gebiete ist sehr streng — nur befähigtes Personal
 
 > *Kritische Anmerkung:* Der Elværi-Elitismus ist eine **gestufte, paternalistische Form von Speziesismus** — Lumoras Pendant zu Rassismus, nur entlang *Spezies*-Linien. Eine Nation ist die Summe ihrer Bürger, in Lumora spezifischer: der Spezies, aus denen sie besteht. 
 
-### Theriani — Rudel im Stamm
+### Theriani im Stamm
 
 Mit den [[Theriani]] verbindet die Waldelværi eine besondere, tiefe Symbiose — ein Musterbeispiel, wie zwei grundverschiedene Völker harmonisch zusammenleben. Die Waldelværi haben das [[Theriani#Gesellschaft|Rudel-Denken]] der Theriani verstanden und binden ein kleines **Rudel** (bei großen Bäumen eine ganze **Horde**) in ihren [[#Der Familienbaum|Familienbaum]] — und damit in ihren **Stamm** — ein. Da im Baum der Stamm lebt, *werden* die eingebundenen Theriani Teil des Stammes; die Begriffe **Rudel** und **Stamm** verschmelzen.
 
@@ -150,11 +150,11 @@ Mit den [[Theriani]] verbindet die Waldelværi eine besondere, tiefe Symbiose �
 - Der **Kriegerführer** eines Rudels wird zum **Beschützer des Familienbaums** — während Elværi-Krieger zu **Soldaten des Staates** werden.
 - Theriani können sehr wohl auch Staatssoldaten werden, aber nur in Clans der [[#Die drei Disziplinen & das Triumvirat|Administrationsdisziplin]] (speziell dem Militär), wo kampfstarke Theriani sogar bevorzugt werden.
 
-**Klientel, nicht Leibeigenschaft.** Innerlich ist das ein **Klientel-/Hausgemeinschaftsmodell** (vgl. römische *clientela*, mittelalterliches Gefolge): freiwillig (Theriani wandern ein und *suchen* die Zugehörigkeit), als Stammesmitglied geschützt und genährt, mit über Generationen steigendem Ansehen. **Von außen** sieht es jedoch anders aus: Theriani arbeiten scheinbar nur für die Waldelværi und haben **null politischen Einfluss** — zusammen mit dem elitären Ruf der Waldelværi lässt das Außenstehende sie leicht als **Diener oder gar Sklaven** missdeuten. (Was hier ein Missverständnis ist, könnte bei den ressourcenarmen [[Elværi#Phänotypen & ihr Riss|Frostelværi]] bittere Realität werden.)
+**Klientel, nicht Leibeigenschaft.** Innerlich ist das ein **Klientel-/Hausgemeinschaftsmodell** (vgl. römische *clientela*, mittelalterliches Gefolge): freiwillig (Theriani wandern ein und *suchen* die Zugehörigkeit), als Stammesmitglied geschützt und genährt, mit über Generationen steigendem Ansehen. **Von außen** sieht es jedoch anders aus: Theriani arbeiten scheinbar nur für die Waldelværi und haben **null politischen Einfluss** — zusammen mit dem elitären Ruf der Waldelværi lässt das Außenstehende sie leicht als **Diener oder gar Sklaven** missdeuten. (Was hier ein Missverständnis ist, könnte bei den ressourcenarmen [[Elværi#Phänotypen|Frostelværi]] bittere Realität werden.)
 
-**Warum noch immer `-ani`?** Obwohl die Theriani längst eng eingebunden sind, führen die Elværi sie weiter als `-ani` (niedrigste [[#Die Völker-Endungen — Ansehen als gesungene Beugung|Ansehensstufe]]). Der Grund ist kein Hass, sondern **Trägheit eines sehr langen Gedächtnisses**: Sowohl die Theriani als Volk als auch die heutige Triumvirat-Ordnung sind aus Waldelværi-Sicht *neu*. Diese Einstufung wird sich **zu Lebzeiten des [[Protagonist|Protagonisten]]** ändern — er, in einen Baum hineingeboren und mit Außenblick, ist ein denkbarer Auslöser dieses Stufenwechsels.
+**Warum noch immer `-ani`?** Obwohl die Theriani längst eng eingebunden sind, führen die Elværi sie weiter als `-ani` (niedrigste [[#Völker-Endungen (Ansehensbeugung)|Ansehensstufe]]). Der Grund ist kein Hass, sondern **Trägheit eines sehr langen Gedächtnisses**: Sowohl die Theriani als Volk als auch die heutige Triumvirat-Ordnung sind aus Waldelværi-Sicht *neu*. Diese Einstufung wird sich **zu Lebzeiten des [[Protagonist|Protagonisten]]** ändern — er, in einen Baum hineingeboren und mit Außenblick, ist ein denkbarer Auslöser dieses Stufenwechsels.
 
-> *Wichtig:* Diese tiefe Einbindung ist eine **Waldelværi**-Besonderheit. [[Elværi#Phänotypen & ihr Riss|Frost- und Wüstenelværi]] haben sie nicht — ihnen fehlt das Substrat (ein noetisch wachsender Familienbaum gedeiht weder im hohen Norden noch in der [[03.05 Grenzen & Einschränkungen#Noetisch tote Regionen|noetisch toten Wüste]]), und ihre Ressourcenlage ist eine völlig andere.
+> *Wichtig:* Diese tiefe Einbindung ist eine **Waldelværi**-Besonderheit. [[Elværi#Phänotypen|Frost- und Wüstenelværi]] haben sie nicht — ihnen fehlt das Substrat (ein noetisch wachsender Familienbaum gedeiht weder im hohen Norden noch in der [[03.05 Grenzen & Einschränkungen#Noetisch tote Regionen|noetisch toten Wüste]]), und ihre Ressourcenlage ist eine völlig andere.
 
 ### Meinung über andere Völker
 
@@ -177,7 +177,7 @@ Man muss es so sagen: Waldelværi sind **elitär** — im Guten wie im Schlechte
 
 ## Handwerk & Technologie
 
-Neben den [[#Der Familienbaum|Familienbäumen]] sind die Waldelværi sehr gut darin, **N-Kraft mithilfe geeigneter Materialien in Werkzeuge einzubetten** — so entstehen die verschiedensten komplexen noetischen Werkzeuge. Diese „Spitze" ist die des bio-noetischen Pfads; sie kann nicht so schnell iterieren wie gefertigte Technik (→ [[Elværi#Eine zum Aussterben verdammte Spezies?|die Elværi-Falle]]).
+Neben den [[#Der Familienbaum|Familienbäumen]] sind die Waldelværi sehr gut darin, **N-Kraft mithilfe geeigneter Materialien in Werkzeuge einzubetten** — so entstehen die verschiedensten komplexen noetischen Werkzeuge. Diese „Spitze" ist die des bio-noetischen Pfads; sie kann nicht so schnell iterieren wie gefertigte Technik (→ [[Elværi#Aussterberisiko|die Elværi-Falle]]).
 
 ```
 TODO: Konkrete Beispiele für noetische Werkzeuge ausarbeiten.
@@ -208,7 +208,7 @@ In ihrer eigenen, gesungenen Sprache nennen sich die Waldelværi **Elværi**; ih
 
 Eine **klein gehaltene** Menge eigener Elværin-Begriffe für Klang-, Wellen- und Resonanzkonzepte — Material für das [[05.02 Vermittlung des Magiesystems#Das Elværin-Übersetzungs-Mittel|Übersetzungs-Mittel]]. Drei rasten sauber in Erd-Physik ein, einer bleibt unübersetzbar (**asymmetrische Übersetzung**).
 
-**Maelor** *(EN: Maelor)* — die Wucht, die Größe der Welle. **Erd-Entsprechung: Amplitude.** Handwerks-/Lernsprache; rastet bei [[05.02 Vermittlung des Magiesystems#Das Meilenstein-Skelett des Bogens|M3]] ins Erd-Verständnis ein.
+**Maelor** *(EN: Maelor)* — die Wucht, die Größe der Welle. **Erd-Entsprechung: Amplitude.** Handwerks-/Lernsprache; rastet bei [[05.02 Vermittlung des Magiesystems#Meilenstein-Skelett|M3]] ins Erd-Verständnis ein.
 
 **Enai** *(EN: Enai)* — die Art des Tons, das „Was" eines Effekts. **Erd-Entsprechung: Frequenz / Tonhöhe (Effekt-Art).** Handwerkssprache.
 
@@ -236,9 +236,9 @@ Weil Elværin die Muttersprache des [[Protagonist]]en ist, liest sie sich für i
 2. **Das unübersetzbar Gefühlte** — *Sael* und seinesgleichen (die Asymmetrie).
 3. **Fachbegriffe im Lern-Moment** — *Maelor, Enai, Anaren*: erst Fremdwort, dann Übersetzungs-Schnapp, am Ende bleibt das Wort stehen (Leser wird zweisprachig).
 
-Alles Übrige — Alltagswörter und das **System selbst** („Noetische Energie" hat innerweltlich kein Wort; Figuren sagen Magie, Segen, Fluch) — bleibt in der Lesersprache. Die ersten Kapitel tragen ohnehin **null Systemsprache** (→ [[05.02 Vermittlung des Magiesystems#Erzählstrategie: vom Empfinden zur Struktur|05.02]]).
+Alles Übrige — Alltagswörter und das **System selbst** („Noetische Energie" hat innerweltlich kein Wort; Figuren sagen Magie, Segen, Fluch) — bleibt in der Lesersprache. Die ersten Kapitel tragen ohnehin **null Systemsprache** (→ [[05.02 Vermittlung des Magiesystems#Erzählstrategie|05.02]]).
 
-### Die Völker-Endungen — Ansehen als gesungene Beugung
+### Völker-Endungen (Ansehensbeugung)
 
 Die Elværin-Namen aller kulturschaffenden Spezies tragen ihr **Ansehen in der Endung** — eine gesungene Beugung, kein bloßes Etikett:
 

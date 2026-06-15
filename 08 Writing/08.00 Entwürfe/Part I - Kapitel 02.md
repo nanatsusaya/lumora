@@ -134,7 +134,7 @@ Hier geht es um fünf Götter:
 * Person 3: die [[02.04 Religion & Götter#Elvaerigöttin (Arbeitstitel)|Elværigöttin]]
 * Die Person über die Gesprochen wird ist der [[02.04 Religion & Götter#Ursprungsgott|Ursprungsgott]]
 * Die Person zu den die drei Götter gehen ist der [[02.04 Religion & Götter#Raum-Zeit-Gott (RZG)|Raum-Zeit-Gott]]
-* Das Thema ist der [[__Lore & Mystery#Der doppelte Auslöser der Geschichte|drohende Untergang Lumoras]] und die [[02.05 Geschichte#Die Drei Regeln|Die Drei Regeln]]
+* Das Thema ist der [[__Lore & Mystery#Auslöser der Geschichte|drohende Untergang Lumoras]] und die [[02.05 Geschichte#Die Drei Regeln|Die Drei Regeln]]
 * Ich muss den Text noch umschreiben. Es darf nicht so wirken, als würden hier drei Menschen irgendwo hingehen.
 * Der #rzg entscheidet hier, nachdem er ein "Blick in die Zukunft" geworfen hat, dass Lumora wirklich vor der Auslöschung steht. Er beschließt, einen Außenseiter einzubeziehen. Dieser soll unter den Elværi aufwachsen.
 

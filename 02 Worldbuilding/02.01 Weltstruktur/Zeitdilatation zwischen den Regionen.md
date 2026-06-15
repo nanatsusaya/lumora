@@ -27,7 +27,7 @@ In *gelebter* Zeit gemessen läuft Lumoras Zeit etwa **388-mal schneller** als d
 | 400 Lumorajahre | ~2 Erdjahre |
 | ~200 Mio. Lumorajahre | ~1 Mio. Erdjahre |
 
-## Zwei Konsequenzen für die Geschichte
+## Konsequenzen für die Geschichte
 
 **1. Der gemeinsame Ursprung wird zeitlich möglich.** Das [[Der gemeinsame Ursprung|Fremdbringer-Saatgut]] war ein früher Menschenvorfahr von der **Erde**. Auf der Erde liegt diese Verschleppung nur ~1 Mio. Jahre zurück (ein früher Vertreter der Gattung *Homo*) — auf Lumora aber, wegen des Faktors, ~200 Mio. Jahre. So kann ein *erdmenschlicher* Vorfahr am Grund fast aller humanoiden Völker Lumoras stehen, obwohl deren Stammbäume in die Tiefenzeit reichen. Das erklärt, warum sich die sieben Völker für den [[Der Protagonist|Protagonisten]] (einen Erdmenschen) so vertraut anfühlen: Sie sind buchstäblich seine sehr entfernten Verwandten. *(→ [[Der gemeinsame Ursprung]])*
 

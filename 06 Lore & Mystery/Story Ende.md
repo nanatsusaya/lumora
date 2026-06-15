@@ -3,7 +3,7 @@ tags:
   - wip
   - spoiler
 ---
-# Die Auflösung — Das Ende der Geschichte
+# Auflösung
 
 > **Spoiler-Warnung:** Diese Notiz enthält zentrale Twists und versteckte Wahrheiten der Geschichte. Nur für den Autor.
 
@@ -27,7 +27,7 @@ Mögliche Wege:
 2. Alle Götter vereinen sich gegen den Ursprungsgott.
 3. **Nicht Vernichtung** — das wäre Deus ex Machina. Das wäre genau das, wogegen Lumora antritt.
 
-## Die eigentliche Auflösung: Selbsterkenntnis
+## Selbsterkenntnis
 
 > Das Ende ist keine Vernichtung — es ist Heilung.
 

@@ -3,7 +3,7 @@ tags:
   - wip
   - spoiler
 ---
-# Leitmotiv: Emergente Folgen
+# Emergente Folgen
 
 > **Spoiler-Hinweis:** Verknüpft offen sichtbare Welt-Phänomene mit dem zentralen Geheimnis (→ [[Das Kernproblem]]). Nur für den Autor.
 
@@ -21,11 +21,11 @@ Niemand ist der Bösewicht; das Unheil entsteht aus der *Struktur*, nicht aus b�
 - **Harmonisches Zusammenleben.** Biologisch zur Sanftmut selektiert — und gerade deshalb blind für die Gefahr auf der Ebene von Kulturen und Distanz. *(→ [[03.07 Noetische Evolution]])*
 - **Die Elværigöttin.** Ihre Liebe ist echt — aber im falschen Zeitmaßstab; ihre Fürsorge kommt stets einen Schritt zu spät. *(→ [[Elværigöttin|Elværigöttin]])*
 - **Die göttliche Schablone der Elværi.** Eingeführt, um ein sanftes Volk überdauern zu lassen — und sät dabei selbst die Hybris und den Fortschrittsdrang, die es zur Katastrophe treiben. *(→ [[Waldelværi#Die göttliche Schablone|göttliche Schablone]])*
-- **Die Stärken der Elværi.** Langes Leben, lebende Technik, geringe Zahl — jede Stärke kippt im beschleunigten Zeitalter zur tödlichen Schwäche. *(→ [[Elværi#Eine zum Aussterben verdammte Spezies?|die Elværi-Falle]])*
+- **Die Stärken der Elværi.** Langes Leben, lebende Technik, geringe Zahl — jede Stärke kippt im beschleunigten Zeitalter zur tödlichen Schwäche. *(→ [[Elværi#Aussterberisiko|die Elværi-Falle]])*
 
 ---
 
-## Sonderfall: Strukturelle Vorurteilsbildung
+## Strukturelle Vorurteilsbildung
 
 Eine besondere Spielart desselben Musters: **Geringschätzung, die nicht im Herzen sitzt, sondern im Medium.**
 

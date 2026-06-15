@@ -3,7 +3,7 @@ tags:
   - wip
   - spoiler
 ---
-# Das Kernproblem — Die strukturelle Selbstzerstörung
+# Das Kernproblem
 
 > **Spoiler-Warnung:** Diese Notiz enthält zentrale Twists und versteckte Wahrheiten der Geschichte. Nur für den Autor.
 
@@ -20,20 +20,20 @@ Jedes höhere Lebewesen kann [[03.04 Erweiterte Konzepte#Die drei Kategorien noe
 Wer sich nicht beherrscht, stirbt früher. Über Äonen selektiert das zu Selbstregulation und harmonischem Zusammenleben. *(→ [[03.07 Noetische Evolution]])*
 
 **3. Kultur hebelt die Harmonie aus.**
-Der Schutzinstinkt sitzt im Individuum, nicht in der Institution. Völker und Nationen sind eine emergente Ebene ohne diesen Reflex — das erste, was tödlich handeln kann, ohne die Konsequenz zu spüren. *(→ [[02.03 Völker & Gesellschaften#Harmonie und ihre Grenze|Harmonie und ihre Grenze]])*
+Der Schutzinstinkt sitzt im Individuum, nicht in der Institution. Völker und Nationen sind eine emergente Ebene ohne diesen Reflex — das erste, was tödlich handeln kann, ohne die Konsequenz zu spüren. *(→ [[02.03 Völker & Gesellschaften#Grenzen der Harmonie|Harmonie und ihre Grenze]])*
 
 **4. Noetik im Krieg wird zur Selbstzerstörungsdynamik.**
-Individuell präzise Beherrschung + kollektiv fehlende Rückkopplung + skalierbare noetische Macht → eine Welt, die unaufhaltsam auf ihre eigene Vernichtung zutreibt. *(→ [[02.05 Geschichte#Das Makroproblem — Die Selbstzerstörungsdynamik|Das Makroproblem]])*
+Individuell präzise Beherrschung + kollektiv fehlende Rückkopplung + skalierbare noetische Macht → eine Welt, die unaufhaltsam auf ihre eigene Vernichtung zutreibt. *(→ [[02.05 Geschichte#Das Makroproblem|Das Makroproblem]])*
 
 **5. Das übliche Korrektiv — göttliches Eingreifen — ist gesperrt.**
-Anderswo könnten Götter eine Welt zurückholen. Auf Lumora verbieten es die [[06 Lore & Mystery/Die Drei Regeln|Drei Regeln]] — und ausgerechnet hier drängen sich besonders viele Götter. *(→ [[06 Lore & Mystery/Die Drei Regeln#Der kosmische Vergleich — warum gerade Lumora|Der kosmische Vergleich]])*
+Anderswo könnten Götter eine Welt zurückholen. Auf Lumora verbieten es die [[06 Lore & Mystery/Die Drei Regeln|Drei Regeln]] — und ausgerechnet hier drängen sich besonders viele Götter. *(→ [[06 Lore & Mystery/Die Drei Regeln#Kosmischer Vergleich|Der kosmische Vergleich]])*
 
 **6. Die Regeln sind die Falle des Chaosaspekts.**
 Drei simple Sätze, vor rund 2,2 Milliarden Jahren formuliert, führen zwangsläufig zum Zusammenbruch. Mit minimalem Einsatz schafft der „Chaosgott" maximales Chaos. *(→ [[06 Lore & Mystery/Die Drei Regeln|Die Drei Regeln als Falle]])*
 
 ---
 
-## Die geschlossene Schleife — warum ein Außenseiter
+## Die geschlossene Schleife
 
 Wenn **kein Gott** auf Lumora im großen Maßstab handeln darf, bleibt nur ein Hebel: ein Akteur, der *kein Gott* ist und dessen Handeln nicht als göttlicher Eingriff zählt — ein Sterblicher von außerhalb, über das Schlupfloch der freien Einwilligung hereingeholt.
 

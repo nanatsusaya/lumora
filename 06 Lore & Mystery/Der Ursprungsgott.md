@@ -4,12 +4,12 @@ tags:
   - spoiler
   - primal-god
 ---
-# Das große Geheimnis: Ursprungsgott = Chaosgott
+# Ursprungsgott = Chaosgott
 
 > **Spoiler-Warnung:** Diese Notiz enthält zentrale Twists und versteckte Wahrheiten der Geschichte. Nur für den Autor.
 
 ---
-## Die Wahrheit
+## Identität
 
 **Niemand weiß es** — nicht die Bewohner Lumoras, nicht die anderen Götter, und nicht einmal der Ursprungsgott selbst:
 
@@ -61,7 +61,7 @@ destabilisiert: nicht aus Bösartigkeit, sondern weil er die Heimat des Ursprung
 hasst, die er durch die Spaltung verloren hat.
 ```
 
-## Warum kein anderer Gott es versteht
+## Unwissen der anderen Götter
 
 Die anderen Götter Lumoras sind jung transzendiert — mächtig, aber dekohäriert. Ihr Energiekörper ist klassisch beschreibbar und lokal fixiert. Den Zustand der vollen Quantenkohärenz, in dem Superposition und Bewusstseinsspaltung möglich sind, haben sie nie erlebt.
 

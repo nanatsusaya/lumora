@@ -24,7 +24,7 @@ Das Gestein der dicken Kruste ist im Allgemeinen massiver als auf der Erde — a
 
 ---
 
-## Die Unterwelt — eine zweite Biosphäre
+## Die Unterwelt
 
 Während der [[02.05 Geschichte#Die Werkstatt der Götter|Werkstatt der Götter]] sorgten viele Götter dafür, dass Lumora **auf der Oberfläche, unter Wasser und unter der Erde** eine außerordentlich reiche Lebenswelt entwickelte. Die Unterwelt ist also kein totes Gestein, sondern eine eigene, dicht belebte Biosphäre.
 

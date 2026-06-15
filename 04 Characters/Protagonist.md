@@ -27,7 +27,7 @@ Der Protagonist ist das Herzstück der Geschichte. Er ist kein klassischer Held 
 
 ---
 
-## Wurzeln & Wunde (Vergangenheit)
+## Vergangenheit
 
 Die wenigen bekannten Fakten seiner Vergangenheit tragen bereits seine ganze Psychologie:
 
@@ -48,7 +48,7 @@ Auf der Erde nähert sich ihm der [[Raum-Zeit-Gott|RZG]] in Gestalt eines neuen 
 
 > Die Einwilligung ist kein Zufall, sondern ein Schlupfloch um die [[02.04 Religion & Götter#Die Drei Regeln des Ursprungsgottes|Drei Regeln]]: Der RZG *entführt* nicht, er lässt frei zustimmen — dem Buchstaben nach regelkonform, dem Sinn nach Verrat.
 
-**Warum er sterben muss:** Bewusstsein ist das emergente Wirken des gesamten Nervensystems samt seiner Energien und Quantenzustände. Es lässt sich nicht *kopieren*, nur *verlagern*: Das Substrat wird am Ursprung entnommen und anderswo neu integriert — eine Kopie würde das Original zurücklassen, echter Transfer zerstört es. **Darum die Wiedergeburt als Säugling:** Ein fertiges, erwachsenes Gehirn ist bereits „besetzt" und inkompatibel; nur ein sich entwickelndes Nervensystem integriert das fremde Substrat von Grund auf. Das erklärt sein volles Bewusstsein ab der Geburt — und warum ein Baby zu sein für ihn eine eigene Form der Hölle wird. (Physikalische Begründung — No-Cloning, RZG als Kanal: [[Story Start#Bewusstseinstransfer — Warum der Protagonist sterben muss]].)
+**Warum er sterben muss:** Bewusstsein ist das emergente Wirken des gesamten Nervensystems samt seiner Energien und Quantenzustände. Es lässt sich nicht *kopieren*, nur *verlagern*: Das Substrat wird am Ursprung entnommen und anderswo neu integriert — eine Kopie würde das Original zurücklassen, echter Transfer zerstört es. **Darum die Wiedergeburt als Säugling:** Ein fertiges, erwachsenes Gehirn ist bereits „besetzt" und inkompatibel; nur ein sich entwickelndes Nervensystem integriert das fremde Substrat von Grund auf. Das erklärt sein volles Bewusstsein ab der Geburt — und warum ein Baby zu sein für ihn eine eigene Form der Hölle wird. (Physikalische Begründung — No-Cloning, RZG als Kanal: [[Story Start#Bewusstseinstransfer]].)
 
 > *Kritische Anmerkung:* Die Restfrage — *„Bin ich wirklich noch ich, oder bin ich auf der Erde gestorben und nur eine Kopie, die glaubt, ich zu sein?"* — ist nicht auflösbar, und das ist gewollt. Das System gibt die Autoren-Antwort (echte Kontinuität, kein Duplikat); der Protagonist als Naturwissenschaftler kann das nie *wissen*. Dieser Zweifel ist der Motor seiner Identitätskrise — nutze ihn, statt ihn aufzulösen.
 
@@ -72,7 +72,7 @@ Auf der Erde nähert sich ihm der [[Raum-Zeit-Gott|RZG]] in Gestalt eines neuen 
 
 ---
 
-## Kernfehler & Wandel — der Spiegel zum RZG
+## Kernfehler & Wandel
 
 Sein zentraler Fehler ist das **selektive Hören und Wegschauen**: Er nimmt von der Welt nur, was ihn unmittelbar betrifft, und überhört oder übersieht den Rest (siehe oben: *Emotionale Blindheit*, *Ignoriert soziale Spannungen*). Genau dieser Fehler wird sein Verhängnis — und er teilt ihn mit dem Wesen, das ihn nach Lumora bringt.
 
@@ -80,7 +80,7 @@ Sein zentraler Fehler ist das **selektive Hören und Wegschauen**: Er nimmt von 
 - **Gleich in der Sünde, entgegengesetzt im Preis.** Das selektive Hören des Protagonisten kostet *ihn*; das des RZG kostet ihn *alles* — und den Gott *nichts*. Darum ist sein späterer Zorn auf den RZG *zugleich* heuchlerisch (er tat dasselbe) *und* berechtigt (die Folgen sind grotesk ungleich). Diese Doppeldeutigkeit nicht auflösen.
 - **Der Bogen.** Seine ganze Entwicklung auf Lumora — vom Wegschauer zum Verantwortungsträger — ist das mühsame Erlernen des *Gegenteils*: wirklich hinhören, wirklich hinsehen. Wenn er den RZG viel später in dessen wahrer Gestalt voller Hass anschnauzt, brüllt er im Grunde sein altes Ich an. Die Konfrontation ist daher kein bloßes „ich hasse dich", sondern: Er erkennt sich im Verhassten.
 
-> *Anmerkung:* Warum gerade *er* gewählt wurde, ist bewusst **kein besonderer Grund** — Kontingenz, kein Auserwähltsein. Ausführlich: [[Story Start#Wieso genau diese Person?]] und [[Story Start#Mensch und Gott — derselbe Fehler]].
+> *Anmerkung:* Warum gerade *er* gewählt wurde, ist bewusst **kein besonderer Grund** — Kontingenz, kein Auserwähltsein. Ausführlich: [[Story Start#Auswahl des Protagonisten]] und [[Story Start#Mensch und Gott]].
 
 ---
 
@@ -127,7 +127,7 @@ Die Rettung Lumoras ist anfangs irrelevant für ihn. Lumora wird erst dann zur P
 
 ---
 
-## Der Gender Bender
+## Geschlechterwechsel
 
 Der Protagonist war auf der Erde männlich und Vater. Er wird auf Lumora als Elværi-Frau wiedergeboren.
 
@@ -168,7 +168,7 @@ Das wäre die persönliche Auflösung: Die zwei Identitäten (Erde und Lumora, m
 
 ---
 
-## Innere Monologe (Tonbeispiele aus dem Archiv)
+## Innere Monologe (Beispiele)
 
 Diese Zitate geben den Ton des Protagonisten wieder:
 

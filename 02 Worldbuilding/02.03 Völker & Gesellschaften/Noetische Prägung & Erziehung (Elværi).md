@@ -25,7 +25,7 @@ Wichtige Trennung, um nichts zu verwechseln:
 
 Bei den [[Waldelværi]] ist das [[Noetische Wahrnehmung#Äußerer Träger und innere Resonanz|Trägermedium]] der **Gesang**: Die Mutter singt eine Note (Schall) und moduliert gleichzeitig ihre Noetische Energie. Das Kind nimmt beides zugleich auf, kann die Grenze aber noch nicht ziehen. Wirkung: Trost, Nähe — und eine frühe, unbewusste Prägung auf noetische Wahrnehmung.
 
-Der Gesang ist dabei nicht nur süß, sondern **lebenswichtig**: Ein Säugling mit starker Emotion kann [[Noetische Wahrnehmung#Frühe Kindheit: Verwundbarkeit und Selbstgefahr|noetisch gegen sich selbst]] wirken. Der Gesang der Mutter stabilisiert das Feld und schützt so auch **vor Selbstverletzung** — beruhigt also emotional *und* noetisch. Beim [[Protagonist]]en (erwachsener Geist im Säuglingskörper) wird genau das zur tragenden Auftaktszene.
+Der Gesang ist dabei nicht nur süß, sondern **lebenswichtig**: Ein Säugling mit starker Emotion kann [[Noetische Wahrnehmung#Frühe Kindheit|noetisch gegen sich selbst]] wirken. Der Gesang der Mutter stabilisiert das Feld und schützt so auch **vor Selbstverletzung** — beruhigt also emotional *und* noetisch. Beim [[Protagonist]]en (erwachsener Geist im Säuglingskörper) wird genau das zur tragenden Auftaktszene.
 
 > *Anmerkung (Leitmotiv-Kandidat):* Wenn der Protagonist später begreift, *was* damals geschah — „War das Liebe oder Technik? Beides. In Phase." — wird daraus kein Verrat, sondern eine Erweiterung: Liebe und Technik schließen sich nicht aus. Das passt zur Philosophie des [[01.08 Lumora-Manifest|Manifests]] (Bewusstsein ist real *und* physikalisch). Verwendung → [[05.02 Vermittlung des Magiesystems]].
 
@@ -65,11 +65,11 @@ Daraus folgt:
 - **Die Alterklasse ist ein grobes Fenster, kein Skill-Tor.** Dass jemand ab einem Alter als „Jugendlicher" gilt, heißt nicht, dass er bis genau dahin alle Kind-Fähigkeiten lernt — meist ist er früher fertig, manchmal später. Wie beim Spracherwerb: Kinder lernen Kindersprache, ein neugieriges Kind kann aber auch fortgeschrittene Register früh aufschnappen. (Passend dazu hängen die Elværi-Sprachstufen [[Elværi#Sprache|ausdrücklich nicht vom Alter, sondern von der Übungsdauer]] ab.)
 - **Die Lern-Uhr kann der Reife-Uhr vorauseilen.** Ein Kind kann ein Konzept längst *verstehen*, bevor sein Feld es *tragen* kann — Verständnis vor biologischer Kapazität.
 
-> *Hinweis:* Diese beiden Uhren betreffen das *einzelne* Wesen. Sie sind nicht zu verwechseln mit den *zivilisatorischen* [[Elværi#Die zwei Uhren & das gemächliche Tempo|„zwei Uhren"]], mit denen das langsame Technik-Tempo des Volkes erklärt wird.
+> *Hinweis:* Diese beiden Uhren betreffen das *einzelne* Wesen. Sie sind nicht zu verwechseln mit den *zivilisatorischen* [[Elværi#Lebenstempo|„zwei Uhren"]], mit denen das langsame Technik-Tempo des Volkes erklärt wird.
 
 > *Anmerkung (interpretierend, #wip ):* Genau hier sitzt der [[Protagonist]] als Extremfall — erwachsener Geist, Kind-Feld. Seine Lern-Uhr rast (Erd-Wissen, scharfe Wahrnehmung, erwachsene Disziplin), seine Reife-Uhr steht auf „Kleinkind" (kaum Wucht, unreifes Feld). Das ist der **mechanische Boden des Verstehen-≠-Können-Konflikts**: Die erlernbaren Achsen können hoch sein, während die biologisch gegateten kindlich bleiben. Welche Achse genau wie stark an welcher Uhr hängt, ist noch offen.
 
-Erzählerische Verdichtung dieser langen Kindheit → [[05.02 Vermittlung des Magiesystems#Das Pacing-Problem: 150 Jahre Kindheit|Pacing]].
+Erzählerische Verdichtung dieser langen Kindheit → [[05.02 Vermittlung des Magiesystems#Pacing-Problem|Pacing]].
 
 ---
 

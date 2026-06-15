@@ -23,6 +23,6 @@ Dieser Bereich enthält das verborgene Wissen Lumoras — Geheimnisse, die die W
 
 ---
 
-## Nicht nur Spoiler
+## Funktion
 
 In diesem Bereich werden nicht nur harte Spoiler erklärt, sondern auch Hintergründe die sich aus der Story und der Welt auf eher Struktureller und Meta Ebene ergeben. Ein typisches Beispiel sind die [[Emergente Folgen]]. Sie beschreiben nicht per se einen Spoiler. Das Elværi als Versnobt gelten ist allseits bekannt. Aber warum das ist, dass das ein Problem aus unterschiedlichen Kulturen ist, ist nicht allseits bekannt. Und das dieses eine Thema auch nur ein Problem von vielen derselben Art ist, ist erst recht nicht bekannt.
