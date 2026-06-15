@@ -178,6 +178,8 @@ Diese Zitate geben den Ton des Protagonisten wieder:
 
 Der Protagonist denkt modern, selbstironisch und direkt. Das ist sein unverwechselbarer Stil — und ein natürliches Mittel, Lumora durch fremde Augen zu zeigen.
 
+Die Inneren Monologe sollen zudem auch für den Leser ironisch witzig sein. Ein Leser der die Gedanken des Protagonisten in einer Novel liest, indem der Protagonist denkt "Zum Glück kann niemand meine Gedanken lesen" ist exakt die Art von Ironie und Witz, die ich persönlich mag. Das soll das ansonsten so komplexe und schwere Thema der Novel übrigens etwas aufweichen. Der Protagonist ist mit seinen eigenen Gedanken sein eigener [Comic relief](https://de.wikipedia.org/wiki/Comic_Relief_(Stilmittel)).
+
 ```
 TODO: Name des Protagonisten fehlt noch.
 TODO: Soll der Protagonist von Null zu Anführer wachsen?
