@@ -139,6 +139,8 @@ Die Einreise in Waldelværi-Gebiete ist sehr streng — nur befähigtes Personal
 
 > *Kritische Anmerkung:* Der Elværi-Elitismus ist eine **gestufte, paternalistische Form von Speziesismus** — Lumoras Pendant zu Rassismus, nur entlang *Spezies*-Linien. Eine Nation ist die Summe ihrer Bürger, in Lumora spezifischer: der Spezies, aus denen sie besteht. 
 
+Die Fremdbilder und Vorurteile der Waldelværi über die anderen Völker sind werden unter [[Was die Völker übereinander denken#Elværi|Was denken die Elværi über...]] gelistet.
+
 ### Theriani im Stamm
 
 Mit den [[Theriani]] verbindet die Waldelværi eine besondere, tiefe Symbiose — ein Musterbeispiel, wie zwei grundverschiedene Völker harmonisch zusammenleben. Die Waldelværi haben das [[Theriani#Gesellschaft|Rudel-Denken]] der Theriani verstanden und binden ein kleines **Rudel** (bei großen Bäumen eine ganze **Horde**) in ihren [[#Der Familienbaum|Familienbaum]] — und damit in ihren **Stamm** — ein. Da im Baum der Stamm lebt, *werden* die eingebundenen Theriani Teil des Stammes; die Begriffe **Rudel** und **Stamm** verschmelzen.
@@ -155,17 +157,6 @@ Mit den [[Theriani]] verbindet die Waldelværi eine besondere, tiefe Symbiose �
 **Warum noch immer `-ani`?** Obwohl die Theriani längst eng eingebunden sind, führen die Elværi sie weiter als `-ani` (niedrigste [[#Völker-Endungen (Ansehensbeugung)|Ansehensstufe]]). Der Grund ist kein Hass, sondern **Trägheit eines sehr langen Gedächtnisses**: Sowohl die Theriani als Volk als auch die heutige Triumvirat-Ordnung sind aus Waldelværi-Sicht *neu*. Diese Einstufung wird sich **zu Lebzeiten des [[Protagonist|Protagonisten]]** ändern — er, in einen Baum hineingeboren und mit Außenblick, ist ein denkbarer Auslöser dieses Stufenwechsels.
 
 > *Wichtig:* Diese tiefe Einbindung ist eine **Waldelværi**-Besonderheit. [[Elværi#Phänotypen|Frost- und Wüstenelværi]] haben sie nicht — ihnen fehlt das Substrat (ein noetisch wachsender Familienbaum gedeiht weder im hohen Norden noch in der [[03.05 Grenzen & Einschränkungen#Noetisch tote Regionen|noetisch toten Wüste]]), und ihre Ressourcenlage ist eine völlig andere.
-
-### Meinung über andere Völker
-
-Hier werden einmal ganz Allgemein beschrieben, wie die Waldelværi über andere Völker denken. Das beinhaltet keine Fixe Meinung, sonderen eine Tenzenz, oder im besten Fall Vorurteile, die die Elværi über die Völker haben:
-
-* **Anelari:**
-	* Sie waren vor einigen Generationen ein friedfertiges und schlaues Volk. Inzwischen hat sich scheinbar das gesamte Volk in einen endlosen Krieg verloren. Die Unterwelt badet im Blut dieses Volkes. Eventuell sollten wir sie lieber "Anelani" nennen.
-	* Der Handel war nicht leicht aber immer lohnenswert.
-	* Sie sind großartige Handwerker.
-	* Ihre Angst vor der Sonne macht sie sehr speziell.
-	* Sie haben einen seltsamen Kalender. 
 
 ---
 

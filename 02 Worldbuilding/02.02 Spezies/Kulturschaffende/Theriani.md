@@ -8,7 +8,7 @@ tags:
 *EN: Theriani (Beast-People)*
 *Tag:* #theriani
 
-Die **Theriani** (klassischer Fantasy-Begriff: *Tiermenschen*) sind das säugetierartige Tiervolk Lumoras — eine der zwölf kulturschaffenden [[Spezies]]. *Theriani* ist ihr [[Waldelværi#Die Völker im Elværin (Waldelværi-Exonyme)|Elværin-Name]] (von griech. *therion*, „wildes Tier“ → „die Wilden“), Endung `-ani` — die niedrigste Achtungsstufe. Das spiegelt, wie die [[Elværi]] sie sehen: fleißig und zuverlässig, aber kaum als ebenbürtig respektiert (→ [[Waldelværi#Meinung über andere Völker|Elværi-Sicht]]).
+Die **Theriani** (klassischer Fantasy-Begriff: *Tiermenschen*) sind das säugetierartige Tiervolk Lumoras — eine der zwölf kulturschaffenden [[Spezies]]. *Theriani* ist ihr [[Waldelværi#Die Völker im Elværin (Waldelværi-Exonyme)|Elværin-Name]] (von griech. *therion*, „wildes Tier“ → „die Wilden“), Endung `-ani` — die niedrigste Achtungsstufe. Das spiegelt, wie die [[Elværi]] sie sehen: fleißig und zuverlässig, aber kaum als ebenbürtig respektiert (→ [[Was die Völker übereinander denken#Elværi|Elværi-Sicht]]).
 
 **Steckbrief**
 
