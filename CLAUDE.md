@@ -155,6 +155,14 @@ Names with special letters use an **ASCII slug** for the tag (e.g. *Elværi* →
 
 #### Writing Style Inside Notes
 
+**Tone — factual and objective (all notes except the actual story prose).**
+Notes are reference material and must read like a neutral knowledge base, not like a conversation or an essay. This applies to **headings and body text**:
+
+- **Headings** are short, neutral labels — no essayistic subtitles (`Begriff — eine poetische Pointe`), rhetorical questions, or dramatic colons.
+- **Body text** states facts and mechanics plainly. Avoid dramatizing flourishes (*„treibt unaufhaltsam auf die eigene Vernichtung zu"*), evaluative/aphoristic phrasing, punchy one-line antitheses, and chatty fillers (*„ehrlich"*, *„Pikant:"*, *„die Krönung"*).
+- **No authorial "wir/uns" framing** in reference notes: *„In dieser Note beschreiben wir …"* → *„Diese Notiz beschreibt …"*.
+- **Exceptions that stay subjective by design:** the German story prose in `08 Writing`; sanctioned author-voice blocks (`> *Kritische Anmerkung:*` / `> *Anmerkung:*`); in-world quotations; spoiler warnings; `Merksatz` axioms; and the craft/process framing in `05 Story Architecture` and `09 Meta` (when it talks about *writing* the story, not about world facts).
+
 **Compact sections** (for peoples, gods, etc.):
 ```
 **Biologie:** ...
@@ -291,7 +299,7 @@ Claude is an **active creative collaborator**, not just a consistency checker.
 
 ---
 
-**Last updated:** 2026-06-12
+**Last updated:** 2026-06-15
 **Project stage:** Story Architecture & Character Development; Elværin language system established
 **Next milestone:** Deepen story architecture (acts, chapters, scenes) across Part I–V
-**Conventions last revised:** 2026-06-12 (Elværin species naming + language system applied vault-wide; fixed stale paths)
+**Conventions last revised:** 2026-06-15 (added factual/objective tone rule for all notes except story prose; headings + body de-essayified across 02–06)
