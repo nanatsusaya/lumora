@@ -45,8 +45,8 @@ Auf Lumora ist genau dieser Hebel entfernt. Die Drei Regeln verbieten jedes Eing
 
 ### Die Rückkopplung
 
-Die Falle hat einen perfiden Verstärker. Weil die Regeln offenen Götterkrieg unterbinden, wirkt Lumora **trügerisch friedlich** — ein „ruhiges Plätzchen", das weitere Götter anzieht (der RZG bleibt genau deshalb). Mehr Götter bedeuten mehr konkurrierende Einflüsse auf die Kulturen, und nach Regel 1 darf keiner stabilisierend durchgreifen.
+Die Falle hat einen zusätzlichen Verstärker. Weil die Regeln offenen Götterkrieg unterbinden, wirkt Lumora **scheinbar friedlich** — ein ruhiger Ort, der weitere Götter anzieht (der RZG bleibt genau deshalb). Mehr Götter bedeuten mehr konkurrierende Einflüsse auf die Kulturen, und nach Regel 1 darf keiner stabilisierend durchgreifen.
 
-> **Die außergewöhnliche Götterdichte Lumoras ist damit zugleich Symptom und Beschleuniger der Falle. Der Frieden zieht jene an, deren bloße Vielzahl ihn untergräbt.**
+> **Die außergewöhnliche Götterdichte Lumoras ist damit zugleich Symptom und Beschleuniger der Falle: Der Frieden zieht weitere Götter an, deren Vielzahl ihn wiederum untergräbt.**
 
 *(Die vollständige Verkettung von Noetik, Harmonie und Regeln → [[06 Lore & Mystery/Das Kernproblem|Das Kernproblem]].)*

@@ -41,7 +41,7 @@ Er trägt die Teilung dreifach, jeden Tag:
 - **Mann vs. Frau** — ein männlicher Vater in einem weiblichen Körper.
 - **Void vs. Noetik** — ein Geist ohne angeborenen noetischen Instinkt in einem hoch-noetischen Wesen.
 
-Diese Spaltung wird nicht *erklärt*, sondern in unzähligen **Alltagsmomenten gezeigt** und über einen langen Zeitraum wiederholt: dass er im Stehen zu pinkeln versucht; dass er als Frau einen männlichen Gang hat, den ihm alle abzugewöhnen versuchen; dass er Noetik mühsam analytisch lernen muss, wo Kinder sie instinktiv beherrschen. Jede kleine Reibung des „ein Ding sein und doch ein anderes" ist das **Saatbeet** der späteren kosmischen Erkenntnis. Er wird *gezwungen*, bewusst zu wissen, was der Ursprungsgott unbewusst erleidet.
+Diese Spaltung wird nicht *erklärt*, sondern in unzähligen **Alltagsmomenten gezeigt** und über einen langen Zeitraum wiederholt: dass er im Stehen zu pinkeln versucht; dass er als Frau einen männlichen Gang hat, den ihm alle abzugewöhnen versuchen; dass er Noetik mühsam analytisch lernen muss, wo Kinder sie instinktiv beherrschen. Jede kleine Reibung des „ein Ding sein und doch ein anderes" ist die **Grundlage** der späteren kosmischen Erkenntnis. Er wird *gezwungen*, bewusst zu wissen, was der Ursprungsgott unbewusst erleidet.
 
 ---
 

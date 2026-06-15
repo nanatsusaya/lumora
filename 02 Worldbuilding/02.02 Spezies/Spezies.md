@@ -6,11 +6,11 @@ tags:
 
 *Tag:* #species
 
-In Lumore unterscheiden wir zwischen [[Kulturschaffende Spezies|kulturschaffenden Spezien]], welche sich in verschiedenen Nationen als Völker zusammen finden (siehe [[02.03 Völker & Gesellschaften|Gesellschaften]]) und nicht intelligente [[Tiere]].
+Auf Lumora wird unterschieden zwischen [[Kulturschaffende Spezies|kulturschaffenden Spezien]], welche sich in verschiedenen Nationen als Völker zusammen finden (siehe [[02.03 Völker & Gesellschaften|Gesellschaften]]) und nicht intelligente [[Tiere]].
 
 ## Kulturschaffende Spezies
 
-In Bereich der [[Kulturschaffende Spezies|Kulturschaffende Spezies]] geben wir einen generellen Überblick über alle bekannten intelligenten Spezien Lumoras, dass beinhaltet:
+Im Bereich der [[Kulturschaffende Spezies|Kulturschaffende Spezies]] folgt ein genereller Überblick über alle bekannten intelligenten Spezien Lumoras, das beinhaltet:
 
 - Herkunft
 - Biologische Grundstruktur

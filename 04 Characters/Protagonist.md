@@ -15,7 +15,7 @@ tags:
 
 ## Identität & Besonderheit
 
-Der Protagonist ist das Herzstück der Geschichte. Er ist kein klassischer Held — er ist ein gewöhnlicher Mensch mit einer ungewöhnlichen Denkweise, der in eine außergewöhnliche Situation geworfen wird.
+Der Protagonist steht im Zentrum der Geschichte. Er ist kein klassischer Held — er ist ein gewöhnlicher Mensch mit einer ungewöhnlichen Denkweise, der in eine außergewöhnliche Situation geworfen wird.
 
 **Herkunft:** Erde. Lehrer auf einer normalen Schule im Bereich der Naturwissenschaften.
 

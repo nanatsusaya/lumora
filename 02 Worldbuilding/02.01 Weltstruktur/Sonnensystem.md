@@ -4,7 +4,7 @@ tags:
 ---
 # Sonnensystem
 
-In dieser Note beschreiben wir den aktuelle Aufbau von Lumoras Sonnensystem. Es besteht aus einer Zentralsonne, mehreren Planetengürteln und einem Asteroidengürtel. 
+Diese Notiz beschreibt den aktuellen Aufbau von Lumoras Sonnensystem. Es besteht aus einer Zentralsonne, mehreren Planetengürteln und einem Asteroidengürtel. 
 
 Das Sonnensystem ist relativ jung und dynamisch — ein Spiegelbild seiner turbulenten [[#Entstehungsgeschichte|Entstehungsgeschichte]]. Die Himmelsbeobachtung spielt in vielen Kulturen Lumoras eine zentrale Rolle, da mehrere Planeten mit bloßem Auge sichtbar sind.
 

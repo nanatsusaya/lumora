@@ -9,7 +9,7 @@ tags:
 *Tag:* #chaos-god
 
 - Transzendiert. Befindet sich außerhalb des Sonnensystems.
-- Mag Änderungen, Zerfall und Neuanfang. Entwickelt alles revolutionär.
+- Bevorzugt Änderungen, Zerfall und Neuanfang. Entwickelt alles revolutionär.
 - Braucht wenig Noetische Energie für Chaos → Hotspots weniger relevant.
 - **Kennt seine eigene gespaltene Natur. Kennt den [[Ursprungsgott]].**
 - Kann den Ursprungsgott bewusst beeinflussen.

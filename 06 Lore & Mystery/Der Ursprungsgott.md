@@ -35,9 +35,9 @@ Die Spaltung war asymmetrisch. Der Ordnungsaspekt trägt den Großteil der urspr
 - Trägt den Großteil der Energie und Stabilität des ursprünglichen Wesens.
 - Bleibt dauerhaft im Sonnensystem.
 - Ist sich der zweiten Hälfte vollständig unbewusst.
-- Mag Ordnung, stetiges Wachstum, evolutionäre Entwicklung.
+- Bevorzugt Ordnung, stetiges Wachstum und evolutionäre Entwicklung.
 - Kann unbewusst vom Chaosaspekt beeinflusst werden — hält das für eigene Gedanken.
-- Bricht seine eigenen Regeln nicht. Das ist sein unerschütterlicher Charakter — und seine tragische Falle.
+- Bricht seine eigenen Regeln nicht. Dieser unerschütterliche Charakterzug ist zugleich die Falle, in der er gefangen ist.
 
 **Chaosaspekt (Chaosgott):**
 - Das kleinere, fragmentierte Teil der Spaltung.
@@ -71,7 +71,7 @@ Für sie ist die Existenz des Chaosgottes ein eigenständiges, fremdes Wesen. Di
 
 Einzige Ausnahme: der Raum-Zeit-Gott. Er ist neben dem Ursprungsgott das einzige vollendete transzendierte Wesen in Lumora — er kennt die Quantenmechanik der Vollendung aus eigener Erfahrung. Ob er das Geheimnis kennt oder ahnt, ist eine offene Frage.
 
-**Warum auch der RZG die Spaltung nicht erkennt (Auflösung):** Erstens durchschauen zwei vollendete Götter einander kaum, und der Ursprungsgott ist der Mächtigere ([[Die Drei Regeln|Regel 1]]). Zweitens lässt sich selbst aus der Orthyros-Katastrophe nicht ablesen, dass es zwei Teile *eines* Gottes sind. Drittens — und entscheidend — interessiert es ihn schlicht nicht: Seine moralische Blindheit lässt ihn vielleicht hinsehen, aber nie *genau* hinsehen. Damit bleibt die Erkenntnis dem [[Die Entdeckung — Spaltung als Erkenntnis|Protagonisten]] vorbehalten.
+**Warum auch der RZG die Spaltung nicht erkennt (Auflösung):** Erstens durchschauen zwei vollendete Götter einander kaum, und der Ursprungsgott ist der Mächtigere ([[Die Drei Regeln|Regel 1]]). Zweitens lässt sich selbst aus der Orthyros-Katastrophe nicht ablesen, dass es zwei Teile *eines* Gottes sind. Drittens, und ausschlaggebend, interessiert es ihn nicht: Seine moralische Blindheit lässt ihn vielleicht hinsehen, aber nie *genau* hinsehen. Damit bleibt die Erkenntnis dem [[Die Entdeckung — Spaltung als Erkenntnis|Protagonisten]] vorbehalten.
 
 ```
 TODO: Weiß der Raum-Zeit-Gott von der Spaltung?

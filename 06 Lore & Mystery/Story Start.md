@@ -25,17 +25,17 @@ Das ist der Punkt, an dem die Götter nicht weiterkommen und sich schließlich a
 
 ## Der Raum-Zeit-Gott
 
-Der RZG ist mehr als ein Bote — er ist der *Mechanismus* des Anfangs.
+Der RZG ist nicht nur Bote, sondern der *Mechanismus* des Anfangs.
 
-**Forscher der Regionen.** Sein Antrieb ist das Erkunden der [[Kosmologie & Universumsstruktur#Regionen|Universumsregionen]] und der Welten, die sie hervorbringen. Dass ausgerechnet eine noetisch tote #void wie die Erde Wesen hervorbringt, die vom Reisen zwischen Welten *träumen* (Isekai), fasziniert ihn — eine blinde Welt, die die Wahrheit erahnt. Sein Manga-Interesse ist kein Tick, sondern ein Fraktal seiner Natur: Er erforscht Welten; das Genre handelt vom Betreten von Welten.
+**Forscher der Regionen.** Sein Antrieb ist das Erkunden der [[Kosmologie & Universumsstruktur#Regionen|Universumsregionen]] und der Welten, die sie hervorbringen. Dass ausgerechnet eine noetisch tote #void wie die Erde Wesen hervorbringt, die vom Reisen zwischen Welten *träumen* (Isekai), fasziniert ihn — eine blinde Welt, die die Wahrheit erahnt. Sein Manga-Interesse ist kein bloßer Tick, sondern Ausdruck seiner Natur: Er erforscht Welten; das Genre handelt vom Betreten von Welten.
 
 **Die Void dämpft Macht *und* Sicht.** An seinem eigenen Ort sieht der RZG jede [[#Der Protagonist|Linie der Zukunft]] bis ans Ende. In einer #void versagt diese Sicht ebenso wie seine Macht — dort kommt nur eine dünne, fast sterbliche Hülle (sein Avatar) durch. Genau das erlaubt ihm, sich in einen Manga zu *verlieren*: Hier kennt er das Ende nicht. Für ein Wesen außerhalb der Zeit ist das Umblättern einer Seite — Sequenz, Spannung, Noch-nicht-Wissen — die seltenste Neuheit überhaupt. Die Erde ist der einzige Ort, an dem ein Zeit-Gott Zeit erlebt wie ein Sterblicher.
 
 **Der Avatar als Brücke.** Ein Bewusstseinstransfer braucht ein Medium — doch die Erde ist noetisch tot. Also ist der RZG *selbst* der Kanal: Sein Avatar ist nicht nur Köder, sondern die Brücke, über die das Substrat des Protagonisten getragen wird (siehe [[#Bewusstseinstransfer]]). Der Tod löst das Substrat, der Gott trägt es über die Regionsgrenze.
 
-**Der eine Tell.** In seiner menschlichen Hülle wirkt der Avatar in fast allem gewöhnlich — bis auf eines: Er benutzt nie Sonderzeichen (kein Frage-, kein Ausrufezeichen, keine Auslassungspunkte). Selbst seine Fragen sind Feststellungen. Das ist die *einzige* Spur, die durchblutet — und für aufmerksame Leser die Verbindung zwischen dem mächtigen Wesen aus dem [[08 Writing/08.01 Fertig/Part I - Kapitel 02|Götterrat]] und dem harmlosen „neuen Kollegen". Fair-Play-Mystery: Der Hinweis liegt offen, lange bevor er aufgelöst wird.
+**Der eine Tell.** In seiner menschlichen Hülle wirkt der Avatar in fast allem gewöhnlich — bis auf eines: Er benutzt nie Sonderzeichen (kein Frage-, kein Ausrufezeichen, keine Auslassungspunkte). Selbst seine Fragen sind Feststellungen. Das ist die *einzige* Spur, die durchscheint — und für aufmerksame Leser die Verbindung zwischen dem mächtigen Wesen aus dem [[08 Writing/08.01 Fertig/Part I - Kapitel 02|Götterrat]] und dem harmlosen „neuen Kollegen". Fair-Play-Mystery: Der Hinweis liegt offen, lange bevor er aufgelöst wird.
 
-**Zuneigung und Gleichgültigkeit zugleich.** Er mag die Erde wirklich. Trotzdem terminiert er den Kleinlaster, der den Protagonisten tötet, auf die Sekunde. Beides schließt sich nicht aus — es macht ihn kälter, nicht wärmer.
+**Zuneigung und Gleichgültigkeit zugleich.** Er mag die Erde wirklich. Trotzdem terminiert er den Kleinlaster, der den Protagonisten tötet, auf die Sekunde. Beides schließt sich nicht aus; seine Zuneigung mindert seine Distanz nicht.
 
 > *Anmerkung:* Charakter-Profil (nicht-spoiler) siehe [[Raum-Zeit-Gott|RZG-Profil]].
 
@@ -68,7 +68,7 @@ Bewusstsein ist das emergente Wirken des gesamten Nervensystems samt aller Energ
 
 ## Auswahl des Protagonisten
 
-Die ehrliche Antwort: **kein besonderer Grund.** Der Protagonist ist kein Auserwählter — die konkrete Person ist weitgehend austauschbar. Was die Aufgabe verlangt, ist nicht Größe, sondern dreierlei: eine *andere Perspektive*, *neuen Schwung* und vor allem eine *Herkunft außerhalb der vorhersehbaren Linien* — der [[#Der Protagonist|Void]]. Das erfüllt im Prinzip jedes hinreichend andersartige Void-Wesen.
+Die Antwort: **kein besonderer Grund.** Der Protagonist ist kein Auserwählter — die konkrete Person ist weitgehend austauschbar. Was die Aufgabe verlangt, ist nicht Größe, sondern dreierlei: eine *andere Perspektive*, *neuen Schwung* und vor allem eine *Herkunft außerhalb der vorhersehbaren Linien* — der [[#Der Protagonist|Void]]. Das erfüllt im Prinzip jedes hinreichend andersartige Void-Wesen.
 
 Dass es *dieser* Mensch wird, ist ein Zusammenfall von Zufällen:
 

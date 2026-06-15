@@ -11,7 +11,7 @@ Ein grundlegendes Muster Lumoras — der rote Faden, der viele scheinbar getrenn
 
 > **Neutrale oder gut gemeinte Strukturen erzeugen emergente, ungewollte — oft tragische — Folgen.**
 
-Niemand ist der Bösewicht; das Unheil entsteht aus der *Struktur*, nicht aus bösem Willen. Wer Lumora verstehen will, erkennt dasselbe Muster immer wieder.
+Es gibt keinen Schuldigen; das Unheil entsteht aus der *Struktur*, nicht aus bösem Willen. Wer Lumora verstehen will, erkennt dasselbe Muster immer wieder.
 
 ---
 

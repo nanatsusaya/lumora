@@ -9,14 +9,14 @@ tags:
 *Tag:* #primal-god
 
 - Transzendiert. Besteht vollständig aus Noetische Energie.
-- Mag Ordnung und stetiges Wachstum. Entwickelt alles evolutionär.
+- Bevorzugt Ordnung und stetiges Wachstum. Entwickelt alles evolutionär.
 - Hat das Sonnensystem gefunden und zu seiner Heimat gemacht.
 - Bevorzugt noetische Hotspots.
 - Mag die Zahl 7.
 - Wurde aus einer ursprünglichen Heimat vertrieben — die Umstände sind unbekannt.
 - **Ist sich seiner zweiten Hälfte ([[Chaosgott]]) nicht bewusst.**
 - Kann unbewusst vom Chaosaspekt beeinflusst werden.
-- Bricht seine eigenen Regeln nicht — das ist sein fundamentaler Charakter und gleichzeitig seine tragische Schwäche.
+- Bricht seine eigenen Regeln nicht — das ist sein fundamentaler Charakter und gleichzeitig seine entscheidende Schwäche.
 
 ```
 TODO (offene Fragen):

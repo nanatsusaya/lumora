@@ -33,7 +33,7 @@ Die [[Elværigöttin|Elværigöttin]] — seit rund zwei Milliarden Jahren eine 
 
 Wichtig für die Konsistenz: Sie führte das fremde Material nicht als eigene Linie weiter, sondern pfropfte es auf lumoranisches Leben. Das Erbe Lumoras bleibt damit im Kern [[02.05 Geschichte#Die Gasriesenkatastrophe|einlinig]] — es trägt ab hier nur ein eingewachsenes fremdes Fragment.
 
-Vieles dieses „geretteten" Genoms verlor sich rasch wieder. Aber nicht alles. Aus einigen Verschmelzungen wuchsen lebensfähige Linien. Die Elværigöttin tat, was sie immer tut: Sie **folgte den Linien**, verzweigte sie über Jahrmillionen, blieb an jenen dran, die ihr gefielen, und **ließ jene fallen**, die sich in Richtungen entwickelten, die sie nicht mochte. Eine Linie verfolgte sie bis zur Vollendung — ihre Krönung: die [[Elværi]].
+Vieles dieses „geretteten" Genoms verlor sich rasch wieder. Aber nicht alles. Aus einigen Verschmelzungen wuchsen lebensfähige Linien. Die Elværigöttin tat, was sie immer tut: Sie **folgte den Linien**, verzweigte sie über Jahrmillionen, blieb an jenen dran, die ihr gefielen, und **ließ jene fallen**, die sich in Richtungen entwickelten, die sie nicht mochte. Eine Linie verfolgte sie bis zur Vollendung: die [[Elværi]].
 
 > Das ist kein Sondermechanismus, sondern exakt ihr kanonisches Wesen: aktiv im *Erschaffen*, kooperativ statt kompetitiv, eine Gärtnerin, die es nicht stört, wenn sich ein anderer einer fallengelassenen Pflanze annimmt — sie tut ja selbst nichts anderes. *(→ [[02.05 Geschichte#Die Werkstatt der Götter|Werkstatt der Götter]].)*
 
@@ -68,9 +68,9 @@ Und genau hier kommt der [[Raum-Zeit-Gott|RZG]] ins Spiel. Er bringt **kein frem
 
 ## Bedeutung & Ironie
 
-Dieser Ursprung ist eine reinrassige [[Emergente Folgen|emergente Folge]]: Aus einer Tat, die als invasiver Fehlgriff bestraft wurde, wuchs unbeabsichtigt fast alles humanoide Leben Lumoras.
+Dieser Ursprung ist ein klares Beispiel einer [[Emergente Folgen|emergenten Folge]]: Aus einer Tat, die als invasiver Fehlgriff bestraft wurde, wuchs unbeabsichtigt fast alles humanoide Leben Lumoras.
 
-> **Das Laster des Fremdbringers — die Ungeduld — ist der exakte Gegenpol zur Geduld der Elværigöttin. Ausgerechnet sein ungeduldiges Scheitern lieferte ihr den Rohstoff für ihr geduldigstes Werk.** Er hält seine Geschöpfe vermutlich bis heute für tot — während sie in Wahrheit triumphierten.
+> **Das Laster des Fremdbringers — die Ungeduld — ist der exakte Gegenpol zur Geduld der Elværigöttin. Ausgerechnet sein ungeduldiges Scheitern lieferte ihr den Rohstoff für ihr geduldigstes Werk.** Er hält seine Geschöpfe vermutlich bis heute für tot — während sie in Wahrheit fortbestehen.
 
 > *Anmerkung (Kandidat „verpfuschtes Geschöpf"):* Die [[Hakani]] sind der beste Kandidat für das in [[Spezies]] notierte „verpfuschte Geschöpf". Ihre Linie war im Werkstatt-Spiel die meistumkämpfte; rivalisierende Götter lenkten sie ständig um, sodass keine biologische Spezialisierung haften blieb. Zurück blieb ein anpassungsfähiger Generalist, der nur die rastlose Ambition des Eifernden erbte — und heute an keinen Gott mehr fest gebunden ist. Das speist zugleich ihre Gefährlichkeit (→ [[02.05 Geschichte#Das Makroproblem|Makroproblem]]). Zu bestätigen.
 

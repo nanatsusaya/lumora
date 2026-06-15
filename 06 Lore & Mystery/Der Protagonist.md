@@ -19,7 +19,7 @@ Das ist die direkte mechanische Einlösung der Kernprämisse: *„Der Protagonis
 
 ## Rolle des Raum-Zeit-Gottes
 
-Der [[#Der Raum-Zeit-Gott|Raum-Zeit-Gott]] hat von allen Göttern das tiefste Verständnis von Raumzeit und damit die weitreichendste Zukunftsdeutung. Und doch — oder gerade deshalb — greift ausgerechnet er nach außen: Er holt ein Bewusstsein aus der Region der Erde, weil das Problem Lumoras von innen nicht lösbar ist. Jede innere Lösung wäre selbst Teil der Projektion, die bereits auf den Untergang zuläuft.
+Der [[#Der Raum-Zeit-Gott|Raum-Zeit-Gott]] hat von allen Göttern das tiefste Verständnis von Raumzeit und damit die weitreichendste Zukunftsdeutung. Und gerade deshalb greift er nach außen: Er holt ein Bewusstsein aus der Region der Erde, weil das Problem Lumoras von innen nicht lösbar ist. Jede innere Lösung wäre selbst Teil der Projektion, die bereits auf den Untergang zuläuft.
 
 Der Gott, der der Zeit am nächsten ist, braucht ein Element, das er nicht berechnen kann. Das erklärt zugleich, warum die Götter überhaupt einen Fremden brauchten: nicht weil ihnen Macht fehlt, sondern weil ihnen die *Unvorhersehbarkeit* fehlt. Eine freie Variable von außen ist das Einzige, was eine festgefahrene Bahn noch ablenken kann.
 

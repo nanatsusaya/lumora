@@ -63,7 +63,7 @@ Wird ein Pilz zu groß, **bricht er unter dem Gewicht seines eigenen Körpers zu
 
 Möglicherweise steckt ein **zweiter, noch unbekannter Gott** dahinter — einer, der **Einfluss auf die Unterwelt** gewinnen will, und für den der Parasit die langsame Methode ist, an Macht zu kommen.
 
-Die richtige Frage ist dabei nicht „was tut der Pilz für den Gott", sondern „**was bereitet der Pilz vor**" — er wirkt wie ein **Werkzeug**, nicht wie ein Selbstzweck. Pikant: Der Pilz **betet keinen Gott an**, liefert also keine [[02.04 Religion & Götter|Gläubigen-Energie]]. Was der Gott aus ihm zieht, bleibt damit offen.
+Die richtige Frage ist dabei nicht „was tut der Pilz für den Gott", sondern „**was bereitet der Pilz vor**" — er wirkt wie ein **Werkzeug**, nicht wie ein Selbstzweck. Bemerkenswert: Der Pilz **betet keinen Gott an**, liefert also keine [[02.04 Religion & Götter|Gläubigen-Energie]]. Was der Gott aus ihm zieht, bleibt damit offen.
 
 **Bewusst nicht festgelegt:** wer der Gott ist und was sein Fernziel ist. *(Nicht mit dem Strippenzieher-Gott der Haupthandlung verwechseln.)* → als offenes Geheimnis vermerkt ([[Offene Geheimnisse]]).
 

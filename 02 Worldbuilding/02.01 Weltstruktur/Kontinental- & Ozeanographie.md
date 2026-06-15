@@ -4,7 +4,7 @@ tags:
 ---
 # Chorographie
 
-In dieser Note beschreiben wir die verschiedenen Kontinente und Ozeane von Lumora, sowie deren regionalen Gegebenheiten.
+Diese Notiz beschreibt die Kontinente und Ozeane Lumoras sowie ihre regionalen Gegebenheiten.
 
 ### Weltkarte (Version 1)
 

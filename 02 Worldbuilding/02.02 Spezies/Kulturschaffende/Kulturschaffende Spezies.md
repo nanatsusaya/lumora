@@ -1,6 +1,6 @@
 # Kulturschaffende Spezies
 
-In dieser Notiz geben wir eine Übersicht, welche kulturschaffende Spezies existieren und bringen ein paar allgemeine Informationen über alle Spezies hinweg. Die einzelnen Spezies werden dann in ihren jeweiligen Notizen detaillierter beschreiben.
+Diese Notiz gibt eine Übersicht, welche kulturschaffenden Spezies existieren, und enthält allgemeine Informationen über alle Spezies hinweg. Die einzelnen Spezies werden in ihren jeweiligen Notizen detaillierter beschrieben.
 
 Folgende kulturschaffende Spezies sind bekannt:
 
