@@ -6,7 +6,7 @@ tags:
 # Die Lichtweberin
 
 *EN: The Light-Weaver*
-*Tag:* #light-weaver
+*Tag:* #light-god
 
 Schöpfergöttin der [[Luminæri]] und Göttin des Lichts, der Illusion und der Gerechtigkeit. Ihr Name verweist auf das „Weben" von Licht — zu Trugbildern, zu Fallen und zur Bindung ihres Volkes.
 

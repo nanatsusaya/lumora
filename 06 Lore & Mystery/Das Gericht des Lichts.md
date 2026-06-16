@@ -2,13 +2,11 @@
 tags:
   - wip
   - spoiler
+  - light-god
 ---
 # Das Gericht des Lichts
 
 > **Spoiler-Warnung:** Diese Notiz enthält versteckte Wahrheiten der Welt. Innerweltlich kennt kein Luminæri diese Hintergründe. Nur für den Autor.
-
-*EN: The Court of Light*
-*Tag:* #court-of-light
 
 Das „Gericht des Lichts" ist die sakrale Gerechtigkeit der [[Luminæri]]: Auf ein Zeichen der [[Die Lichtweberin|Lichtweberin]] vollstreckt ein [[Luminæri#Gerechtigkeit & Vergeltung|Spektrum]] das höchste Urteil. Diese Notiz beschreibt, was tatsächlich dahintersteht.
 
