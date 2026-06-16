@@ -199,6 +199,12 @@ Die lange Lebensspanne verschiebt, was einem Elværi wichtig ist. Der Drang nach
 
 Die spirituelle Liebe der Elværi — die Verehrung der [[Elværigöttin|Elværigöttin]] — ist zugleich der innerweltliche Ausdruck der [[02.04 Religion & Götter#Energie durch Gläubige|Energie-Ökonomie der Götter]]: freiwillig geschenkte Noetische Energie. Details → [[Waldelværi]] / [[02.04 Religion & Götter]].
 
+## Grenzen & Schwächen
+
+```
+TODO: Grenzen & Schwächen dieses Volkes festlegen — Kosten und Reichweite der N-Kraft, körperliche und strategische Verwundbarkeiten, Abhängigkeiten. Wichtig für das Gleichgewicht der Story.
+```
+
 ## Offene Fragen
 
 ```

@@ -90,6 +90,12 @@ Geführt wird zumeist durch **Krieger** (gegenwärtige Stärke → [[03.03 Das N
 
 Jeder [[#Schläge|Schlag]] verehrt scheinbar einen *eigenen* Gott, dessen Gestalt zum jeweiligen Tier-Aussehen passt — die „Tiergötter“ und Totems der Theriani. In Wahrheit ist es **immer derselbe Gott**: der [[Der Tiervater|Tiervater]] in vielen Aspekten und Gesichtern. Die Theriani ahnen das nicht — sie halten ihre Tiergötter für getrennt, so wie sie ihre Schläge für fast eigene Völker halten (ein weiterer Fall von [[01.04 Zentrale Themen#Begrenzte Erkenntnis|begrenzter Erkenntnis]]). Für den Gott ist die Zersplitterung kein Nachteil: Die [[03.04 Erweiterte Konzepte#Energie durch Gläubige — Mechanik|Gläubigen-Energie]] aller Schläge fließt *ihm* zu, gleich unter welchem Gesicht.
 
+## Grenzen & Schwächen
+
+```
+TODO: Grenzen & Schwächen dieses Volkes festlegen — Kosten und Reichweite der N-Kraft, körperliche und strategische Verwundbarkeiten, Abhängigkeiten. Wichtig für das Gleichgewicht der Story.
+```
+
 ## Offene Fragen
 
 ```

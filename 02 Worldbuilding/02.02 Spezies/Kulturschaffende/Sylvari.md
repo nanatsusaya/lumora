@@ -55,6 +55,12 @@ Harmonie mit den Wäldern. *(Details → [[02.03 Völker & Gesellschaften]].)*
 
 Spirituelle Naturverbindung. *TBD.*
 
+## Grenzen & Schwächen
+
+```
+TODO: Grenzen & Schwächen dieses Volkes festlegen — Kosten und Reichweite der N-Kraft, körperliche und strategische Verwundbarkeiten, Abhängigkeiten. Wichtig für das Gleichgewicht der Story.
+```
+
 ## Offene Fragen
 
 ```

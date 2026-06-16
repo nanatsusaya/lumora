@@ -55,6 +55,12 @@ Leben in Unterwasserkönigreichen oder kleinen Stämmen. *(Details → [[02.03 V
 
 Verehren Meeresgötter; Harmonie mit dem Meer als kulturelles Fundament.
 
+## Grenzen & Schwächen
+
+```
+TODO: Grenzen & Schwächen dieses Volkes festlegen — Kosten und Reichweite der N-Kraft, körperliche und strategische Verwundbarkeiten, Abhängigkeiten. Wichtig für das Gleichgewicht der Story.
+```
+
 ## Offene Fragen
 
 ```

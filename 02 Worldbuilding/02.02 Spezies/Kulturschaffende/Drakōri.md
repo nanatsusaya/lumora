@@ -68,6 +68,12 @@ Einzelgänger. Hierarchie auf Basis von Stärke und Erfahrung.
 
 *TBD* — die Drakōri sind selbst Gegenstand von Verehrung (Pseudogötter), nicht primär Verehrende.
 
+## Grenzen & Schwächen
+
+```
+TODO: Grenzen & Schwächen dieses Volkes festlegen — Kosten und Reichweite der N-Kraft, körperliche und strategische Verwundbarkeiten, Abhängigkeiten. Wichtig für das Gleichgewicht der Story.
+```
+
 ## Offene Fragen
 
 > *Kritische Anmerkung:* Ein Drakōri, der alt und klug genug wird, könnte theoretisch echte [[03.04 Erweiterte Konzepte#Transzendenz — der Aufstieg|Transzendenz]] erreichen — der [[Frostelværi-Pseudogott|Frostelværi-Drachen-Pseudogott]] beweist es. Frage: Wie viele Götter Lumoras waren ursprünglich Drakōri?

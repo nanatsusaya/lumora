@@ -65,6 +65,12 @@ Zwei gleichrangige Herrscher (je einer pro Familie), Entscheidungen durch Konsen
 
 Nomineller Gott: [[Raum-Zeit-Gott]] — interagiert jedoch kaum mit ihnen, weshalb die Vatæri pragmatisch auch andere Götter anbeten.
 
+## Grenzen & Schwächen
+
+```
+TODO: Grenzen & Schwächen dieses Volkes festlegen — Kosten und Reichweite der N-Kraft, körperliche und strategische Verwundbarkeiten, Abhängigkeiten. Wichtig für das Gleichgewicht der Story.
+```
+
 ## Offene Fragen
 
 > *Kreative Anmerkung:* Steckt hinter der „Reisen-in-Paaren“-Tradition mehr? Könnten die Vatæri instinktiv spüren, dass *gespaltene* Wesen ([[Ursprungsgott]]/[[Chaosgott]]) gefährlich sind, und sich gegen die eigene Spaltung wehren? Ein mögliches unbewusstes Foreshadowing auf das große Geheimnis.
