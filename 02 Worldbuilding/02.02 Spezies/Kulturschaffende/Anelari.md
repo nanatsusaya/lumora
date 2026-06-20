@@ -14,16 +14,29 @@ Die **Anelari** (klassischer Fantasy-Begriff: *Zwerge*) sind das unterirdische S
 
 - **Elværin-Name:** Anelari (`-ari`, „die Sonnenlosen“)
 - **Fantasy-Pendant:** Zwerge
-- **Schöpfergott:** [[Der Tiefenschmied]]
+- **Gott:** [[Der Tiefenschmied|Anelari-Gott]] *(sanfter Wegweiser, kein Schöpfer — siehe [[#Religion]])*
 - **Lebensraum:** gemäßigte Tiefen der Unterwelt
 - **Bevölkerung:** ~400 Mio. (drittgrößtes Volk)
 - **Lebensspanne:** *TBD*
-- **N-Kraft-Schwerpunkt:** physische Materie — Metall, Maschinen
+- **N-Kraft-Schwerpunkt:** Wahrnehmung — Materialgespür für feste, unbelebte Materie
 - **Status:** #wip
 
 ## Herkunft
 
-Aus einer Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[Der Tiefenschmied|Tiefenschmied]] unter Tage in Hitze und Gestein lenkte.
+Die Anelari stammen aus einer Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]) — aber anders als direkt geformte Völker wie die [[Theriani]] haben sie sich **weitgehend selbst entwickelt**. Sie sind das **frei evolvierte** Saatgut-Volk, der Gegenpol zu den designten Theriani.
+
+**Der Weg unter Tage:** Ihre Vorfahren waren eine einfache humanoide Lebensform (etwa affenartig). In ihrer Region trieb eine kleine Eiszeit das Nahrungsangebot unter die Erde; die Tiere fanden unterirdisch mehr zu fressen und drangen in die verzweigten Wege der Unterwelt vor. Dort stellten sie sich aus eigener Kraft den Gefahren — geologischen wie durch Flora und Fauna — und meisterten sie nach und nach mit Verstand und ersten Werkzeugen.
+
+**Die Rolle ihres Gottes:** Erst als sich diese Vorfahren schon ausgebreitet hatten, wurde ein **sanfter Gott der Unterwelt** auf sie aufmerksam (→ [[Der Tiefenschmied|Anelari-Gott]]). Anders als bei [[Elværi]] oder [[Theriani]] lenkte er ihre Entwicklung **nicht** in eine Richtung. Seine größte Hilfe war ein **subtiles Anstoßen**, in welchen Regionen der Unterwelt sie sich ausbreiten sollten, ohne gleich auf deren tödlichste Gefahren zu stoßen. So wurde über lange Zeit aus einem passenden genetischen Tier-Vorläufer Stück für Stück ein an die Unterwelt angepasster, kulturschaffender Körper.
+
+**Zeitliche Einordnung (Arbeitsmodell):**
+
+- **~200 Mio. Jahre:** das fremde Saatgut (→ [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdes Saatgut]]).
+- **~80 Mio. Jahre:** die Vorfahren finden in den Untergrund; der sanfte Gott wird auf sie aufmerksam.
+- **~600.000 Jahre:** die Anelari als heutige Spezies; Beginn ihrer Ausbreitung.
+- **~200.000 Jahre:** flächendeckend unter jedem Kontinent und jedem Meer.
+
+> *Anmerkung:* Die langen, getrennten Wege haben über die Zeit eine enorme **kulturelle Vielfalt** hervorgebracht. Was alle Anelari-Kulturen dennoch teilen: den Glauben an ihren einen führenden Gott und ihr **Materialgespür** (→ [[#N-Kraft]]).
 
 ## Biologie
 
@@ -48,19 +61,29 @@ Auch unter Tage gibt es **Jahreszeiten**: Je näher Lumora an Orthyros steht, de
 *EN: Heimlight*
 *Tag:* #heimlight
 
-In etwa der Hälfte der Anelari-Kulturen wächst überall ein **lumineszenter Pilz**, den sie schlicht **„Heimlicht“** nennen und als allgegenwärtige Lichtquelle nutzen. Je nach Pilz leuchtet er in einer **anderen Farbe** — so trägt jede Region ihre eigene Lichtfarbe, und Lichtfarben unterscheiden indirekt Gemeinschaften und Staaten. Daraus erwuchs eine Tradition: Wer eine neue Region besiedelt, **„pflanzt sein eigenes Licht im neuen Zuhause“** — ein Akt der Heimatstiftung. Straßen, Häuser, Tempel — alles ist mit dem Pilz beleuchtet; er gehört zum Alltag wie Tische und Äxte.
+Vor dem Heimlicht beleuchteten die Anelari ihre Heimat mit einfachen fluoreszierenden Pflanzen und mit Feuer. In etwa der Hälfte der Anelari-Kulturen wächst heute jedoch überall ein **lumineszenter Pilz**, den sie schlicht **„Heimlicht“** nennen und als allgegenwärtige Lichtquelle nutzen. Je nach Pilz leuchtet er in einer **anderen Farbe** — so trägt jede Region ihre eigene Lichtfarbe, und Lichtfarben unterscheiden indirekt Gemeinschaften und Staaten. Daraus erwuchs eine Tradition: Wer eine neue Region besiedelt, **„pflanzt sein eigenes Licht im neuen Zuhause“** — ein Akt der Heimatstiftung. Straßen, Häuser, Tempel — alles ist mit dem Pilz beleuchtet; er gehört zum Alltag wie Tische und Äxte. Die andere Hälfte der Kulturen meidet ihn und bleibt beim alten Licht aus Pflanzen und Feuer.
 
-> *Anmerkung (nur Autorenebene):* Das Heimlicht ist weit mehr, als die Anelari ahnen — sein wahres Wesen und seine Rolle im ewigen Kriegszyklus stehen in [[Das Heimlicht der Anelari]]. **Innerweltlich kennt kein Volk Lumoras die Hintergründe dieses Pilzes.**
+> *Anmerkung (nur Autorenebene):* Das Heimlicht ist weit mehr, als die Anelari ahnen — seine Herkunft, sein wahres Wesen und seine Rolle im ewigen Kriegszyklus stehen in [[Das Heimlicht der Anelari]]. Auch die Trennung in zwei Hälften hat dort ihre verborgene Ursache. **Innerweltlich kennt kein Volk Lumoras die Hintergründe dieses Pilzes.**
 
 ## N-Kraft
 
-Spezialisiert auf **physische Materie**: Metall verstärken, magische Waffen schmieden, Maschinen durch Noetische Energie antreiben. Als Energiequelle ziehen sie **Wärme aus dem Erdinneren**. Ihr technisches Niveau reicht von mittelalterlich bis früh-viktorianisch, mit Schwerpunkt Metall- und Maschinenbau (→ [[02.03 Völker & Gesellschaften#Speziesspezifische Entwicklungsniveaus|Entwicklungsniveaus]]).
+Der noetische Schwerpunkt der Anelari ist nicht Manipulation, sondern **Wahrnehmung**: ein **Materialgespür** für feste, unbelebte Materie. Wie bei vielen Unterwelt-Tieren, deren Noetik primär auf die Sinne wirkt, ist ihre Gabe ein geschärfter Sinn — kein Eingriff in den Stoff selbst (→ [[03.08 Noetische Wahrnehmung]]).
+
+**Erdphysikalische Grundlage:** Fester, gestresster oder fehlerhafter Stoff sendet reale, physikalische Signale aus — charakteristische Schwingungen und Resonanzen (der „Klang“ einer Klinge), bei quarzreichem Fels unter Spannung auch elektromagnetische Signaturen (Piezoelektrik). Die Anelari **verstärken die Wahrnehmung dieser winzigen, realen Signale noetisch** — eine körperinterne Beugung der elektromagnetischen Kopplung an ihrem eigenen Sinnesgewebe (→ [[03.02 Funktionsweise#Modulation statt Arbeit]]). Sie erfinden keine Information; sie heben die Empfindlichkeit für vorhandene Signale ins Übermenschliche. Damit „fühlen“ sie die Statik eines Raumes oder die Festigkeit einer Klinge als räumliches Gesamtbild.
+
+**Verdrahtet + erlernt:** Die Basis ist ein instinktives Gefahrengespür — sie spüren mikroseismische Instabilität und drohende Einstürze (vgl. reale Tiere vor Beben). Darüber liegt **erlerntes Wissen**: Ein junger Handwerker lernt die Eigenschaften von Legierungen und erkennt am Werkstück, wo es Schwächen und Stärken trägt; er klopft (gewöhnliche Anregung) und „hört“ noetisch verstärkt, wo ein Riss sitzt. Heute ist beides untrennbar verschmolzen.
+
+**Grenze des Sinns:** Er greift nur auf **feste, unbelebte** Materie. Lebendes trägt sein eigenes, lautes [[03.05 Grenzen & Einschränkungen#Das Resonanzfeld|Resonanzfeld]] und überstrahlt das feine Signal; Flüssiges und Gasförmiges hält keine stabile Struktur. Aus diesem Gespür ist ihre ganze Kultur der **Materialkunst** gewachsen (→ [[#Wesen]]).
+
+Ihre Maschinen und Bauwerke beruhen entsprechend auf **mechanischem und geothermischem Ingenieurwissen**, nicht auf noetisch angetriebener Materie. Als Energie nutzen sie die **Wärme aus dem Erdinneren**. Ihr technisches Niveau reicht von mittelalterlich bis früh-viktorianisch, mit Schwerpunkt Metall- und Maschinenbau (→ [[02.03 Völker & Gesellschaften#Speziesspezifische Entwicklungsniveaus|Entwicklungsniveaus]]).
 
 Mit ~**400 Mio.** sind die Anelari nach [[Hakani]] und [[Theriani]] das drittgrößte Volk Lumoras (→ [[Kulturschaffende Spezies#Bevölkerungsverteilung|Bevölkerungsverteilung]]).
 
 ## Wesen
 
 Loyalität und Tradition sind zentrale Werte; die Anelari haben ein ausgeprägtes Gedächtnis für Beleidigungen *und* Gefälligkeiten gleichermaßen. Sie sind **kein** Klischee-Zwergenvolk mit Hyperfixierung aufs Edelstein-Graben — ein Volk wie jedes andere, mit Grundbedürfnissen, Gemeinschaften, Handel und Kriegen.
+
+**Materialkunst:** Aus ihrem Materialgespür (→ [[#N-Kraft]]) ist eine kulturelle **Verliebtheit in die Materialkunst** gewachsen. Werkzeuge, Waffen, Alltagsgegenstände, Architektur — was Anelari schaffen, ist nicht nur von hoher Qualität, sondern künstlerisch ein Meisterwerk, und darauf sind sie stolz. Wo die [[Elværi]] über Jahrtausende ihre Familienbäume wachsen lassen, schaffen Anelari unterirdische **Städte und Architekturwunder**, die ihresgleichen suchen.
 
 ## Gesellschaft
 
@@ -70,18 +93,24 @@ Organisiert in **Clans**, politisch in drei Ebenen gestaffelt:
 - **Gemeinschaft** — aus mehreren Clans. Führen Krieg gegen Gemeinschaften.
 - **Staat** — aus mehreren Gemeinschaften. Führen Krieg gegen Staaten.
 
-**Krieg & ewiger Zyklus:** Die Anelari gehören zu den **kriegerischsten Völkern Lumoras** — und die anderen sind froh, dass sie ihre Kriege **unter der Erde** austragen. Es ist kein Dauer-Totalkrieg, sondern ein **zyklisches** Ringen (vgl. Frankreich/Deutschland über Jahrhunderte): Fortschritt wird durch Krieg vorangetrieben *und* im Krieg wieder zerstört, sodass er messbar, aber nicht übertrieben bleibt. Von außen wirken die Anelari wie ein Volk im ewigen Territorialstreit — kaum bildet sich ein großer, stabiler Staat, zerfällt er durch innere Streitigkeiten. *(Details → [[02.03 Völker & Gesellschaften]].)*
+**Zwei Gesichter.** Im Grunde sind die Anelari ein Volk der **Handwerker und Baumeister**. Etwa die Hälfte von ihnen ist heute jedoch in einen **endlosen Territorialkrieg** verstrickt: ein zyklisches Ringen, in dem Fortschritt durch Krieg vorangetrieben *und* wieder zerstört wird und kaum ein großer, stabiler Staat entsteht, ohne bald von innen zu zerfallen. Genau diese Hälfte erscheint von außen als **kriegerischstes Volk Lumoras** — und die anderen sind froh, dass diese Kriege **unter der Erde** ausgetragen werden. Die andere Hälfte dagegen baut über Jahrhunderte beständig und schafft die erwähnten Architekturwunder. *(Details → [[02.03 Völker & Gesellschaften]].)*
 
-> *Anmerkung (nur Autorenebene):* Der verborgene Grund hinter genau diesem Muster → [[Das Heimlicht der Anelari]]. Innerweltlich gilt es als bloße „Wesensart“ der Anelari — ein Musterbeispiel für [[Emergente Folgen|emergente, strukturell missverstandene Ursachen]].
+> *Anmerkung (nur Autorenebene):* Der Krieg ist **nicht** die Wesensart der Anelari, sondern ein Zustand. Sowohl die Aufteilung in zwei Hälften als auch der „kaum bildet sich ein stabiler Staat“-Zyklus haben eine verborgene Ursache → [[Das Heimlicht der Anelari]]. Innerweltlich gilt beides als bloße „Wesensart“ — ein Musterbeispiel für [[Emergente Folgen|emergente, strukturell missverstandene Ursachen]].
 
 ## Religion
 
-*TBD.*
+Die Anelari verehren **einen** Gott, der sie über ihre gesamte Geschichte begleitet hat (→ [[Der Tiefenschmied|Anelari-Gott]]). Weil er ihre Entwicklung nie erzwungen, sie aber stets vor Gefahren gewarnt und ihnen mögliche Wege gezeigt hat, sehen sie ihn weniger als Schöpfer denn als **Wegweiser und Gelehrten** — und zugleich als **Beschützer und Führer**.
+
+> *Anmerkung (nur Autorenebene):* Seit einigen tausend Jahren verliert dieser Gott den Draht zu etwa der Hälfte seines Volkes. Hintergrund und Mechanik → [[Das Heimlicht der Anelari]].
 
 ## Grenzen & Schwächen
 
+- **Kampfkraft im Gerät, nicht im Körper.** Anelari sind von Natur aus **keine großen Krieger**. Ihre Stärke steckt in der Ausrüstung: Ein bis an die Zähne bewaffneter, voll gepanzerter Anelari ist ein ebenso gefährlicher Gegner wie ein kraftverstärkter [[Theriani]]-Bär — **entwaffnet und ungepanzert** dagegen sind sie verwundbar.
+- **Sinn nur für totes, festes Material.** Ihr Materialgespür (→ [[#N-Kraft]]) versagt bei Lebendem (überstrahlt vom Resonanzfeld) und bei Flüssigem/Gasförmigem. Anelari sind entsprechend **schlechte „Erspürer“ des Lebendigen** — keine geborenen Heiler oder Biologen.
+- **Lichtabhängigkeit & Oberwelt-Blindheit.** Ohne das schwache Licht der Unterwelt sind sie blind; an der Oberfläche ohne starke Verdunkelung praktisch ebenso (→ [[#Biologie]]). Längerer Oberweltaufenthalt schadet ihnen biologisch.
+
 ```
-TODO: Grenzen & Schwächen dieses Volkes festlegen — Kosten und Reichweite der N-Kraft, körperliche und strategische Verwundbarkeiten, Abhängigkeiten. Wichtig für das Gleichgewicht der Story.
+TODO: Kosten und Reichweite des Materialgespürs noetisch genauer fassen (sensitive vs. aktive Zellen, Energiekosten, Reichweite). Weitere strategische Verwundbarkeiten und Abhängigkeiten.
 ```
 
 ## Offene Fragen
@@ -89,8 +118,7 @@ TODO: Grenzen & Schwächen dieses Volkes festlegen — Kosten und Reichweite der
 ```
 TODO:
 - Welche biologischen Probleme genau treffen Anelari an der Oberfläche?
-- Gibt es Anelari-„Großmächte“ oder bleibt alles kleinteilig?
-- Können Anelari-Waffen/Artefakte Noetische Energie speichern? (Verbindung zu Kristallspeichern & Drachenkristallen)
 - Verhältnis zu den hitzeverbrauchenden Sapari im Detail.
 - Eigene Namen für die Unterwelt-Regionen der Anelari?
+- Können Anelari-Artefakte Noetische Energie in Kristallen speichern (trotz Wahrnehmungs-Schwerpunkt)? (Verbindung zu Kristallspeichern & Drachenkristallen)
 ```
