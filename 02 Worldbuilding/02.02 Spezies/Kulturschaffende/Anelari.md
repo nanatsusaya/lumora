@@ -85,6 +85,16 @@ Loyalität und Tradition sind zentrale Werte; die Anelari haben ein ausgeprägte
 
 **Materialkunst:** Aus ihrem Materialgespür (→ [[#N-Kraft]]) ist eine kulturelle **Verliebtheit in die Materialkunst** gewachsen. Werkzeuge, Waffen, Alltagsgegenstände, Architektur — was Anelari schaffen, ist nicht nur von hoher Qualität, sondern künstlerisch ein Meisterwerk, und darauf sind sie stolz. Wo die [[Elværi]] über Jahrtausende ihre Familienbäume wachsen lassen, schaffen Anelari unterirdische **Städte und Architekturwunder**, die ihresgleichen suchen.
 
+## Werkzeuge & Technik (Ideenpool)
+
+> *Anmerkung (Autorenebene):* Die folgenden Punkte sind **potenzielle Ideen, keine fixen Setzungen** — eine Ideengrundlage, auf die wir bei Bedarf in der Story zurückgreifen und die wir nach Bedarf verwenden oder verwerfen. Alle ruhen auf demselben Prinzip: **keine zusätzliche N-Kraft-Fähigkeit auf Volksebene**, sondern Werkzeuge, die nur möglich sind, weil das trainierte [[#N-Kraft|Materialgespür]] der Anelari phänomenal ist. Die Physik bleibt gewöhnlich; fortschrittlich *wirkt* es, weil die Präzision sonst nirgends erreichbar ist. Das hebt die Anelari bewusst von Klischee-Zwergen ab — keine Runen, Edelsteine und rohen Äxte, sondern Ingenieurskunst, die zu fortschrittlich für ihre Epoche aussieht.
+
+- **Resonanz-/Schallwerkzeuge.** Sie spüren die Eigenfrequenz eines Materials und bauen vibrierende Werkzeuge, exakt darauf gestimmt, die Fels oder Metall mit minimaler Kraft zerlegen (real: Schall-/Resonanzbohren). Ihre Bergbau- und Schneidtechnik — sie schneiden durch Gestein, wo andere meißeln.
+- **Bruch-Schlag (Kampfstil).** Statt mit Kraft zu überwältigen, *lesen* sie die verborgene Schwachstelle (Mikroriss, Spannungslinie, Schweißnaht) in Rüstung, Klinge oder Mauer und setzen **einen** präzisen Schlag genau dorthin. Dazu eine eigene Waffe (schlank, bruchhart, eher Stichdorn als Axt) und eine Duelltradition. Fügt sich an [[#Grenzen & Schwächen|„Kampfkraft im Gerät“]]: ihre Waffe ist Präzision.
+- **Mechanik jenseits der Epoche.** Weil jedes Teil makellos durchgefühlt wird, bauen sie fugenlose Mikron-Passungen — Uhrwerke, Automaten, Druckbehälter, geothermische Maschinen, die Jahrhunderte zu fortschrittlich aussehen. Ihre Städte laufen auf Präzisions-Geothermik.
+- **Metallurgie, „die noch nicht geht“.** Differenzielle Härtung und Legierungen, per Gefühl getroffen: Klingen mit gestufter Härte (harte Schneide, zäher Rücken), selbstdämpfende Panzerung, Federn und Lager, die es so früh nicht geben sollte. Die Werkstoff-Basis der übrigen Punkte.
+- **Tunnel lesen (Wahrnehmung, kein Werkzeug).** Ein meisterlich ausgebildeter Anelari „liest“ seine Tunnel — spürt Eindringlinge, Erz und Instabilität als Schwingung durch den Fels. Heimvorteil, an dem niemand vorbeischleicht.
+
 ## Gesellschaft
 
 Organisiert in **Clans**, politisch in drei Ebenen gestaffelt:
