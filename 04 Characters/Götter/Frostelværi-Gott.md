@@ -3,10 +3,10 @@ tags:
   - wip
   - working-title
 ---
-# Frostelværi-Pseudogott (Eisdrachen-Pseudogott)
+# Frostelværi-Gott (Eisdrachen-Pseudogott)
 
-*EN: Frost Elværi Pseudo-God (Ice Dragon Pseudo-God)*
-*Tag:* #frost-elvaeri-god
+*EN: Frost Elværi Lord (Ice Dragon Pseudo-Lord)*
+*Tag:* #frost-elvaeri-lord
 
 - Ein Drakōri, der durch lange Lebensdauer und tiefes N-Kraft-Verständnis zum Pseudogott aufgestiegen ist.
 - Eines der wenigen Lebewesen Lumoras, das diesen Aufstieg erfolgreich vollzogen hat.

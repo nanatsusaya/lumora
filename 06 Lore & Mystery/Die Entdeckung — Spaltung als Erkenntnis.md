@@ -29,7 +29,7 @@ Der Protagonist ist das exakte Gegenteil. Er ist nicht aufgestiegen, sondern **z
 
 Für jeden Gott ist „ein Bewusstsein, geteilt und gegen sich selbst" *undenkbar*, weil Göttlichkeit Integration **ist** — ein gespaltener Gott ist für sie ein Widerspruch in sich (der einzige reale Fall, der Ursprungsgott, beweist es: Er ist für die eigene Spaltung blind). Selbst ein wissenschaftlicher, gereifter Gott bleibt ein *integriertes* Wesen. Der Protagonist ist das einzige denkende Wesen Lumoras, dem die Spaltung nicht Theorie, sondern **Autobiografie** ist.
 
-Das ist kausal sauber, kein mystisches Auserwähltsein: Seine Fragmentierung ist die direkte, physikalische Folge des Transfers eines Void-Bewusstseins in einen noetischen Körper über eine Regionsgrenze. Und sie ist exklusiv: Pseudogötter und aufgestiegene Sterbliche (wie die [[Elværigöttin|Elværigöttin]]) sind *aufgestiegen*, also integriert. Nur der transplantierte Sterbliche ist herabgesetzt.
+Das ist kausal sauber, kein mystisches Auserwähltsein: Seine Fragmentierung ist die direkte, physikalische Folge des Transfers eines Void-Bewusstseins in einen noetischen Körper über eine Regionsgrenze. Und sie ist exklusiv: Pseudogötter und aufgestiegene Sterbliche (wie die [[Elværi-Göttin|Elværigöttin]]) sind *aufgestiegen*, also integriert. Nur der transplantierte Sterbliche ist herabgesetzt.
 
 ---
 

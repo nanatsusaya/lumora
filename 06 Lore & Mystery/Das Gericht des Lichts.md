@@ -2,25 +2,25 @@
 tags:
   - wip
   - spoiler
-  - light-god
+  - luminæri-lady
 ---
 # Das Gericht des Lichts
 
 > **Spoiler-Warnung:** Diese Notiz enthält versteckte Wahrheiten der Welt. Innerweltlich kennt kein Luminæri diese Hintergründe. Nur für den Autor.
 
-Das „Gericht des Lichts" ist die sakrale Gerechtigkeit der [[Luminæri]]: Auf ein Zeichen der [[Die Lichtweberin|Lichtweberin]] vollstreckt ein [[Luminæri#Gerechtigkeit & Vergeltung|Spektrum]] das höchste Urteil. Diese Notiz beschreibt, was tatsächlich dahintersteht.
+Das „Gericht des Lichts" ist die sakrale Gerechtigkeit der [[Luminæri]]: Auf ein Zeichen der [[Luminæri-Göttin|Sonnengöttin]] vollstreckt ein [[Luminæri#Gerechtigkeit & Vergeltung|Spektrum]] das höchste Urteil. Diese Notiz beschreibt, was tatsächlich dahintersteht.
 
 ## Die offizielle Version
 
-Die Lichtweberin ist eine Gerechtigkeitsgöttin. Wo ein schwerer Frevel geschieht, ergeht ihr Zeichen, und ihr Volk vollstreckt. Bleibt das Zeichen aus, gilt der Fall als gewogen und für keinen Frevel befunden.
+Die Sonnengöttin ist eine Gerechtigkeitsgöttin. Wo ein schwerer Frevel geschieht, ergeht ihr Zeichen, und ihr Volk vollstreckt. Bleibt das Zeichen aus, gilt der Fall als gewogen und für keinen Frevel befunden.
 
 ## Die verborgene Wahrheit
 
-Die Lichtweberin handelt nicht aus eigenem Antrieb, sondern als ausführender Arm des [[Der Ursprungsgott|Ursprungsgottes]]; sie urteilt nur auf seine Sanktion. Und der Ursprungsgott **ist** der [[Die Drei Regeln|Chaosgott]]. Damit ist der einzige Kanal „göttlicher Gerechtigkeit" auf Lumora insgeheim vergiftet.
+Die Sonnengöttin handelt nicht aus eigenem Antrieb, sondern als ausführender Arm des [[Der Ursprungsgott|Ursprungsgottes]]; sie urteilt nur auf seine Sanktion. Und der Ursprungsgott **ist** der [[Die Drei Regeln|Chaosgott]]. Damit ist der einzige Kanal „göttlicher Gerechtigkeit" auf Lumora insgeheim vergiftet.
 
 ### Der blinde Fleck
 
-Der Ursprungsgott schweigt über sich selbst. Gegen kleinere Frevler ergeht ein Zeichen; gegen das eine Verbrechen, das wirklich zählt — das schleichende Chaos, die [[Das Kernproblem|systemische Selbstzerstörung]] —, ergeht nie eines. Wer glaubt, jetzt müsse die Gerechtigkeit kommen, erlebt Schweigen, und mit ihm schweigen Lichtweberin und Spektrum. Der Chaosaspekt muss nur dafür sorgen, dass niemand handelt; dann hat er gewonnen.
+Der Ursprungsgott schweigt über sich selbst. Gegen kleinere Frevler ergeht ein Zeichen; gegen das eine Verbrechen, das wirklich zählt — das schleichende Chaos, die [[Das Kernproblem|systemische Selbstzerstörung]] —, ergeht nie eines. Wer glaubt, jetzt müsse die Gerechtigkeit kommen, erlebt Schweigen, und mit ihm schweigen Sonnengöttin und Spektrum. Der Chaosaspekt muss nur dafür sorgen, dass niemand handelt; dann hat er gewonnen.
 
 ### Der Glaube als Hebel
 

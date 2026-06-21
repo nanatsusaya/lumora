@@ -51,8 +51,6 @@ Die Gesamtbevölkerung Lumoras beträgt etwa ~2,5 Milliarden. Davon sind Hakani 
 
 ## Aufbau der Spezies-Notizen
 
-*Tag:* #species-template
-
 Jede Spezies-Notiz folgt diesem Aufbau. Überschriften kurz und einwortig; generische Kapitel ohne `*EN:*` (das bleibt Eigenbegriffen unter **Besonderheiten** vorbehalten). **Gesellschaft**, **Religion** und tiefe **Geschichte** stehen in der Spezies-Notiz nur als Kurzüberblick mit Verweis auf `02.03` / `02.04` / `02.05` — nicht ausgewalzt.
 
 **Steckbrief** — Faktenblock direkt unter der Einleitung (fettgesetzte Labels):

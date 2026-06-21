@@ -21,7 +21,7 @@ Waldelværi-Mutter des [[Protagonist]] auf Lumora. Wohlhabend, aristokratisch, s
 - *Mama, bitte!:* Verbietet zunächst den Psychoangriff-Unterricht. Gibt nach, als ein Triumviratsmitglied zu Gunsten des Protagonisten interveniert — aber nur unter der Bedingung, dass sie beim Training dabei ist.
 
 **Thematische Bedeutung:**
-Sie ist das, was der Protagonist auf der Erde verloren hat: eine Mutter, die bleibt. Gleichzeitig spiegelt die Überfürsorglichkeit die [[Elværigöttin]] — auch sie liebt im falschen Zeitmaßstab und kommt einen Schritt zu spät.
+Sie ist das, was der Protagonist auf der Erde verloren hat: eine Mutter, die bleibt. Gleichzeitig spiegelt die Überfürsorglichkeit die [[Elværi-Göttin]] — auch sie liebt im falschen Zeitmaßstab und kommt einen Schritt zu spät.
 
 ```
 TODO: Name vergeben.

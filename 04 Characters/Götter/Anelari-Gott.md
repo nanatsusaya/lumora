@@ -3,11 +3,10 @@ tags:
   - wip
   - working-title
 ---
-# Der Tiefenschmied
+# Anelari-Gott
 
-*EN: The Deep-Smith*
-*Tag:* #deep-smith
-*Status:* #wip #working-title
+*EN: Anelari-Lord*
+*Tag:* #anelari-lord
 
 > *Anmerkung:* Der Name „Tiefenschmied“ stammt aus einer früheren Fassung und passt nicht mehr — dieser Gott ist kein Schmied und kein Schöpfer, sondern ein sanfter Wegweiser. Reiner **Working-Title**; die endgültige (vorerst generische) Benennung steht noch aus.
 

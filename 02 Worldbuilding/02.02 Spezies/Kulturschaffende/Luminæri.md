@@ -2,6 +2,7 @@
 tags:
   - wip
   - species
+  - luminæri-lady
 ---
 # Luminæri
 
@@ -14,7 +15,7 @@ Die **Luminæri** (klassischer Fantasy-Begriff: *Feen*) sind das lichtgestaltend
 
 - **Elværin-Name:** Luminæri (`-æri`, „die Lichtbringer")
 - **Fantasy-Pendant:** Feen
-- **Schöpfergott:** [[Die Lichtweberin]]
+- **Schöpfergott:** [[Luminæri-Göttin]]
 - **Lebensraum:** noetische [[03.05 Grenzen & Einschränkungen#Hotspots|Hotspots]] (magische Wälder, versteckte Lichtungen)
 - **Ernährung:** obligat karnivor (ausschließlich Fleisch)
 - **Bevölkerung:** ~50 Mio.
@@ -27,7 +28,7 @@ Die **Luminæri** (klassischer Fantasy-Begriff: *Feen*) sind das lichtgestaltend
 
 ## Herkunft
 
-Aus einer zarten Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die die [[Die Lichtweberin|Lichtweberin]] auf Licht und N-Feld-Verschmelzung hin formte. Die Linie entstand in der Welle der gemeinsamen-Ursprungs-Völker nach den Elværi; die Luminæri gelten als drittältestes intelligentes Volk Lumoras.
+Aus einer zarten Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die die [[Luminæri-Göttin|Sonnengöttin]] auf Licht und N-Feld-Verschmelzung hin formte. Die Linie entstand in der Welle der gemeinsamen-Ursprungs-Völker nach den Elværi; die Luminæri gelten als drittältestes intelligentes Volk Lumoras.
 
 ## Biologie
 
@@ -96,7 +97,7 @@ Drei getrennte Rollen:
 
 - **Älteste** — zivile Autorität in Lichtband und Lichterkreis (Frieden, Recht, Streitschlichtung). Luminæri folgen den Ältesten ausnahmslos. (Anders als die [[Theriani]], die neben Ältesten auch die Stärksten als Führung kennen.)
 - **Kriegsführer** — im Konfliktfall nach Disziplin bestimmt (höchste Beherrschung von Leuchten und Wille). Keine dauerhafte Macht; nach dem Kampf tritt er zurück.
-- **Priester** — sakrale Autorität. Sie sprechen das höchste Urteil, handeln aber nur auf ein Zeichen der [[Die Lichtweberin|Lichtweberin]]. Priester sind meist jene mit der höchsten [[03.03 Das Noetische Profil#Wahrnehmung|Wahrnehmung]], da sie das Zeichen im N-Feld lesen.
+- **Priester** — sakrale Autorität. Sie sprechen das höchste Urteil, handeln aber nur auf ein Zeichen der [[Luminæri-Göttin|Sonnengöttin]]. Priester sind meist jene mit der höchsten [[03.03 Das Noetische Profil#Wahrnehmung|Wahrnehmung]], da sie das Zeichen im N-Feld lesen.
 
 ### Geschlechter
 
@@ -116,9 +117,9 @@ Da sie nicht ackern, importieren die Luminæri pflanzliche Güter und Handwerk a
 
 ## Religion
 
-Die Luminæri verehren die [[Die Lichtweberin|Lichtweberin]] als Göttin des Lichts und der Gerechtigkeit. Sie haben eine Form der Sonnenverehrung entwickelt und setzen die (blaue) Sonne mit ihrer Göttin gleich.
+Die Luminæri verehren die [[Luminæri-Göttin|Sonnengöttin]] als Göttin des Lichts und der Gerechtigkeit. Sie haben eine Form der Sonnenverehrung entwickelt und setzen die (blaue) Sonne mit ihrer Göttin gleich.
 
-> *Kritische Anmerkung:* Die Luminæri schreiben ihre Macht der Sonne zu; tatsächlich speist sie sich aus dem N-Feld des Hotspots, in dem sie leben — eine [[Emergente Folgen|strukturell missverstandene Ursache]]. Sonne und Lichtweberin sind nicht dasselbe.
+> *Kritische Anmerkung:* Die Luminæri schreiben ihre Macht der Sonne zu; tatsächlich speist sie sich aus dem N-Feld des Hotspots, in dem sie leben — eine [[Emergente Folgen|strukturell missverstandene Ursache]]. Sonne und Sonnengöttin sind nicht dasselbe.
 
 > *Anmerkung (nur Autorenebene):* Was hinter der „Gerechtigkeit" der Luminæri und dem Schweigen der Göttin tatsächlich steht → [[Das Gericht des Lichts]]. **Innerweltlich kennt kein Luminæri diese Hintergründe.**
 

@@ -29,7 +29,7 @@ Vor rund 200 Millionen Jahren (Lumora-Zeit) brachte ein ungeduldiger Gott — de
 
 ## Rolle der Elværigöttin
 
-Die [[Elværigöttin|Elværigöttin]] — seit rund zwei Milliarden Jahren eine der aktivste Gärtnerin Lumoras — nahm sich einzelne der zurückgebliebenen biologischen Proben und verschmolz sie, Zelle für Zelle, mit bestehendem **lumoranischen Biomaterial**. Nicht einmal, sondern unzählige Male.
+Die [[Elværi-Göttin|Elværigöttin]] — seit rund zwei Milliarden Jahren eine der aktivste Gärtnerin Lumoras — nahm sich einzelne der zurückgebliebenen biologischen Proben und verschmolz sie, Zelle für Zelle, mit bestehendem **lumoranischen Biomaterial**. Nicht einmal, sondern unzählige Male.
 
 Wichtig für die Konsistenz: Sie führte das fremde Material nicht als eigene Linie weiter, sondern pfropfte es auf lumoranisches Leben. Das Erbe Lumoras bleibt damit im Kern [[02.05 Geschichte#Die Gasriesenkatastrophe|einlinig]] — es trägt ab hier nur ein eingewachsenes fremdes Fragment.
 
@@ -43,12 +43,12 @@ Vieles dieses „geretteten" Genoms verlor sich rasch wieder. Aber nicht alles. 
 
 Fallengelassen heißt nicht verloren. Andere Götter wurden auf die unbeobachteten Linien aufmerksam und ließen ihre eigene Arbeit und Vorstellung darin aufgehen — meist, um sich eine nachhaltige Energiequelle (ein [[02.04 Religion & Götter#Energie durch Gläubige|verehrendes Volk]]) heranzuziehen. So entstanden über weitere Jahrmillionen:
 
-- [[Hakani]] ← [[Der Eifernde|Der Eifernde]] (die meistumkämpfte Linie — siehe unten)
-- [[Theriani]] ← [[Der Tiervater|Der Tiervater]]
-- [[Anelari]] ← [[Der Tiefenschmied|Der Tiefenschmied]]
-- [[Volari]] ← [[Der Himmelsherr|Der Himmelsherr]]
-- [[Luminæri]] ← [[Die Lichtweberin|Die Lichtweberin]]
-- [[Bythari]] ← [[Der Gezeitenherr|Der Gezeitenherr]]
+- [[Hakani]] ← [[Hakani-Gott|Der Eifernde]] (die meistumkämpfte Linie — siehe unten)
+- [[Theriani]] ← [[Theriani-Gott|Der Tiervater]]
+- [[Anelari]] ← [[Anelari-Gott|Der Tiefenschmied]]
+- [[Volari]] ← [[Volari-Gott|Der Himmelsherr]]
+- [[Luminæri]] ← [[Luminæri-Göttin|Sonnengöttin]]
+- [[Bythari]] ← [[Bythari-Gott|Der Gezeitenherr]]
 
 Das Ergebnis ließ lange auf sich warten — aber wer heute den Stammbaum der meisten Völker zurückverfolgt, landet bei diesem einen Vorfall.
 

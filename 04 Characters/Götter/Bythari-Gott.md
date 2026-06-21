@@ -3,10 +3,10 @@ tags:
   - wip
   - working-title
 ---
-# Der Gezeitenherr
+# Bythari-Gott
 
-*EN: The Tide-Lord*
-*Tag:* #tide-lord
+*EN: Bythari-Lord*
+*Tag:* #bythari-lord
 
 - Schöpfer-Gott der [[Bythari]]. Gott der Meere und Strömungen.
 - Zog eine Linie ins Wasser — amphibisch und tieftauglich.

@@ -2,6 +2,7 @@
 tags:
   - wip
   - species
+  - drakori-lord
 ---
 # Drakōri
 
@@ -16,7 +17,7 @@ Die **Drakōri** (klassischer Fantasy-Begriff: *Drachen*) sind das älteste und 
 
 - **Elværin-Name:** Drakōri (`-ōri`, „die Urgewaltigen“)
 - **Fantasy-Pendant:** Drachen
-- **Schöpfergott:** [[Drachengott]]
+- **Schöpfergott:** [[Drakōri-Gott]]
 - **Lebensraum:** Gebirge, Vulkane, noetische Hotspots
 - **Bevölkerung:** ~50.000 (seltenste intelligente Spezies)
 - **Lebensspanne:** sehr lang (*genau TBD*)
@@ -25,7 +26,7 @@ Die **Drakōri** (klassischer Fantasy-Begriff: *Drachen*) sind das älteste und 
 
 ## Herkunft
 
-Das **älteste** intelligente Volk Lumoras — älter als die Elværi und mit eigenem, nicht-humanoidem Ursprung (nicht aus dem Fremdbringer-Saatgut). Hervorgebracht von einem [[Drachengott|Drachengott]]. *Details → [[02.05 Geschichte]].*
+Das **älteste** intelligente Volk Lumoras — älter als die Elværi und mit eigenem, nicht-humanoidem Ursprung (nicht aus dem Fremdbringer-Saatgut). Hervorgebracht von einem [[Drakōri-Gott|Drachengott]]. *Details → [[02.05 Geschichte]].*
 
 ## Biologie
 
@@ -76,4 +77,4 @@ TODO: Grenzen & Schwächen dieses Volkes festlegen — Kosten und Reichweite der
 
 ## Offene Fragen
 
-> *Kritische Anmerkung:* Ein Drakōri, der alt und klug genug wird, könnte theoretisch echte [[03.04 Erweiterte Konzepte#Transzendenz — der Aufstieg|Transzendenz]] erreichen — der [[Frostelværi-Pseudogott|Frostelværi-Drachen-Pseudogott]] beweist es. Frage: Wie viele Götter Lumoras waren ursprünglich Drakōri?
+> *Kritische Anmerkung:* Ein Drakōri, der alt und klug genug wird, könnte theoretisch echte [[03.04 Erweiterte Konzepte#Transzendenz — der Aufstieg|Transzendenz]] erreichen — der [[Frostelværi-Gott|Frostelværi-Drachen-Pseudogott]] beweist es. Frage: Wie viele Götter Lumoras waren ursprünglich Drakōri?

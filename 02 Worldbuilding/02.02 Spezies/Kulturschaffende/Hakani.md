@@ -3,6 +3,7 @@ tags:
   - wip
   - "#hakani"
   - species
+  - hakani-lord
 ---
 # Hakani
 
@@ -16,7 +17,7 @@ Die **Hakani** (klassischer/Erd-Begriff: *Menschen*) sind die menschliche Spezie
 
 - **Elværin-Name:** Hakani (`-ani`, „die Flüchtigen“)
 - **Fantasy-Pendant:** Menschen (Lumora — *nicht* Erde)
-- **Schöpfergott:** [[Der Eifernde]] (kaum noch gebunden)
+- **Schöpfergott:** [[Hakani-Gott]] (kaum noch gebunden)
 - **Lebensraum:** alle acht Kontinente
 - **Bevölkerung:** ~1 Mrd. (größtes Volk Lumoras)
 - **Lebensspanne:** kurz (menschlich) — *Details TBD*
@@ -25,7 +26,7 @@ Die **Hakani** (klassischer/Erd-Begriff: *Menschen*) sind die menschliche Spezie
 
 ## Herkunft
 
-Wie die meisten humanoiden Völker stammen die Hakani aus dem geretteten [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatgut]] (→ [[Der gemeinsame Ursprung]]). Ihre Linie war im Werkstatt-Spiel der Götter die meistumkämpfte und wurde so oft umgelenkt, dass keine Spezialisierung haften blieb — zurück blieb ein Generalist, der nur den rastlosen Ehrgeiz seines fast vergessenen Schöpfers, des [[Der Eifernde|Eifernden]], in sich trägt.
+Wie die meisten humanoiden Völker stammen die Hakani aus dem geretteten [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatgut]] (→ [[Der gemeinsame Ursprung]]). Ihre Linie war im Werkstatt-Spiel der Götter die meistumkämpfte und wurde so oft umgelenkt, dass keine Spezialisierung haften blieb — zurück blieb ein Generalist, der nur den rastlosen Ehrgeiz seines fast vergessenen Schöpfers, des [[Hakani-Gott|Eifernden]], in sich trägt.
 
 ## Biologie
 
@@ -47,7 +48,7 @@ Am breitesten gefächert aller Völker. Hakani nutzen N-Kraft für Artefakte, Kr
 
 ## Wesen
 
-Erfindungsgeist und Ambition — oft auf Kosten der Vorsicht. Rastloser Ehrgeiz als Erbe des [[Der Eifernde|Eifernden]].
+Erfindungsgeist und Ambition — oft auf Kosten der Vorsicht. Rastloser Ehrgeiz als Erbe des [[Hakani-Gott|Eifernden]].
 
 ## Gesellschaft
 

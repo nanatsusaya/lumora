@@ -2,7 +2,7 @@
 tags:
   - "#morph"
   - "#theriani"
-  - beast-lord
+  - theriani-lord
 ---
 # Morph-Polymorphismus — Eine Spezies, viele Gestalten
 
@@ -25,7 +25,7 @@ Jeder Abschnitt folgt demselben Muster:
 
 **Real:** Dass Katze und Hund sich nicht paaren können, liegt **nicht** an ihren verschiedenen Ohren, Schädeln oder ihrer Muskulatur. Es liegt an akkumulierter **genetischer Inkompatibilität** — verschiedene Chromosomenzahl (Hauskatze 2n = 38, Haushund 2n = 78), inkompatible Genregulation, Hybrid-Letalität. Diese Inkompatibilität *und* die verschiedene Gestalt sind **beide** Produkte derselben Ursache: Millionen Jahre **unabhängiger Evolution zweier getrennter Linien**. Gestalt und Unfruchtbarkeit sind also in der Natur **korreliert, aber nicht kausal gekoppelt** — sie kommen nur im Doppelpack, weil sie sich denselben Treiber teilen (Zeit + Trennung).
 
-**Anwendung in Lumora:** Genau diese Entkopplung leistet ein **Designer** (der [[Der Tiervater|Tiervater]]), was die blinde Evolution nie kann: Er baute die Vielfalt der *Gestalt*, **ohne** die darunterliegende genetische Divergenz mitzubauen. Ein Genom, eine Chromosomenstruktur, ein kompatibler Werkzeugkasten — viele Erscheinungs-Presets. Die Theriani-Gestalten *ähneln* Erd-Katzen und -Hunden, **sind** aber keine; es wird kein fremdes Tier-Erbgut vermischt, sondern ein einziges Theriani-Genom trägt katzen- und hundeförmige Entwicklungsprogramme. Das ist der Schlussstein, der „aber Katze × Hund geht doch nicht" entkräftet: Es *sind* keine Katzen und Hunde.
+**Anwendung in Lumora:** Genau diese Entkopplung leistet ein **Designer** (der [[Theriani-Gott|Tiervater]]), was die blinde Evolution nie kann: Er baute die Vielfalt der *Gestalt*, **ohne** die darunterliegende genetische Divergenz mitzubauen. Ein Genom, eine Chromosomenstruktur, ein kompatibler Werkzeugkasten — viele Erscheinungs-Presets. Die Theriani-Gestalten *ähneln* Erd-Katzen und -Hunden, **sind** aber keine; es wird kein fremdes Tier-Erbgut vermischt, sondern ein einziges Theriani-Genom trägt katzen- und hundeförmige Entwicklungsprogramme. Das ist der Schlussstein, der „aber Katze × Hund geht doch nicht" entkräftet: Es *sind* keine Katzen und Hunde.
 
 > **Merksatz:** In der Natur kommen verschiedene Gestalt und Unfruchtbarkeit gemeinsam, weil sie eine gemeinsame Ursache haben. Ein Designer kann das eine ohne das andere haben.
 
@@ -127,4 +127,4 @@ Entscheidend: Ein Supergen vererbt sich **diskret, wie ein Allel**. Kreuzt man z
 - **Biologischer Speziesbegriff:** Mayr, E. (1942): *Systematics and the Origin of Species.*
 - **Chromosomenzahlen:** Haushund 2n = 78, Hauskatze 2n = 38 (Standard-Karyologie) — illustriert, warum eine reale Katze × Hund-Kreuzung scheitert.
 
-> *Anmerkung:* Reale Wissenschaft, bewusst von der Lore getrennt. Die innerweltliche Mechanik steht in [[Theriani]] (die „Schläge", ihr Ursprung beim [[Der Tiervater|Tiervater]]) und in [[Spezies#Variationstyp|Spezies → Variationstyp]]. Verwandte Lore-W
+> *Anmerkung:* Reale Wissenschaft, bewusst von der Lore getrennt. Die innerweltliche Mechanik steht in [[Theriani]] (die „Schläge", ihr Ursprung beim [[Theriani-Gott|Tiervater]]) und in [[Spezies#Variationstyp|Spezies → Variationstyp]]. Verwandte Lore-W

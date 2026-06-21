@@ -76,7 +76,7 @@ Solche Unterschiede werden als [Phänotyp](https://de.wikipedia.org/wiki/Ph%C3%A
 
 Ein **tieferer** Variationstyp: **diskrete, erbliche Morphen**, die sich *nicht* blenden. Wo Phänotyp-Varianten ineinander übergehen, sind Morph-Varianten klar getrennte „Typen", die als ganzes Paket vererbt werden — ein Nachkomme trägt den *einen* oder den *anderen* Morph, keine Mischform.
 
-Bisher trägt nur **eine** Spezies Lumoras diesen Variationstyp: die [[Theriani]], deren tierförmige „[[Theriani#Schläge|Schläge]]" (katzen-, hunde-, bärenartig …) so verschieden *aussehen* wie eigene Arten, biologisch aber Morph-Varianten *einer* interfertilen Spezies sind. Das ist kein Zufall der Evolution, sondern ein Fingerabdruck ihres **designten** Ursprungs (→ [[Der Tiervater]]): Eine natürlich evolvierte Art kann eine so weit gespreizte, diskrete Vielfalt nicht tragen.
+Bisher trägt nur **eine** Spezies Lumoras diesen Variationstyp: die [[Theriani]], deren tierförmige „[[Theriani#Schläge|Schläge]]" (katzen-, hunde-, bärenartig …) so verschieden *aussehen* wie eigene Arten, biologisch aber Morph-Varianten *einer* interfertilen Spezies sind. Das ist kein Zufall der Evolution, sondern ein Fingerabdruck ihres **designten** Ursprungs (→ [[Theriani-Gott]]): Eine natürlich evolvierte Art kann eine so weit gespreizte, diskrete Vielfalt nicht tragen.
 
 > *Abgrenzung:* **Phänotyp-Variante** = graduell, blendbar, umweltgeprägt (Elværi-Ökotypen). **Morph-Variante** = diskret, erblich, nicht-blendend (Theriani-Schläge). Beide sind *intraspezifisch* — keine eigene Art.
 

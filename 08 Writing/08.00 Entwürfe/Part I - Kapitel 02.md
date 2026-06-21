@@ -3,9 +3,9 @@ tags:
   - "#wip"
   - part-1
   - "#rzg"
-  - elvaeri-goddess
-  - puppeteer-god
   - protagonist
+  - elvaeri-lady
+  - puppeteer-lord
 ---
 # Part I - Kapitel 02
 

@@ -36,7 +36,7 @@ Stichpunkt-Notiz: potenzielle Erzählstränge rund um einen Luminæri-Weggefähr
 
 Ein klassisches #foreshadowing : 
 
-Im Verlauf von Part III oder IV könnte eines der großen Geheimnisse auf Lumora durch den Protagonisten und seine Gruppe aufgedeckt werden. Dies ist hat so immense Auswirkung, dass die [[Die Lichtweberin|Lichtweberin]] über den [[Ursprungsgott]] entscheidet, dass dies behandelt werden muss. Das Spektrum der Gerechtigkeit wird entsandt. Ein Erlebnis auf ganz großer Ebene, eines, was auf ganz Lumora Wellen schlagen wird. 
+Im Verlauf von Part III oder IV könnte eines der großen Geheimnisse auf Lumora durch den Protagonisten und seine Gruppe aufgedeckt werden. Dies ist hat so immense Auswirkung, dass die [[Luminæri-Göttin|Sonnengöttin]] über den [[Ursprungsgott]] entscheidet, dass dies behandelt werden muss. Das Spektrum der Gerechtigkeit wird entsandt. Ein Erlebnis auf ganz großer Ebene, eines, was auf ganz Lumora Wellen schlagen wird. 
 
 Bei der Bewertung ob es sich um ein Verbrechen handelt, dass göttliche Intervention benötigt, könnte der Mechanismus erklärt werden, dass Schweigen als "keine göttliche Strafe notwendig" erklärt. Siehe [[Das Gericht des Lichts]]. Das wiederum könnte gen Part V zeigen, dass beim eigentlichen Kernproblem von Lumora keine Gerechtigkeit durchgeführt wird, niemand etwas macht, alle schweigen. Schweigend zusehen, wie Lumora langsam zu Grunde geht. Denn das Schweigen kommt vom [[Chaosgott]] selbst.
 

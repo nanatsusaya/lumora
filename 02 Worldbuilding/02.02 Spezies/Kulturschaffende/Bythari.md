@@ -2,6 +2,7 @@
 tags:
   - wip
   - species
+  - bythari-lord
 ---
 # Bythari
 
@@ -14,7 +15,7 @@ Die **Bythari** (klassischer Fantasy-Begriff: *Meervolk / Fischmenschen*) sind d
 
 - **Elværin-Name:** Bythari (`-ari`, „die aus der Tiefe“)
 - **Fantasy-Pendant:** Meervolk / Fischmenschen
-- **Schöpfergott:** [[Der Gezeitenherr]]
+- **Schöpfergott:** [[Bythari-Gott]]
 - **Lebensraum:** Ozeane, Seen, Flussmündungen
 - **Bevölkerung:** *TBD*
 - **Lebensspanne:** *TBD*
@@ -23,7 +24,7 @@ Die **Bythari** (klassischer Fantasy-Begriff: *Meervolk / Fischmenschen*) sind d
 
 ## Herkunft
 
-Aus einer Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[Der Gezeitenherr|Gezeitenherr]] ins Wasser zog.
+Aus einer Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[Bythari-Gott|Gezeitenherr]] ins Wasser zog.
 
 ## Biologie
 

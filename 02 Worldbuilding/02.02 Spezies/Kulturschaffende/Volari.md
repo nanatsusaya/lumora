@@ -2,6 +2,7 @@
 tags:
   - wip
   - species
+  - volari-lord
 ---
 # Volari
 
@@ -14,7 +15,7 @@ Die **Volari** (klassischer Fantasy-Begriff: *Vogelmenschen / Aviane*) sind das 
 
 - **Elværin-Name:** Volari (`-ari`, „die Himmelsstürmer“)
 - **Fantasy-Pendant:** Vogelmenschen / Aviane
-- **Schöpfergott:** [[Der Himmelsherr]]
+- **Schöpfergott:** [[Volari-Gott]]
 - **Lebensraum:** hohe Berge, schwer zugängliche Orte
 - **Bevölkerung:** ~30 Mio.
 - **Lebensspanne:** *TBD*
@@ -23,7 +24,7 @@ Die **Volari** (klassischer Fantasy-Begriff: *Vogelmenschen / Aviane*) sind das 
 
 ## Herkunft
 
-Aus einer Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[Der Himmelsherr|Himmelsherr]] für Wind und Flug leichter machte.
+Aus einer Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[Volari-Gott|Himmelsherr]] für Wind und Flug leichter machte.
 
 ## Biologie
 
@@ -53,7 +54,7 @@ Leben in Stämmen oder kleinen Gemeinschaften; Gesellschaft eher egalitär. *(De
 
 ## Religion
 
-Verehrung von Himmel und Wind (→ [[Der Himmelsherr]]).
+Verehrung von Himmel und Wind (→ [[Volari-Gott]]).
 
 ## Grenzen & Schwächen
 

@@ -2,6 +2,7 @@
 tags:
   - wip
   - species
+  - theriani-lord
 ---
 # Theriani
 
@@ -14,7 +15,7 @@ Die **Theriani** (klassischer Fantasy-Begriff: *Tiermenschen*) sind das säugeti
 
 - **Elværin-Name:** Theriani (`-ani`, „die Wilden“)
 - **Fantasy-Pendant:** Tiermenschen
-- **Schöpfergott:** [[Der Tiervater]]
+- **Schöpfergott:** [[Theriani-Gott]]
 - **Lebensraum:** biotopabhängig (je Schlag ein Biotop)
 - **Bevölkerung:** ~600 Mio. (zweitgrößtes Volk)
 - **Lebensspanne:** *TBD*
@@ -23,7 +24,7 @@ Die **Theriani** (klassischer Fantasy-Begriff: *Tiermenschen*) sind das säugeti
 
 ## Herkunft
 
-Aus einer fallengelassenen Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[Der Tiervater|Tiervater]] zur Tierverwandtschaft hin formte. Die vielen Tier-Gestalten spiegeln seine Lust an der Vielfalt — und sind, anders als bei natürlich evolvierten Völkern, das Ergebnis eines **bewussten, sehr langwierigen Designs**.
+Aus einer fallengelassenen Linie des [[02.05 Geschichte#Das fremde Saatgut — der Fremdbringer|Fremdbringer-Saatguts]] (→ [[Der gemeinsame Ursprung]]), die der [[Theriani-Gott|Tiervater]] zur Tierverwandtschaft hin formte. Die vielen Tier-Gestalten spiegeln seine Lust an der Vielfalt — und sind, anders als bei natürlich evolvierten Völkern, das Ergebnis eines **bewussten, sehr langwierigen Designs**.
 
 Die Theriani so zu bauen — *eine* interfertile Spezies mit dieser diskreten Gestaltvielfalt — dauerte außergewöhnlich lange. Darum traten sie als „fertige“ Spezies erst **vergleichsweise spät** auf die Weltbühne und sind das **jüngste der sieben verwandten humanoiden Völker**. Was ihnen an Alter fehlt, machen sie an Tempo wett: **hohe Geburtenrate** plus die **ökologische Breite ihrer Schläge** haben sie rasch über Lumora verteilt — in der Ausbreitungsgeschwindigkeit nur von den [[Hakani]] übertroffen. Damit gehören sie (mit den Hakani) zur „neuen Geschwindigkeit“, die den alten, langsamen Völkern wie den [[Elværi]] gefährlich wird (→ [[Elværi#Aussterberisiko|die Elværi-Falle]]).
 
@@ -88,7 +89,7 @@ Geführt wird zumeist durch **Krieger** (gegenwärtige Stärke → [[03.03 Das N
 
 ## Religion
 
-Jeder [[#Schläge|Schlag]] verehrt scheinbar einen *eigenen* Gott, dessen Gestalt zum jeweiligen Tier-Aussehen passt — die „Tiergötter“ und Totems der Theriani. In Wahrheit ist es **immer derselbe Gott**: der [[Der Tiervater|Tiervater]] in vielen Aspekten und Gesichtern. Die Theriani ahnen das nicht — sie halten ihre Tiergötter für getrennt, so wie sie ihre Schläge für fast eigene Völker halten (ein weiterer Fall von [[01.04 Zentrale Themen#Begrenzte Erkenntnis|begrenzter Erkenntnis]]). Für den Gott ist die Zersplitterung kein Nachteil: Die [[03.04 Erweiterte Konzepte#Energie durch Gläubige — Mechanik|Gläubigen-Energie]] aller Schläge fließt *ihm* zu, gleich unter welchem Gesicht.
+Jeder [[#Schläge|Schlag]] verehrt scheinbar einen *eigenen* Gott, dessen Gestalt zum jeweiligen Tier-Aussehen passt — die „Tiergötter“ und Totems der Theriani. In Wahrheit ist es **immer derselbe Gott**: der [[Theriani-Gott|Tiervater]] in vielen Aspekten und Gesichtern. Die Theriani ahnen das nicht — sie halten ihre Tiergötter für getrennt, so wie sie ihre Schläge für fast eigene Völker halten (ein weiterer Fall von [[01.04 Zentrale Themen#Begrenzte Erkenntnis|begrenzter Erkenntnis]]). Für den Gott ist die Zersplitterung kein Nachteil: Die [[03.04 Erweiterte Konzepte#Energie durch Gläubige — Mechanik|Gläubigen-Energie]] aller Schläge fließt *ihm* zu, gleich unter welchem Gesicht.
 
 ## Grenzen & Schwächen
 

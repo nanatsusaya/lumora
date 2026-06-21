@@ -8,15 +8,15 @@ tags:
 *EN: Elværi (Elves)*
 *Tag:* #elvaeri
 
-Die **Elværi** sind eine der ältesten kulturschaffenden [[Spezies]] Lumoras — das zweitälteste intelligente Volk nach den [[Drakōri]]. Geschaffen wurden sie von der [[Elværigöttin|Elværigöttin]] vor rund einer Million Jahren.
+Die **Elværi** sind eine der ältesten kulturschaffenden [[Spezies]] Lumoras — das zweitälteste intelligente Volk nach den [[Drakōri]]. Geschaffen wurden sie von der [[Elværi-Göttin|Elværigöttin]] vor rund einer Million Jahren.
 
-Diese Note behandelt die **Spezies**. Die ausgearbeitete Gesellschaft der Waldelfen liegt in [[Waldelværi]], die Göttin in [[Elværigöttin]], die Einordnung in die Erdgeschichte in [[02.05 Geschichte]].
+Diese Note behandelt die **Spezies**. Die ausgearbeitete Gesellschaft der Waldelfen liegt in [[Waldelværi]], die Göttin in [[Elværi-Göttin]], die Einordnung in die Erdgeschichte in [[02.05 Geschichte]].
 
 **Steckbrief**
 
 - **Elværin-Name:** Elværi (`-æri`, Selbstbezeichnung; menschliches Exonym „Eldari“)
 - **Fantasy-Pendant:** Elfen
-- **Schöpfergott:** [[Elværigöttin]]
+- **Schöpfergott:** [[Elværi-Göttin]]
 - **Lebensraum:** Wälder & Täler (Wald), Nordregionen (Frost), noetisch tote Wüsten (Wüste)
 - **Bevölkerung:** ~300 Mio.
 - **Lebensspanne:** ~1.000–1.500 Jahre (Ausreißer ~2.000)
@@ -27,9 +27,9 @@ Diese Note behandelt die **Spezies**. Die ausgearbeitete Gesellschaft der Waldel
 
 ## Herkunft
 
-Die Elværi sind kein Sonderfall, sondern ein gezieltes Produkt der [[02.05 Geschichte#Die Werkstatt der Götter|Werkstatt der Götter]]: eine über Äonen von der [[Elværigöttin|Elværigöttin]] geführte **Speziation aus einer Vorläuferlinie**. Was die Elværi als „Erschaffung" durch ihre Göttin verehren (Glaubensversion), ist systemisch das geduldige, generationenweise Lenken vieler Genome bis zum gewünschten Ergebnis.
+Die Elværi sind kein Sonderfall, sondern ein gezieltes Produkt der [[02.05 Geschichte#Die Werkstatt der Götter|Werkstatt der Götter]]: eine über Äonen von der [[Elværi-Göttin|Elværigöttin]] geführte **Speziation aus einer Vorläuferlinie**. Was die Elværi als „Erschaffung" durch ihre Göttin verehren (Glaubensversion), ist systemisch das geduldige, generationenweise Lenken vieler Genome bis zum gewünschten Ergebnis.
 
-Die Elværigöttin wünschte sich ein Volk *wie sie selbst* — weise, verständnisvoll, im Einklang mit der Natur, verantwortungsvoll und friedfertig. Aber keine zahmen Haustiere: Es sollte sich verteidigen können und eine tragende **Säule Lumoras** werden, nicht isoliert und ängstlich existieren — eine Lehre aus dem Verlust ihres ersten Volkes. Sie war damit nicht die Erste: Ein [[Drachengott|anderer Gott]] brachte zuvor mit den [[Drakōri]] das erste intelligente Volk hervor. *(Details → [[Elværigöttin|Elværigöttin]].)*
+Die Elværigöttin wünschte sich ein Volk *wie sie selbst* — weise, verständnisvoll, im Einklang mit der Natur, verantwortungsvoll und friedfertig. Aber keine zahmen Haustiere: Es sollte sich verteidigen können und eine tragende **Säule Lumoras** werden, nicht isoliert und ängstlich existieren — eine Lehre aus dem Verlust ihres ersten Volkes. Sie war damit nicht die Erste: Ein [[Drakōri-Gott|anderer Gott]] brachte zuvor mit den [[Drakōri]] das erste intelligente Volk hervor. *(Details → [[Elværi-Göttin|Elværigöttin]].)*
 
 ---
 
@@ -189,7 +189,7 @@ Die lange Lebensspanne verschiebt, was einem Elværi wichtig ist. Der Drang nach
 
 *Die ausführliche Gesellschaft der Waldelfen → [[Waldelværi]].* Hier nur das Speziesübergreifende:
 
-- **Staatsform:** lange monarchisch; in den letzten ~100.000 Jahren durch die [[Elværigöttin|Elværigöttin]] auf **Clans, Disziplinen und ein Triumvirat** umgestellt (→ [[Waldelværi#Die göttliche Schablone|göttliche Schablone]]).
+- **Staatsform:** lange monarchisch; in den letzten ~100.000 Jahren durch die [[Elværi-Göttin|Elværigöttin]] auf **Clans, Disziplinen und ein Triumvirat** umgestellt (→ [[Waldelværi#Die göttliche Schablone|göttliche Schablone]]).
 - **Begleiter-System:** Ein Elværi kann aus Respekt oder einer Lebensschuld heraus Begleiter eines anderen werden — eine bindende soziale Verpflichtung.
 - **Gift:** In höheren sozialen Schichten wird Gift eingesetzt, um Fähigkeiten anderer zu *schwächen* (nicht zu töten). Kinder des Hochadels erhalten daher Unterricht in Giftlehre. *(Schattenseite der Clan-Rivalität → [[Waldelværi#Clans|Clans]].)*
 
@@ -197,7 +197,7 @@ Die lange Lebensspanne verschiebt, was einem Elværi wichtig ist. Der Drang nach
 
 ## Religion
 
-Die spirituelle Liebe der Elværi — die Verehrung der [[Elværigöttin|Elværigöttin]] — ist zugleich der innerweltliche Ausdruck der [[02.04 Religion & Götter#Energie durch Gläubige|Energie-Ökonomie der Götter]]: freiwillig geschenkte Noetische Energie. Details → [[Waldelværi]] / [[02.04 Religion & Götter]].
+Die spirituelle Liebe der Elværi — die Verehrung der [[Elværi-Göttin|Elværigöttin]] — ist zugleich der innerweltliche Ausdruck der [[02.04 Religion & Götter#Energie durch Gläubige|Energie-Ökonomie der Götter]]: freiwillig geschenkte Noetische Energie. Details → [[Waldelværi]] / [[02.04 Religion & Götter]].
 
 ## Grenzen & Schwächen
 

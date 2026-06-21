@@ -3,10 +3,10 @@ tags:
   - wip
   - working-title
 ---
-# Der Eifernde
+# Hakani-Gott
 
-*EN: The Striving God*
-*Tag:* #striving-god
+*EN: Hakani Lord*
+*Tag:* #hakani-lord
 
 - Schöpfer-Gott der [[Hakani]]. Gott des Strebens, des Ehrgeizes und der Selbstüberwindung.
 - Seine Linie war im [[02.05 Geschichte#Die Werkstatt der Götter|Werkstatt-Spiel]] die meistumkämpfte: rivalisierende Götter lenkten sie ständig um, sodass keine biologische Spezialisierung haften blieb.

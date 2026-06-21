@@ -2,7 +2,7 @@
 tags:
   - wip
   - spoiler
-  - primal-god
+  - primal-lord
 ---
 # Ursprungsgott = Chaosgott
 

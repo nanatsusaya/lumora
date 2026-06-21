@@ -10,17 +10,17 @@ tags:
 
 Die **Waldelværi** (umgangssprachlich *Waldelfen*) sind der Wald-Phänotyp der [[Elværi]] und das am weitesten ausgearbeitete Elværi-Volk. Sie bilden mehrere, im Kern gleich strukturierte Nationen auf verschiedenen Kontinenten. In eine davon wird der [[Protagonist]] wiedergeboren.
 
-Diese Note behandelt die **Gesellschaft**. Die Spezies → [[Elværi]], die Göttin → [[Elværigöttin]].
+Diese Note behandelt die **Gesellschaft**. Die Spezies → [[Elværi]], die Göttin → [[Elværi-Göttin]].
 
 ---
 
 ## Die göttliche Schablone
 
-Das gesamte Gesellschaftssystem der Waldelværi — Clans, Disziplinen, Triumvirat — wurde **nicht** von ihnen selbst erfunden, sondern von der [[Elværigöttin|Elværigöttin]] nach der Abspaltung der Wüstenelværi (vor ~100.000 Jahren) **stückweise eingeführt**. Aus Sicht der Waldelværi ist es damit die *einzig wahre, göttlich akzeptierte* Gesellschaftsform.
+Das gesamte Gesellschaftssystem der Waldelværi — Clans, Disziplinen, Triumvirat — wurde **nicht** von ihnen selbst erfunden, sondern von der [[Elværi-Göttin|Elværigöttin]] nach der Abspaltung der Wüstenelværi (vor ~100.000 Jahren) **stückweise eingeführt**. Aus Sicht der Waldelværi ist es damit die *einzig wahre, göttlich akzeptierte* Gesellschaftsform.
 
 Das erklärt, warum mehrere Waldelværi-Staaten auf verschiedenen Kontinenten **dieselbe** Struktur tragen, obwohl sie weitgehend unabhängig voneinander agieren: Es ist überall dieselbe Schablone. Die Unterschiede zwischen den Staaten sind marginal.
 
-> *Kritische Anmerkung:* Diese Schablone ist die **widerwillige Verhärtung der [[Elværigöttin|Elværigöttins]] eigenen Traums**. Sie wollte ein weises, friedfertiges Volk — doch um es überdauern zu lassen, gab sie ihm ein System aus Erfolgsdruck, Hierarchie und Fortschrittsdrang. Sie säte damit selbst die Hybris, die später in die [[02.05 Geschichte#Das Makroproblem|Selbstzerstörungsdynamik]] greift.
+> *Kritische Anmerkung:* Diese Schablone ist die **widerwillige Verhärtung der [[Elværi-Göttin|Elværigöttins]] eigenen Traums**. Sie wollte ein weises, friedfertiges Volk — doch um es überdauern zu lassen, gab sie ihm ein System aus Erfolgsdruck, Hierarchie und Fortschrittsdrang. Sie säte damit selbst die Hybris, die später in die [[02.05 Geschichte#Das Makroproblem|Selbstzerstörungsdynamik]] greift.
 
 ---
 

@@ -2,11 +2,12 @@
 tags:
   - wip
   - working-title
+  - primary-god
 ---
 # Chaosgott
 
-*EN: Chaos God*
-*Tag:* #chaos-god
+*EN: Chaos Lord*
+*Tag:* #chaos-lord
 
 - Transzendiert. Befindet sich außerhalb des Sonnensystems.
 - Bevorzugt Änderungen, Zerfall und Neuanfang. Entwickelt alles revolutionär.

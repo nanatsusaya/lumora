@@ -60,7 +60,7 @@ Dazu kommt ein zweiter, **demografischer** Hebel: Das Heimlicht **erhöht die Fr
 
 ## Das Dämpfungsfeld
 
-Neben dem geistigen Einfluss trägt das Heimlicht eine zweite, **hochspezifische** Eigenschaft, die der Pilz Gott eigens in die Mikrobe entworfen hat: Es **dämpft die Übertragung Noetischer Energie zwischen den Anelari und ihrem Gott** (→ [[Der Tiefenschmied|Anelari-Gott]]).
+Neben dem geistigen Einfluss trägt das Heimlicht eine zweite, **hochspezifische** Eigenschaft, die der Pilz Gott eigens in die Mikrobe entworfen hat: Es **dämpft die Übertragung Noetischer Energie zwischen den Anelari und ihrem Gott** (→ [[Anelari-Gott|Anelari-Gott]]).
 
 - Wo das Heimlicht dicht leuchtet — vor allem in den **Tempeln**, die die Anelari damit ausleuchten — entsteht ein **Dämpfungsfeld** auf genau dem Frequenzband, über das der Anelari-Gott mit seinem Volk in Verbindung steht (→ [[03.02 Funktionsweise#Wellencharakter|frequenzabhängige Leitung]]).
 - Das Feld dämpft in **beide Richtungen**: Es macht es dem Gott schwerer, sein Volk zu warnen, und schirmt ihn zugleich von dessen Verehrung ab.
@@ -90,7 +90,7 @@ Der [[Pilz Gott]] ist der eigentliche Stratege hinter dem Heimlicht. Sein Ziel i
 
 **1. Abrissphase.** Der verdrahtete Kriegstrieb des Pilzes (→ [[#Ziel & Fortpflanzung]]) zermürbt das Volk über Jahrhunderte: endlose Eroberungskriege, zerfallende Staaten, verbranntes Erbe. Für ein planendes Wesen wäre das unsinnig — wenn das Ziel intakte Untertanen wären. Für den Pilz Gott ist die Verwüstung aber genau der Punkt: Ein **zermürbtes, kriegsmüdes, von seinem eigenen Gott verlassenes Volk** ist die ideale Bevölkerung für einen neuen Retter.
 
-**2. Abschneiden.** Parallel trennt das [[#Das Dämpfungsfeld|Dämpfungsfeld]] die befallene Hälfte immer weiter von ihrem [[Der Tiefenschmied|Anelari-Gott]]. Sie hören seine Warnungen nicht mehr, ihre Verehrung erreicht ihn kaum noch. Aus ihrer Sicht ist ihr Gott **still geworden** — er hat sie scheinbar verlassen.
+**2. Abschneiden.** Parallel trennt das [[#Das Dämpfungsfeld|Dämpfungsfeld]] die befallene Hälfte immer weiter von ihrem [[Anelari-Gott|Anelari-Gott]]. Sie hören seine Warnungen nicht mehr, ihre Verehrung erreicht ihn kaum noch. Aus ihrer Sicht ist ihr Gott **still geworden** — er hat sie scheinbar verlassen.
 
 **3. Auftreten als Retter.** Wenn die Anelari das Gefühl, verlassen worden zu sein, nicht mehr ertragen, will der Pilz Gott als **Anker und Helfer** erscheinen — und die frei gewordene Verehrung auf sich umlenken. Das ist die [[02.04 Religion & Götter|Gläubigen-Energie]], die der Pilz selbst nie liefern konnte: Nicht der Pilz betet, sondern die Anelari, die der Pilz dem alten Gott entreißt. **Dieser Punkt ist noch nicht erreicht — der Pilz Gott wartet.**
 

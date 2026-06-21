@@ -2,10 +2,11 @@
 tags:
   - wip
   - working-title
+  - primary-god
 ---
 # Raum-Zeit-Gott
 
-*EN: Space-Time God (STG)*
+*EN: Space-Time Lord (STG)*
 *Tag:* #rzg
 *Short: RZG*
 

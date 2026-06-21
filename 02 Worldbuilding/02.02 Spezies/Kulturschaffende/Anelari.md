@@ -2,6 +2,7 @@
 tags:
   - wip
   - species
+  - anelari-lord
 ---
 # Anelari
 
@@ -14,7 +15,7 @@ Die **Anelari** (klassischer Fantasy-Begriff: *Zwerge*) sind das unterirdische S
 
 - **Elværin-Name:** Anelari (`-ari`, „die Sonnenlosen“)
 - **Fantasy-Pendant:** Zwerge
-- **Gott:** [[Der Tiefenschmied|Anelari-Gott]] *(sanfter Wegweiser, kein Schöpfer — siehe [[#Religion]])*
+- **Gott:** [[Anelari-Gott|Anelari-Gott]] *(sanfter Wegweiser, kein Schöpfer — siehe [[#Religion]])*
 - **Lebensraum:** gemäßigte Tiefen der Unterwelt
 - **Bevölkerung:** ~400 Mio. (drittgrößtes Volk)
 - **Lebensspanne:** *TBD*
@@ -27,7 +28,7 @@ Die Anelari stammen aus einer Linie des [[02.05 Geschichte#Das fremde Saatgut �
 
 **Der Weg unter Tage:** Ihre Vorfahren waren eine einfache humanoide Lebensform (etwa affenartig). In ihrer Region trieb eine kleine Eiszeit das Nahrungsangebot unter die Erde; die Tiere fanden unterirdisch mehr zu fressen und drangen in die verzweigten Wege der Unterwelt vor. Dort stellten sie sich aus eigener Kraft den Gefahren — geologischen wie durch Flora und Fauna — und meisterten sie nach und nach mit Verstand und ersten Werkzeugen.
 
-**Die Rolle ihres Gottes:** Erst als sich diese Vorfahren schon ausgebreitet hatten, wurde ein **sanfter Gott der Unterwelt** auf sie aufmerksam (→ [[Der Tiefenschmied|Anelari-Gott]]). Anders als bei [[Elværi]] oder [[Theriani]] lenkte er ihre Entwicklung **nicht** in eine Richtung. Seine größte Hilfe war ein **subtiles Anstoßen**, in welchen Regionen der Unterwelt sie sich ausbreiten sollten, ohne gleich auf deren tödlichste Gefahren zu stoßen. So wurde über lange Zeit aus einem passenden genetischen Tier-Vorläufer Stück für Stück ein an die Unterwelt angepasster, kulturschaffender Körper.
+**Die Rolle ihres Gottes:** Erst als sich diese Vorfahren schon ausgebreitet hatten, wurde ein **sanfter Gott der Unterwelt** auf sie aufmerksam (→ [[Anelari-Gott|Anelari-Gott]]). Anders als bei [[Elværi]] oder [[Theriani]] lenkte er ihre Entwicklung **nicht** in eine Richtung. Seine größte Hilfe war ein **subtiles Anstoßen**, in welchen Regionen der Unterwelt sie sich ausbreiten sollten, ohne gleich auf deren tödlichste Gefahren zu stoßen. So wurde über lange Zeit aus einem passenden genetischen Tier-Vorläufer Stück für Stück ein an die Unterwelt angepasster, kulturschaffender Körper.
 
 **Zeitliche Einordnung (Arbeitsmodell):**
 
@@ -109,7 +110,7 @@ Organisiert in **Clans**, politisch in drei Ebenen gestaffelt:
 
 ## Religion
 
-Die Anelari verehren **einen** Gott, der sie über ihre gesamte Geschichte begleitet hat (→ [[Der Tiefenschmied|Anelari-Gott]]). Weil er ihre Entwicklung nie erzwungen, sie aber stets vor Gefahren gewarnt und ihnen mögliche Wege gezeigt hat, sehen sie ihn weniger als Schöpfer denn als **Wegweiser und Gelehrten** — und zugleich als **Beschützer und Führer**.
+Die Anelari verehren **einen** Gott, der sie über ihre gesamte Geschichte begleitet hat (→ [[Anelari-Gott|Anelari-Gott]]). Weil er ihre Entwicklung nie erzwungen, sie aber stets vor Gefahren gewarnt und ihnen mögliche Wege gezeigt hat, sehen sie ihn weniger als Schöpfer denn als **Wegweiser und Gelehrten** — und zugleich als **Beschützer und Führer**.
 
 > *Anmerkung (nur Autorenebene):* Seit einigen tausend Jahren verliert dieser Gott den Draht zu etwa der Hälfte seines Volkes. Hintergrund und Mechanik → [[Das Heimlicht der Anelari]].
 

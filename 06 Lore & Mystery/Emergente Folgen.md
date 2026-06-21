@@ -19,7 +19,7 @@ Es gibt keinen Schuldigen; das Unheil entsteht aus der *Struktur*, nicht aus bö
 
 - **Die Drei Regeln.** Aufgestellt als Schutz des Sonnensystems — und genau dadurch eine Falle, die jedes Gegenmittel verbietet. *(→ [[Die Drei Regeln]])*
 - **Harmonisches Zusammenleben.** Biologisch zur Sanftmut selektiert — und gerade deshalb blind für die Gefahr auf der Ebene von Kulturen und Distanz. *(→ [[03.07 Noetische Evolution]])*
-- **Die Elværigöttin.** Ihre Liebe ist echt — aber im falschen Zeitmaßstab; ihre Fürsorge kommt stets einen Schritt zu spät. *(→ [[Elværigöttin|Elværigöttin]])*
+- **Die Elværigöttin.** Ihre Liebe ist echt — aber im falschen Zeitmaßstab; ihre Fürsorge kommt stets einen Schritt zu spät. *(→ [[Elværi-Göttin|Elværigöttin]])*
 - **Die göttliche Schablone der Elværi.** Eingeführt, um ein sanftes Volk überdauern zu lassen — und sät dabei selbst die Hybris und den Fortschrittsdrang, die es zur Katastrophe treiben. *(→ [[Waldelværi#Die göttliche Schablone|göttliche Schablone]])*
 - **Die Stärken der Elværi.** Langes Leben, lebende Technik, geringe Zahl — jede Stärke kippt im beschleunigten Zeitalter zur tödlichen Schwäche. *(→ [[Elværi#Aussterberisiko|die Elværi-Falle]])*
 

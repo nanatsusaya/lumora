@@ -3,10 +3,10 @@ tags:
   - wip
   - working-title
 ---
-# Wüstenelværi-Gott (Arbeitstitel)
+# Wüstenelværi-Gott
 
-*EN: Desert Elværi God*
-*Tag:* #desert-god
+*EN: Desert Elværi Lord*
+*Tag:* #desert-lord
 
 - Nutzte die Notlage der fliehenden [[Elværi|Wüstenelværi]], um sich ein neues Volk zu sichern.
 - Kann besonders gut in noetisch toten Zonen N-Kraft einsetzen — das ist seine einzigartige Fähigkeit.

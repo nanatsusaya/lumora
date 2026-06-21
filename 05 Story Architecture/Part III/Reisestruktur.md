@@ -69,7 +69,7 @@ Menü, keine Reihenfolge. Der Worldbuilding-Stand der Völker ist unterschiedlic
 ### Drakōri
 
 *Lernfacette:* der Drache, der den Freund tötete, gehört zum ältesten Volk (Pseudogötter mit tiefstem N-Kraft-Verständnis). Den Drachen zu *verstehen* — nicht Rache — führt zu den tiefen Mechaniken von Transzendenz und Göttern. → [[Drakōri]], [[03.04 Erweiterte Konzepte#Transzendenz — der Aufstieg|Transzendenz]]
-*Detektiv-Krümel:* wie Götter entstehen (ein Drakōri kann aufsteigen, vgl. [[Frostelværi-Pseudogott]]) — Annäherung an RZG/Heimweg und an das Geheimnis.
+*Detektiv-Krümel:* wie Götter entstehen (ein Drakōri kann aufsteigen, vgl. [[Frostelværi-Gott]]) — Annäherung an RZG/Heimweg und an das Geheimnis.
 
 ### Hakani
 

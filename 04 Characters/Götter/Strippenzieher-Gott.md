@@ -5,8 +5,8 @@ tags:
 ---
 # Strippenzieher-Gott
 
-*EN: Puppeteer God*
-*Tag:* #puppeteer-god
+*EN: Puppeteer Lord*
+*Tag:* #puppeteer-lord
 
 - Sieht, dass Lumora sich bald selbst vernichtet — möchte das verhindern.
 - Sucht eine Lösung **außerhalb der Drei Regeln** (was ihn von allen anderen unterscheidet).

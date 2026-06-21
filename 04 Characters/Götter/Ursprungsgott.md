@@ -2,11 +2,12 @@
 tags:
   - wip
   - working-title
+  - primary-god
 ---
 # Ursprungsgott
 
-*EN: Primal God*
-*Tag:* #primal-god
+*EN: Primal Lord*
+*Tag:* #primal-lord
 
 - Transzendiert. Besteht vollständig aus Noetische Energie.
 - Bevorzugt Ordnung und stetiges Wachstum. Entwickelt alles evolutionär.

@@ -3,10 +3,10 @@ tags:
   - wip
   - working-title
 ---
-# Elværigöttin
+# Elværi-Göttin
 
-*EN: Elværi Goddess*
-*Tag:* #elvaeri-goddess
+*EN: Elværi Lady*
+*Tag:* #elvaeri-lady
 
 **Ursprung:** Sterbliches Lebewesen einer anderen Welt (vergleichbar mit den Na'vi aus Avatar). Erreichte aus eigener Kraft Pseudogöttinnen-Status, schuf ein Refugium mit Anhängern. Der ursprüngliche Gott ihrer Welt griff an → Anhänger ausgelöscht, sie verbannt. Im Kampf erreichte sie Gottheitsstatus — aber noch in physischer Form. Transzendenz unter extremem Druck, kostete enormen Kraftaufwand.
 
@@ -19,7 +19,7 @@ tags:
 **Ihr Wunsch für die Elværi:** Sie wollte ein Volk *wie sie selbst* — weise, verständnisvoll, im Einklang mit der Natur, verantwortungsvoll und friedfertig. Aber keine zahmen Haustiere: Ihr Volk sollte sich verteidigen können und eine tragende Säule Lumoras werden, nicht isoliert und ängstlich vor dem Rest der Welt existieren — eine Lehre aus dem Verlust ihres ersten Volkes. *(Die Spezies → [[Elværi]]; die Gesellschaft → [[Waldelværi]].)*
 
 **Entwicklung der Elværi-Fraktionen:**
-- *Frostelværi:* Vor ~250.000 Jahren stießen nördliche Elværi auf einen mächtigen Eisdrachen. Konflikte → Drakōri stieg zum Pseudogott auf. Frostelværi beten im Alltag dem [[Frostelværi-Pseudogott]], sehen die Elværigöttin als Mutter. Sie akzeptierte das — was später als Schwäche wahrgenommen wurde.
+- *Frostelværi:* Vor ~250.000 Jahren stießen nördliche Elværi auf einen mächtigen Eisdrachen. Konflikte → Drakōri stieg zum Pseudogott auf. Frostelværi beten im Alltag dem [[Frostelværi-Gott]], sehen die Elværigöttin als Mutter. Sie akzeptierte das — was später als Schwäche wahrgenommen wurde.
 - *Wüstenelværi:* Vor ~100.000 Jahren wurde ein Elværi-Reich von Hakani vernichtet. Überlebende flohen in eine große Wüste mit noetisch totem Gebiet. Ein listiger Gott (der [[Wüstenelværi-Gott]]) half ihnen. Sie wandten sich von ihr ab. Seither ist die Elværigöttin verärgert — ihre Interventionen in der Wüste scheitern.
 
 **Heutige Stellung:** Eine der ältesten Gottheiten auf Lumora. Starker Einfluss durch die Waldelfen. Kraft mittelmäßig für Götter-Maßstäbe ("Schwächere der Starken"). Reagierte auf den Verlust der Wüstenelværi mit aktiverer Lenkung der Waldelfen: Einführung von Clans, Triumvirat (statt Monarchie), Disziplinen → Waldelfen wurden zu einem der mächtigsten Völker Lumoras.

@@ -3,16 +3,15 @@ tags:
   - wip
   - working-title
 ---
-# Die Lichtweberin
+# Luminæri-Göttin
 
-*EN: The Light-Weaver*
-*Tag:* #light-god
+*EN: Luminæri-Lady*
+*Tag:* #luminæri-lady
 
 Schöpfergöttin der [[Luminæri]] und Göttin des Lichts, der Illusion und der Gerechtigkeit. Ihr Name verweist auf das „Weben" von Licht — zu Trugbildern, zu Fallen und zur Bindung ihres Volkes.
 
 **Volk:** [[Luminæri]]
 **Domäne:** Licht, Illusion, Gerechtigkeit
-**Status:** #wip #working-title
 
 ## Macht
 
@@ -28,7 +27,7 @@ Ihr Wirken ist ausschließlich **indirekt**: Sie greift nie selbst ein, sondern 
 
 Sie formte eine zarte Linie des [[Der gemeinsame Ursprung|Fremdbringer-Saatguts]], die enger mit dem [[03.01 Noetisches System#Noetisches Feld (N-Feld)|N-Feld]] verschmilzt als jedes andere Volk — Ursprung der Biolumineszenz, des Illusionsgespürs und der ausgeprägten N-Feld-Abhängigkeit der [[Luminæri]].
 
-> *Anmerkung (nur Autorenebene):* Wem die Lichtweberin tatsächlich dient und warum ihr Zeichen gerade dann ausbleibt, wenn Gerechtigkeit nötig wäre → [[Das Gericht des Lichts]].
+> *Anmerkung (nur Autorenebene):* Wem die Sonnengöttin tatsächlich dient und warum ihr Zeichen gerade dann ausbleibt, wenn Gerechtigkeit nötig wäre → [[Das Gericht des Lichts]].
 
 ## Offene Fragen
 
