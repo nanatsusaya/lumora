@@ -19,7 +19,7 @@ Zweck ist ein schnelles Gefühl dafür, wie die Völker im Alltag, im Handel und
 [[Hakani]] denkt über:
 
 * **Elværi**
-  * TBD
+  * Hochnäsig und herablassend — aber unbestreitbar die besten Heiler Lumoras. Bei einem Elværi in die Lehre zu gehen, gilt als hohe Ehre.
 * **Theriani**
   * TBD
 * **Anelari**
@@ -81,6 +81,7 @@ Zweck ist ein schnelles Gefühl dafür, wie die Völker im Alltag, im Handel und
   * TBD
 * **Elværi**
   * Das (stets elværische) Oberhaupt des Familienbaums gilt als Rudelführer und Beschützer — eine Autorität, der man selbstverständlich folgt.
+  * Ist ein Rudelmitglied schwer verletzt oder krank, bringt man es zu den Elværi — niemand heilt besser.
 * **Anelari**
   * TBD
 * **Volari**
@@ -107,7 +108,7 @@ Zweck ist ein schnelles Gefühl dafür, wie die Völker im Alltag, im Handel und
 * **Hakani**
   * TBD
 * **Elværi**
-  * TBD
+  * Arrogant, doch ihre Heilkunst ist jeden weiten Weg wert; bei ihnen zu lernen, ehrt selbst einen Anelari-Meister.
 * **Theriani**
   * TBD
 * **Volari**

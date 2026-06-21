@@ -49,7 +49,7 @@ Die Elværigöttin wünschte sich ein Volk *wie sie selbst* — weise, verständ
 
 ## Lebensraum
 
-Die Elværi gliedern sich in drei umweltbedingte [[Spezies#Phänotyp-Varianten|Phänotyp-Varianten]]: **Waldelværi** in Wäldern und Tälern, **Frostelværi** in den Nordregionen, **Wüstenelværi** in noetisch toten Wüstengebieten. Die mit Abstand ausgearbeitete Gesellschaft ist die der Waldelfen → [[Waldelværi]].
+Die Elværi gliedern sich in drei umweltbedingte [[Spezies#Phänotyp-Varianten|Phänotyp-Varianten]]: **Waldelværi** in Wäldern und Tälern, **Frostelværi** in den Nordregionen, **Wüstenelværi** in noetisch toten Wüstengebieten. Die ausgearbeiteten Gesellschaften stehen je in eigener Notiz → [[Waldelværi]], [[Wüstenelværi]], [[Frostelværi]] (am weitesten ausgearbeitet sind die Waldelfen).
 
 ---
 ## Besonderheiten
@@ -68,10 +68,6 @@ Daraus folgt:
 - **Erhalten, nicht geschenkt:** Selbst-Reparatur kostet Noetische Energie. Wer geschwächt, gebrochen oder dauerhaft energiearm ist, altert schneller — Langlebigkeit ist ein aktiv gehaltener Zustand.
 
 > *Wüstenelværi:* In [[03.05 Grenzen & Einschränkungen#Noetisch tote Regionen|noetisch totem Gebiet]] versiegt die Reparatur-Grundlage. Wüstenelværi altern darum **schneller**, wirken härter und verwitterter — was ihren Riss zu den Waldelværi zusätzlich vertieft.
-
-```
-TODO (innerweltliche Deutung, später): Aus dem kürzeren Leben der Wüstenelværi ließe sich eine Folklore formen — „die Strafe der Göttin für ihren Verrat ist ihr kürzeres Leben". Systemisch ist es schlicht die schwache N-Feld-Grundlage ihrer Heimat; kulturell wird daraus eine Schuldgeschichte.
-```
 
 ### Reifung, Kindheit & Lernen
 
@@ -156,24 +152,39 @@ TODO:
 - Lumora-Pendant zum Computerchip: vermutlich ein *gefertigter* Kristall-Schaltkreis (03.04 beschreibt Kristalle bereits als programmierbare Modulatoren), der wie eine Fabrik iteriert. Wer entwickelt ihn zuerst? (Hakani? → [[Hakani]])
 ```
 
-### Phänotypen
+### Phänotypen — drei Kulturen, ein Volk
 
-**Wüstenelværi-Besonderheit:** Sie können in noetisch toten Regionen überleben und N-Kraft nutzen — eine Anpassung, die ihnen der [[Wüstenelværi-Gott|Wüstengott]] lehrte und die sie von anderen Elværi kulturell und praktisch trennt.
+Wald-, Wüsten- und Frostelværi sind biologisch *eine* Spezies (→ [[#Biologie|Biologie]]), aber kulturell, religiös und in der Ausprägung ihrer N-Kraft tief verschieden. Die gemeinsame Wurzel ist die [[#Heilung — die Kernkompetenz|Heilgabe]]; über Jahrtausende hat sich diese eine Gabe in drei Richtungen entwickelt:
 
-> *Kritische Anmerkung:* Die drei Elværi-Gruppen sind biologisch eine Spezies, aber religiös und kulturell völlig verschieden. Das ist ein exzellentes Spannungsfeld. Der Konflikt zwischen Elværigöttin und Wüstengott ist kein abstrakter Götterkampf — er spiegelt sich in realen Spannungen zwischen Bevölkerungsgruppen wider. Dieser Riss sollte sichtbar sein, wenn der Protagonist auf Elværi trifft.
+- **[[Waldelværi]] — beschleunigen:** heilen, wachsen lassen, hegen; die großzügigen Heiler und Lehrer.
+- **[[Wüstenelværi]] — erzwingen:** in noetisch toten Zonen gereift; Meister des Durchbruchs fremder Resonanzfelder bis zur Gedankenbeherrschung — der dunkle Spiegel der Heilung.
+- **[[Frostelværi]] — bewahren:** auf Stasis und Konservierung gerichtet (Arbeitsstand, noch offen).
 
----
+Die ausgearbeiteten Gesellschaften und die jeweilige N-Kraft-Ausprägung stehen in den verlinkten Kultur-Notizen.
 
-```
-TODO (Frostelværi, später ausbauen):
-- Frost- und Wüstenelværi geraten in eine harte Ressourcenklemme (können ihre Familien kaum erweitern). Speziell die Frostelværi könnten sich zu einem Sklaven haltenden Volk entwickeln — und ausgerechnet Theriani könnten dort echte Sklaven werden (z. B. Eisbär-Theriani, die in Minen schuften). Bewusster Gegenpol zur freiwilligen Klientel-Symbiose bei den Waldelværi (→ [[Waldelværi#Theriani im Stamm]]).
-```
+> *Kritische Anmerkung:* Die drei Gruppen sind biologisch eine Spezies, aber religiös und kulturell völlig verschieden — ein starkes Spannungsfeld. Der Konflikt zwischen [[Elværi-Göttin|Elværigöttin]] und [[Wüstenelværi-Gott|Wüstengott]] ist kein abstrakter Götterkampf, sondern spiegelt sich in realen Spannungen zwischen Bevölkerungsgruppen. Dieser Riss sollte sichtbar sein, wenn der Protagonist auf Elværi trifft.
 
 ## N-Kraft
 
 Die N-Kraft-Nutzung der Elværi ist feinfühlig und präzise, mit Schwerpunkt auf **Heilung, Naturmagie und Schutz**: Sie beschleunigen Pflanzenwachstum, beruhigen Tiere, formen ihre Umgebung subtil. (Die Kriegerkaste wendet dieselbe Präzision auf den Kampf an — kontrolliertes, sparsames Feuer.)
 
 Den aller größten Teil ihrer Geschichte gingen die Elværi damit den Weg **„Noetik statt Technik"**: Sie woben die N-Kraft so tief in den Alltag, dass mechanische Maschinen überflüssig blieben — Magie ist für sie keine Ausnahme, sondern eine *Sprache*. Ihre „Technologie" ist deshalb **bio-noetisch** (allen voran die lebenden [[Waldelværi#Der Familienbaum|Familienbäume]]), nicht industriell. Erst in den letzten **2–5 Jahrtausenden** verschob sich das stückweise Richtung breiterer Technik — getrieben vom Fortschrittsdruck der heutigen Staatsform. Auf Elværi-Zeitskalen ist das ein Wimpernschlag.
+
+### Heilung — die Kernkompetenz
+
+Heilung ist nicht eine Fähigkeit unter vielen, sondern der **Kern**, aus dem die übrigen fließen: Meisterschaft über das Innere lebender Körper. Sie ist angeboren und intuitiv — jedes der drei Völker hat sie über die Zeit nur in eine andere Richtung entwickelt: **beschleunigen** ([[Waldelværi]]), **erzwingen** ([[Wüstenelværi]]), **bewahren** ([[Frostelværi]]).
+
+Die volkunabhängige Mechanik — EM-Modulation der körpereigenen Prozesse, „dirigieren statt erschaffen", nicht-invasiv, samt ihren physikalischen Grenzen — steht im System: → [[03.06 Anwendung & Fähigkeitsentwicklung#Noetische Heilung|Noetische Heilung]]. Dieselbe Gabe, nach innen gewandt, ist ihre [[#Lebensspanne & noetische Selbst-Reparatur|Selbst-Reparatur]] und damit die Wurzel ihrer Langlebigkeit.
+
+### Medizin einer Million Jahre
+
+Heilung ist ihre angeborene Domäne — und sie hatten **eine Million Jahre** Zeit, sie zu vertiefen, früh schon als die Heiler ihrer Dörfer. Ihr Fortschritt floss damit nicht in Maschinen (→ [[#Lebenstempo|zwei Uhren]]), sondern in die **bio-noetische Achse**: medizinisch sind die Elværi weltführend, mechanisch zurück.
+
+- **Wissenstiefe:** Ein auf Medizin spezialisierter, mehrere Jahrhunderte alter Elværi versteht Körper und Biochemie genauer als ein moderner Erdmediziner. Zellbiologie ist Allgemeingut — beiläufig über das eigene Hineinspüren in den Körper aufgenommen, kein Schulstoff, sondern erfahrenes Wissen.
+- **Wissens-Leiter:** Der Dorfheiler schließt Wunden intuitiv; der Meister, der die Biologie *versteht*, zieht komplexes Gewebe nach (→ [[03.03 Das Noetische Profil#Wissen|Wissen schaltet Komplexität frei]]). **Gottgleiche Heiler gibt es unter den Elværi nicht** — nur die [[Elværi-Göttin|Göttin]] selbst.
+- **Artvorteil, übertragbares Wissen:** Andere Völker können Medizin erlernen, ein ausgebildeter Elværi bleibt durch seine angeborene Feinkontrolle dennoch überlegen. Über ~100.000 Jahre haben die Elværi ihr Wissen großzügig unter den Völkern verteilt — Lumora hat dadurch insgesamt ein hohes Niveau an Medizin und Hygiene. Das macht die Elværi zu den **Ärzten und Lehrern der Welt**: „arrogant, aber die besten Heiler — eine Ehre, bei ihnen zu lernen". (Die großzügige Weitergabe ist ein Zug der [[Waldelværi]]; die [[Wüstenelværi]] teilen ihre Künste nicht.)
+- **Ungleicher Zugang:** Nur ~300 Mio. Elværi bei ~2,5 Mrd. Gesamtbevölkerung, die meisten in Elværi-Staaten. Kein Dorf Lumoras hat selbstverständlich einen Elværi-Heiler; gute Versorgung ist real, aber ungleich verteilt.
+- **Heiler-Vertrauen:** Einen anderen zu heilen heißt, dass er sein [[03.05 Grenzen & Einschränkungen#Das Feld öffnen|Resonanzfeld öffnet]] — ein intimer Vertrauensakt. Damit Medizin überhaupt funktionieren konnte, haben die Elværi das Feld-Öffnen gegenüber einem Heiler **von Intimität entkoppelt**: ein anerkannter, sakraler, nicht-romantischer Vertrauensrahmen (ein Heiler-Eid).
 
 ---
 
@@ -201,9 +212,11 @@ Die spirituelle Liebe der Elværi — die Verehrung der [[Elværi-Göttin|Elvær
 
 ## Grenzen & Schwächen
 
-```
-TODO: Grenzen & Schwächen dieses Volkes festlegen — Kosten und Reichweite der N-Kraft, körperliche und strategische Verwundbarkeiten, Abhängigkeiten. Wichtig für das Gleichgewicht der Story.
-```
+- **Langlebigkeit ist Arbeit, keine Zähigkeit.** Ihr Körper ist nicht robuster als der anderer Völker; die Selbst-Reparatur muss aktiv gehalten werden. Wer geschwächt oder dauerhaft energiearm ist — oder in einem [[03.05 Grenzen & Einschränkungen#Noetisch tote Regionen|toten Feld]] lebt (Wüstenelværi) — altert schneller.
+- **Wenige und langsam.** ~300 Mio. bei niedriger Geburtenrate; im beschleunigten Zeitalter ihre größte strukturelle Gefahr (→ [[#Aussterberisiko]]).
+- **Heilung ist kein Allheilmittel.** Harte Grenzen (→ [[03.06 Anwendung & Fähigkeitsentwicklung#Noetische Heilung|Mechanik & Grenzen]]): kein Aufhalten des Alterns selbst, kein Ersetzen fehlender Materie (Glied, Organ), keine Heilung des Unwilligen oder mitten im Kampf. Gen-Umschreiben gilt als **Tabu** — es wäre der Schöpfungsakt der Göttin und streift die Götter-Domäne.
+- **Fremde Biologien.** Ihre Gabe wurzelt im Verständnis kohlenstoff-humanoider Körper. Bei radikal Fremdem — Silizium-[[Sapari]], Pflanzen-[[Sylvari]], evtl. [[Drakōri]] — dünnt selbst der Elværi-Vorsprung aus.
+- **Keine Krieger der rohen Kraft.** Ihre Stärke ist Präzision und Kontrolle; gegen überlegene physische Gewalt hilft das nur bedingt.
 
 ## Offene Fragen
 
