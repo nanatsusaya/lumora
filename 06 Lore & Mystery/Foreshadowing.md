@@ -17,3 +17,4 @@ tags:
 - Das duale Reisemuster der Vatæri (immer in Paaren) → unbewusstes kulturelles Echo der göttlichen Spaltung.
 - Szenen, in denen die Drei Regeln konkret Schaden anrichten → nicht nur abstrakt erklärt, sondern erlebt.
 - Der Protagonist lernt früh, was es bedeutet, zwei Identitäten in sich zu tragen → Resonanz mit dem Finale.
+- Die [[Volari]]-Distanz („über den Dingen bleiben, sich nicht einmischen“) als Mikro-Echo der [[Die Drei Regeln|Drei Regeln]]: eine vernünftige Schutzreaktion, die zugleich isoliert — ob Klugheit oder bequemer Käfig, bleibt offen.

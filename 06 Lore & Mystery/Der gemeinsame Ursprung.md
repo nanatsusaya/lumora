@@ -46,9 +46,10 @@ Fallengelassen heißt nicht verloren. Andere Götter wurden auf die unbeobachtet
 - [[Hakani]] ← [[Hakani-Gott|Der Eifernde]] (die meistumkämpfte Linie — siehe unten)
 - [[Theriani]] ← [[Theriani-Gott|Der Tiervater]]
 - [[Anelari]] ← [[Anelari-Gott|Der Tiefenschmied]]
-- [[Volari]] ← [[Volari-Gott|Der Himmelsherr]]
 - [[Luminæri]] ← [[Luminæri-Göttin|Sonnengöttin]]
 - [[Bythari]] ← [[Bythari-Gott|Der Gezeitenherr]]
+
+Eine Linie fällt aus diesem Muster: die [[Volari]]. Auch sie wurde von einem zweiten Gott — dem [[Volari-Gott]] — aufgegriffen und auf gravitationsgestützten Flug ausgerichtet. Doch unzufrieden mit der Richtung ihrer Entwicklung ließ er sie erneut fallen, bevor sie eine Kultur ausbildeten. Damit sind die Volari die erste **zweimal fallengelassene** Linie; sie entwickelten sich ohne göttliche Vollendung selbst weiter. Das erklärt ihre schmale noetische Begabung und das Fehlen einer Volksreligion. *(→ [[Volari]], [[Volari-Gott]].)*
 
 Das Ergebnis ließ lange auf sich warten — aber wer heute den Stammbaum der meisten Völker zurückverfolgt, landet bei diesem einen Vorfall.
 
@@ -81,6 +82,8 @@ Die gemeinsame Linie wirkt bis heute — nicht im Bewusstsein, sondern im Instin
 - **Geteiltes Signal-Set.** Alle sieben teilen denselben humanoiden Bauplan, denselben Geschlechtsdimorphismus (kräftigere männliche, zierlichere weibliche Statur) und dieselben Attraktivitäts- und Niedlichkeits-Reize — Symmetrie, Proportion, das Baby-Schema. Weil die „Sprache der Schönheit" dieselbe ist, kann ein Angehöriger der einen Art die Reize der anderen *lesen*: beidseitig, keine Einbahnstraße.
 - **Schutz- und Anziehungsinstinkte greifen über Artgrenzen.** Ein Säugling wirkt süß, egal welcher der sieben Arten er angehört, und weckt denselben Beschützerreflex. Und ein Hakani kann einen Elværi attraktiv finden — und umgekehrt —, weil beide auf demselben Reizvokabular antworten.
 - **Die abweichenden Völker sind spürbar fremd.** [[Drakōri]], [[Vatæri]], [[Sapari]], [[Tepani]], [[Sylvari]] gehören voll zur weltlichen Gemeinschaft, doch die gefühlte Distanz ist größer. Ein männlicher Elværi mag eine [[Sapari]] *abstrakt* für wohlproportioniert halten — aber die warme Kin-Resonanz und die eigentliche Anziehung zünden nicht, weil das gemeinsame Signal-Set fehlt. (Der Gradient gilt relativ: Auch ein Sapari empfindet die humanoide Familie als „die anderen".)
+
+> *Anmerkung (Ausnahme Volari):* Die [[Volari]] weichen vom geteilten Signal-Set ab: Sie sind ovipar und tragen einen **umgekehrten** Geschlechtsdimorphismus (größere, kräftigere Weibchen). Der Vergleich „wie alle Säugetiere“ meint nur den Verwandtschaftsgrad, nicht den Bauplan im Detail. Diese Abweichung ist ein Kandidat dafür, warum ihr zweiter Gott die Linie fallen ließ (→ [[Volari-Gott]]).
 
 **Anziehung, aber keine Vermischung.** So real die wechselseitige Anziehung innerhalb der Familie ist — die sieben sind **reproduktiv isolierte Arten**. Wie Hund und Pferd: verwandt und einander zugetan, aber ohne gemeinsame Nachkommen. Es gibt **keine Halb-Elfen, keine Misch-Völker**. (Kreuzung *innerhalb* einer Art bleibt möglich — Elværi-Phänotypen untereinander, Theriani-Unterarten untereinander.)
 

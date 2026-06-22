@@ -33,7 +33,7 @@ Die Anzahl der jeweiligen Spezien in Lumora variiert zum Teil extrem. Dies läss
 | [[Elværi]]   | Wälder, Täler, Nordregionen, Wüsten    | ~300 Mio.   | Langlebig, Hüter der Geschichte     |
 | [[Theriani]] | Biotopabhängig                         | ~600 Mio.   | Tiermenschen, viele Unterarten      |
 | [[Anelari]]  | Unterirdisch, Berge                    | ~400 Mio.   | Schmiedekunst, Materialkontrolle    |
-| [[Volari]]   | Berge, schwer zugängliche Orte         | ~30 Mio.    | Flugfähig, Gravitationsmanipulation |
+| [[Volari]]   | Aufwindreiche Regionen, Hotspot-fern    | ~30 Mio.    | Flugfähig (Gravitationsmonopol), kurzlebig, ziehende Fernhändler |
 | [[Luminæri]] | Magische Wälder, versteckte Lichtungen | ~50 Mio.    | Illusionen, Lichtmanipulation       |
 | [[Bythari]]  | Ozeane, Seen, Flussmündungen           | TBD         | Amphibisch, Wassermagie             |
 | [[Vatæri]]   | Abgelegene, noetisch aktive Regionen   | ~10 Mio.    | Zeitverzögerung und Voraussicht     |
