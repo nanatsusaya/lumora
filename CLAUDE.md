@@ -219,6 +219,14 @@ All twelve culture-bearing peoples now carry their **Elværin** names throughout
 - The Earth-origin **Menschen** (the protagonist's former kind) always stay *Menschen* — never Hakani.
 - **Single source of truth:** `02 Worldbuilding/02.03 Völker & Gesellschaften/Waldelværi.md` → section **"Sprache"** (Lautregel, coined terms, the full naming table, the esteem scale).
 
+#### Glossary Upkeep
+
+Whenever a new Eigenbegriff, named person, or specific worldbuilding entity (place, historical event/reference, organisation, artefact) gets its own note or its own `*EN:*`-glossed section, add a matching entry to `Glossar.md` in the same work step — in both the **Deutsch** and **English** sections, alphabetically, linking to the source note (`[[Note#Heading|Display]] → kurze Definition`), with a short factual definition in each language.
+
+- Only Eigenbegriffe and named entities get entries — generic headings (Geschichte, Gesellschaft, Biologie …) do **not**, mirroring the EN-gloss rule.
+- On rename or deletion of a term, update or remove its glossary entry too, so the glossary never drifts from the vault.
+- Edit `Glossar.md` with the Python/UTF-8 rules and post-edit verification like any vault file.
+
 ### Translation Format (Novel)
 
 The novel is written and developed **in German first**.
@@ -306,4 +314,4 @@ Claude is an **active creative collaborator**, not just a consistency checker.
 **Last updated:** 2026-06-23
 **Project stage:** Worldbuilding — deepening the culture-bearing peoples; Elværin language system established
 **Next milestone:** Deepen the peoples (`02`), then geography & hotspots (regions), before returning to story architecture
-**Conventions last revised:** 2026-06-15 (added factual/objective tone rule for all notes except story prose; headings + body de-essayified across 02–06)
+**Conventions last revised:** 2026-06-23 (added Glossary Upkeep rule: new Eigenbegriffe / persons / places / historical references get a matching DE+EN entry in `Glossar.md` in the same step). 2026-06-15 (factual/objective tone rule for all notes except story prose; headings + body de-essayified across 02–06)

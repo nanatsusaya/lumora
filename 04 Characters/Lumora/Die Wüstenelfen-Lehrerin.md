@@ -5,7 +5,7 @@ tags:
 ---
 # Die Wüstenelfen-Lehrerin
 
-*EN: The Desert Elf Teacher*
+*EN: Desert Elf Teacher*
 *Tag:* #teacher
 
 Eine [[Elværi|Wüstenelværi]], die zur Privatlehrerin des [[Protagonist]] wird. Taucht auf, nachdem der normale Unterricht mit den fortgeschrittenen Fragen des Protagonisten nicht mehr mithalten kann.

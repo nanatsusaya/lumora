@@ -2,68 +2,224 @@
 tags:
   - wip
 ---
+# Glossar
 
-Zentrale Startseite mit Links zu allem.
+Zentrale Startseite und zweisprachiges Glossar aller Eigenbegriffe Lumoras. Jeder Eintrag verlinkt auf seine Quellnote. Die deutsche Sektion ist die Arbeitsfassung; die englische dient der Übersetzung des Romans.
+
+## Deutsch
 
 - **A**
-	- BSD
+	- [[Sonnensystem#Aezion — der Zentralstern|Aezion]] → Gelber Zwerg (Spektralklasse G) und Zentralstern des Systems.
+	- [[03.01 Noetisches System#Aktive Noetische Zellen|Aktive Noetische Zellen]] → In das Nervensystem integrierte Zellen, die Noetische Energie erzeugen und einsetzen.
+	- [[Anelari#Anelari|Anelari]] → Das unterirdische Schmiede- und Handwerksvolk (klassisch: Zwerge).
+	- [[Anelari-Gott#Anelari-Gott|Anelari-Gott]] → Schöpfergott der Anelari; Gott der Unterwelt und der Tiefe.
 - **B**
-	- BSD
+	- [[Bythari#Bythari|Bythari]] → Das amphibische Meervolk Lumoras (klassisch: Meervolk/Fischmenschen).
+	- [[Bythari-Gott#Bythari-Gott|Bythari-Gott]] → Schöpfergott der Bythari; Gott der Meere und Strömungen.
 - **C**
-	- BSD
+	- [[Chaosgott#Chaosgott|Chaosgott]] → Transzendierter Gott außerhalb des Sonnensystems.
 - **D**
-	- BSD
+	- [[Drakōri#Drakōri|Drakōri]] → Das älteste und gefürchtetste Volk Lumoras (klassisch: Drachen).
+	- [[Drakōri-Gott#Drakōri-Gott|Drakōri-Gott]] → Gott der Drakōri (in Ausarbeitung).
+	- [[02.04 Religion & Götter#Die Drei Regeln des Ursprungsgottes|Die Drei Regeln des Ursprungsgottes]] → Drei dem Ursprungsgott zugeschriebene Grundregeln nach der Gasriesenkatastrophe.
 - **E**
-	- [[Elevator Premise]] →  Kernidee eines Werks in 1–3 Sätzen erklären
+	- [[Die Ehefrau#Die Ehefrau|Die Ehefrau]] → Ehefrau des Protagonisten auf der Erde; emotionaler Anker seiner alten Identität.
+	- [[Elværi#Elværi|Elværi]] → Eine der ältesten kulturschaffenden Spezies Lumoras (klassisch: Elfen).
+	- [[Waldelværi#Selbstbezeichnung — Elværi & Elværin|Elværi / Elværin (Selbstbezeichnung)]] → Eigenname des Volks (Elværi) und seiner Sprache (Elværin) in der eigenen Sprache.
+	- [[Elværi-Göttin#Elværi-Göttin|Elværi-Göttin]] → Schöpfergöttin der Elværi, ursprünglich Sterbliche einer anderen Welt.
+	- [[Die Elværi-Mutter#Die Elværi-Mutter|Elværi-Mutter]] → Waldelværi-Mutter des Protagonisten auf Lumora; wohlhabend und aristokratisch.
+	- [[Der Elværi-Vater#Der Elværi-Vater|Elværi-Vater]] → Waldelværi-Vater des Protagonisten auf Lumora; wohlhabend und aristokratisch.
+	- [[Elværi#Sprache|Elværin (Sprache)]] → Gesungene Sprache der Elværi; angewandte Feinkontrolle Noetischer Energie.
 - **F**
-	- BSD
-- **G**
-	- [[Gründungsdokument]] → hält die fundamentalen Prinzipien eines Projekts fest
+	- [[Waldelværi#Der Familienbaum|Familienbaum]] → Lebende Baum-Technologie der Waldelværi als Wohn- und Wissensspeicher.
+	- [[03.04 Erweiterte Konzepte#Der Flüssigkristallzustand|Flüssigkristallzustand]] → Beweglicher Kristallzustand, aus dem die Körper der Sapari bestehen.
+	- [[Fremdbringer#Der Fremdbringer|Fremdbringer]] → Ungeduldiger Gott, zentrale Figur der Kern-Mysterien Lumoras.
+	- [[Frostelværi#Frostelværi|Frostelværi]] → Der Frost-Phänotyp der Elværi.
+	- [[Frostelværi-Gott#Frostelværi-Gott (Eisdrachen-Pseudogott)|Frostelværi-Gott]] → Zum Pseudogott aufgestiegener Drakōri (Eisdrachen-Pseudogott) der Frostelværi.
 - **H**
-	- BSD
-- **I**
-	- BSD
-- **J**
-	- BSD
+	- [[Hakani#Hakani|Hakani]] → Die menschliche Spezies Lumoras (klassisch: Menschen) — nicht die Erdmenschen.
+	- [[Hakani-Gott#Hakani-Gott|Hakani-Gott]] → Schöpfergott der Hakani; Gott des Strebens und der Selbstüberwindung.
+	- [[03.07 Noetische Evolution#Harmonie innen, Letalität außen|Harmonische Koexistenz]] → Prinzip innerer Selbstkontrolle bei fortbestehender Aggression nach außen.
+	- [[Das Heimlicht der Anelari#Heimlicht|Heimlicht]] → Künstliches Licht, mit dem die Anelari ihre unterirdische Heimat erhellen.
+	- [[Tiere#Himmelswale|Himmelswale]] → Zierliche, halb-pflanzliche Flugwesen, die dauerhaft in der Luft leben (Arbeitstitel).
+	- [[03.05 Grenzen & Einschränkungen#Hotspots|Hotspots]] → Regionen mit starkem N-Feld, in denen noetisches Wirken erleichtert ist.
 - **K**
-	- BSD
+	- [[03.04 Erweiterte Konzepte#Kristalle und Noetische Energie|Kristalle]] → Noetisch reaktive Minerale, die Energie leiten, modulieren und speichern.
 - **L**
-	- [[01.02 Was ist Lumora#Kurzdefinition|Lumora]] → eine philosophisch geprägte Fantasy-Welt, in der Bewusstsein, Wille und Erkenntnis reale physische Wirkung entfalten können.
+	- [[03.04 Erweiterte Konzepte#Leitung|Leitung]] → Gerichtete Weiterleitung Noetischer Energie durch reaktive Materialien.
+	- [[Luminæri#Luminæri|Luminæri]] → Das lichtgestaltende Kriegervolk (klassisch: Feen).
+	- [[Luminæri-Göttin#Luminæri-Göttin|Luminæri-Göttin]] → Schöpfergöttin der Luminæri; Göttin des Lichts, der Illusion und der Gerechtigkeit.
+	- [[01.02 Was ist Lumora#Lumora|Lumora]] → Philosophisch geprägte Fantasy-Welt, in der Bewusstsein, Wille und Erkenntnis reale physische Wirkung entfalten.
 - **M**
-	- [[Mythopoetisch]] → bewusste Erschaffung neuer Mythen oder die literarische Neugestaltung bestehender mythischer Strukturen
+	- [[03.04 Erweiterte Konzepte#Modulation|Modulation]] → Veränderung der Qualität — nicht nur der Stärke — Noetischer Energie durch einen Kristall.
+	- [[Spezies#Morph-Varianten|Morph-Varianten]] → Diskrete, erbliche Morphen, die nicht ineinander übergehen.
+	- [[Die Mutter#Die Mutter — Erde|Die Mutter (Erde)]] → Mutter des Protagonisten auf der Erde; zog ihn allein groß.
 - **N**
-	- [[03.01 Noetisches System#Noetisches Feld (N-Feld)|N-Feld]] → siehe _Noetisches Feld_
-	- [[03.01 Noetisches System#Noetische Kraft (N-Kraft)|N-Kraft]] → siehe _Noetische Kraft_
-	- [[03.01 Noetisches System#Was ist Noetik?|Noetik]] → Lehre von Denken, Wissen und Bewusstsein
-	- [[03.01 Noetisches System#Noetisch reaktive Materialien|Noetisch reaktive Materialien]] → können mit Noetischer Energie interagieren
-	- [[03.01 Noetisches System#Noetisch aktive Lebewesen|Noetisch aktive Lebewesen]] → können Noetische Energie erzeugen und einsetzen
-	- [[03.01 Noetisches System#Noetisch sensitive Lebewesen|Noetisch sensitive Lebewesen]] → können Noetische Energie wahrnehmen
-	- [[03.01 Noetisches System#Noetische Energie|Noetische Energie]] → zentrale aktive Komponente des _Noetischen Systems_
-	- [[03.01 Noetisches System#Noetische Kraft (N-Kraft)|Noetische Kraft]] → 5. fundamentale Wechselwirkung
-	- [[03.01 Noetisches System#Noetische Zellen|Noetische Zellen]] → wandeln biochemischen Energie in Noetische Energie um
-	- [[03.01 Noetisches System#Noetisches Feld (N-Feld)|Noetisches Feld]] → Medium, durch das sich Noetische Energie bewegt
-	- [[03.01 Noetisches System#Kurzdefinition|Noetisches System]] → erweiterte Form von Naturgesetzlichkeit, in der Bewusstsein eine direkte Rolle in der physikalischen Realität spielt
+	- [[03.01 Noetisches System#Was ist Noetik?|Noetik]] → Lehre von Denken, Wissen und Bewusstsein.
+	- [[03.01 Noetisches System#Noetisch aktive Lebewesen|Noetisch aktive Lebewesen]] → Lebewesen, die Noetische Energie erzeugen und gezielt einsetzen können.
+	- [[03.01 Noetisches System#Noetisch reaktive Materialien|Noetisch reaktive Materialien]] → Anorganische Materialien, die mit Noetischer Energie interagieren können.
+	- [[03.01 Noetisches System#Noetisch sensitive Lebewesen|Noetisch sensitive Lebewesen]] → Lebewesen, die Noetische Energie wahrnehmen, aber nicht aktiv erzeugen.
+	- [[03.05 Grenzen & Einschränkungen#Noetisch tote Regionen|Noetisch tote Regionen]] → Gebiete mit so schwachem N-Feld, dass kein noetischer Effekt möglich ist.
+	- [[03.06 Anwendung & Fähigkeitsentwicklung#Noetische Effekte — Übersicht|Noetische Effekte]] → Wachsende Referenzliste der in der Story vorkommenden noetischen Effekte.
+	- [[03.01 Noetisches System#Noetische Energie|Noetische Energie]] → Zentrale aktive Komponente des Noetischen Systems; wird von Lebewesen erzeugt.
+	- [[03.06 Anwendung & Fähigkeitsentwicklung#Noetische Heilung|Noetische Heilung]] → Erlernte Anwendung des Systems zur gezielten Regeneration von Gewebe.
+	- [[03.01 Noetisches System#Noetische Kraft (N-Kraft)|Noetische Kraft (N-Kraft)]] → Die 5. fundamentale Wechselwirkung; ermöglicht den Einfluss von Bewusstsein auf Materie.
+	- [[03.01 Noetisches System#Noetische Zellen|Noetische Zellen]] → Spezialisierte Zellen, die biochemische Energie in Noetische Energie umwandeln.
+	- [[03.01 Noetisches System#Noetischer Effekt|Noetischer Effekt]] → Physisch wirksame Veränderung in einer der vier Grundkräfte, ausgelöst durch Noetische Energie.
+	- [[03.01 Noetisches System#Noetischer Prozess|Noetischer Prozess]] → Vollständiger Ablauf von der Erzeugung Noetischer Energie bis zum physischen Effekt.
+	- [[03.01 Noetisches System#Noetisches Feld (N-Feld)|Noetisches Feld (N-Feld)]] → Medium, durch das sich Noetische Energie ausbreitet; seine lokale Stärke schwankt.
+	- [[03.03 Das Noetische Profil#Das Noetische Profil|Noetisches Profil]] → Kennwerte-Modell der noetischen Begabung eines Lebewesens (Wucht, Wissen, Wille, Weisheit, Wahrnehmung).
+	- [[03.01 Noetisches System#Noetisches System|Noetisches System]] → Erweiterte Form von Naturgesetzlichkeit, in der Bewusstsein eine direkte Rolle in der physikalischen Realität spielt.
 - **O**
-	- BSD
+	- [[Sonnensystem#Orthyros — der Gasriese|Orthyros]] → Massearmer, aufgeblähter Gasriese, der Lumoras Schicksal mitbestimmt.
 - **P**
-	- BSD
-- **Q**
-	- BSD
+	- [[Spezies#Phänotyp-Varianten|Phänotyp-Varianten]] → Umweltgeprägte Erscheinungsformen einer Spezies (z. B. Wald-, Wüsten-, Frost-).
+	- [[Pilz Gott#Pilz Gott|Pilzgott]] → Aggressiver Neuankömmling unter Lumoras Göttern, strebt nach Herrschaft.
+	- [[03.04 Erweiterte Konzepte#Pseudogötter|Pseudogötter]] → Wesen mit physischem Körper, der die normalen biologischen Grenzen überschreitet.
 - **R**
-	- BSD
+	- [[Raum-Zeit-Gott#Raum-Zeit-Gott|Raum-Zeit-Gott]] → Gott von Raum und Zeit (kurz: RZG).
+	- [[03.05 Grenzen & Einschränkungen#Das Resonanzfeld|Resonanzfeld]] → Statisches Feld, das jedes Lebewesen durch seine bloße biologische Existenz trägt.
 - **S**
-	- BSD
+	- [[Sapari#Sapari|Sapari]] → Die siliziumbasierten Flüssigkristallwesen (klassisch: Golems).
+	- [[Theriani#Schläge|Schläge]] → Erbliche Morphen der Theriani (hunde-, katzen-, bärenartig u. a.).
+	- [[03.05 Grenzen & Einschränkungen#Schwaches N-Feld|Schwaches N-Feld]] → Region mit geringer N-Feld-Stärke, in der noetisches Wirken erschwert ist.
+	- [[03.01 Noetisches System#Sensitive Noetische Zellen|Sensitive Noetische Zellen]] → Rezeptorzellen, die Noetische Energie im N-Feld wahrnehmen.
+	- [[03.04 Erweiterte Konzepte#Siliziumbasierte Lebewesen — lebende Kristallinfrastruktur|Siliziumbasierte Lebewesen]] → Lebewesen, deren lebende Kristallstruktur Noetische Energie verarbeitet.
+	- [[Sonnensystem#Soluthar — der zerstörte Planet|Soluthar]] → Ehemals zweiter habitabler Planet, später zerstört.
+	- [[03.04 Erweiterte Konzepte#Speicher|Speicher]] → Festhalten Noetischer Energie in einem Material zur späteren Nutzung.
+	- [[Waldelværi#Stamm, Stammbaum und Clan|Stamm]] → Ein Wort der Waldelværi für Familienbaum, Abstammung und Clan zugleich.
+	- [[Strippenzieher-Gott#Strippenzieher-Gott|Strippenzieher-Gott]] → Gott, der Lumoras drohende Selbstvernichtung verhindern will.
+	- [[Sylvari#Sylvari|Sylvari]] → Das pflanzenbasierte Volk Lumoras (klassisch: Pflanzenwesen).
 - **T**
-	- BSD
+	- [[Tepani#Tepani|Tepani]] → Das kaltblütige Echsenvolk (klassisch: Echsenmenschen/Reptiloide).
+	- [[Theriani#Theriani|Theriani]] → Das säugetierartige Tiervolk Lumoras (klassisch: Tiermenschen).
+	- [[Theriani-Gott#Theriani-Gott|Theriani-Gott]] → Schöpfergott der Theriani; einer der begabtesten Biologen unter den Göttern.
+	- [[03.04 Erweiterte Konzepte#Transzendenz — der Aufstieg|Transzendenz]] → Übergang vom physischen Körper zur reinen Existenz aus Noetischer Energie.
+	- [[Waldelværi#Die drei Disziplinen & das Triumvirat|Triumvirat]] → Gliederung der Waldelværi-Gesellschaft in drei Disziplinen.
 - **U**
-	- BSD
+	- [[Ursprungsgott#Ursprungsgott|Ursprungsgott]] → Transzendierter Gott, der vollständig aus Noetischer Energie besteht.
 - **V**
-	- BSD
+	- [[Spezies#Variationstyp|Variationstyp]] → Art, wie sich Individuen einer Spezies unterscheiden, ohne eigene Arten zu sein.
+	- [[Vatæri#Vatæri|Vatæri]] → Das Volk der Zukunftsdeuter; Zeitseher ohne klassisches Pendant.
+	- [[Der Vater#Die Vater — Erde|Der Vater (Erde)]] → Vater des Protagonisten auf der Erde (in Ausarbeitung).
+	- [[Volari#Volari|Volari]] → Das flugfähige Vogelvolk Lumoras (klassisch: Vogelmenschen).
+	- [[Volari-Gott#Volari-Gott|Volari-Gott]] → Gott, der die Volari-Linie als zweiter übernahm (Arbeitstitel).
 - **W**
-	- BSD
-- **X**
-	- BSD
-- **Y**
-	- BSD
-- **Z**
-	- BSD
+	- [[03.03 Das Noetische Profil#Wahrnehmung|Wahrnehmung]] → Fähigkeit, Noetische Energie im N-Feld wahrzunehmen und zu lesen.
+	- [[Waldelværi#Waldelværi|Waldelværi]] → Der Wald-Phänotyp der Elværi (umgangssprachlich: Waldelfen); Volk des Protagonisten.
+	- [[03.03 Das Noetische Profil#Weisheit|Weisheit]] → Durch Erfahrung verinnerlichte Beherrschung der Noetik.
+	- [[03.03 Das Noetische Profil#Wille|Wille]] → Fähigkeit, komplexe mentale Strukturen aufzubauen und aufrechtzuerhalten.
+	- [[03.03 Das Noetische Profil#Wissen|Wissen]] → Tiefe und Präzision des theoretischen Verständnisses eines Lebewesens.
+	- [[03.03 Das Noetische Profil#Wucht|Wucht]] → Rohe Menge Noetischer Energie, die ein Lebewesen in einem Moment aufbringt.
+	- [[Kontinental- & Ozeanographie#Die Wüste der tausend Tränen|Wüste der tausend Tränen]] → Glaswüste, deren gesamtes Gebiet vor Jahrtausenden verglast wurde.
+	- [[Die Wüstenelfen-Lehrerin#Die Wüstenelfen-Lehrerin|Wüstenelfen-Lehrerin]] → Wüstenelværi, die zur Privatlehrerin des Protagonisten wird.
+	- [[Wüstenelværi#Wüstenelværi|Wüstenelværi]] → Der Wüsten-Phänotyp der Elværi.
+	- [[Wüstenelværi-Gott#Wüstenelværi-Gott|Wüstenelværi-Gott]] → Gott, der die fliehenden Wüstenelværi an sich band.
+
+## English
+
+- **A**
+	- [[03.01 Noetisches System#Aktive Noetische Zellen|Active Noetic Cells]] → Cells integrated into the nervous system that produce and apply Noetic Energy.
+	- [[Sonnensystem#Aezion — der Zentralstern|Aezion]] → The system's central star, a yellow dwarf (spectral class G).
+	- [[Anelari#Anelari|Anelari (Dwarves)]] → The subterranean smithing and crafting people (classic: dwarves).
+	- [[Anelari-Gott#Anelari-Gott|Anelari-Lord]] → Creator-god of the Anelari; god of the underworld and the deep.
+- **B**
+	- [[Bythari#Bythari|Bythari (Sea-People)]] → Lumora's amphibious sea people (classic: merfolk/fish-people).
+	- [[Bythari-Gott#Bythari-Gott|Bythari-Lord]] → Creator-god of the Bythari; god of seas and currents.
+- **C**
+	- [[Chaosgott#Chaosgott|Chaos Lord]] → A transcended god located beyond the solar system.
+	- [[03.04 Erweiterte Konzepte#Leitung|Conduction]] → Directed transmission of Noetic Energy through reactive materials.
+	- [[03.04 Erweiterte Konzepte#Kristalle und Noetische Energie|Crystals]] → Noetically reactive minerals that conduct, modulate and store energy.
+- **D**
+	- [[Die Wüstenelfen-Lehrerin#Die Wüstenelfen-Lehrerin|Desert Elf Teacher]] → A Desert Elværi who becomes the protagonist's private tutor.
+	- [[Wüstenelværi#Wüstenelværi|Desert Elværi]] → The desert phenotype of the Elværi.
+	- [[Wüstenelværi-Gott#Wüstenelværi-Gott|Desert Elværi Lord]] → The god who bound the fleeing Desert Elværi to himself.
+	- [[Kontinental- & Ozeanographie#Die Wüste der tausend Tränen|Desert of a Thousand Tears]] → A glass desert whose whole expanse was vitrified millennia ago.
+	- [[Drakōri-Gott#Drakōri-Gott|Dragon Lord]] → God of the Drakōri (in development).
+	- [[Drakōri#Drakōri|Drakōri (Dragons)]] → Lumora's oldest and most feared people (classic: dragons).
+- **E**
+	- [[Elværi#Elværi|Elværi (Elves)]] → One of Lumora's oldest culture-bearing species (classic: elves).
+	- [[Waldelværi#Selbstbezeichnung — Elværi & Elværin|Elværi (people) / Elværin (language)]] → The people's (Elværi) and language's (Elværin) self-name in their own tongue.
+	- [[Der Elværi-Vater#Der Elværi-Vater|The Elværi Father]] → The protagonist's Forest-Elværi father on Lumora; wealthy and aristocratic.
+	- [[Elværi-Göttin#Elværi-Göttin|Elværi Lady]] → Creator-goddess of the Elværi, originally a mortal from another world.
+	- [[Die Elværi-Mutter#Die Elværi-Mutter|The Elværi Mother]] → The protagonist's Forest-Elværi mother on Lumora; wealthy and aristocratic.
+	- [[Elværi#Sprache|Elværin]] → The Elværi's sung language; applied fine control of Noetic Energy.
+- **F**
+	- [[Waldelværi#Der Familienbaum|Family Tree]] → The Forest Elværi's living tree 'technology', home and store of knowledge.
+	- [[Fremdbringer#Der Fremdbringer|The Foreign-Bringer]] → An impatient god, central figure of Lumora's core mysteries.
+	- [[Waldelværi#Waldelværi|Forest Elværi]] → The forest phenotype of the Elværi (colloq. wood-elves); the protagonist's people.
+	- [[Frostelværi#Frostelværi|Frost Elværi]] → The frost phenotype of the Elværi.
+	- [[Frostelværi-Gott#Frostelværi-Gott (Eisdrachen-Pseudogott)|Frost Elværi Lord]] → A Drakōri risen to pseudo-god (ice-dragon pseudo-lord) of the Frost Elværi.
+	- [[Pilz Gott#Pilz Gott|Fungus Lord]] → An aggressive newcomer among Lumora's gods, bent on dominion.
+- **H**
+	- [[Hakani#Hakani|Hakani (humans)]] → Lumora's human species (classic: humans) — not Earth humans.
+	- [[Hakani-Gott#Hakani-Gott|Hakani Lord]] → Creator-god of the Hakani; god of striving and self-mastery.
+	- [[03.07 Noetische Evolution#Harmonie innen, Letalität außen|Harmonic Coexistence]] → Principle of inner self-control alongside continued outward aggression.
+	- [[Das Heimlicht der Anelari#Heimlicht|Heimlight]] → Artificial light with which the Anelari illuminate their underground home.
+- **L**
+	- [[03.04 Erweiterte Konzepte#Der Flüssigkristallzustand|Liquid crystal state]] → A mobile crystalline state forming the bodies of the Sapari.
+	- [[Luminæri#Luminæri|Luminæri (Fae)]] → The light-shaping warrior people (classic: fae).
+	- [[Luminæri-Göttin#Luminæri-Göttin|Luminæri-Lady]] → Creator-goddess of the Luminæri; goddess of light, illusion and justice.
+	- [[01.02 Was ist Lumora#Lumora|Lumora]] → A philosophically grounded fantasy world where consciousness, will and insight have real physical effect.
+- **M**
+	- [[03.03 Das Noetische Profil#Wucht|Might]] → The raw amount of Noetic Energy a being can muster at once.
+	- [[03.04 Erweiterte Konzepte#Modulation|Modulation]] → A crystal altering the quality, not just the strength, of Noetic Energy.
+	- [[Spezies#Morph-Varianten|morph variants]] → Discrete, heritable morphs that do not blend into one another.
+- **N**
+	- [[03.01 Noetisches System#Was ist Noetik?|Noetic]] → The study of thought, knowledge and consciousness.
+	- [[03.01 Noetisches System#Noetische Zellen|Noetic Cells]] → Specialised cells that convert biochemical energy into Noetic Energy.
+	- [[03.01 Noetisches System#Noetischer Effekt|Noetic Effect]] → A physically effective change in one of the four base forces, triggered by Noetic Energy.
+	- [[03.06 Anwendung & Fähigkeitsentwicklung#Noetische Effekte — Übersicht|Noetic Effects — Overview]] → A growing reference list of the noetic effects appearing in the story.
+	- [[03.01 Noetisches System#Noetische Energie|Noetic Energy]] → The central active component of the Noetic System, generated by living beings.
+	- [[03.01 Noetisches System#Noetisches Feld (N-Feld)|Noetic Field (N-Field)]] → The medium through which Noetic Energy propagates; its local strength varies.
+	- [[03.01 Noetisches System#Noetische Kraft (N-Kraft)|Noetic Force (N-Force)]] → The fifth fundamental interaction; lets consciousness act upon matter.
+	- [[03.05 Grenzen & Einschränkungen#Schwaches N-Feld|Noetic Fringe]] → A region of low N-Field strength where noetic action is harder.
+	- [[03.06 Anwendung & Fähigkeitsentwicklung#Noetische Heilung|Noetic Healing]] → A learned application of the system for targeted tissue regeneration.
+	- [[03.05 Grenzen & Einschränkungen#Hotspots|Noetic Hotspot]] → Regions of strong N-Field where noetic action is easier.
+	- [[03.01 Noetisches System#Noetischer Prozess|Noetic Process]] → The full chain from generating Noetic Energy to producing a physical effect.
+	- [[03.03 Das Noetische Profil#Das Noetische Profil|noetic profile]] → Trait model of a being's noetic aptitude (Might, Wit, Will, Wisdom, Sight).
+	- [[03.01 Noetisches System#Noetisches System|Noetic System]] → An extended form of natural law in which consciousness plays a direct role in physical reality.
+	- [[03.01 Noetisches System#Noetisch aktive Lebewesen|noetically active beings]] → Beings able to generate and deliberately apply Noetic Energy.
+	- [[03.01 Noetisches System#Noetisch reaktive Materialien|noetically reactive materials]] → Inorganic materials that can interact with Noetic Energy.
+	- [[03.01 Noetisches System#Noetisch sensitive Lebewesen|noetically sensitive beings]] → Beings that perceive Noetic Energy but cannot actively generate it.
+	- [[03.05 Grenzen & Einschränkungen#Noetisch tote Regionen|Null N-Field / Noetic Void]] → Areas whose N-Field is so weak that no noetic effect is possible.
+- **O**
+	- [[Der Vater#Die Vater — Erde|The Origin Father]] → The protagonist's father on Earth (in development).
+	- [[Die Mutter#Die Mutter — Erde|The Origin Mother]] → The protagonist's mother on Earth; raised him alone.
+	- [[Sonnensystem#Orthyros — der Gasriese|Orthyros]] → A low-mass, bloated gas giant that helps determine Lumora's fate.
+- **P**
+	- [[Spezies#Phänotyp-Varianten|phenotype variants]] → Environment-shaped forms of a species (e.g. forest, desert, frost).
+	- [[Ursprungsgott#Ursprungsgott|Primal Lord]] → A transcended god consisting wholly of Noetic Energy.
+	- [[03.04 Erweiterte Konzepte#Pseudogötter|Pseudo-Gods]] → Beings with a physical body that exceeds normal biological limits.
+	- [[Strippenzieher-Gott#Strippenzieher-Gott|Puppeteer Lord]] → A god who seeks to avert Lumora's looming self-destruction.
+- **R**
+	- [[03.05 Grenzen & Einschränkungen#Das Resonanzfeld|Resonance Field]] → A static field every being carries simply by existing biologically.
+- **S**
+	- [[Sapari#Sapari|Sapari (Crystal Beings)]] → The silicon-based liquid-crystal beings (classic: golems).
+	- [[03.01 Noetisches System#Sensitive Noetische Zellen|Sensitive Noetic Cells]] → Receptor cells that perceive Noetic Energy within the N-Field.
+	- [[03.03 Das Noetische Profil#Wahrnehmung|Sight]] → The ability to perceive and read Noetic Energy within the N-Field.
+	- [[03.04 Erweiterte Konzepte#Siliziumbasierte Lebewesen — lebende Kristallinfrastruktur|Silicon-based life]] → Beings whose living crystalline structure processes Noetic Energy.
+	- [[Tiere#Himmelswale|Sky-Whales]] → Delicate, semi-plant flying creatures that live permanently aloft (working title).
+	- [[Sonnensystem#Soluthar — der zerstörte Planet|Soluthar]] → Once a second habitable planet, later destroyed.
+	- [[Raum-Zeit-Gott#Raum-Zeit-Gott|Space-Time Lord]] → God of space and time (short: RZG).
+	- [[Waldelværi#Stamm, Stammbaum und Clan|Stock / Stem]] → One Forest-Elværi word for family tree, lineage and clan at once.
+	- [[03.04 Erweiterte Konzepte#Speicher|Storage]] → Holding Noetic Energy in a material for later use.
+	- [[Theriani#Schläge|Strain]] → Heritable morphs of the Theriani (dog-, cat-, bear-like, etc.).
+	- [[Sylvari#Sylvari|Sylvari (Plant-Beings)]] → Lumora's plant-based people (classic: plant-beings).
+- **T**
+	- [[Tepani#Tepani|Tepani (Lizard-People)]] → The cold-blooded lizard people (classic: lizard-folk/reptiloids).
+	- [[Theriani#Theriani|Theriani (Beast-People)]] → Lumora's mammalian beast-folk (classic: beast-people).
+	- [[Theriani-Gott#Theriani-Gott|Theriani-Lord]] → Creator-god of the Theriani; one of the gods' most gifted biologists.
+	- [[02.04 Religion & Götter#Die Drei Regeln des Ursprungsgottes|The Three Rules of the Primal Lord]] → Three founding rules ascribed to the Primal Lord after the gas-giant catastrophe.
+	- [[03.04 Erweiterte Konzepte#Transzendenz — der Aufstieg|Transcendence]] → The transition from a physical body to pure existence as Noetic Energy.
+	- [[Waldelværi#Die drei Disziplinen & das Triumvirat|triumvirate]] → The structuring of Forest-Elværi society into three disciplines.
+- **V**
+	- [[Spezies#Variationstyp|variation type]] → How individuals of one species differ without forming separate species.
+	- [[Vatæri#Vatæri|Vatæri (Time-Beings)]] → The people of future-reading time-seers; no classic counterpart.
+	- [[Volari#Volari|Volari (Bird-People)]] → Lumora's flight-capable bird people (classic: bird-people).
+	- [[Volari-Gott#Volari-Gott|Volari-Lord]] → The god who took over the Volari line second (working title).
+- **W**
+	- [[Die Ehefrau#Die Ehefrau|The Wife]] → The protagonist's wife on Earth; emotional anchor of his old identity.
+	- [[03.03 Das Noetische Profil#Wille|Will]] → The capacity to build and hold complex mental structures.
+	- [[03.03 Das Noetische Profil#Weisheit|Wisdom]] → Mastery of the noetic internalised through experience.
+	- [[03.03 Das Noetische Profil#Wissen|Wit]] → The depth and precision of a being's theoretical understanding.
