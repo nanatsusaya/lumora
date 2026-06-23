@@ -1,2 +1,8 @@
-.obsidian/workspace.json
+# Obsidian (volatile / machine-specific)
+.obsidian/workspace*.json
 /.obsidian/plugins
+.trash/
+
+# OS cruft
+.DS_Store
+Thumbs.db
