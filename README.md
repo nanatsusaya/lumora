@@ -1,8 +1,10 @@
-# LUMORA — The Legacy of Chaos / Das Erbe des Chaos
+# LUMORA — The Legacy of Chaos
+
+*DE: LUMORA — Das Erbe des Chaos*
 
 > *No solution without foundation. No effect without cause. No power without limit.*
 
-*English version below — deutsche Fassung weiter unten.*
+*English version first, German version below.*
 
 ## Table of Contents / Inhaltsverzeichnis
 
@@ -55,6 +57,8 @@ Lumora/
 ```
 
 The `01 Kern` folder holds the inviolable foundation and never changes to solve story problems. The world and system details (`02`–`03`) may evolve when an idea earns it.
+
+> ⚠️ **Spoiler warning:** This is a working development vault, not a finished book. Many notes reveal plot, twists, and central mysteries — especially in `06 Lore & Mystery`. Browse at your own risk.
 
 ### Language
 
@@ -110,6 +114,8 @@ Lumora/
 
 Der Ordner `01 Kern` enthält das unantastbare Fundament und wird nie geändert, um Story-Probleme zu lösen. Welt- und Systemdetails (`02`–`03`) dürfen sich entwickeln, wenn eine Idee es verdient.
 
+> ⚠️ **Spoiler-Warnung:** Dies ist ein Entwicklungs-Vault, kein fertiges Buch. Viele Notizen verraten Handlung, Wendungen und zentrale Geheimnisse — besonders in `06 Lore & Mystery`. Stöbern auf eigene Gefahr.
+
 ### Sprache
 
 Die Welt und die Geschichte werden **zuerst auf Deutsch** entwickelt. Notizen, Entwürfe und Plotarbeit entstehen während der Entwicklung durchgängig auf Deutsch; nur fertige, vollständig überarbeitete Kapitel werden ins Englische übersetzt. Projektdokumente wie diese README, die Lizenz und die Mitwirkungsrichtlinien werden auf Englisch geführt (bei Bedarf mit deutscher Fassung daneben).
@@ -131,4 +137,4 @@ Lizenziert unter **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-
 ### Autor
 
 **Daniel Wagner** · nanatsusaya-lumora@gmx.net
-© 2026 Daniel Wagner
+© 2026 Daniel Wag
