@@ -1,0 +1,29 @@
+name: Question
+description: Ask something about the world, its rules, or the story.
+title: "[Question]: "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Good questions often reveal gaps worth fixing. For open-ended conversation, the Discord may be a faster fit.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Magic system (Noetic Force)
+        - World / Cosmology
+        - Species & Peoples
+        - Characters
+        - Lore & Mystery
+        - Story architecture
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true

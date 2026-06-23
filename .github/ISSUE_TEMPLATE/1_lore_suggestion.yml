@@ -1,0 +1,48 @@
+name: Lore / World Suggestion
+description: Propose a new idea, lore detail, or world element.
+title: "[Lore]: "
+labels: ["lore", "suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing an idea for Lumora! Please keep in mind the author makes all final decisions on content — a "no" is about the direction of the work, not about you.
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      description: Which part of the world does this touch?
+      options:
+        - Magic system (Noetic Force)
+        - World / Cosmology
+        - Species & Peoples
+        - Characters
+        - Lore & Mystery
+        - Story architecture
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: Describe your suggestion as clearly as you can.
+      placeholder: What is it, and why would it strengthen the world or story?
+    validations:
+      required: true
+  - type: textarea
+    id: fit
+    attributes:
+      label: How it fits the existing canon
+      description: Optional — how does this sit with the established rules and the inviolable core?
+    validations:
+      required: false
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Before submitting
+      options:
+        - label: I have read the Code of Conduct and the Contributing guide.
+          required: true
+        - label: I understand the author has the final say on what is adopted.
+          required: true

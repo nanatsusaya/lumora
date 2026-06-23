@@ -1,0 +1,26 @@
+name: Correction
+description: Report a typo, broken link, or formatting issue.
+title: "[Fix]: "
+labels: ["correction"]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Where
+      description: Which file or section?
+      placeholder: e.g. README.md, or 04 Characters/...
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong
+    validations:
+      required: true
+  - type: textarea
+    id: fix
+    attributes:
+      label: Suggested fix
+      description: Optional — how should it read instead?
+    validations:
+      required: false

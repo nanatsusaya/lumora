@@ -1,0 +1,41 @@
+name: Consistency / Contradiction Report
+description: Report a contradiction, plot hole, or rule violation in the world or magic system.
+title: "[Consistency]: "
+labels: ["consistency"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Spotting inconsistencies is one of the most valuable contributions. Thank you.
+  - type: input
+    id: location
+    attributes:
+      label: Where
+      description: Which note, file, or section is affected?
+      placeholder: e.g. 03 Noetic System/03.05 Grenzen & Einschränkungen.md
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: The inconsistency
+      description: What contradicts what? Describe both sides.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected vs. found
+      description: Optional — what would be consistent, and what does the text currently say?
+    validations:
+      required: false
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - Minor (cosmetic / easily fixed)
+        - Moderate (affects a detail)
+        - Major (affects a core rule or the canon)
+    validations:
+      required: true
