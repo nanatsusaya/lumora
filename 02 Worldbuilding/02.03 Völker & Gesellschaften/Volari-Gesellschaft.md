@@ -27,7 +27,7 @@ Die Aufteilung folgt der Biologie: Die kleineren, im Flug wendigeren Männchen e
 
 Es gibt keine festen Beziehungen. Weibchen wählen jedes Jahr neu und frei einen Partner. Bei einem Geschlechterverhältnis von etwa 1:3 bis 1:4 herrscht unter den Männchen harter Wettbewerb; ein erheblicher Teil findet **nie** einen Partner.
 
-Die Wahl folgt einem in Kultur übersetzten Balzverhalten: Wo ursprünglich das bunte Gefieder warb, präsentieren Männchen heute ihre **Erzeugnisse** — Jagdbeute, Handelsergebnisse, handwerkliche Arbeiten. Aus dem biologischen Schauwert ist ein **Leistungsnachweis** geworden; die Weibchen wählen anhand der gebrachten „Ernte". Dieser Wettbewerb strukturiert das gesamte Leben der Männchen. Die dauerhaft erfolglosen bilden eine eigene gesellschaftliche Schicht — sie übernehmen häufig besonders riskante Aufgaben oder verlassen die Wanderkultur (→ [[#Spaltung des Volkes]]).
+Die Wahl folgt einem in Kultur übersetzten Balzverhalten: Wo ursprünglich das bunte Gefieder warb, präsentieren Männchen heute ihre **Erzeugnisse** — Jagdbeute, Handelsergebnisse, handwerkliche Arbeiten. Aus dem biologischen Schauwert ist ein **Leistungsnachweis** geworden; die Weibchen wählen anhand der gebrachten „Ernte“. Dieser Wettbewerb strukturiert das gesamte Leben der Männchen. Die dauerhaft erfolglosen bilden eine eigene gesellschaftliche Schicht — sie übernehmen häufig besonders riskante Aufgaben oder verlassen die Wanderkultur (→ [[#Spaltung des Volkes]]).
 
 ## Fortpflanzung & Aufzucht
 
@@ -36,7 +36,7 @@ Weibchen legen ein Ei pro Jahr, ausschließlich an den Brutplätzen, wo Wandernd
 - **Söhne** zieht der Vater auf und gibt ihnen Jagd, Handwerk und Handel weiter.
 - **Töchter** übernimmt die Mutter; der Vater hat kaum Einfluss auf ihre Erziehung. Die Mutter bleibt bei Söhnen distanzierter als bei Töchtern.
 
-Ein Sohn gilt dem Vater als lohnender „Erbe", den er aufziehen darf. Eine Tochter zu zeugen ist seltener und gilt unter den Männchen als große Ehre, die gefeiert wird — auch wenn der Vater sie nicht erzieht.
+Ein Sohn gilt dem Vater als lohnender „Erbe“, den er aufziehen darf. Eine Tochter zu zeugen ist seltener und gilt unter den Männchen als große Ehre, die gefeiert wird — auch wenn der Vater sie nicht erzieht.
 
 So entstehen zwei getrennte, über Generationen verfeinerte Wissens- und Erblinien: das **politische Erbe** über die weibliche Linie (Linie, Stand, Macht), das **materielle und handwerkliche Erbe** über die männliche Linie (Werkstatt, Handelsbeziehungen, Ruf, angesammelte Erzeugnisse).
 
@@ -69,4 +69,13 @@ Ein wiederkehrender Stopp führt zu den [[Waldelværi]], deren Heiler die Himmel
 
 ## Technologie & Kulturerzeugnisse
 
-Weil ein Volk mit kurzer Lebensspanne kaum eigene Tiefenkultur anhäuft, ist ihre materielle Kultur weitgehend **geliehen** — ein Flickenteppich übernommener Techniken aus allen 
+Weil ein Volk mit kurzer Lebensspanne kaum eigene Tiefenkultur anhäuft, ist ihre materielle Kultur weitgehend **geliehen** — ein Flickenteppich übernommener Techniken aus allen besuchten Regionen. Eigenständig tief bewahrt bleiben vor allem die Himmelswal-Haltung und der Gravitationsflug.
+
+## Offene Fragen
+
+```
+TODO:
+- Genauer Hergang und Datierung des prägenden Massakers (→ [[02.06 Konflikte]], [[02.05 Geschichte]]).
+- Aufbau der Brutplatz-Gemeinschaften; Rolle der weiblichen Sippennetze.
+- Verhältnis der erfolglosen Männchen zur sesshaften/söldnerischen Abwanderung konkretisieren.
+```
