@@ -49,7 +49,7 @@ Fallengelassen heißt nicht verloren. Andere Götter wurden auf die unbeobachtet
 - [[Luminæri]] ← [[Luminæri-Göttin|Sonnengöttin]]
 - [[Bythari]] ← [[Bythari-Gott|Der Gezeitenherr]]
 
-Eine Linie fällt aus diesem Muster: die [[Volari]]. Auch sie wurde von einem zweiten Gott — dem [[Volari-Gott]] — aufgegriffen und auf gravitationsgestützten Flug ausgerichtet. Doch unzufrieden mit der Richtung ihrer Entwicklung ließ er sie erneut fallen, bevor sie eine Kultur ausbildeten. Damit sind die Volari die erste **zweimal fallengelassene** Linie; sie entwickelten sich ohne göttliche Vollendung selbst weiter. Das erklärt ihre schmale noetische Begabung und das Fehlen einer Volksreligion. *(→ [[Volari]], [[Volari-Gott]].)*
+Eine Linie fällt aus diesem Muster: die [[Volari]]. Auch sie wurde von einem zweiten Gott — dem [[Volari-Gott]] — aufgegriffen und auf gravitationsgestützten Flug ausgerichtet. Doch unzufrieden mit der Richtung ihrer Entwicklung ließ er sie ebenfalls fallen, bevor sie eine Kultur ausbildeten. Damit sind die Volari die erste **zweimal fallengelassene** Linie; sie entwickelten sich ohne göttliche Vollendung selbst weiter. Das erklärt ihre schmale noetische Begabung und das Fehlen einer Volksreligion. *(→ [[Volari]], [[Volari-Gott]].)*
 
 Das Ergebnis ließ lange auf sich warten — aber wer heute den Stammbaum der meisten Völker zurückverfolgt, landet bei diesem einen Vorfall.
 

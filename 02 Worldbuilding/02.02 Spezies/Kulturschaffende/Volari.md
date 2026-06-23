@@ -2,6 +2,7 @@
 tags:
   - wip
   - species
+  - volari-lord
 ---
 # Volari
 
@@ -27,7 +28,7 @@ Die Volari haben keinen klar definierten Schöpfergott. Ihre Linie geht auf das 
 
 ## Biologie
 
-Schlanker, leicht gebauter Körper mit dünnwandigen, teils hohlen Knochen; Durchschnittsgröße 1,40–1,60 m (Richtwert ~1,50 m), Gewicht ~40 kg. Trotz zierlicher Erscheinung kräftiger Oberkörper: vergrößerter Brustkorb und ausgeprägte Schulterpartie als Sitz der Flugmuskulatur, dazu schmale Taille und Hüften.
+Schlanker, leicht gebauter Körper mit dünnwandigen, teils hohlen Knochen; Durchschnittsgröße 1.40–1.60 m (die Weibchen tendieren zu 1.50–1.60 m während die Männchen zu 1.40–1.50 m tendieren, also i.A. kleiner sind), Gewicht ~40 kg. Trotz zierlicher Erscheinung kräftiger Oberkörper: vergrößerter Brustkorb und ausgeprägte Schulterpartie als Sitz der Flugmuskulatur, dazu schmale Taille und Hüften.
 
 **Gliedmaßen:** Die Arme sind zu großen Flügeln umgebildet, deren Ansätze sich seitlich bis zum unteren Brustkorb erstrecken und so die Tragfläche vergrößern. Am äußersten Flügelgelenk sitzt je eine kleine, dreifingrige Hand (Daumen, Zeige-, Mittelfinger) für Feinmotorik. Die Füße sind Greiffüße mit handähnlicher Funktion — lange, mehrgelenkige Zehen und ein teils opponierbarer hinterer Zeh. Beim Arbeiten balancieren Volari auf einem Fuß und nutzen den zweiten Greiffuß sowie die beiden Flügelhände als drei feinmotorische „Hände“.
 
@@ -35,25 +36,26 @@ Schlanker, leicht gebauter Körper mit dünnwandigen, teils hohlen Knochen; Durc
 
 **Kopf:** humanoide Grundform mit großen, scharfen Augen; kein Schnabel, sondern eine schmale Mundpartie mit Lippen — Voraussetzung für komplexe Lautsprache. Feiner Federbesatz im Gesicht, am Hinterkopf ein längerer Federschopf; langer, beweglicher Hals.
 
-**Gefieder & Schwanz:** durchgehendes Federkleid (weiche Federn an beweglichen Partien, Deckfedern am Rumpf, lange Schwungfedern als Flugflächen) sowie ein fächerförmiger Steuerfederschwanz zur Stabilisierung und Manövrierung.
+**Gefieder & Schwanz:** durchgehendes Federkleid (weiche Federn an beweglichen Partien, Deckfedern am Rumpf, lange Schwungfedern als Flugflächen) sowie ein fächerförmiger Steuerfederschwanz zur Stabilisierung und Manövrierung. Die Weibchen haben meist ein graues Gefieder, welches gelegentlich auch blaugrau oder schwarzgrau sein kann. Die Männchen haben ein sehr buntes Gefieder und kann alle natürliche Farben und Formen einnehmen.
 
 **Ernährung:** opportunistische Allesfresser (Früchte, Samen, Insekten, kleine Tiere, Fisch, Aas); die kalorisch dichte, flexible Kost deckt den hohen Energiebedarf des Dauerflugs.
 
 **Fortpflanzung:** ovipar — Weibchen legen ein Ei pro Jahr, ausschließlich an angestammten Brutplätzen. Umgekehrter Geschlechtsdimorphismus: Weibchen sind größer, kräftiger und seltener (Gefieder in Grautönen, selten blau- oder schwarzgrau), Männchen kleiner, schwächer, im Flug wendiger und mit buntem Gefieder. Das Geschlechterverhältnis liegt bei etwa 1:3 bis 1:4 zugunsten der Männchen; die Jungtiersterblichkeit ist hoch (→ [[Volari-Gesellschaft]]).
 
+![[Voltari-2.jpg]]*Konzeptskizze: männlicher Volari von Vorder-, Seiten- und Hinteransicht mit detaillierter Darstellung spezifischer Körperteile.*
 ## Lebensraum
 
-Primär an **verlässlichen Aufwind und erhöhte Startpositionen**: Hochgebirge, Küstenklippen, Fluss- und Felsschluchten, thermikreiche Ebenen und Savannen. Die Region prägt die Hauptnahrungsquelle, nicht die Biologie — es gibt keine biologischen Unterarten wie bei den [[Theriani]]. Volari leben regelmäßig außerhalb noetischer Hotspots; das ist für ihre Lebensspanne entscheidend (→ [[#N-Kraft]]).
+Primär naher **verlässlicher Aufwind und erhöhte Startpositionen**: Hochgebirge, Küstenklippen, Fluss- und Felsschluchten, thermikreiche Ebenen und Savannen. Die Region prägt die Hauptnahrungsquelle.
 
 ## Besonderheiten
 
 ### Flug
 
-Der Flug beruht auf der noetischen Verringerung der eigenen Gravitationsmasse: Volari machen sich lokal leicht (im Flug bis etwa 20 kg) und nutzen Flügel und Steuerschwanz zur Steuerung, während sie sich vorrangig von natürlichen Winden tragen lassen. Die Winde selbst manipulieren sie nicht aktiv — das unterscheidet sie von den [[Luminæri]], deren Flug auf Licht- und Feldmanipulation beruht. Bei dem reduzierten Fluggewicht ist ihre Flächenbelastung niedriger als die großer Segelvögel; ausdauernder Aktivflug und das Nutzen von Thermik sind möglich.
+Der Flug beruht auf der noetischen Verringerung der eigenen Gravitationsmasse: Volari machen sich lokal leicht (im Flug bis etwa 20 kg) und nutzen Flügel und Steuerschwanz zur Steuerung, während sie sich vorrangig von natürlichen Winden tragen lassen. Die Winde selbst manipulieren sie nicht aktiv — das unterscheidet sie von den [[Luminæri]], deren Flug auf EM-Feldmanipulation beruht. Bei dem reduzierten Fluggewicht ist ihre Flächenbelastung niedriger als die großer Segelvögel; ausdauernder Aktivflug und das Nutzen von Thermik sind möglich.
 
 ### Himmelswale
 
-Volari halten [[Tiere#Himmelswale|Himmelswale]] als Lasttiere — schwebende, halb-pflanzliche Flugwesen, die in Dreier-Gespannen eine hängende Gondel tragen und so den Transport ganzer wandernder Kolonien ermöglichen (→ [[Volari-Gesellschaft]]).
+Volari halten [[Tiere#Himmelswale|Himmelswale]] als Lasttiere — schwebende, halb-pflanzliche Flugwesen, die in Dreier-Gespannen eine hängende Gondel tragen und so den Transport von Waren ermöglichen (→ [[Volari-Gesellschaft]]).
 
 ## N-Kraft
 
@@ -63,7 +65,7 @@ Dieser Effekt wird im Flug **dauerhaft aufrechterhalten** und ist damit energeti
 
 ## Wesen
 
-Volari gelten als ruhig und distanziert. Ihre Kultur hält bewusst Abstand von den Konflikten anderer Völker — eine aus der eigenen Geschichte erlernte Haltung (→ [[Volari-Gesellschaft]], [[02.06 Konflikte]]). Zugleich sind sie als reisende Fernhändler eines der am weitesten verbreiteten und am häufigsten angetroffenen Völker Lumoras.
+Volari gelten als ruhig und freundlich. Kulturell halten sie aber bewusst Abstand von den Konflikten anderer Völker — eine aus der eigenen Geschichte erlernte Haltung (→ [[Volari-Gesellschaft]], [[02.06 Konflikte]]). Zugleich sind sie als reisende Fernhändler eines der am weitesten verbreiteten und am häufigsten angetroffenen Völker Lumoras.
 
 ## Gesellschaft
 
