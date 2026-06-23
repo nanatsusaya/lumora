@@ -31,6 +31,22 @@ The author makes all final decisions on content. Not every idea will be adopted 
 - **The core is fixed:** the project's philosophical and canon foundation does not change to solve story problems. World and system details can evolve if an idea earns it.
 - **Conventions:** notes follow a consistent structure (tags, section format, naming). If you propose edits to existing notes, try to match the surrounding style — when in doubt, ask first.
 
+## Using the Vault in Obsidian
+
+This repository is an [Obsidian](https://obsidian.md) vault. The notes are heavily cross-linked with `[[wiki-links]]`, and the project is meant to be navigated with Obsidian's graph, backlinks, and search. None of that works when reading the files on GitHub or in a plain editor — there the `[[...]]` links are just text.
+
+To open it:
+
+1. Install [Obsidian](https://obsidian.md) (free, all major platforms).
+2. Clone this repository to your machine.
+3. In Obsidian, choose **Open folder as vault** and select the cloned folder.
+
+That is all the setup needed. The vault ships with its settings (in `.obsidian/`), so the relevant **core plugins are already enabled**: Graph view, Backlinks, Outgoing links, Tag pane, Outline, and Search. Internal links also update automatically when notes are renamed or moved.
+
+Two community plugins are referenced by the vault — `realclaudian` and `better-export-pdf` — but are optional for reading. Their code is not committed, so Obsidian will offer to install them on first open; you can safely skip them if you only want to browse.
+
+When editing notes, please keep the `[[wiki-link]]` style and the existing tag and section conventions intact (the structure is documented under `09 Meta/`).
+
 ## License
 
 By contributing, you agree that your contributions are licensed under the project's [CC BY-NC-SA 4.0](../LICENSE) license, consistent with the rest of the work.

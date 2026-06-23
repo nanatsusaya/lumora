@@ -35,6 +35,8 @@
 
 **Lumora — The Legacy of Chaos** is a hard-magic fantasy novel in development. This repository is the Obsidian vault behind it: worldbuilding, lore, characters, the magic system, and story architecture all live here.
 
+> 📓 **Best viewed in [Obsidian](https://obsidian.md).** The notes are cross-linked with `[[wiki-links]]` that only resolve inside Obsidian — on GitHub they show up as plain text. See [Using the Vault in Obsidian](.github/CONTRIBUTING.md#using-the-vault-in-obsidian) for setup.
+
 ### The World and Its Magic
 
 Lumora is set on a world with a fifth fundamental force — the **Noetic Force (N-Force)** — through which conscious beings influence physical reality with thought, emotion, and intention. It is not arbitrary magic: it is an extended physics system in which consciousness is real and bound by rules. Every effect has a cause, and every power has a limit.
@@ -90,6 +92,8 @@ Licensed under **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa
 ### Über das Projekt
 
 **Lumora — Das Erbe des Chaos** ist ein in Entwicklung befindlicher Fantasy-Roman mit Hard-Magic-System. Dieses Repository ist der dahinterstehende Obsidian-Vault: Worldbuilding, Lore, Charaktere, das Magiesystem und die Story-Architektur liegen hier.
+
+> 📓 **Am besten in [Obsidian](https://obsidian.md) ansehen.** Die Notizen sind mit `[[Wiki-Links]]` vernetzt, die nur in Obsidian funktionieren — auf GitHub erscheinen sie als reiner Text. Einrichtung unter [Using the Vault in Obsidian](.github/CONTRIBUTING.md#using-the-vault-in-obsidian).
 
 ### Die Welt und ihre Magie
 
