@@ -30,7 +30,8 @@ Lumora/
 ├── 06 Lore & Mystery/    ← Core lore & the central mysteries.
 ├── 07 Research/          ← External references only. Never mix with own lore.
 ├── 08 Writing/           ← Prose drafts (German only).
-└── 09 Meta/              ← Project philosophy & framing.
+├── 09 Meta/              ← Project philosophy & framing.
+└── Assets/               ← Images: maps, species artwork, illustrations.
 
 ```
 
@@ -74,14 +75,17 @@ Before diving into any topic, read the relevant file — don't rely on this docu
 - **Elværin language system + vault-wide species naming** (see Vault Conventions → Species & Elværin Naming)
 
 ### In Progress 🔄
+- **Worldbuilding: deepening the culture-bearing peoples (`02`) — current primary focus** (Anelari, Luminæri, Elværi, Volari, … being expanded)
+- Early prose: Part I chapters (`08 Writing` — drafts in `08.00 Entwürfe`, first chapters in `08.01 Fertig`)
 - Story architecture: deepening acts, chapters, and scene-level structure (`05`)
 - Character development beyond initial notes (`04`)
 - Lore & mystery threads (`06`)
 
 ### Not Yet Started 📋
-- Detailed scene drafts, full timeline
+- Geography: regions & hotspots (planned next, after the peoples are deepened)
+- Full timeline
 - Remaining Noetic System details (cellular biology, advanced applications)
-- Deeper worldbuilding (regions, societies, religion)
+- Deeper worldbuilding (societies, religion)
 
 ---
 
@@ -293,13 +297,13 @@ Claude is an **active creative collaborator**, not just a consistency checker.
 
 ### Current Focus
 
-- **Primary:** Story Architecture — folder `05 Story Architecture/` (acts, chapters, scene structure)
-- **Secondary:** Characters & Lore — folders `04 Characters/`, `06 Lore & Mystery/`
-- The Noetic System and Worldbuilding are solid enough to support story work; revisit their open details as the narrative demands.
+- **Primary:** Worldbuilding — deepening the culture-bearing peoples (`02 Worldbuilding/`). Per the roadmap: peoples first, then geography & hotspots (regions), then back to the story.
+- **Secondary:** Story Architecture (`05`), Characters & Lore (`04`, `06`).
+- The Noetic System core is solid enough to support this work; revisit open details as the worldbuilding and narrative demand.
 
 ---
 
-**Last updated:** 2026-06-15
-**Project stage:** Story Architecture & Character Development; Elværin language system established
-**Next milestone:** Deepen story architecture (acts, chapters, scenes) across Part I–V
+**Last updated:** 2026-06-23
+**Project stage:** Worldbuilding — deepening the culture-bearing peoples; Elværin language system established
+**Next milestone:** Deepen the peoples (`02`), then geography & hotspots (regions), before returning to story architecture
 **Conventions last revised:** 2026-06-15 (added factual/objective tone rule for all notes except story prose; headings + body de-essayified across 02–06)
