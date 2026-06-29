@@ -14,3 +14,4 @@ Dieser Bereich sammelt **reales Fachwissen**, das ein konkretes In-World-System 
 * [[Wellenbegriffe]] — reale Physik der Wellenbegriffe des Noetischen Systems (Frequenz, Amplitude, Phase, Interferenz, Resonanz, Dekohärenz …)
 * [[Morph-Polymorphismus]] — reale Biologie hinter den Theriani-„Schlägen“ (Supergene, Polyphenismus, geteiltes Genom: eine Spezies, viele Gestalten)
 * [[Keplerbahnen & zentrale Kräfte]] — reale Physik der Bahnbewegung (Keplergesetze, Ellipsen, „Gummiband"-Kraftgesetz) hinter Lumoras Umlauf um Orthyros
+* [[Pflanzliche Mobilität & Intelligenz]] — reales Maximum eines rein pflanzlichen Körpers (Bewegung, Signalverarbeitung, Intelligenz, Energiebudget); Messlatte für die [[Sylvari]]
