@@ -438,3 +438,57 @@ Ich schnuppere über ihre Schulter hinweg. „Am Geruch krieg ich's nicht raus."
 
 - ChatGPT: `Der Dialog ist grundsätzlich natürlich und sympathisch. Die Stelle mit „siebenmal auf dem Klo“ ist gut, weil sie die Schwangerschaft konkret und nicht kitschig macht. Auch „Die Hölle auf Erden“ / „Idiot!“ funktioniert. Aber: Der Dialog ist fast ausschließlich harmonisch. Selbst die kleinen Konflikte sind süß. Dadurch fehlt etwas Reibung. Eine winzige echte Unstimmigkeit, Müdigkeit, Gereiztheit oder Sorge könnte die Figuren echter machen. Gerade Schwangerschaft ist nicht nur niedlich-erschöpft, sondern oft auch körperlich nervig, emotional angespannt, unromantisch. Ein kleiner rauerer Moment würde der Szene guttun.` ich bin mit in Hinblick auf die restlichen Kapitel nicht sicher, ob es hier bereits Konflikte braucht. Diese kommen später.
 
+## 7. Entwurf
+
+Tröt. Tröt. Tröt.
+
+Der Wecker kreischt, schrill und gnadenlos. Eine kräftige Hand fällt zielgenau darauf, und sofort kehrt wieder Stille ins Schlafzimmer ein.
+
+Ich drehe mich zurück zu meiner Frau. Ihre Haare duften nach Pfirsich. Ruhig und ein wenig verschlafen, so wie jeden Morgen, lege ich meine Hand auf die Rundung ihres Bauchs — vorsichtig, als könnte ich mit den Fingerspitzen hören, ob unser Kind schon wach ist. Ob es einmal ihre Augen bekommt? Dieses wache, leuchtende Blau — oder mein Braun, ruhig, aber eben nur Braun.
+
+„Morgen, Liebling", murmele ich, die Augen noch geschlossen. „Bist du schon wach?"
+
+Ein tiefes, verdrossenes Grummeln kommt mir entgegen.
+
+„Mmmh … ich war heute Nacht **siebenmal** auf dem Klo."
+
+Siebenmal. Ich verkneife mir das Grinsen und, schwerer noch, den Kommentar, der mir auf der Zunge liegt.
+
+„Du Arme", sage ich stattdessen und ziehe sie ein Stück fester an mich, ein Kuss auf die Wange. „Bleib ruhig liegen. Ich mach Frühstück."
+
+Sie schiebt ihre Hand über meine, dort, wo sie auf dem Bauch ruht.
+
+„Nein, schon gut. Mach du dich fertig. Ich kann eh nicht mehr schlafen, so müde wie ich bin." Ein schwerer Seufzer entweicht ihr. „Wie soll das erst werden, wenn das Baby da ist?"
+
+„Wie wohl." Ich öffne die Augen und grinse sie frech an. „Die Hölle auf Erden."
+
+Mit einem empörten Schnauben dreht sie sich halb zu mir um, packt meinen Bart und zieht mich konsequent daran zu sich herunter. „Idiot!" höre ich und erhalte dann einen liebevollen Kuss. 
+
+Dann fährt ihr Blick zusammen mit ein Finger über die Ränder meines Barts. „Der muss wieder getrimmt werden."
+
+> Eventuell bewusst als zweideutiger Satz: „Du muss wieder getrimmt werden." Aber eventuell ist das etwas zu viel.
+
+Ich gebe ihr einen sanften Kuss auf die Stirn und schäle mich aus der angenehm warmen Decke. Halb im Schlaf tappe ich ins Bad nebenan.
+
+Das Licht trifft mich wie ein Vorwurf, viel zu grell für diese Uhrzeit. Auf meiner Hälfte des Waschbeckens liegt ihre Wimpernzange. Ich hebe das filigrane Ding mit zwei Fingern an und lege es zur Seite. Zum Glück bin ich es durch die Arbeit gewohnt, so zierliche Dinge zu greifen. Meine klobigen, großen Hände waren schon immer besser für die Werkbank gemacht. Dann lasse ich das Wasser laufen, kalt, und klatsche mir eine Handvoll ins Gesicht.
+
+Eine Bartpflege, eine Dusche und eine dringend nötige Erleichterung später öffne ich den Kleiderschrank. Dunkelgrau, Dunkelblau, Schwarz, ein wenig gedecktes Grün — meine Fächer sehen aus, als hätte jemand den Farben das Licht abgedreht. Ich ziehe das dunkelgraue T-Shirt heraus. Es spannt über Brust und Schultern, wie sie alle spannen, obwohl ich längst nur noch die größte Größe kaufe. Ich ärgere mich kurz — enger Stoff, den ganzen Tag —, aber es gibt schlicht keine Shirts mehr, die obenrum locker sitzen. Frisch angezogen mache ich mich auf den Weg nach unten.
+
+In der Küche steht meine Frau bereits hinter der Theke. Ein Jogginganzug, bunt, als hätte jemand mehrere Eimer Farbe darauf geworfen, darüber die helle Schürze mit der niedlichen rosa Katze, die sich über den großen, runden Bauch spannt, das blonde Haar locker hochgesteckt — ein paar Strähnen haben sich gelöst und fallen ihr ins Gesicht. Müde sieht sie aus, erschöpft sogar, aber auf diese ruhige, schöne Art, die mich schon einmal umgehauen hat — damals, hinter einem klebrigen Küchentresen, auf dieser überfüllten Studentenparty. In der Pfanne brutzeln Eier mit Speck.
+
+Auf dem stummen Fernseher daneben brennt ein Gebäude. Über das Bild läuft in großen Buchstaben:
+
+**BREAKING NEWS: FLÜCHTLINGSLAGER UNTER …**
+
+Ich hole den Orangensaft aus dem Kühlschrank und fülle zwei Gläser. Das eine trinke ich gleich leer, das andere stelle ich neben den Herd. Dann trete ich hinter sie und lege die Arme um sie — vorsichtig, des Bauchs wegen. Sie lehnt sich zurück an mich, ohne die Pfanne aus den Augen zu lassen. Wie so häufig legt sie den Kopf an meine Brust; einen Moment ruht ihr ganzes Gewicht an mir, während sie seelenruhig den Speck zur Seite schiebt. Ich küsse ihr Haar. Pfirsich, jetzt vermischt mit Speck und Orangen — und einer leichten neuen Note von Kräutern.
+
+„Riecht gut", sage ich. „Hast du was anderes reingemacht?"
+
+„Jap." Ein kurzer Seitenblick. „Rate."
+
+Ich schnuppere über ihre Schulter hinweg. „Am Geruch krieg ich's nicht raus."
+
+„Dann vielleicht, wenn du's probierst." Sie rührt in der Pfanne. „Du weißt noch, dass wir in drei Tagen nachmittags den Termin beim Arzt haben?"
+
+„Natürlich weiß ich das." Ich lasse sie los und lehne mich neben ihr an die Theke. „Ich hab heute Morgen schon mit dem Rektor einen Termin ausgemacht — ich kläre, wer den Nachmittag für mich übernimmt." Ich sehe sie an, ganz ernst jetzt. „Ich verpasse den Termin auf keinen Fall."
+
