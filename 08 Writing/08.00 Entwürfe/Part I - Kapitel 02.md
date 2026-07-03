@@ -18,6 +18,7 @@ Der Leser wird in sehr groben Zügen in das Kern-Problem Lumoras eingeführt und
 	- Person 2: [[Strippenzieher-Gott]]
 	- Person 3: [[Elværi-Göttin]]
 	- Person 4: [[Raum-Zeit-Gott]]
+
 - Person eins bis drei erkennen, dass sich die Gesellschaft Lumoras langsam auf ein technologisches Niveau bewegt, dass sie dazu in der Lage sind, den kompletten Planeten zu zerstören. Das wird weniger als 500 Jahre dauern. Gleichzeitig entstehen zwischen den Gesellschaften immer mehr Konflikte. Es ist wahrscheinlich, dass Lumora innerhalb von 1.000 Jahre vernichtet wird
 - Die Götter möchten das verhindern und die Völker Lumoras auf einen friedlichen Weg führen, die [[Die Drei Regeln|drei Regeln]] verhindern das aber.
 - Der [[Ursprungsgott]] wird die Regeln aber nicht anpassen, auch nach wiederholten bitten der Göttinnen.

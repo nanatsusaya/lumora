@@ -74,7 +74,7 @@ Dass es *dieser* Mensch wird, ist ein Zusammenfall von Zufällen:
 
 - Der RZG bewertet, während er auf der Erde seinem Interesse nachgeht, ohnehin **jeden**. Der Protagonist gerät schlicht in den richtigen Moment seiner Beobachtung.
 - Er bringt ein **gutes physikalisches Verständnis** mit — kein Heldenmerkmal, aber praktisch: Es erhöht seine Überlebenschance in Lumora.
-- Und er liefert durch seine beiläufigen, ungenauen Formulierungen den Eindruck, eine **Isekai-Reise zu akzeptieren** (siehe [[Part I - Kapitel 05]] und das spätere Einwilligungs-Kapitel).
+- Und er liefert durch seine beiläufigen, ungenauen Formulierungen den Eindruck, eine **Isekai-Reise zu akzeptieren** (siehe [[Part I - Kapitel 04]] und das spätere Einwilligungs-Kapitel).
 
 Hinzu kommt das Zwischenmenschliche: Der Protagonist missdeutet das durchaus seltsame Verhalten des Avatars (Manga, Trickmagie, flache Sprache) als dessen *Art, freundlich zu sein*. Er findet ihn erfrischend anders, nicht unangenehm. Aus diesem doppelten Aneinander-vorbei entsteht die ganze Geschichte (siehe [[#Mensch und Gott]]).
 

@@ -5,9 +5,9 @@ Gespräche mit Claude über die aktuellen Kapitel Entwürfe
 - [[08 Writing/08.00 Entwürfe/Part I - Kapitel 01|Part I - Kapitel 01]]
 - [[08 Writing/08.00 Entwürfe/Part I - Kapitel 02|Part I - Kapitel 02]]
 - [[08 Writing/08.00 Entwürfe/Part I - Kapitel 03|Part I - Kapitel 03]]
-- [[08 Writing/08.00 Entwürfe/Part I - Kapitel 04|Part I - Kapitel 04]]
-- [[08 Writing/08.00 Entwürfe/Part I - Kapitel 05|Part I - Kapitel 05]]
-- [[08 Writing/08.00 Entwürfe/Part I - Kapitel X|Part I - Kapitel X]]
+- [[Part I - Kapitel 05|Part I - Kapitel 06]]
+- [[Part I - Kapitel 04|Part I - Kapitel 04]]
+- [[Part I - Kapitel 10|Part I - Kapitel 11]]
 
 ---
 

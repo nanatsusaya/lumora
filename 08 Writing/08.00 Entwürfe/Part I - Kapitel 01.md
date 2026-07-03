@@ -13,6 +13,7 @@ Der Leser lernt den [[Protagonist]] kennen und dessen direktes Umfeld.
  - Auftretende Personen:
 	 - [[Protagonist]]
 	 - [[Ehefrau]]
+
  - In einer alltäglichen morgendlichen Szene wird der Protagonist und dessen schwangere Ehefrau eingeführt.
  - Man soll einen ersten Blick auf den Protagonisten erhalten.
 
