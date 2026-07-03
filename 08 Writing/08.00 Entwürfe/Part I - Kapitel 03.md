@@ -158,3 +158,109 @@ Drei Tage noch. Den Termin verpasse ich auf keinen Fall.
 
 Der natürliche Schnittpunkt, falls du später teilst: nach „wie auf eine Schulter." — Grab-Hälfte und Fahrt-Hälfte tragen jeweils allein.
 
+## 2. Entwurf
+
+Die Haustür fällt hinter mir ins Schloss, und der Morgen riecht nach nassem Rasen. Irgendwo zischt ein Rasensprenger, obwohl es in der Nacht geregnet hat. In unserer Straße gewinnt immer der Timer.
+
+Über den Dächern hängt die Fahne der Nachbarn schlaff am Mast, und drei Häuser weiter winkt mir jemand zu. Natürlich. Herr #nachbar verpasst keinen ersten Freitag im Monat.
+
+„Guten Morgen!" Er kommt mir über den Rasen entgegen, in der Hand ein in Papier geschlagenes Bündel. „Wie geht's der werdenden Mama?"
+
+„Müde", sage ich. „Aber gut. Sie war heute Nacht siebenmal auf."
+
+„Das wird noch schlimmer, bevor es besser wird." Er strahlt dabei, als hätte er mir ein Kompliment gemacht, und drückt mir das Bündel in die Hand. „Wie bestellt. Rosa Nelken. Haben die letzten gehalten?"
+
+„Bis vorgestern, fast einen Monat."
+
+„Gut. Die stehen übrigens für unvergängliche Mutterliebe, wussten Sie das?" Er sagt das jedes Mal. „Sagen Sie, stimmt das eigentlich, was man hört — dass bei Ihnen drüben schon wieder Stellen gestrichen werden?"
+
+„Keine Ahnung, was die über uns schreiben. Ich unterrichte nur." Ich hebe die Nelken zum Gruß. „Danke für die Blumen."
+
+Halb die Einfahrt hinunter höre ich ihn noch etwas über die Schulbehörde sagen, in jenem Ton, in dem man über schlechtes Wetter spricht. Die halbe Straße findet #nachbar aufdringlich, und die halbe Straße hat recht. Aber er ist Florist, und seit zwei Jahren stehen an jedem ersten Freitag im Monat frische Nelken vor meiner Tür, ohne dass ich je daran denken muss. Für dieses Arrangement bin ich bereit, eine Menge Fragen zu ertragen.
+
+Ich lege die Blumen auf den Beifahrersitz und lasse den Motor an.
+
+Die Fahrt zum Friedhof dauert zwölf Minuten, wenn man die Ampeln kennt, und ich kenne die Ampeln. Im Radio sagt eine Stimme, die Zahl der Anschläge auf Unterkünfte habe sich im letzten Jahr mehr als verdoppelt, und ich überlege, ob ich nach der Arbeit noch tanken muss. Die Anzeige sagt halb voll. Reicht dicke.
+
+> "Im Radio sagt eine Stimme, die Zahl der Anschläge auf Unterkünfte habe sich im letzten Jahr mehr als verdoppelt" ich denke dieser Teil muss raus.
+
+Das Friedhofstor steht um diese Zeit schon offen. Auf den Wegen ist niemand außer einem Mann mit Laubbläser, der ihn anwirft, als ich vorbeigehe, und wieder abstellt, sobald ich vorbei bin. Den Weg könnte ich auch blind gehen: links am Engel mit der abgebrochenen Hand vorbei, dann die dritte Reihe.
+
+Der Stein ist dunkelgrau und schlicht, so wie sie es wollte. Ihr Name, zwei Daten, ein Bindestrich. Das zweite Datum ist zwei Jahre alt und fühlt sich immer noch wie ein Tippfehler an.
+
+„Hallo, Mama."
+
+	Ich nehme die alten Nelken aus der Vase. Sie sind braun geworden, aber sie stehen noch aufrecht — zäh bis zuletzt, auch das hätte ihr gefallen. Die neuen wickle ich aus dem Papier und stelle sie hinein, und dann hocke ich eine Weile einfach nur da und wische mit dem Daumen den Staub aus den Rillen ihres Namens.
+
+„Achter Monat", sage ich. „Sie schläft kaum noch. Und sie kocht immer noch mit Vorliebe neue Sachen, bei denen ich lieber nicht wüsste, was drin ist."
+
+Der Laubbläser setzt wieder ein, weiter hinten. Es ist keine Traurigkeit, die mich herzieht, schon lange nicht mehr. Eher so etwas wie Berichtspflicht. Sie hat sich mein Leben ihr Leben lang angehört; ich sehe nicht ein, warum der Tod eine Ausrede sein sollte.
+
+Von meinem Vater habe ich genau ein Bild im Kopf, und nicht einmal das ist echt — es ist aus einer Fotokiste, die Mama irgendwann aussortiert hat. Ein Mann, der lacht und mich auf dem Arm hält, ein paar Monate bevor er zur Tür hinausging und sie nie wieder von innen sah. Ich war ein Baby. Man kann niemanden vermissen, den man nie gekannt hat, heißt es. Stimmt nicht ganz. Man vermisst ihn nur an den falschen Stellen: beim ersten Fahrrad, beim Rasierenlernen, bei der ersten Trennung.
+
+Sie hat das alles allein gemacht. Zwei Jobs, ein Kind, keine Klagen — jedenfalls keine, die ich hören durfte. Und als ich Jahre später meine Frau zum ersten Mal mit nach Hause brachte, nervös wie vor keiner Prüfung, hat Mama sie umarmt, bevor sie ihren Namen kannte.
+
+Als sie starb, hat meine Frau tagelang immer wieder geweint — beim Kochen, beim Zähneputzen, mitten im Satz. Ich habe sie gehalten und ihr Haar gestreichelt, und irgendwann fragte sie mich, halb wütend: „Warum weinst du eigentlich nicht?" Ich habe damals lange über die Antwort nachgedacht. „Ich trauere", habe ich gesagt. „Aber wenn ich an sie denke, erinnere ich mich nur daran, wie sie immer da war. Ich glaube nicht, dass ich sie vermisse. Es tut mir leid — für mich fühlt es sich an, als wäre sie noch hier." Ich weiß bis heute nicht, ob sie das verstanden hat. Ich weiß nicht mal, ob ich es verstehe. Es funktioniert trotzdem.
+
+Nur bei einem Thema sind wir nie fertig geworden, Mama und ich. Ich merke, dass meine Hand im Bart hängt und langsam die Ränder entlangfährt, und muss grinsen. Meine Schüler nennen das die Denkerpose. _Achtung, Leute, gleich kommt was Wichtiges._
+
+„Versprich mir, dass meine Enkelkinder katholisch erzogen werden", hat sie gesagt, im Krankenhaus, als wir beide schon wussten, wohin das führt. Ich habe „Wir werden sehen, Mama" gesagt, und sie hat mich angesehen, wie sie mich immer angesehen hat, wenn ich um eine Antwort herumgeschlichen bin. Es war das einzige Versprechen, das ich ihr nicht gegeben habe.
+
+Ich richte die Nelken ein letztes Mal aus.
+
+„Ich arbeite dran", sage ich. „Ehrlich."
+
+Zum Abschied klopfe ich zweimal oben auf den Stein, wie auf eine Schulter.
+
+---
+
+Zwölf Minuten zurück, die Ampeln kenne ich auch in diese Richtung.
+
+Katholisch erziehen. Dafür müsste ich erst einmal klären, was ich meinem Kind über Gott erzählen soll — und da fängt das Problem schon an, denn für einen Begriff, über den die Menschheit seit Tausenden von Jahren Kriege führt, ist „Gott" erstaunlich schlampig definiert. Berufskrankheit, vermutlich. Ich lasse ja auch keine Formel an die Tafel, in der zwei verschiedene Dinge dasselbe Zeichen tragen.
+
+Da ist einmal der Gott der Kirche: absolut, allumfassend, das Ganze schlechthin. Alles ist Gott, jeder ist Teil Gottes. Wenn man das ernst nimmt — und ich nehme Definitionen grundsätzlich ernst —, dann beschreibt die Kirche ein Universum, das als Ganzes zu irgendetwas Bewusstem emergiert. Schön. Kann man denken. Aber dann bin ich zu diesem Wesen ungefähr das, was ein Darmbakterium zu mir ist: fleißig, nützlich, restlos ahnungslos. Das Bakterium hilft bei der Verdauung und hält seinen Magen für das Universum. Und wenn sich in meinem Magen ein einzelnes Bakterium unmoralisch verhält — es lügt, es stiehlt, es begehrt die Geißel seines Nächsten —, dann ist mir das nicht einmal egal. Egal wäre ja noch eine Meinung. Ich erfahre es schlicht nie.
+
+„Gott ist ein Verdauungstrakt" ist jedenfalls ein Satz, den ich besser für mich behalte. Der bringt mir weder beim Elternabend Punkte noch — falls ich mich doch irre — danach.
+
+Die Ampel vor der Auffahrt ist rot. Am Heck des Wagens vor mir klebt ein Sticker: eine automatische Waffe mit Schnuller, darunter _MY BABY ON BOARD_.
+
+Und dann gibt es die anderen Götter, die alten — Zeus, Thor, halb Indien. Keine Absolutheiten, sondern Wesen: geboren, verliebt, beleidigt, gealtert. Menschen mit besserer Ausstattung und mehr Zeit. Wir wären für solche Wesen, was Ameisen für uns sind. Eine Ameise lebt ein Jahr; das Kind, das im Garten wohnt, ist aus ihrer Sicht unsterblich. Vielleicht malt das Kind eine von ihnen weiß an und füttert sie den ganzen Sommer durch — und der Haufen bekommt seinen Auserwählten, seinen weißen Herkules, und baut ihm meinetwegen einen kleinen Kult. Das Kind wird trotzdem erwachsen, und ob die Ameisen einander anständig behandeln, hat es keine einzige Sekunde seines Lebens interessiert.
+
+So oder so läuft es also auf dasselbe hinaus: Von oben kommt keine Moral. Die Rahmenbedingungen sind gestellt — von der Natur oder meinetwegen von etwas Größerem, das sich nicht meldet. Den Anstand müssen wir schon selbst herstellen. Früher hat das ein Dorf erledigt, eine Kirche, ein Volk. Heute bleibt es an jedem Einzelnen hängen, sich eine Moral zusammenzubauen, die trägt.
+
+Rechts am alten Baumarkt drängen sich Zelte über den Parkplatz, eines am anderen, dazwischen Einkaufswagen und eine Leine mit Wäsche.
+
+Welche Moral bringe ich also meinem Kind bei? Die des Landes, in dem wir leben? Die des Katechismus, wie Mama es wollte? Meine eigene, dieses selbstgebastelte Ding aus Kant und gesundem Menschenverstand — _handle nur nach derjenigen Maxime_ … versuch das mal einem Vierjährigen zu erklären, der gerade einem anderen Vierjährigen die Schaufel über den Kopf zieht.
+
+Vielleicht ist genau das der Weg: keine fertige Moral verabreichen, sondern zeigen, woraus man eine baut. In den Ferien reisen, jedes Jahr woandershin. Rom und Kyoto, Tempel und Kathedralen, Orte, an denen Menschen seit Jahrtausenden völlig verschieden richtig zu leben versuchen. Das Kind soll das alles sehen und anfassen und vergleichen dürfen — und sich dann selbst ein Bild machen, von der Welt und von sich. Mama hätte über die Hälfte davon den Kopf geschüttelt. Und wäre bei jeder Kathedrale dabei gewesen.
+
+Ich biege auf den Lehrerparkplatz ein und stelle den Motor ab. Draußen wartet schon der Lärm.
+
+### Anmerkungen
+
+Umgesetzt aus den Kommentaren des 1. Entwurfs:
+
+* **Einstieg:** Variante A (Rasensprenger/Timer).
+* **Grabstein:** Variante B („Tippfehler").
+* **Koch-Satz** in Daniels Fassung („… bei denen ich lieber nicht wüsste, was drin ist").
+* **Trauer-Gespräch:** Variante A mit Daniels neuer Antwort („… als wäre sie noch hier"), leicht geglättet; der Nachklapp („Es funktioniert trotzdem.") blieb.
+* **„Versprich mir, dass meine Enkelkinder katholisch erzogen werden."**
+* **„seit Tausenden von Jahren"** statt „dreitausend".
+* **„Zum Glück kann niemand meine Gedanken lesen" entfernt** (reserviert für Part II). Die Verdauungstrakt-/Elternabend-Pointe bleibt, neu aufgehängt: „… ist jedenfalls ein Satz, den ich besser für mich behalte."
+* **Sticker-Einschub** ohne Nachsatz — zwei Sätze, kommentarlos, danach läuft der Gedanke einfach weiter.
+* **„Vielleicht malt das Kind …"**
+* **Zelte** als eigener, abrupter Ein-Satz-Absatz zwischen Moral-Fazit und Kant-Frage — kommentarlos, die Kant-Frage läuft direkt darüber hinweg.
+* **Ende:** Radio-Eilmeldung und „Drei Tage"-Satz gestrichen. Neuer Schluss dockt direkt an Kapitel 5 an: „Draußen wartet schon der Lärm." → „Die Schule empfängt mich wie jeden Morgen mit Lärm."
+* Kleinkram: „beim Rasierenlernen, bei der ersten Trennung" (Reihe angeglichen).
+* ChatGPT: `Der zentrale Schwachpunkt: Der Gott-Moral-Teil wird zu essayistisch. Ab hier: *Katholisch erziehen. Dafür müsste ich erst einmal klären, was ich meinem Kind über Gott erzählen soll —* beginnt ein langer innerer Monolog, der zwar klug und teilweise witzig ist, aber **die Szene fast anhält**. Das Problem ist nicht, dass er über Gott und Moral nachdenkt. Das ist offensichtlich wichtig. Das Problem ist, dass der Text mehrere Absätze lang fast ausschließlich argumentiert. Er erzählt weniger, er doziert mehr. Man merkt dem Kapitel hier stark an: **Das Thema der Novelle wird jetzt gesetzt.** Gerade diese Passage: *So oder so läuft es also auf dasselbe hinaus: Von oben kommt keine Moral. Die Rahmenbedingungen sind gestellt — von der Natur oder meinetwegen von etwas Größerem, das sich nicht meldet. Den Anstand müssen wir schon selbst herstellen.* Das ist als Gedanke interessant. Aber es ist sehr direkt formuliert. Es klingt fast wie die These eines Essays. Für eine Novelle kann das funktionieren, wenn der Erzähler bewusst so ist. Aber die Gefahr ist, dass Leser nicht mehr in einer Szene sind, sondern in einem philosophischen Kommentar. Ich würde diesen Teil nicht streichen. Er ist wichtig. Aber ich würde ihn stärker an konkrete Beobachtungen während der Fahrt binden: Ampel, Sticker, Zelte, Radio, Friedhof, Schule, Kinder. Die Gedanken könnten stärker aus der Welt hervorgehen, statt geschlossen als Argumentationsblock zu erscheinen.` ich finde die Grundidee gut, dass macht auch die Eindrücke mit den Zelten und den BabyOnBoard etwas weniger aufdringlicher. Im Gegenteil, es banalisiert sie aus sicht des Protagonisten.
+* ChatGPT: Theologisch: Vorsicht mit „Gott der Kirche“. Hier wäre ich besonders kritisch. Der Satz: *"Da ist einmal der Gott der Kirche: absolut, allumfassend, das Ganze schlechthin. Alles ist Gott, jeder ist Teil Gottes."* Das ist, streng genommen, **nicht katholische Lehre**, sondern klingt eher pantheistisch oder zumindest stark panentheistisch. Der katholische Gott ist nicht einfach „das Ganze“ und die Menschen sind nicht Teile Gottes wie Bakterien Teile eines Körpers wären. Gott ist Schöpfer, aber nicht identisch mit der Schöpfung. Das kann natürlich Absicht sein. Vielleicht versteht der Erzähler Theologie bewusst falsch oder übersetzt sie in sein eigenes naturwissenschaftliches Denkmodell. Dann ist es sogar interessant, weil es ihn charakterisiert: Er denkt präzise, aber vielleicht nicht immer fair gegenüber Begriffen, die sich seinem Raster entziehen. Aber wenn der Text das als tatsächlich katholische Position ausgeben will, ist es problematisch. Dann wirkt der Erzähler nicht nur skeptisch, sondern fachlich schief. Das kann Leser stören, die sich damit auskennen. Mein Vorschlag wäre: Mach deutlicher, dass das **seine private, möglicherweise unzureichende Übersetzung** ist. Zum Beispiel durch eine kleine Selbstrelativierung: Er weiß, dass ein Priester ihm vermutlich widersprechen würde, aber so kommt es in seinem Kopf an. Dann ist die Unschärfe Charakterisierung statt Fehler.
+* ChatGPT: Der Gedankenteil sollte sich mehr wie eine **Gedankenspirale während einer Autofahrt** lesen, nicht wie ein fertiger Aufsatz. Also mehr Unterbrechungen durch Außenwelt: Radio. Ampel. Sticker. Flüchtlingszelte. Schule. Vielleicht ein Kind auf einem Fahrrad. Eine Kirchturmspitze. Ein Wahlplakat. Irgendetwas, das den Gedanken immer wieder stößt.
+
+
+```
+OFFENE PUNKTE:
+- Kontinuität zu K01: Dort rät er aktiv, was im Essen ist („Rate."), hier will
+  er es „lieber nicht wissen". Als augenzwinkernder Widerspruch okay, oder
+  angleichen?
+- Falls das Kapitel später geteilt wird: Schnitt nach „wie auf eine Schulter."
+```
