@@ -23,7 +23,7 @@ Zentrale Startseite und zweisprachiges Glossar aller Eigenbegriffe Lumoras. Jede
 	- [[Drakōri-Gott#Drakōri-Gott|Drakōri-Gott]] → Gott der Drakōri (in Ausarbeitung).
 	- [[02.04 Religion & Götter#Die Drei Regeln des Ursprungsgottes|Die Drei Regeln des Ursprungsgottes]] → Drei dem Ursprungsgott zugeschriebene Grundregeln nach der Gasriesenkatastrophe.
 - **E**
-	- [[Die Ehefrau#Die Ehefrau|Die Ehefrau]] → Ehefrau des Protagonisten auf der Erde; emotionaler Anker seiner alten Identität.
+	- [[Ehefrau#Die Ehefrau|Die Ehefrau]] → Ehefrau des Protagonisten auf der Erde; emotionaler Anker seiner alten Identität.
 	- [[Elværi#Elværi|Elværi]] → Eine der ältesten kulturschaffenden Spezies Lumoras (klassisch: Elfen).
 	- [[Waldelværi#Selbstbezeichnung — Elværi & Elværin|Elværi / Elværin (Selbstbezeichnung)]] → Eigenname des Volks (Elværi) und seiner Sprache (Elværin) in der eigenen Sprache.
 	- [[Elværi-Göttin#Elværi-Göttin|Elværi-Göttin]] → Schöpfergöttin der Elværi, ursprünglich Sterbliche einer anderen Welt.
@@ -219,7 +219,7 @@ Zentrale Startseite und zweisprachiges Glossar aller Eigenbegriffe Lumoras. Jede
 	- [[Volari#Volari|Volari (Bird-People)]] → Lumora's flight-capable bird people (classic: bird-people).
 	- [[Volari-Gott#Volari-Gott|Volari-Lord]] → The god who took over the Volari line second (working title).
 - **W**
-	- [[Die Ehefrau#Die Ehefrau|The Wife]] → The protagonist's wife on Earth; emotional anchor of his old identity.
+	- [[Ehefrau#Die Ehefrau|The Wife]] → The protagonist's wife on Earth; emotional anchor of his old identity.
 	- [[03.03 Das Noetische Profil#Wille|Will]] → The capacity to build and hold complex mental structures.
 	- [[03.03 Das Noetische Profil#Weisheit|Wisdom]] → Mastery of the noetic internalised through experience.
 	- [[03.03 Das Noetische Profil#Wissen|Wit]] → The depth and precision of a being's theoretical understanding.

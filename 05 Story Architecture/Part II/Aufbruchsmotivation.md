@@ -21,7 +21,7 @@ Die tragfähige Motivation steckt bereits in der Prämisse und wird nur unterben
 
 ## Intrinsische Motivation
 
-Der wahre Nordstern bleibt egoistisch — passend zum Wegschauer-Start: zurück zur [[Die Ehefrau|Frau und dem ungeborenen Kind]] auf der Erde.
+Der wahre Nordstern bleibt egoistisch — passend zum Wegschauer-Start: zurück zur [[Ehefrau|Frau und dem ungeborenen Kind]] auf der Erde.
 
 - **Der einzige Kanal ist fort.** Nur der [[Raum-Zeit-Gott|RZG]] kann ihn zurückbringen, und der ist nach dem Transfer verschwunden („seine Aufgabe sei erledigt"). Die Antwort auf „Wie komme ich zurück?" liegt in Wissen über Götter, Transfer, Regionen und Transzendenz — Wissen, das es zu Hause nicht gibt.
 - **Die Zeitdilatation macht Hoffnung konkret.** ~200 Lumorajahre ≈ ~1 Erdjahr ([[Zeitdilatation zwischen den Regionen]]). Begreift er das, heißt es: er *kann* es rechtzeitig zurückschaffen — aber nur, wenn er handelt, statt ~150 Jahre als entmündigtes „Kind" im sicheren Baum zu sitzen. Warten ist die Hölle (Kind-Feld, erwachsener Geist); Aufbrechen ist die einzig rationale Tat.

@@ -5,7 +5,7 @@ tags:
 ---
 # Die Ehefrau
 
-*EN: The Wife*
+*EN: Wife*
 *Tag:* #wife
 
 Ehefrau des [[Protagonist]] auf der Erde. Emotionaler Anker seiner alten Identität — und der tiefste Verlust, den der Transfer ihm aufzwingt.

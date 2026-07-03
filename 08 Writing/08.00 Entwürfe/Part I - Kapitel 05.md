@@ -7,6 +7,19 @@ tags:
 ---
 # Part I - Kapitel 05
 
+## Grober Inhalt
+
+Der Leser lernt die Arbeitsumgebung des Protagonisten kennen. Außerdem wird der Avatar des Raum-Zeit-Gottes eingeführt und der Leser erlebt das Aufeinander treffen der beiden Personen.
+
+ - Auftretende Personen:
+	 - [[Protagonist]]
+	 - [[Schuldirektor]]
+	 - [[Raum-Zeit-Gott]] in Avatar Form
+ - Der Protagonist kommt an der Schule an. Eine einfache Interaktion mit seinen Schülern zeigt dessen gute Verhältnis
+ - Der Protagonist spricht mit seinem Schuldirektor, dieser verlangt, dass der Protagonist den "der neue Kollege" herumführt.
+ - Erstes Treffen zwischen den Protagonist und den RZG.
+ - Der RZG ist auf der suche nach eine gelehrten Person, die helfen kann Lumora zu retten. Die Bewertung des Protagonisten beginnt.
+
 ## 1. Entwurf
 
 Der Weg zum Büro des Direktors kommt mir heute länger vor als sonst.
@@ -479,3 +492,11 @@ Er nimmt seine Tasche. Dann gehen wir los.
 
 * Alle Punkte der letzten Durchsicht eingearbeitet: Geruch auf Holz/Kreide umgewichtet (1), echte 10.-Klasse-Aufgabe mit Zwinkern (2), Hetze perlt ab, Kopf schon beim Termin (3), „Ich hab nichts gesehen." (4), Direktor-Pause als Halbsatz statt Einwort (5), konkrete Schulaufsicht/Sporthalle (6), „Er liest einen Manga." als eigener Absatz (7), verschwindender Manga gestrichen + Kontinuität geglättet: er lässt ihn beim Aufstehen in die Tasche gleiten (9).
 * **Offen, zum Besprechen (8):** „Irgendwohin, wo die Dinge am Ende noch aufgehen." — bewusst unverändert gelassen, das ist der thematische Kern. Dazu separat.
+* Die Spiegelszene aus Kapitel 1 muss entfernt werden: wir werden den Anfang leicht anpassen müssen. Die Szene soll voller Schüler sein, die überall vor der Schule und im Hausgang herumlaufen. Kaum jemand wird den Protagonisten beachten, genauso wie er es bevorzugt. Deswegen zieht er immer die einfache Kleidung mit gedämpften Farben an. "Nur seine Statur ließ sich nie verstecken" und dann wird er von seinen eigenen Schülern begrüßt. 
+
+## 5. Entwurf
+
+TODO
+### Anmerkungen
+
+TODO

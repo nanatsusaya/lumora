@@ -6,6 +6,16 @@ tags:
 ---
 # Part I - Kapitel 01
 
+## Grober Inhalt
+
+Der Leser lernt den [[Protagonist]] kennen und dessen direktes Umfeld.
+
+ - Auftretende Personen:
+	 - [[Protagonist]]
+	 - [[Ehefrau]]
+ - In einer alltäglichen morgendlichen Szene wird der Protagonist und dessen schwangere Ehefrau eingeführt.
+ - Man soll einen ersten Blick auf den Protagonisten erhalten.
+
 ## 1. Entwurf
 
 Tröt, tröt, tröt.
@@ -212,6 +222,10 @@ Der Wecker kreischt, schrill und gnadenlos. Eine kräftige Hand fällt zielgenau
 
 Ich drehe mich zurück zu meiner Frau. Ihre Haare duften nach Pfirsich. Ruhig und ein wenig verschlafen, so wie jeden Morgen, lege ich meine Hand auf die Rundung ihres Bauchs — vorsichtig, als könnte ich mit den Fingerspitzen hören, ob die beiden schon wach sind. Ihr Atem geht nicht ganz gleichmäßig.
 
+> Mit "die beiden" war die Frau und das ungeborene gemeint, was man aber als Zwillinge missverstehen kann. Das müssen wir anpassen, am besten fragt sich der Protagonist nur nach dem einen Baby, und erwartet implizit das die Frau durch den Wecker bereits wach ist.
+
+> Die Spiegelszene muss entfernt werden: Die Selbstbeschreibung kann man anpassen, indem sich der Protagonist fragt, ob das Baby (Geschlecht unbestimmt) die einfachen braunen Augen des Mannes oder die wunderschönen leuchtenden Augen der Ehefrau haben wird. Er hofft auf zweiteres, da er seine Augen zwar immer ruhig aber nie besonderes empfand.
+
 „Morgen, Liebling", murmele ich, die Augen noch geschlossen. „Bist du schon wach?"
 
 Ein tiefes, verdrossenes Grummeln kommt mir entgegen.
@@ -230,19 +244,34 @@ Sie schiebt ihre Hand über meine, dort, wo sie auf dem Bauch ruht.
 
 Ein empörtes Schnauben — doch bevor sie zurückschießen kann, habe ich mich schon aufgesetzt und schäle mich aus der kuschlig warmen Decke. Halb im Schlaf tappe ich ins Bad nebenan.
 
+> Die Spiegelszene muss entfernt werden: Wir passen demnach die hier beschriebene Interaktion an. Die Frau soll sich nach dem Spruch des Mannes teilweise umdrehen und ihren Mann an Vollbart packen und konsequent aber liebevoll runter ziehen, nur um ihn dann zu küssen. Nach dem Kuss verweilen ihre Augen auf den braunen Bart. Er schaut sie derweil unweigerlich mit einem liebevollen Blick an. Er beschreibt wie er spürt, dass sein Gesicht diesen ruhigen verliebten Blick annimmt, ohne das er es willentlich macht. Währenddessen folgt sie den Rändern des Barts nach und erklärt, dass dieser wieder getrimmt werden muss. Er gibt ihr einen Sanften Kuss und springt aus dem kuscheligen Bett, um ins Bad zu gehen. Es geht normal weiter.
+
 Das Licht trifft mich wie ein Vorwurf, viel zu grell für diese Uhrzeit. Ich stütze mich mit beiden Händen aufs Waschbecken, lasse das Wasser laufen, kalt, und erst als ich mir eine Handvoll ins Gesicht klatsche, sehe ich richtig hin.
+
+> Die Spiegelszene muss entfernt werden: Erweitere die Beschreibung so, dass der Protagonist mit seinen großen Händen vorsichtig die zierlichen Schminkutensilien oder sowas zur Seite Legen muss. Eventuell gibt es auch andere Bilder die besser sind. Ziel ist es, zu zeigen dass er große Hände hat, denen man ansieht dass er handwerkliches Arbeiten gewohnt ist, auch wenn er per Beruf ein Lehrer ist.
 
 Der Mann im Spiegel hat schon bessere Tage gehabt — aber er sieht aus wie einer, der angekommen ist. Ich fahre mir mit der Hand durch den Vollbart; er müsste an den Rändern getrimmt werden. Breite Schultern, ein Rücken, der das Tragen gewohnt ist. Dunkle Augen, im Moment müde, aber ruhig. Kein Gesicht, das man sich auf der Straße merkt — aber eines, dem die Leute, glaube ich, vertrauen. Und seit ein paar Monaten liegt etwas darin, das früher nicht da war. Etwas Weiches, das jedes Mal auftaucht, sobald ich an die beiden im Schlafzimmer denke.
 
+> Die Spiegelszene muss entfernt werden: die Spiegelszene ist so Ultra langweilig, dass wir sie komplett entfernen. Stattdessen werden wir sie durch verteilte kleine andere Szenen ersetzten.
+
 Eine Rasur, eine Dusche und eine dringend nötige Erleichterung später greife ich nach denselben Sachen wie immer — dunkel, schlicht, nichts, das auffällt. Ich war noch nie einer, der angesehen werden wollte. Frisch angezogen mache ich mich auf den Weg nach unten.
 
-In der Küche steht meine Frau bereits hinter der Theke. Ein Jogginganzug, bunt als hätte jemand mehrere Farben Eimer drauf geworfen, darüber die helle Schürze mit einer niedlichen rosa Katze, die sich über den großen, runden Bauch spannt, das helle Haar locker hochgesteckt — ein paar Strähnen haben sich gelöst und fallen ihr ins Gesicht. Müde sieht sie aus, erschöpft sogar, aber auf diese ruhige, schöne Art, die mich seit unseren ersten Tag immer wieder umhaut. In der Pfanne brutzeln Eier mit Speck.
+> Die Kleidungsszene muss überarbeitet werden. Der Protagonist soll nicht erklären, dass er gerne unauffällige Kleidung trägt, es muss gezeigt werden. Nach dem fertig machen im Bad soll er in den Umziehzimmer gehen und den Kleiderschrank öffnen, indem nur Kleidung und gedämpften dunklen Farben zu finden sind. 
+> Die Spiegelszene muss entfernt werden: der Protagonist wird ein simples einfarbiges dunkelgraues T-Shirt anziehen. Er wird beschreiben, wie das Shirt an seinen Schultern spannt. Ein Problem mit allen Shirts, dass er trägt, obwohl sie schon maximal groß sind. Er wird sich über das enge Gefühl etwas ärgern, leider finde er keine Shirts mehr, die nicht eng um Brust und Schultern sind. Damit soll angedeutet werden, wie durchtrainiert er ist.
+
+In der Küche steht meine Frau bereits hinter der Theke. Ein Jogginganzug, bunt, als hätte jemand mehrere Eimer Farben drauf geworfen, darüber die helle Schürze mit einer niedlichen rosa Katze, die sich über den großen, runden Bauch spannt, das helle Haar locker hochgesteckt — ein paar Strähnen haben sich gelöst und fallen ihr ins Gesicht. Müde sieht sie aus, erschöpft sogar, aber auf diese ruhige, schöne Art, die mich seit unserem ersten Tag immer wieder umhaut. In der Pfanne brutzeln Eier mit Speck.
+
+> An dieser Stelle kann man einbinden, dass es nicht nur "der erste Tag" ist, dass können wir erweitern um die Information, dass die beiden sich während des Studiums kennen gelernt haben, indem wir z.B. sagen "die mich seit unserer ersten Begegnung auf der Studentenparty immer wieder umhaut."
 
 Auf dem stummen Fernseher daneben brennt ein Gebäude. Über das Bild läuft in großen Buchstaben:
 
 **BREAKING NEWS: FLÜCHTLINGSLAGER UNTER …**
 
 Ich hole den Orangensaft aus dem Kühlschrank und fülle zwei Gläser. Das eine trinke ich gleich leer, das andere stelle ich neben den Herd. Dann trete ich hinter sie, lege die Arme um sie — vorsichtig, des Bauchs wegen — und küsse ihre Wange. Pfirsich, jetzt vermischt mit Speck und Orangen. Und eine leichte neue Note von Kräutern.
+
+> Die Spiegelszene muss entfernt werden: In dieser Szene soll sich die Ehefrau etwas zurücklehnen in die Arme und die Brust ihres Mannes. Die Beschreibung soll klar machen, dass sie etwas bis zum Schlüsselbein kommt. Das soll die größe des Protagonisten zeigen. Sie soll ihren Kopf an seine Brust lehnen, während sie in der Pfanne arbeitet und den Speck zur Seite schiebt. Es soll so beschrieben werden, dass klar wird, dass sie ihm zum einen vertraut, und zum anderen - und viel wichtiger - das er eine Zuverlässige Person ist, der man vertrauen kann. Die Worte sollen nicht genannt werden, aber die Beschreibung soll es dem Leser bewusst machen.
+
+> "Pfirsich, jetzt vermischt mit Speck und Orangen. Und eine leichte neue Note von Kräutern." Überlegen ob aus diesen zwei Sätzen einer gemacht werden soll.
 
 „Riecht gut", sage ich. „Hast du was anderes reingemacht?"
 
@@ -254,6 +283,13 @@ Ich schnuppere über ihre Schulter hinweg. „Am Geruch krieg ich's nicht raus."
 
 „Natürlich weiß ich das." Ich lasse sie los und lehne mich neben ihr an die Theke. „Ich hab heute Morgen schon mit dem Rektor einen Termin ausgemacht — ich kläre, wer den Nachmittag für mich übernimmt." Ich sehe sie an, ganz ernst jetzt. „Ich verpasse den Termin auf keinen Fall."
 
+### Anmerkungen
+
+siehe Anmerkungen im Text.
+
+## 5. Entwurf
+
+TODO
 ### Anmerkungen
 
 TODO

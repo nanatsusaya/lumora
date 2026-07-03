@@ -9,6 +9,24 @@ tags:
 ---
 # Part I - Kapitel 02
 
+## Grober Inhalt
+
+Der Leser wird in sehr groben Zügen in das Kern-Problem Lumoras eingeführt und erlebt, welche Aktionen zu den Geschehnissen der Story führt.
+
+- Auftretende Personen:
+	- Person 1: eine bisher unbestimmte Göttin
+	- Person 2: [[Strippenzieher-Gott]]
+	- Person 3: [[Elværi-Göttin]]
+	- Person 4: [[Raum-Zeit-Gott]]
+- Person eins bis drei erkennen, dass sich die Gesellschaft Lumoras langsam auf ein technologisches Niveau bewegt, dass sie dazu in der Lage sind, den kompletten Planeten zu zerstören. Das wird weniger als 500 Jahre dauern. Gleichzeitig entstehen zwischen den Gesellschaften immer mehr Konflikte. Es ist wahrscheinlich, dass Lumora innerhalb von 1.000 Jahre vernichtet wird
+- Die Götter möchten das verhindern und die Völker Lumoras auf einen friedlichen Weg führen, die [[Die Drei Regeln|drei Regeln]] verhindern das aber.
+- Der [[Ursprungsgott]] wird die Regeln aber nicht anpassen, auch nach wiederholten bitten der Göttinnen.
+- Sie brauchen eine Lösung, wie sie Lumora retten können. Sie treffen sich außerhalb des Einflussbereiches des Ursprungsgott um ihre Optionen zu besprechen und kommen auf die Idee, den [[Raum-Zeit-Gott]] um Hilfe zu bitten.
+- Sie bewegen sich in dessen Domaine, nahe Lumora auf einem dessen andere Monde.
+- Dieser erkennt das Problem, nachdem die Göttinnen ihn darauf aufmerksam gemacht haben. Das Problem ist, dass der Untergang Lumoras faktisch unausweichlich ist.
+- Er kommt auf die Idee, den aktuellen Zustand zu ändern, indem er einen Bewusstsein einer anderen technologisch fortgeschritteneren Zivilisation, welche vergleichbare Probleme hat, nach Lumora zu bringen. Gezielt gelenkt, könnte diese Person durch Eigenmotivation den Untergang Lumoras verhindern.
+- Er plant diese Person als Elværi zu erwecken. Dafür nutzt er die Hilfe der [[Elværi-Göttin]].
+
 ## 1. Entwurf
 
 Drei Personen verweilen eng beieinander und reden leise miteinander.
@@ -346,6 +364,8 @@ Die Dritte schwieg lange. Der Hauch von Wachstum um sie herum wurde für einen M
 
 So machten sie sich auf zu einem Ort, den keine von ihnen kannte.
 
+> An dieser Stelle soll in sehr abstrakter Art beschrieben werden, wie die Göttinnen sich wieder dem Zentrum des Lumora Sonnensystems nähern. Dabei soll hier explizit auf den orangenen [[Sonnensystem#Aezion — der Zentralstern|Aezion]] Stern im Zentrum des Sonnensystems Bezug genommen werden. "Wir nähern uns dem warmen orangenen Licht" oder so. Es soll indirekt Bezug auf den Orangensaft aus dem vorherigen Kapitel Bezug nehmen und vor allem auf das brennende Haus im Fernseher, dass der Protagonist ignoriert. Der Name des Sterns soll aber nie genannt werden. Es soll nur dessen Licht und dessen angenehme Auswirkungen beschrieben werde.
+
 Schon beim Näherkommen war zu spüren, dass hier nichts dem folgte, was sein sollte. Der Ort hatte kein Innen und kein Außen, an das man sich halten konnte. Was wie ein Raum wirkte, war keiner. Die Schatten lagen tiefer, als Schatten liegen dürfen. Jede Regung hallte verkehrt nach, zeitversetzt, als geschähe das Echo, bevor die Bewegung getan war. Und über allem die Empfindung, beobachtet zu werden — nicht von einem Blick, sondern von jedem Punkt zugleich.
 
 Die Zweite richtete das Wort an den Ort selbst.
@@ -442,5 +462,13 @@ Und das letzte Licht wich aus den Rändern.
 
 ### Anmerkung
 
+- siehe Anmerkungen im Text
 - Der RZG nutzt keine Sonderzeichen, wie Fragezeichen oder Ausrufezeichen. Das braucht er nicht. Was er sagt war, ist und hat zu sein. Daher sind alle seine Worte schlichte Fakten.
 - Im weitern Verlauf vom Part I der Story wird ein Avatar des RZG auf der Erde erscheinen und mit unserem Protagonisten als sein "neuer Kollege" interagieren. Er wird in praktisch allen belangen Menschlich wirken. Bis auf die Tatsache: er verwendet keine Sonderzeichen. Nie. Damit kann dem aufmerksamen Leser bereits früh klar werden, dass es zwischen dem seltsamen mächtigen Ding aus Kapitel zwei und dem "neue Kollege" eine Verbindung gibt.
+
+## 4. Entwurf
+
+TODO
+### Anmerkungen
+
+TODO

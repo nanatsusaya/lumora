@@ -22,6 +22,12 @@ Aezion ist ein **gelber Zwerg** vom sonnenähnlichen Typ (Spektralklasse G). In 
 
 > *Anmerkung (Entstehung):* Der Ursprungsgott traf auf ein bereits weitgehend fertiges, stabiles System — er griff gestaltend ein, schuf es aber nicht aus dem Nichts. Aezions Stabilität ist eine Vorbedingung dieses Eingriffs, kein Werk des Gottes.
 
+```
+TODO:
+Wir ändern Aezion zu einem orangen Stern. Das passt zu Kapitel 1 & 2 in Part I.
+Die Folgen müssen besprochen werden.
+```
+
 ### Innerer Gürtel — Steinplaneten
 
 #### Tharion
