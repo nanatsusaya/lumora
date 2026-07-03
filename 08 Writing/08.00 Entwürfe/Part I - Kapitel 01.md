@@ -400,7 +400,11 @@ Sie schiebt ihre Hand über meine, dort, wo sie auf dem Bauch ruht.
 
 Mit einem empörten Schnauben dreht sie sich halb zu mir um, packt meinen Bart und zieht mich konsequent daran zu sich herunter. „Idiot!" höre ich und erhalte dann einen liebevollen Kuss. Ihre Augen verweilen danach auf den meinen. Ich spüre, wie mein Gesicht unweigerlich diesen verliebten Ausdruck annimmt.
 
+> ChatGPT: `„Ich spüre, wie mein Gesicht unweigerlich diesen verliebten Ausdruck annimmt.“ Das ist ziemlich direkt und etwas unbeholfen. Der Leser hat den verliebten Ausdruck durch die Handlung längst verstanden. Hier wäre weniger stärker.` Eventuell kann man die zwei Sätze nach dem Kuss streichen?
+
 Mit ihren Augen und einem Finger fährt sie über die Ränder des Barts. „Der muss wieder getrimmt werden."
+
+> ChatGPT :`„Mit ihren Augen und einem Finger fährt sie über die Ränder des Barts“ ist schief. Augen können nicht wirklich über den Bart fahren. Gemeint ist wahrscheinlich: _Ihr Blick und ihr Finger wandern über die Ränder meines Barts._ So wie es dasteht, stolpere ich.` Blick ist besser.
 
 Ich gebe ihr einen sanften Kuss auf die Stirn und schäle mich aus der angenehm warmen Decke. Halb im Schlaf tappe ich ins Bad nebenan.
 
@@ -408,7 +412,11 @@ Das Licht trifft mich wie ein Vorwurf, viel zu grell für diese Uhrzeit. Auf mei
 
 Eine Bartpflege, eine Dusche und eine dringend nötige Erleichterung später öffne ich den Kleiderschrank. Dunkelgrau, Dunkelblau, Schwarz, ein wenig gedecktes Grün — meine Fächer sehen aus, als hätte jemand den Farben das Licht abgedreht. Ich ziehe das dunkelgraue T-Shirt heraus. Es spannt über Brust und Schultern, wie sie alle spannen, obwohl ich längst nur noch die größte Größe kaufe. Ich ärgere mich kurz — enger Stoff, den ganzen Tag —, aber es gibt schlicht keine Shirts mehr, die obenrum locker sitzen. Frisch angezogen mache ich mich auf den Weg nach unten.
 
+> ChatGPT :`„Eine Bartpflege, eine Dusche und eine dringend nötige Erleichterung später“ klingt etwas künstlich. „Erleichterung“ als Umschreibung fürs Pinkeln wirkt hier fast komisch, aber nicht unbedingt auf die gewünschte Weise.` Ehrlich gesagt finde ich das ein Guter Satz, aber gäbe es bessere Alternativen?
+
 In der Küche steht meine Frau bereits hinter der Theke. Ein Jogginganzug, bunt, als hätte jemand mehrere Eimer Farbe darauf geworfen, darüber die helle Schürze mit der niedlichen rosa Katze, die sich über den großen, runden Bauch spannt, das blonde Haar locker hochgesteckt — ein paar Strähnen haben sich gelöst und fallen ihr ins Gesicht. Müde sieht sie aus, erschöpft sogar, aber auf diese ruhige, schöne Art, die mich seit unserer ersten Begegnung auf der Studentenparty immer wieder umhaut. In der Pfanne brutzeln Eier mit Speck.
+
+> ChatGPT: `"„Müde sieht sie aus, erschöpft sogar, aber auf diese ruhige, schöne Art, die mich seit unserer ersten Begegnung auf der Studentenparty immer wieder umhaut.“" Das ist inhaltlich okay, aber etwas lang und erklärend. „Seit unserer ersten Begegnung auf der Studentenparty“ wirkt wie eingefügte Hintergrundinformation. Es unterbricht den Moment.` Tatsächlich will ich die Information, dass der Protagonist einen Universitätsabschluss hat und seine Ehefrau seit der Uni kennt hier indirekt einbinden. Aber eventuell kann man es eleganter machen?!
 
 Auf dem stummen Fernseher daneben brennt ein Gebäude. Über das Bild läuft in großen Buchstaben:
 
@@ -425,3 +433,8 @@ Ich schnuppere über ihre Schulter hinweg. „Am Geruch krieg ich's nicht raus."
 „Dann vielleicht, wenn du's probierst." Sie rührt in der Pfanne. „Du weißt noch, dass wir in drei Tagen nachmittags den Termin beim Arzt haben?"
 
 „Natürlich weiß ich das." Ich lasse sie los und lehne mich neben ihr an die Theke. „Ich hab heute Morgen schon mit dem Rektor einen Termin ausgemacht — ich kläre, wer den Nachmittag für mich übernimmt." Ich sehe sie an, ganz ernst jetzt. „Ich verpasse den Termin auf keinen Fall."
+
+### Anmerkungen
+
+- ChatGPT: `Der Dialog ist grundsätzlich natürlich und sympathisch. Die Stelle mit „siebenmal auf dem Klo“ ist gut, weil sie die Schwangerschaft konkret und nicht kitschig macht. Auch „Die Hölle auf Erden“ / „Idiot!“ funktioniert. Aber: Der Dialog ist fast ausschließlich harmonisch. Selbst die kleinen Konflikte sind süß. Dadurch fehlt etwas Reibung. Eine winzige echte Unstimmigkeit, Müdigkeit, Gereiztheit oder Sorge könnte die Figuren echter machen. Gerade Schwangerschaft ist nicht nur niedlich-erschöpft, sondern oft auch körperlich nervig, emotional angespannt, unromantisch. Ein kleiner rauerer Moment würde der Szene guttun.` ich bin mit in Hinblick auf die restlichen Kapitel nicht sicher, ob es hier bereits Konflikte braucht. Diese kommen später.
+

@@ -468,7 +468,156 @@ Und das letzte Licht wich aus den Rändern.
 
 ## 4. Entwurf
 
-TODO
+Die Drei kamen an der Grenze zusammen, an der die Ordnung ihren Halt verlor.
+
+Keine von ihnen trug Gestalt im eigentlichen Sinn. Und doch verriet jede sich auf ihre Weise.
+
+Um die Erste herum wurde die Welt unsicher. Das Licht zögerte, als wüsste es nicht, ob es bleiben sollte. Farben verloren am Saum ihrer Gegenwart ihren Halt, und wo sie verweilte, schien die Wirklichkeit nur noch eine Möglichkeit unter vielen zu sein — eine, die jeden Moment widerrufen werden konnte.
+
+Die Zweite brachte das Gegenteil. Wo sie war, fügte sich, was vorher lose gewesen war. Linien fanden zueinander, Dinge richteten sich aus, als folgten sie einem Muster, das nur sie überblickte.
+
+Die Dritte sagte zunächst nichts. Um sie lag ein leiser Hauch von Wachstum — Erde nach Regen, das Drängen kleinen Grüns, das sich dem Licht entgegenstrecken wollte. Hier jedoch, an diesem Rand, war dieses Wachsen gedämpft, fast erstickt. Und gerade daran erkannte sie, wie unwirklich dieser Ort war.
+
+Die Erste brach das Schweigen. Ihre Worte kamen nicht im Ganzen.
+
+„Er hat — er hat nicht gehört. Auf nichts. Nicht auf uns. Auf niemanden. Nicht auf — Ich weiß nicht mehr, ich weiß nicht, was uns noch bleibt."
+
+„Es gibt Einen, mit dem wir noch nicht gesprochen haben." Die Zweite sprach ruhig, vollständig. Um sie zog sich das Lose noch enger zusammen.
+
+Die Dritte wandte sich ihr zu. Sie wog ihre Worte, bevor sie antwortete.
+
+„Du weißt, was du da vorschlägst." Es war keine Frage.
+
+Bei der Ersten wurde das Licht dünner.
+
+„Den — nein! Nein, nein! Den nicht! Den nicht! Niemand geht zu — niemand kommt von dort —"
+
+„Mehr als anklopfen und fragen können wir nicht", sagte die Zweite, und nichts an ihr veränderte sich dabei. „Es nimmt uns nichts, was wir nicht ohnehin verlieren."
+
+Die Dritte schwieg lange. Der Hauch von Wachstum um sie herum wurde für einen Moment kräftiger, als ringe etwas in ihr.
+
+„Es nimmt uns vielleicht mehr, als du berechnest", sagte sie schließlich. „Aber uns bleibt nichts anderes."
+
+So machten sie sich auf zu einem Ort, den keine von ihnen kannte.
+
+Ihr Weg führte sie zurück ins Innere, dem warmen, orangenen Leuchten entgegen, das dort seit jeher alles trug. Es legte sich sanft über die drei, wie es sich über alles legte, was in ihm zuhause war. Bei der Ersten ließ das Zerfasern nach; die Farben an ihrem Saum fanden zaghaft wieder Halt. Um die Zweite mussten sich die Linien kaum noch mühen — hier war das meiste längst an seinem Ort. Und um die Dritte regte sich das Grün von selbst, ungefragt, wie etwas, das unter diesem Licht nie etwas anderes gelernt hatte als zu wachsen.
+
+Nichts an diesem Leuchten brannte. Es wärmte nur.
+
+Doch sie folgten ihm nicht bis nach Hause. Ihr Weg bog vorher ab — zu einem Ort, den das Leuchten zwar erreichte, aber nicht berührte.
+
+Schon beim Näherkommen war zu spüren, dass hier nichts dem folgte, was sein sollte. Der Ort hatte kein Innen und kein Außen, an das man sich halten konnte. Was wie ein Raum wirkte, war keiner. Die Schatten lagen tiefer, als Schatten liegen dürfen. Jede Regung hallte verkehrt nach, zeitversetzt, als geschähe das Echo, bevor die Bewegung getan war. Und über allem die Empfindung, beobachtet zu werden — nicht von einem Blick, sondern von jedem Punkt zugleich.
+
+Die Zweite richtete das Wort an den Ort selbst.
+
+„Wir bitten um ein Gehör. Wir glauben, du wünschst dir so wenig wie wir, dass das vergeht, was wir Heimat nennen."
+
+Der gesamte Ort bebte.
+
+„Gäste."
+
+Die Stimme kam nicht von vorn. Sie kam von überall, und sie kam von weit entferntem Damals.
+
+„Es ist lange her. Es wird lange her sein. Dass die von hier vergaßen, was mit den Ungebetenen geschieht."
+
+Bei der Ersten begann die Wirklichkeit zu zerfasern. Die Dritte trat einen Schritt in dieses Zerfasern hinein, als wollte sie es decken, und sprach vorsichtiger.
+
+„Wir haben es nicht vergessen. Wir kommen trotzdem. Allein das sollte dir sagen, wie weit es gekommen ist."
+
+„Vergehen."
+
+Ein gewaltiges Brummen rollte lange durch das, was kein Raum war, so tief, dass die Linien um die Zweite zu schwingen begannen.
+
+„Wenn — wenn niemand etwas tut", setzte die Erste an, „dann —"
+
+„Schweig."
+
+Das Wort kam aus aller Zeit zugleich. Bei der Ersten erlosch beinahe, was noch von ihr Bestand hatte. Um die Zweite hielt die Ordnung mit Mühe. Die Dritte wurde vollkommen still, und mit ihr verstummte das letzte Grün.
+
+„Ich werde es gesehen haben."
+
+Und der Ort krümmte sich.
+
+Er dehnte sich und faltete sich, riss auseinander und fügte sich neu — entlang von Linien, die in jede Richtung führten, in Richtungen, die es nicht gab. Für einen Lidschlag, der keiner war, lagen alle Wege offen, die von hier fortführten: ungezählte Fäden, jeder ein anderes Werden, jeder ein anderes Ende.
+
+Die drei sahen hinein, soweit sie es vermochten. Sie suchten ein Muster. Einen Sinn. Einen einzigen Faden, der anders endete als die übrigen.
+
+Sie fanden keinen.
+
+Dann schnellte alles zurück, und es war wieder still.
+
+„Ich verstehe."
+
+Die Stimme klang nun tiefer. Aus größerer Ferne.
+
+„Ich bin jeder Linie gefolgt, die von hier fortführt. Bis an ihr Ende." Eine Pause, die durch mehrere Zeiten zugleich ging. „Sie enden gleich."
+
+Um die Zweite ordnete sich das Lose mit einem Mal heller, straffer.
+
+„Dann hilf uns, IHN zu überzeugen!", sagte sie. „Seine Regeln —"
+
+„Sinnlos."
+
+Das Wort kam aus fernster Zeit und erschütterte den Ort bis in seine Falten.
+
+„Als hätten sich die Regeln je geändert. Als würden sie es je."
+
+Die drei verstummten.
+
+„Nein", sagte die Stimme schließlich. „Ich habe eine andere Lösung."
+
+Bei der Ersten flackerte etwas auf, das beinahe Hoffnung war.
+
+„Eine andere — könnten wir vielleicht —"
+
+„Ihr dürft gehen."
+
+Der Ort bebte bei jedem Wort.
+
+„Ihr habt euren Teil getan."
+
+Die Linien um die Zweite lösten sich, ungewiss, ob sie geben oder fragen sollte. Bei der Ersten gewann die Wirklichkeit zaghaft an Festigkeit zurück. Die Dritte wandte sich als Letzte ab. Gemeinsam machten sie sich daran, diesen Ort zu verlassen, der keiner war.
+
+„Stopp."
+
+Das Wort traf sie wie ein Schlag aus jeder Richtung. Alle drei hielten inne.
+
+„Du."
+
+Die Dritte wusste sofort, dass sie gemeint war. Um sie regte sich das Grün, vorsichtig, wie etwas, das nicht weiß, ob es wachsen darf.
+
+„Ja?"
+
+Ein Grollen zog sich durch das Kontinuum, durch Damals und Dann zugleich.
+
+„Von euch dreien warst du das leiseste Geräusch. Du hast geschwiegen, wo Schweigen das Richtige war."
+
+Der Ort verdunkelte sich einen Atemzug lang.
+
+„Du bleibst."
+
+Und das letzte Licht wich aus den Rändern.
+
+„Für dich habe ich eine Aufgabe. Eine, die in keiner meiner Linien steht."
+
 ### Anmerkungen
 
-TODO
+Neu gegenüber dem 3. Entwurf:
+
+* **Aezion-Passage eingefügt** (nach „So machten sie sich auf …"): Die Rückkehr ins Innere des Systems als warmes, orangenes Leuchten — der Name des Sterns fällt nie. Die drei Erkennungsmerkmale antworten auf das Zuhause (das Zerfasern lässt nach, die Linien ruhen, das Grün wächst ungefragt) — dieselbe Technik wie bei der Einführung der Göttinnen: Heimat wird über ihre Wirkung gezeigt, nicht beschrieben. Das zahlt zugleich die Zeile „was wir Heimat nennen" ein.
+* **„Nichts an diesem Leuchten brannte. Es wärmte nur."** — die indirekte Brücke zu Kapitel 1: dasselbe Orange wie Saft und Flammen, aber als gütige Umkehrung des brennenden Gebäudes. Beim ersten Lesen Atmosphäre, beim zweiten Lesen Echo.
+* **Übergang zum RZG-Ort:** „… den das Leuchten zwar erreichte, aber nicht berührte." — bereitet den Kontrast zu „hier folgte nichts dem, was sein sollte" vor, ohne ihn zu erklären.
+* Grammatik-Fixes: „an **der** die Ordnung ihren Halt verlor" (Grenze ist feminin); „das Drängen kleinen Grüns, das sich … entgegenstrecken wollte" (Kongruenz).
+
+```
+OFFENE PUNKTE:
+- Kanon-Konflikt: Sonnensystem.md definiert Aezion aktuell als GELBEN Zwerg
+  (inkl. Hinweis, dass das Fremdartige am Himmel von Orthyros stammt, nicht
+  von der Sonne). Das dortige TODO („Aezion zu orange ändern, Folgen
+  besprechen") muss entschieden werden: K-Zwerg (orange) vs. Folgen für
+  Habitabilitäts-Begründung, Lichtstimmung und Orthyros-Doppelbelichtung.
+- Aus der früheren Diskussion: Der Einstiegssatz („Die Drei kamen an der
+  Grenze zusammen …") bleibt ohne konkreten Anker — das Orange kommt erst in
+  der Kapitelmitte. Früher andeuten oder bewusst kalt lassen?
+```
+

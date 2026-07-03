@@ -10,7 +10,10 @@ Der Leser soll etwas aus der Vergangenheit des Protagonisten lernen und einen Ei
 
  - Auftretende Personen:
 	 - [[Protagonist]]
+	 - Nachbar
 - Protagonist verlässt das Haus, sieht die Umgebung, Beschreibung einer typische amerikanische Vorstadt.
+- Der Nachbar (Arbeitsname: #nachbar) spricht den Protagonist direkt an. Der Protagonist findet diesen etwas aufdringlich, aber da er Florist ist und dem Protagonist regelmäßig Blumen für das Grab der seiner Mutter hier direkt zuhause verkauft, findet er es akzeptrable.
+- Der Nachbar fragt nach dem Wohlergehen der Ehefrau, ob die letzten Blumen zu dem Grab passten (bestimmter Blumentyp muss erwähnt werden, hier eine Blume aus der Blumensprache wählen die für Familie oder so steht), und ein paar weitere Fragen die direkt im text gestellt werden sollten, bei dem der Protagonist zuerst im Text antwortet und dann in seinen Gedanken die Beziehung zwischen Nachbar und Protagonist erklärt.
 - Protagonist fährt zum naheliegenden katholischen Friedhof, kauft in der Nähe einen Blumenstrauß
 - Protagonist geht zum Grab seiner Mutter, die Gefühle sind weniger traurig, sondern mehr nostalgisch
 - Protagonist erinnert sich, wie er von seiner Mutter alleine aufgezogen, der Vater die Familie verlass als er selbst noch ein Baby war. Er schwört sich, so ein Vater nie zu werden und seine Frau und sein Kind zu schätzen und zu beschützen. Auch es sein Kind ihm sicherlich früher oder später mal schwer machen wird
