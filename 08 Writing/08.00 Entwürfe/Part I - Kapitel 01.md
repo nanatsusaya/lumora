@@ -289,7 +289,139 @@ siehe Anmerkungen im Text.
 
 ## 5. Entwurf
 
-TODO
+Tröt. Tröt. Tröt.
+
+Der Wecker kreischt, schrill und gnadenlos. Eine kräftige Hand fällt zielgenau darauf, und sofort kehrt wieder Stille ins Schlafzimmer ein.
+
+Ich drehe mich zurück zu meiner Frau. Ihre Haare duften nach Pfirsich. Ruhig und ein wenig verschlafen, so wie jeden Morgen, lege ich meine Hand auf die Rundung ihres Bauchs — vorsichtig, als könnte ich mit den Fingerspitzen hören, ob unser Kind schon wach ist. Ob es einmal ihre Augen bekommt? Dieses wache, leuchtende Blau — oder mein Braun, ruhig, aber eben nur Braun. Ich hoffe auf ihres.
+
+> "Ich hoffe auf ihres." kann ersatzlos gestrichen werden.
+
+„Morgen, Liebling", murmele ich, die Augen noch geschlossen. „Bist du schon wach?"
+
+Ein tiefes, verdrossenes Grummeln kommt mir entgegen.
+
+„Mmmh … ich war heute Nacht **siebenmal** auf dem Klo."
+
+Siebenmal. Ich verkneife mir das Grinsen und, schwerer noch, den Kommentar, der mir auf der Zunge liegt.
+
+„Du Arme", sage ich stattdessen und ziehe sie ein Stück fester an mich, ein Kuss auf die Wange. „Bleib ruhig liegen. Ich mach Frühstück."
+
+Sie schiebt ihre Hand über meine, dort, wo sie auf dem Bauch ruht.
+
+„Nein, schon gut. Mach du dich fertig. Ich kann eh nicht mehr schlafen, so müde wie ich bin." Ein schwerer Seufzer entweicht ihr. „Wie soll das erst werden, wenn das Baby da ist?"
+
+„Wie wohl." Ich öffne die Augen und grinse sie frech an. „Die Hölle auf Erden."
+
+Ein empörtes Schnauben. Dann dreht sie sich halb zu mir um, packt meinen Vollbart und zieht mich daran zu sich herunter — konsequent, aber liebevoll — nur um mich zu küssen. Danach bleiben ihre Augen an dem Bart hängen. Ich spüre, wie mein Gesicht diesen ruhigen, verliebten Ausdruck annimmt; ich setze ihn nie bewusst auf, er ist einfach da. Mit dem Finger fährt sie die Ränder des Barts nach, bis hinunter zum Hals.
+
+> Besser: Mit einem empörten schnauben dreht sie sich halb zu mir um, packt meinen Bart und zieht mich konsequent daran zu sich herunter. "Idiot!" höre ich und erhalte dann einen liebevollen Kuss. Ihre Augen verweilen danach auf die meinen. Ich spüre, wie mein Gesicht unweigerlich diesen verliebten Ausdruck annimmt. Mit ihren Augen und einem Finger fährt sie über die Ränder des Barts.
+
+„Der muss wieder getrimmt werden."
+
+„Ich weiß." Ich gebe ihr einen sanften Kuss und schäle mich aus der kuschlig warmen Decke. Halb im Schlaf tappe ich ins Bad nebenan.
+
+Das Licht trifft mich wie ein Vorwurf, viel zu grell für diese Uhrzeit. Auf meiner Hälfte des Waschbeckens liegt ihre Wimpernzange. Ich hebe das filigrane Ding mit zwei Fingern an und lege es vorsichtig auf ihre Seite zurück; in meinen Händen — groß, schwer, eher Werkbank als Klassenzimmer — wirkt es jedes Mal, als könnte es schon vom Hinsehen zerbrechen. Dann lasse ich das Wasser laufen, kalt, und klatsche mir eine Handvoll ins Gesicht.
+
+> Wow das ist echt schlecht! 
+> Besser:  Ich hebe das filigrane Ding mit zwei Fingern an. Zum Glück bin ich es durch die Arbeit gewohnt so zierliche Dinge zu greifen. Mein klobigen, großen Hände waren schon immer besser für die Werkbank gemacht.
+
+Eine Bartpflege, eine Dusche und eine dringend nötige Erleichterung später öffne ich den Kleiderschrank. Dunkelgrau, Dunkelblau, Schwarz, ein wenig gedecktes Grün — meine Fächer sehen aus, als hätte jemand den Farben das Licht abgedreht. Ich ziehe das dunkelgraue T-Shirt heraus. Es spannt über Brust und Schultern, wie sie alle spannen, obwohl ich längst nur noch die größte Größe kaufe. Ich ärgere mich kurz — enger Stoff, den ganzen Tag —, aber es gibt schlicht keine Shirts mehr, die an mir locker sitzen. Frisch angezogen mache ich mich auf den Weg nach unten.
+
+> "die an mir locker sitzen". Besser: "die obenrum an mir locker sitzen"
+
+In der Küche steht meine Frau bereits hinter der Theke. Ein Jogginganzug, bunt, als hätte jemand mehrere Eimer Farbe darauf geworfen, darüber die helle Schürze mit der niedlichen rosa Katze, die sich über den großen, runden Bauch spannt, das blonde Haar locker hochgesteckt — ein paar Strähnen haben sich gelöst und fallen ihr ins Gesicht. Müde sieht sie aus, erschöpft sogar, aber auf diese ruhige, schöne Art, die mich seit unserer ersten Begegnung auf der Studentenparty immer wieder umhaut. In der Pfanne brutzeln Eier mit Speck.
+
+Auf dem stummen Fernseher daneben brennt ein Gebäude. Über das Bild läuft in großen Buchstaben:
+
+**BREAKING NEWS: FLÜCHTLINGSLAGER UNTER …**
+
+Ich hole den Orangensaft aus dem Kühlschrank und fülle zwei Gläser. Das eine trinke ich gleich leer, das andere stelle ich neben den Herd. Dann trete ich hinter sie und lege die Arme um sie — vorsichtig, des Bauchs wegen. Sie lehnt sich zurück an mich, ohne die Pfanne aus den Augen zu lassen, und ihr Kopf findet die Stelle unter meinem Schlüsselbein, als wäre sie dafür gemacht. Einen Moment ruht ihr ganzes Gewicht an mir, während sie seelenruhig den Speck zur Seite schiebt. Ich küsse ihr Haar. Pfirsich, jetzt vermischt mit Speck und Orangen — und einer leichten neuen Note von Kräutern.
+
+> "als wäre sie dafür gemacht. " das sollten wir ändern zu etwas wie "wie so es so häufig macht" oder so. Es soll andeuten, dass sie sich gerne auf ihn verlässt und es schon lange macht.
+
+„Riecht gut", sage ich. „Hast du was anderes reingemacht?"
+
+„Jap." Ein kurzer Seitenblick. „Rate."
+
+Ich schnuppere über ihre Schulter hinweg. „Am Geruch krieg ich's nicht raus."
+
+„Dann vielleicht, wenn du's probierst." Sie rührt in der Pfanne. „Du weißt noch, dass wir in drei Tagen nachmittags den Termin beim Arzt haben?"
+
+„Natürlich weiß ich das." Ich lasse sie los und lehne mich neben ihr an die Theke. „Ich hab heute Morgen schon mit dem Rektor einen Termin ausgemacht — ich kläre, wer den Nachmittag für mich übernimmt." Ich sehe sie an, ganz ernst jetzt. „Ich verpasse den Termin auf keinen Fall."
+
 ### Anmerkungen
 
-TODO
+Umgesetzt aus den Kommentaren des 4. Entwurfs:
+
+* **„die beiden"-Fix:** Er horcht nur nach dem Kind; dass die Frau durch den Wecker wach ist, bleibt implizit.
+* **Augen-Spekulation statt Spiegel-Selbstbeschreibung:** Im Bett, bei der Hand auf dem Bauch. Festgelegt: Die Ehefrau hat blaue Augen und blonde Haare (→ [[Ehefrau]]); seine Augen sind ruhiges, unauffälliges Braun. Er hofft auf ihre.
+* **Bart-Griff-Szene:** Sie zieht ihn am Vollbart herunter und küsst ihn; ihr Blick und Finger an den Barträndern ersetzen die Spiegel-Bartbeschreibung. Sein unwillkürlicher verliebter Blick ersetzt das „etwas Weiches im Gesicht".
+* **Spiegelszene komplett entfernt.** Große Hände über die Wimpernzange gezeigt („eher Werkbank als Klassenzimmer" — handwerklich geübt trotz Lehrerberuf).
+* **„Rasur" → „Bartpflege"** (Vollbart bleibt kanonisch, wegen Denkerpose in K03 und Bart-Griff).
+* **Kleiderschrank-Szene:** Gedämpfte Farben gezeigt statt erklärt; der Satz „Ich war noch nie einer, der angesehen werden wollte" ist gestrichen. Dunkelgraues Shirt spannt über Brust und Schultern → Statur gezeigt.
+* **Anlehn-Szene in der Küche:** Kopf unter dem Schlüsselbein (Größe), ihr ganzes Gewicht an ihm, während sie ruhig weiterarbeitet (Vertrauen/Zuverlässigkeit, ohne die Worte zu nennen). Wangenkuss dadurch zu Haarkuss — hält auch den Pfirsich konsistent bei den Haaren.
+* **Geruchs-Fragmente verbunden:** „Pfirsich, jetzt vermischt mit Speck und Orangen — und einer leichten neuen Note von Kräutern." Ein Fragmentschlag statt zwei; die Kräuter behalten über den Gedankenstrich eigenes Gewicht.
+* **„Diesen Geruch nie vergessen" bleibt bewusst draußen** — der Geruch kehrt in Part I noch ein- bis zweimal wieder und später auf Lumora; der Schlusssatz trägt das Foreshadowing allein.
+* Kleinkram: „mehrere Eimer Farbe", Studentenparty-Erweiterung, „das blonde Haar" statt „das helle Haar".
+
+```
+OFFENE PUNKTE:
+- „Bist du schon wach?" trotz Wecker beibehalten (als spielerisches Morgenritual)
+  oder anpassen? -> ja
+- Fragment-Verbindung mit Gedankenstrich okay, oder Kräuter doch wieder als
+  eigener Satz? -> passt so
+- Ehefrau-Notiz um blaue Augen ergänzen (steht dort noch nicht).
+```
+
+## 6. Entwurf
+
+Tröt. Tröt. Tröt.
+
+Der Wecker kreischt, schrill und gnadenlos. Eine kräftige Hand fällt zielgenau darauf, und sofort kehrt wieder Stille ins Schlafzimmer ein.
+
+Ich drehe mich zurück zu meiner Frau. Ihre Haare duften nach Pfirsich. Ruhig und ein wenig verschlafen, so wie jeden Morgen, lege ich meine Hand auf die Rundung ihres Bauchs — vorsichtig, als könnte ich mit den Fingerspitzen hören, ob unser Kind schon wach ist. Ob es einmal ihre Augen bekommt? Dieses wache, leuchtende Blau — oder mein Braun, ruhig, aber eben nur Braun.
+
+„Morgen, Liebling", murmele ich, die Augen noch geschlossen. „Bist du schon wach?"
+
+Ein tiefes, verdrossenes Grummeln kommt mir entgegen.
+
+„Mmmh … ich war heute Nacht **siebenmal** auf dem Klo."
+
+Siebenmal. Ich verkneife mir das Grinsen und, schwerer noch, den Kommentar, der mir auf der Zunge liegt.
+
+„Du Arme", sage ich stattdessen und ziehe sie ein Stück fester an mich, ein Kuss auf die Wange. „Bleib ruhig liegen. Ich mach Frühstück."
+
+Sie schiebt ihre Hand über meine, dort, wo sie auf dem Bauch ruht.
+
+„Nein, schon gut. Mach du dich fertig. Ich kann eh nicht mehr schlafen, so müde wie ich bin." Ein schwerer Seufzer entweicht ihr. „Wie soll das erst werden, wenn das Baby da ist?"
+
+„Wie wohl." Ich öffne die Augen und grinse sie frech an. „Die Hölle auf Erden."
+
+Mit einem empörten Schnauben dreht sie sich halb zu mir um, packt meinen Bart und zieht mich konsequent daran zu sich herunter. „Idiot!" höre ich und erhalte dann einen liebevollen Kuss. Ihre Augen verweilen danach auf den meinen. Ich spüre, wie mein Gesicht unweigerlich diesen verliebten Ausdruck annimmt.
+
+Mit ihren Augen und einem Finger fährt sie über die Ränder des Barts. „Der muss wieder getrimmt werden."
+
+Ich gebe ihr einen sanften Kuss auf die Stirn und schäle mich aus der angenehm warmen Decke. Halb im Schlaf tappe ich ins Bad nebenan.
+
+Das Licht trifft mich wie ein Vorwurf, viel zu grell für diese Uhrzeit. Auf meiner Hälfte des Waschbeckens liegt ihre Wimpernzange. Ich lege das filigrane Ding mit zwei Fingern zur Seite. Zum Glück bin ich es durch die Arbeit gewohnt, so zierliche Dinge zu greifen. Meine klobigen, großen Hände waren schon immer besser für die Werkbank gemacht. Dann lasse ich das Wasser laufen, kalt, und klatsche mir eine Handvoll ins Gesicht.
+
+Eine Bartpflege, eine Dusche und eine dringend nötige Erleichterung später öffne ich den Kleiderschrank. Dunkelgrau, Dunkelblau, Schwarz, ein wenig gedecktes Grün — meine Fächer sehen aus, als hätte jemand den Farben das Licht abgedreht. Ich ziehe das dunkelgraue T-Shirt heraus. Es spannt über Brust und Schultern, wie sie alle spannen, obwohl ich längst nur noch die größte Größe kaufe. Ich ärgere mich kurz — enger Stoff, den ganzen Tag —, aber es gibt schlicht keine Shirts mehr, die obenrum locker sitzen. Frisch angezogen mache ich mich auf den Weg nach unten.
+
+In der Küche steht meine Frau bereits hinter der Theke. Ein Jogginganzug, bunt, als hätte jemand mehrere Eimer Farbe darauf geworfen, darüber die helle Schürze mit der niedlichen rosa Katze, die sich über den großen, runden Bauch spannt, das blonde Haar locker hochgesteckt — ein paar Strähnen haben sich gelöst und fallen ihr ins Gesicht. Müde sieht sie aus, erschöpft sogar, aber auf diese ruhige, schöne Art, die mich seit unserer ersten Begegnung auf der Studentenparty immer wieder umhaut. In der Pfanne brutzeln Eier mit Speck.
+
+Auf dem stummen Fernseher daneben brennt ein Gebäude. Über das Bild läuft in großen Buchstaben:
+
+**BREAKING NEWS: FLÜCHTLINGSLAGER UNTER …**
+
+Ich hole den Orangensaft aus dem Kühlschrank und fülle zwei Gläser. Das eine trinke ich gleich leer, das andere stelle ich neben den Herd. Dann trete ich hinter sie und lege die Arme um sie — vorsichtig, des Bauchs wegen. Sie lehnt sich zurück an mich, ohne die Pfanne aus den Augen zu lassen. Wie so häufig legt sie den Kopf an meine Brust; einen Moment ruht ihr ganzes Gewicht an mir, während sie seelenruhig den Speck zur Seite schiebt. Ich küsse ihr Haar. Pfirsich, jetzt vermischt mit Speck und Orangen — und einer leichten neuen Note von Kräutern.
+
+„Riecht gut", sage ich. „Hast du was anderes reingemacht?"
+
+„Jap." Ein kurzer Seitenblick. „Rate."
+
+Ich schnuppere über ihre Schulter hinweg. „Am Geruch krieg ich's nicht raus."
+
+„Dann vielleicht, wenn du's probierst." Sie rührt in der Pfanne. „Du weißt noch, dass wir in drei Tagen nachmittags den Termin beim Arzt haben?"
+
+„Natürlich weiß ich das." Ich lasse sie los und lehne mich neben ihr an die Theke. „Ich hab heute Morgen schon mit dem Rektor einen Termin ausgemacht — ich kläre, wer den Nachmittag für mich übernimmt." Ich sehe sie an, ganz ernst jetzt. „Ich verpasse den Termin auf keinen Fall."

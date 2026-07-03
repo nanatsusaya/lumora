@@ -10,7 +10,7 @@ Der Leser soll etwas aus der Vergangenheit des Protagonisten lernen und einen Ei
 
  - Auftretende Personen:
 	 - [[Protagonist]]
-- Protagonist verlässt das Haus, sieht die Umgebung, Beschreibung einer typische amerkikanische Vorstadt.
+- Protagonist verlässt das Haus, sieht die Umgebung, Beschreibung einer typische amerikanische Vorstadt.
 - Protagonist fährt zum naheliegenden katholischen Friedhof, kauft in der Nähe einen Blumenstrauß
 - Protagonist geht zum Grab seiner Mutter, die Gefühle sind weniger traurig, sondern mehr nostalgisch
 - Protagonist erinnert sich, wie er von seiner Mutter alleine aufgezogen, der Vater die Familie verlass als er selbst noch ein Baby war. Er schwört sich, so ein Vater nie zu werden und seine Frau und sein Kind zu schätzen und zu beschützen. Auch es sein Kind ihm sicherlich früher oder später mal schwer machen wird
