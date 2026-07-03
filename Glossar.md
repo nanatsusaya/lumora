@@ -27,7 +27,7 @@ Zentrale Startseite und zweisprachiges Glossar aller Eigenbegriffe Lumoras. Jede
 	- [[Elværi#Elværi|Elværi]] → Eine der ältesten kulturschaffenden Spezies Lumoras (klassisch: Elfen).
 	- [[Waldelværi#Selbstbezeichnung — Elværi & Elværin|Elværi / Elværin (Selbstbezeichnung)]] → Eigenname des Volks (Elværi) und seiner Sprache (Elværin) in der eigenen Sprache.
 	- [[Elværi-Göttin#Elværi-Göttin|Elværi-Göttin]] → Schöpfergöttin der Elværi, ursprünglich Sterbliche einer anderen Welt.
-	- [[Die Elværi-Mutter#Die Elværi-Mutter|Elværi-Mutter]] → Waldelværi-Mutter des Protagonisten auf Lumora; wohlhabend und aristokratisch.
+	- [[Elværi-Mutter#Die Elværi-Mutter|Elværi-Mutter]] → Waldelværi-Mutter des Protagonisten auf Lumora; wohlhabend und aristokratisch.
 	- [[Der Elværi-Vater#Der Elværi-Vater|Elværi-Vater]] → Waldelværi-Vater des Protagonisten auf Lumora; wohlhabend und aristokratisch.
 	- [[Elværi#Sprache|Elværin (Sprache)]] → Gesungene Sprache der Elværi; angewandte Feinkontrolle Noetischer Energie.
 - **F**
@@ -142,7 +142,7 @@ Zentrale Startseite und zweisprachiges Glossar aller Eigenbegriffe Lumoras. Jede
 	- [[Waldelværi#Selbstbezeichnung — Elværi & Elværin|Elværi (people) / Elværin (language)]] → The people's (Elværi) and language's (Elværin) self-name in their own tongue.
 	- [[Der Elværi-Vater#Der Elværi-Vater|The Elværi Father]] → The protagonist's Forest-Elværi father on Lumora; wealthy and aristocratic.
 	- [[Elværi-Göttin#Elværi-Göttin|Elværi Lady]] → Creator-goddess of the Elværi, originally a mortal from another world.
-	- [[Die Elværi-Mutter#Die Elværi-Mutter|The Elværi Mother]] → The protagonist's Forest-Elværi mother on Lumora; wealthy and aristocratic.
+	- [[Elværi-Mutter#Die Elværi-Mutter|The Elværi Mother]] → The protagonist's Forest-Elværi mother on Lumora; wealthy and aristocratic.
 	- [[Elværi#Sprache|Elværin]] → The Elværi's sung language; applied fine control of Noetic Energy.
 - **F**
 	- [[Waldelværi#Der Familienbaum|Family Tree]] → The Forest Elværi's living tree 'technology', home and store of knowledge.

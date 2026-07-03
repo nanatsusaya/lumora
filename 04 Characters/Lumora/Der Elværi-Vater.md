@@ -11,7 +11,7 @@ tags:
 Waldelværi-Vater des [[Protagonist]] auf Lumora. Wohlhabend, aristokratisch, sozial angesehen.
 
 **Bekannte Details:**
-- Streng, oft abwesend. Die emotionale Verantwortung liegt bei der [[Die Elværi-Mutter|Elværi-Mutter]].
+- Streng, oft abwesend. Die emotionale Verantwortung liegt bei der [[Elværi-Mutter|Elværi-Mutter]].
 - Gibt dem Protagonisten beim Abschied ein mächtiges Reittier mit — sein greifbarster Liebesbeweis.
 
 **Thematische Bedeutung:**

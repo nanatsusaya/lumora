@@ -5,7 +5,7 @@ tags:
 ---
 # Die Elværi-Mutter
 
-*EN: The Elværi Mother*
+*EN: Elværi Mother*
 *Tag:* #elvaeri-mother
 
 Waldelværi-Mutter des [[Protagonist]] auf Lumora. Wohlhabend, aristokratisch, sozial angesehen. Emotionaler Kern von Part II.

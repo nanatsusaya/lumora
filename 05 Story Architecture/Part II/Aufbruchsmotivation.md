@@ -33,7 +33,7 @@ Der wahre Nordstern bleibt egoistisch — passend zum Wegschauer-Start: zurück 
 
 ## Mutter und Vater als Käfig
 
-Die [[Die Elværi-Mutter|Elværi-Mutter]] ist nicht nur „eingeschränkte Wissensquelle", sondern das eigentliche Gitter:
+Die [[Elværi-Mutter|Elværi-Mutter]] ist nicht nur „eingeschränkte Wissensquelle", sondern das eigentliche Gitter:
 
 - **Intelligent, aber voreingenommen** = die personifizierte Elværi-Hybris („unsere Gesellschaft ist die beste", → [[Waldelværi#Gesellschaftliche Werte|elitär]]). Ihr Wissen hat harte Wände; auf seine eigentlichen Fragen (Götter, andere Welten, der RZG) kann sie keine Antwort haben.
 - **Liebe im falschen Zeitmaßstab.** Ihre Überfürsorge ist der ausdrückliche Spiegel der [[Elværi-Göttin]] — Liebe, die „einen Schritt zu spät" kommt und damit einsperrt. Das knüpft an seine Erd-Wunde an: die Mutter, die *alles* war → die Mutter, die *erstickt*.

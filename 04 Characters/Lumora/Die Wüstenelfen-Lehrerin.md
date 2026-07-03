@@ -12,7 +12,7 @@ Eine [[Elværi|Wüstenelværi]], die zur Privatlehrerin des [[Protagonist]] wird
 
 **Bekannte Details:**
 - Spezialisiert auf Psychoangriff-Techniken (Noetische Geistmanipulation).
-- Die [[Die Elværi-Mutter|Elværi-Mutter]] besorgt sie als Extra-Lehrerin — wahrscheinlich aus ihrem aristokratischen Netzwerk.
+- Die [[Elværi-Mutter|Elværi-Mutter]] besorgt sie als Extra-Lehrerin — wahrscheinlich aus ihrem aristokratischen Netzwerk.
 - Tritt in der *Mama, bitte!*-Szene auf: Der Protagonist will ihre Psychoangriff-Technik lernen, die Mutter verbietet es zunächst.
 
 **Thematische Bedeutung:**
