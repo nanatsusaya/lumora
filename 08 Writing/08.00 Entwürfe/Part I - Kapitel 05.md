@@ -4,7 +4,7 @@ tags:
 ---
 # Part I - Kapitel 05
 
-## Grober Inhalt
+## Outline
 
 Der Leser wird tiefer in die Interaktion zwischen #protagonist und #rzg-avatar geführt. 
 

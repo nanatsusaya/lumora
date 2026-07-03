@@ -4,7 +4,7 @@ tags:
 ---
 # Part I - Kapitel 07
 
-## Grober Inhalt
+## Outline
 
 Der Leser lernt den #protagonist besser kennen und wie er mit seiner Weiblichkeit umgeht.
 

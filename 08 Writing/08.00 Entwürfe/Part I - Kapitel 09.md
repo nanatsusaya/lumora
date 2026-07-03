@@ -4,7 +4,7 @@ tags:
 ---
 # Part I - Kapitel 09
 
-## Grober Inhalt
+## Outline
 
 Der Leser lernt den #rzg-avatar besser kennen und erlebt zum ersten Mal echte Magie. Die Erwartungen des #rzg-avatar werden deutlicher und das Verständnis des Protagonisten werden mehr analysiert.
 

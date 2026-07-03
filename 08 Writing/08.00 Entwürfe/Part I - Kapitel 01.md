@@ -6,7 +6,7 @@ tags:
 ---
 # Part I - Kapitel 01
 
-## Grober Inhalt
+## Outline
 
 Der Leser lernt den [[Protagonist]] kennen und dessen direktes Umfeld.
 

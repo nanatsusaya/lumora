@@ -4,7 +4,7 @@ tags:
 ---
 # Part I - Kapitel 08
 
-## Grober Inhalt
+## Outline
 
 Der Leser lernt den #protagonist und seine Ehefrau besser kennen. Der Leser versteht wieso der Protagonist an Zaubertricks interessiert ist.
 

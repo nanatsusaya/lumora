@@ -7,7 +7,7 @@ tags:
 ---
 # Part I - Kapitel 04
 
-## Grober Inhalt
+## Outline
 
 Der Leser lernt die Arbeitsumgebung des Protagonisten kennen. Außerdem wird der Avatar des Raum-Zeit-Gottes eingeführt und der Leser erlebt das Aufeinander treffen der beiden Personen.
 

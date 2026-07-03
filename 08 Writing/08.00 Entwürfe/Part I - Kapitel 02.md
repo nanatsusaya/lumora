@@ -9,7 +9,7 @@ tags:
 ---
 # Part I - Kapitel 02
 
-## Grober Inhalt
+## Outline
 
 Der Leser wird in sehr groben Zügen in das Kern-Problem Lumoras eingeführt und erlebt, welche Aktionen zu den Geschehnissen der Story führt.
 

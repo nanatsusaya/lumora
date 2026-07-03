@@ -4,7 +4,7 @@ tags:
 ---
 # Part I - Kapitel 03
 
-## Grober Inhalt
+## Outline
 
 Der Leser soll etwas aus der Vergangenheit des Protagonisten lernen und einen Einblick in dessen grundlegenden moralischen Kompass.
 
@@ -191,7 +191,7 @@ Der Stein ist dunkelgrau und schlicht, so wie sie es wollte. Ihr Name, zwei Date
 
 „Hallo, Mama."
 
-	Ich nehme die alten Nelken aus der Vase. Sie sind braun geworden, aber sie stehen noch aufrecht — zäh bis zuletzt, auch das hätte ihr gefallen. Die neuen wickle ich aus dem Papier und stelle sie hinein, und dann hocke ich eine Weile einfach nur da und wische mit dem Daumen den Staub aus den Rillen ihres Namens.
+Ich nehme die alten Nelken aus der Vase. Sie sind braun geworden, aber sie stehen noch aufrecht — zäh bis zuletzt, auch das hätte ihr gefallen. Die neuen wickle ich aus dem Papier und stelle sie hinein, und dann hocke ich eine Weile einfach nur da und wische mit dem Daumen den Staub aus den Rillen ihres Namens.
 
 „Achter Monat", sage ich. „Sie schläft kaum noch. Und sie kocht immer noch mit Vorliebe neue Sachen, bei denen ich lieber nicht wüsste, was drin ist."
 

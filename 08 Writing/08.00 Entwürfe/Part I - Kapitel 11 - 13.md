@@ -6,7 +6,7 @@ tags:
 ---
 # Part I - Kapitel 11 - 13
 
-## Grober Inhalt
+## Outline
 
 Der Leser erlebt die Wiedergeburt und die tobende Wut des #protagonist .
 
@@ -14,8 +14,14 @@ Der Leser erlebt die Wiedergeburt und die tobende Wut des #protagonist .
 	 - [[Protagonist]]
 	 - [[Elværi-Mutter]]
 
-In Kapitel 11 wird der Protagonist als Baby wiedergeboren. Und er erkennt schnell, in welcher Lage er sich befindet. Das wird er nicht akzeptieren. Er wird schreien, Fluchen, Rufen, den #rzg-avatar anbeteln ihn zurück zu bringen, ihn als verräter und manipulatives Arschloch verfluchen. Von seiner tatsälichen Umgebung wird er vor Wut und entsetzten nichts mitbekommen oder er will es nicht mitbekommen. Das einzige was er will, ist zurück zu seiner Frau. Als Baby ist er schwach und wegen seiner Wutanfälle erschöpft er sich ständig. Kaum ist er wach beginnt er aber gleich wieder einen übelsten Wutanfall zu bekommen. Ich werde hier indirekt und nur im nebenbei Gang leicht die Umgebung beschreiben. Ich habe vor, entweder ein großes langes Kapitel aus diesen Abschnitt zu machen, oder 2-3 sehr kleine Kapitel. 
-Erst nach einer Weile (tatsächlich innerweltlich drei Tage!) ist er körperlich so erschöpft, dass er zum ersten Mal seine Umgebung wahrhaft anschaut. Eine beruhigende Stimme (ein Zauber der ihn beruhigt) und das sanfte Lächeln der Mutter werden es sein, die ihm bewusst machen, dass er nun in dieser Situation ist. Er akzeptiert es noch nicht, aber akzeptiert, dass Wut nicht der Weg nach vorne ist. Er lächelt selbst seine neue Mutter an und das Kapitel und Part I enden.
+- Auch wenn der Inhalt ähnlich ist, werde ich es erst einmal als ein großes Kapitel entwerfen, und dann auf drei Kapitel aufteilen. Ungesagt soll jedes Kapitel für einen Tag auf Lumora stehen.
+- Der Protagonist wird als Baby wiedergeboren und er erkennt schnell in welcher Lage er sich befindet. Das wird er nicht akzeptieren.
+- Er wird schreien, Fluchen, Rufen, den #rzg-avatar anbetteln ihn zurück zu bringen, ihn als Verräter und manipulatives Arschloch verfluchen.
+- Von seiner Umgebung wird er vor Wut und entsetzten nichts mitbekommen oder er will es nicht mitbekommen. Als Autor werde ich dem Leser ein paar Details zeigen, die später in der Gesichte ein Bild ergeben werden
+- Das einzige was der Protagonist will, ist zurück zu seiner Frau. 
+- Als Baby ist er schwach und wegen seiner Wutanfälle erschöpft er sich ständig. Kaum ist er wach beginnt er aber gleich wieder einen übelsten Wutanfall zu bekommen.
+- Erst nach einer Weile (tatsächlich innerweltlich drei Tage!) ist der Protagonist körperlich so erschöpft, dass er zum ersten Mal seine Umgebung wahrhaft anschaut. Eine beruhigende Stimme (ein Zauber der ihn körperlich beruhigt) und das sanfte Lächeln der neuen Mutter werden es sein, die ihm bewusst machen, dass er nun in dieser Situation ist. 
+- Er akzeptiert seine Lage noch nicht, aber akzeptiert, dass Wut nicht der Weg nach vorne ist. Er lächelt mehr instinktiv seine neue Mutter an und das Kapitel und Part I enden.
 
 ## Anmerkung ChatGPT
 

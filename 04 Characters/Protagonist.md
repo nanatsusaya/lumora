@@ -70,6 +70,9 @@ Auf der Erde nähert sich ihm der [[Raum-Zeit-Gott|RZG]] in Gestalt eines neuen 
 - **Emotionale Blindheit:** Übersieht oft die Gefühle anderer. Kämpft damit, eigene Emotionen auszudrücken.
 - **Ignoriert soziale Spannungen:** zu Beginn als Mann interessiert er sich nicht für soziale Probleme.
 
+> Zu beginn der Story: **Er denkt moralisch, aber handelt bequem.**
+
+
 ---
 
 ## Kernfehler & Wandel

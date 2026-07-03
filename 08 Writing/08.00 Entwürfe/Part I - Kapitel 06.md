@@ -4,7 +4,7 @@ tags:
 ---
 # Part I - Kapitel 06
 
-## Grober Inhalt
+## Outline
 
 Der Leser lernt den #protagonist besser kennen und wie er als Mann mit seiner Stärke und Kontrolle umgeht. 
 

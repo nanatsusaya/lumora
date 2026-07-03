@@ -6,7 +6,7 @@ tags:
 ---
 # Part I - Kapitel 10
 
-## Grober Inhalt
+## Outline
 
 Der Leser erlebt den Tod des #protagonist .
 
