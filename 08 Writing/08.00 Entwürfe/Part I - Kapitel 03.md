@@ -181,9 +181,9 @@ Halb die Einfahrt hinunter höre ich ihn noch etwas über die Schulbehörde sage
 
 Ich lege die Blumen auf den Beifahrersitz und lasse den Motor an.
 
-Die Fahrt zum Friedhof dauert zwölf Minuten, wenn man die Ampeln kennt, und ich kenne die Ampeln. Im Radio sagt eine Stimme, die Zahl der Anschläge auf Unterkünfte habe sich im letzten Jahr mehr als verdoppelt, und ich überlege, ob ich nach der Arbeit noch tanken muss. Die Anzeige sagt halb voll. Reicht dicke.
+Die Fahrt zum Friedhof dauert zwölf Minuten, wenn man die Ampeln kennt, und ich kenne die Ampeln. Im Radio sagt eine Stimme, dass der Krieg in Übersee in die nächste heiße Phase gehen wird und ich überlege, ob ich nach der Arbeit noch tanken muss. Die Anzeige sagt halb voll. Reicht dicke.
 
-> "Im Radio sagt eine Stimme, die Zahl der Anschläge auf Unterkünfte habe sich im letzten Jahr mehr als verdoppelt" ich denke dieser Teil muss raus.
+> Sollen wir "Krieg in Übersee" nehmen oder etwas näheres? Eventuell ein Mord eines Politikers?
 
 Das Friedhofstor steht um diese Zeit schon offen. Auf den Wegen ist niemand außer einem Mann mit Laubbläser, der ihn anwirft, als ich vorbeigehe, und wieder abstellt, sobald ich vorbei bin. Den Weg könnte ich auch blind gehen: links am Engel mit der abgebrochenen Hand vorbei, dann die dritte Reihe.
 
@@ -263,5 +263,107 @@ OFFENE PUNKTE:
 - Kontinuität zu K01: Dort rät er aktiv, was im Essen ist („Rate."), hier will
   er es „lieber nicht wissen". Als augenzwinkernder Widerspruch okay, oder
   angleichen?
+- Falls das Kapitel später geteilt wird: Schnitt nach „wie auf eine Schulter."
+```
+
+## 3. Entwurf
+
+Die Haustür fällt hinter mir ins Schloss, und der Morgen riecht nach nassem Rasen. Irgendwo zischt ein Rasensprenger, obwohl es in der Nacht geregnet hat. In unserer Straße gewinnt immer der Timer.
+
+Über den Dächern hängt die Fahne der Nachbarn schlaff am Mast, und drei Häuser weiter winkt mir jemand zu. Natürlich. Herr #nachbar verpasst keinen ersten Freitag im Monat.
+
+„Guten Morgen!" Er kommt mir über den Rasen entgegen, in der Hand ein in Papier gewickeltes Bündel. „Wie geht's der werdenden Mama?"
+
+„Müde", sage ich. „Aber gut. Sie war heute Nacht siebenmal auf."
+
+„Das wird noch schlimmer, bevor es besser wird." Er strahlt dabei, als hätte er mir ein Kompliment gemacht, und drückt mir das Bündel in die Hand. „Wie bestellt. Rosa Nelken. Haben die letzten gehalten?"
+
+„Bis vorgestern, fast einen Monat."
+
+„Gut. Die stehen übrigens für unvergängliche Mutterliebe, wussten Sie das?" Er sagt das jedes Mal. „Sagen Sie, stimmt das eigentlich, was man hört — dass bei Ihnen drüben schon wieder Stellen gestrichen werden?"
+
+„Keine Ahnung, was die über uns schreiben. Ich unterrichte nur." Ich hebe die Nelken zum Gruß. „Danke für die Blumen."
+
+Auf halbem Weg die Einfahrt hinunter höre ich ihn noch etwas über die Schulbehörde sagen, in jenem Ton, in dem man über schlechtes Wetter spricht. Die halbe Straße findet #nachbar aufdringlich, und die halbe Straße hat recht. Aber er ist Florist, und seit zwei Jahren stehen an jedem ersten Freitag im Monat frische Nelken vor meiner Tür, ohne dass ich je daran denken muss. Für dieses Arrangement bin ich bereit, eine Menge Fragen zu ertragen.
+
+Ich lege die Blumen auf den Beifahrersitz und lasse den Motor an.
+
+Die Fahrt zum Friedhof dauert zwölf Minuten, wenn man die Ampeln kennt, und ich kenne die Ampeln. Im Radio sagt eine Stimme, die Zahl der Anschläge auf Unterkünfte habe sich im letzten Jahr mehr als verdoppelt, und ich überlege, ob ich nach der Arbeit noch tanken muss. Die Anzeige sagt halb voll. Reicht dicke.
+
+Das Friedhofstor steht um diese Zeit schon offen. Auf den Wegen ist niemand außer einem Mann mit Laubbläser, der ihn anwirft, als ich vorbeigehe, und wieder abstellt, sobald ich vorbei bin. Den Weg könnte ich auch blind gehen: links am Engel mit der abgebrochenen Hand vorbei, dann die dritte Reihe.
+
+Der Stein ist dunkelgrau und schlicht, so wie sie es wollte. Ihr Name, zwei Daten, ein Bindestrich. Das zweite Datum ist zwei Jahre alt und fühlt sich immer noch wie ein Tippfehler an.
+
+„Hallo, Mama."
+
+Ich nehme die alten Nelken aus der Vase. Sie sind braun geworden, aber sie stehen noch aufrecht — zäh bis zuletzt, auch das hätte ihr gefallen. Die neuen wickle ich aus dem Papier und stelle sie hinein, und dann hocke ich eine Weile einfach nur da und wische mit dem Daumen den Staub aus den Rillen ihres Namens.
+
+„Achter Monat", sage ich. „Sie schläft kaum noch. Und sie kocht immer noch mit Vorliebe neue Sachen, bei denen ich lieber nicht wüsste, was drin ist."
+
+Der Laubbläser setzt wieder ein, weiter hinten. Es ist keine Traurigkeit, die mich herzieht, schon lange nicht mehr. Eher so etwas wie Berichtspflicht. Sie hat sich mein Leben ihr Leben lang angehört; ich sehe nicht ein, warum der Tod eine Ausrede sein sollte.
+
+Von meinem Vater habe ich genau ein Bild im Kopf, und nicht einmal das ist echt — es ist aus einer Fotokiste, die Mama irgendwann aussortiert hat. Ein Mann, der lacht und mich auf dem Arm hält, ein paar Monate bevor er zur Tür hinausging und sie nie wieder von innen sah. Ich war ein Baby. Man kann niemanden vermissen, den man nie gekannt hat, heißt es. Stimmt nicht ganz. Man vermisst ihn nur an den falschen Stellen: beim ersten Fahrrad, beim Rasierenlernen, bei der ersten Trennung.
+
+Sie hat das alles allein gemacht. Zwei Jobs, ein Kind, keine Klagen — jedenfalls keine, die ich hören durfte. Und als ich Jahre später meine Frau zum ersten Mal mit nach Hause brachte, nervös wie vor keiner Prüfung, hat Mama sie umarmt, bevor sie ihren Namen kannte.
+
+Als sie starb, hat meine Frau tagelang immer wieder geweint — beim Kochen, beim Zähneputzen, mitten im Satz. Ich habe sie gehalten und ihr Haar gestreichelt, und irgendwann fragte sie mich, halb wütend: „Warum weinst du eigentlich nicht?" Ich habe damals lange über die Antwort nachgedacht. „Ich trauere", habe ich gesagt. „Aber wenn ich an sie denke, erinnere ich mich nur daran, wie sie immer da war. Ich glaube nicht, dass ich sie vermisse. Es tut mir leid — für mich fühlt es sich an, als wäre sie noch hier." Ich weiß bis heute nicht, ob sie das verstanden hat. Ich weiß nicht mal, ob ich es verstehe. Es funktioniert trotzdem.
+
+Nur bei einem Thema sind wir nie fertig geworden, Mama und ich. Ich merke, dass meine Hand im Bart hängt und langsam die Ränder entlangfährt, und muss grinsen. Meine Schüler nennen das die Denkerpose. _Achtung, Leute, gleich kommt was Wichtiges._
+
+„Versprich mir, dass meine Enkelkinder katholisch erzogen werden", hat sie gesagt, im Krankenhaus, als wir beide schon wussten, wohin das führt. Ich habe „Wir werden sehen, Mama" gesagt, und sie hat mich angesehen, wie sie mich immer angesehen hat, wenn ich um eine Antwort herumgeschlichen bin. Es war das einzige Versprechen, das ich ihr nicht gegeben habe.
+
+Ich richte die Nelken ein letztes Mal aus.
+
+„Ich arbeite dran", sage ich. „Ehrlich."
+
+Zum Abschied klopfe ich zweimal oben auf den Stein, wie auf eine Schulter.
+
+---
+
+Zwölf Minuten zurück, die Ampeln kenne ich auch in diese Richtung.
+
+Katholisch erziehen.
+
+An der ersten roten Ampel überquert eine Frau die Straße, hinter ihr ein Dackel, der beschlossen hat, dass heute nicht sein Tag ist. Sie zieht, er stemmt sich, sie gewinnt in Zeitlupe. Grün.
+
+Dafür müsste ich meinem Kind erst einmal erklären können, was das überhaupt heißen soll: „Gott". Für ein Wort, über das die Menschheit seit Tausenden von Jahren Kriege führt, ist es erstaunlich schlampig definiert. Berufskrankheit, ich weiß — aber ich lasse ja auch keine Formel an die Tafel, in der dasselbe Zeichen zwei verschiedene Dinge meint.
+
+Um Mamas Gott mache ich einen Bogen. Jede Diskussion darüber habe ich gegen sie verloren, als sie noch antworten konnte; gegen ihr Schweigen trete ich gar nicht erst an.
+
+Die alten Götter dagegen — mit denen kann ich arbeiten. Zeus, Thor, halb Indien. Keine Absolutheiten, sondern Wesen: geboren, verliebt, beleidigt, gealtert. Menschen mit besserer Ausstattung und mehr Zeit. Wir wären für solche Wesen, was Ameisen für uns sind. Eine Ameise lebt ein Jahr; das Kind, das im Garten wohnt, ist aus ihrer Sicht unsterblich.
+
+Aus einer Einfahrt schießt ein Junge auf einem Fahrrad. Mein Fuß ist schneller auf der Bremse als der Gedanke. Er wackelt, fängt sich, verschwindet um die nächste Ecke.
+
+Vielleicht malt das Kind im Garten eine von den Ameisen weiß an und füttert sie den ganzen Sommer durch — und der Haufen bekommt seinen Auserwählten, seinen weißen Herkules, und baut ihm meinetwegen einen kleinen Kult. Das Kind wird trotzdem erwachsen. Und ob die Ameisen einander anständig behandeln, hat es keine einzige Sekunde seines Lebens interessiert.
+
+Die Ampel vor der Auffahrt ist rot. Am Heck des Wagens vor mir klebt ein Sticker: eine automatische Waffe mit Schnuller, darunter _MY BABY ON BOARD_.
+
+Falls von oben Moral kommt, ist sie jedenfalls seit ein paar tausend Jahren überfällig. Den Anstand müssen wir uns schon selbst zusammenbauen. Ich zum Beispiel in ein paar Wochen.
+
+Rechts am alten Baumarkt drängen sich Zelte über den Parkplatz, eines am anderen, dazwischen Einkaufswagen und Leinen mit Wäsche.
+
+Welche also? Die Moral des Landes, in dem wir leben? Der Katechismus, wie Mama es wollte? Meine eigene, dieses selbstgebastelte Ding aus Kant und gesundem Menschenverstand — _handle nur nach derjenigen Maxime_ … versuch das mal einem Vierjährigen zu erklären, der gerade einem anderen Vierjährigen die Schaufel über den Kopf zieht.
+
+Vielleicht ist genau das der Weg: keine fertige Moral verabreichen, sondern zeigen, woraus man eine baut. In den Ferien reisen, jedes Jahr woandershin. Rom und Kyoto, Tempel und Kathedralen, Orte, an denen Menschen seit Jahrtausenden völlig verschieden richtig zu leben versuchen. Soll das Kind alles sehen, anfassen, vergleichen — und sich dann selbst ein Bild machen, von der Welt und von sich. Mama hätte über die Hälfte davon den Kopf geschüttelt. Und wäre bei jeder Kathedrale dabei gewesen.
+
+Ich biege auf den Lehrerparkplatz ein und stelle den Motor ab. Draußen wartet schon der Lärm.
+
+### Anmerkungen
+
+Umgesetzt aus der Besprechung (Radio-Meldung, Essay-Problem, Theologie-Einwand):
+
+* **Radio zurück auf die Inland-Linie** (Anschläge auf Unterkünfte verdoppelt) — die Aufblitzer erzählen so eine einzige Zerfallsgeschichte im eigenen Land: K01 brennendes Lager → K03 Radio/Sticker/Zelte → K04 radikalisierte Schüler. Der **Politikermord ist als spätere Eskalationsstufe vorgemerkt** (Kandidaten: K06 Fitnesscenter-Fernseher oder K09/Tag 2), damit das Grundrauschen auf K10 zuläuft.
+* **Kirchen-Gott-/Bakterium-Block komplett nach Part II verschoben** (samt „Gott ist ein Verdauungstrakt"-Pointe und Elternabend-Witz — dort beim Kontakt mit neuen Religionen als *seine private Übersetzung* rahmen und von außen herausfordern lassen). Damit erledigt sich auch der Pantheismus-Einwand: In K03 wird über die Lehre der Kirche nichts mehr behauptet.
+* **Sein Ausweichen ersetzt das Dozieren:** „Um Mamas Gott mache ich einen Bogen …" — er meidet, was sich seinem Raster entzieht, und arbeitet nur mit den Göttern, die er definieren kann. Das charakterisiert (präzise, aber nicht ganz fair zu Begriffen außerhalb seines Rasters) und ist der Haken, an dem Part II später zieht.
+* **Gedankenspirale statt Aufsatz:** Gedanken in kurze Schübe zerlegt, dazwischen Welt-Beats — Dackel an der Ampel, Junge auf dem Fahrrad (mit Brems-Reflex: sein Beschützerinstinkt, schneller als der Gedanke), Sticker, Zelte. Der reale Junge füttert direkt die Herkules-Passage (das Kind im Garten) — die Gedanken gehen aus der Welt hervor.
+* **Moral-Fazit entschärft:** Aus dem Thesen-Absatz („Von oben kommt keine Moral …") wurden zwei persönliche Sätze mit Selbstbezug: „… Ich zum Beispiel in ein paar Wochen." Keine Essay-These mehr, sondern ein werdender Vater unter Termindruck.
+* Erste Hälfte (Haus, Florist, Grab) unverändert aus dem 2. Entwurf übernommen (inkl. „Herr #nachbar"), nur die Radio-Zeile getauscht.
+
+```
+OFFENE PUNKTE:
+- Kontinuität zu K01: „Rate." vs. „lieber nicht wissen" — angleichen oder als
+  augenzwinkernder Widerspruch stehen lassen?
+- Politikermord-Eskalation: K06 (Gym-TV) oder K09 (Tag 2)? Bei Platzierung
+  bedenken: Am selben Morgen würde das Kollegium darüber reden.
 - Falls das Kapitel später geteilt wird: Schnitt nach „wie auf eine Schulter."
 ```
