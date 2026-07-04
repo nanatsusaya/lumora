@@ -320,7 +320,7 @@ Zum Abschied klopfe ich zweimal oben auf den Stein, wie auf eine Schulter.
 
 ---
 
-Zwölf Minuten zurück, die Ampeln kenne ich auch in diese Richtung.
+Zwölf Minuten weiter, die Ampeln kenne ich auch in diese Richtung.
 
 Katholisch erziehen.
 
@@ -330,7 +330,7 @@ Dafür müsste ich meinem Kind erst einmal erklären können, was das überhaupt
 
 Um Mamas Gott mache ich einen Bogen. Jede Diskussion darüber habe ich gegen sie verloren, als sie noch antworten konnte; gegen ihr Schweigen trete ich gar nicht erst an.
 
-Die alten Götter dagegen — mit denen kann ich arbeiten. Zeus, Thor, halb Indien. Keine Absolutheiten, sondern Wesen: geboren, verliebt, beleidigt, gealtert. Menschen mit besserer Ausstattung und mehr Zeit. Wir wären für solche Wesen, was Ameisen für uns sind. Eine Ameise lebt ein Jahr; das Kind, das im Garten wohnt, ist aus ihrer Sicht unsterblich.
+Die alten Götter dagegen — mit denen kann ich arbeiten. Zeus, Thor und Kollegen. Keine Absolutheiten, sondern Wesen: geboren, verliebt, beleidigt, gealtert. Menschen mit besserer Ausstattung und mehr Zeit. Wir wären für solche Wesen, was Ameisen für uns sind. Eine Ameise lebt ein Jahr; das Kind, das im Garten wohnt, ist aus ihrer Sicht unsterblich.
 
 Aus einer Einfahrt schießt ein Junge auf einem Fahrrad. Mein Fuß ist schneller auf der Bremse als der Gedanke. Er wackelt, fängt sich, verschwindet um die nächste Ecke.
 
