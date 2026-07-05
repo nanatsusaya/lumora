@@ -389,6 +389,8 @@ TODO
 
 Die Schule empfängt mich wie jeden Morgen mit Lärm. Dreihundert Stimmen, schlagende Spindtüren, das Quietschen von Sohlen auf dem Boden. Und über allem dieser eine Geruch, den es so nur in Schulen gibt: Kreide, altes Holz und die warme, verbrauchte Luft eines Raums voller junger Köpfe.
 
+> Besser: "Die Schule empfängt mich wie jeden Morgen mit dreihundert Stimmen, schlagende Spindtüren und dem Quietschen von Sohlen auf Böden. Und über allem dieser eine Geruch, den es so nur in Schulen gibt: Kreide, altes Holz und die warme, verbrauchte Luft eines Raums voller junger Köpfe."
+
 „Morgen, Herr #protagonist !"
 
 Eine Traube Zehntklässler schiebt sich an mir vorbei.
@@ -398,6 +400,8 @@ Eine Traube Zehntklässler schiebt sich an mir vorbei.
 Das Stöhnen kommt vielstimmig und von Herzen. Genau darauf hatte ich gehofft.
 
 Auf dem Weg zur Treppe halten zwei Jungs ein Handy zwischen sich, der Ton voll aufgedreht. „...lange genug zugesehen, wie die uns alles wegnehmen — irgendwann muss man sie eben—" Normalerweise müsste der #director um diese Zeit in seinem Büro sein. Er wird den Termin doch hoffentlich durchgehen lassen?
+
+> `„...lange genug zugesehen, wie die uns alles wegnehmen — irgendwann muss man sie eben—"` ich finde den Bindestrich hier am Ende etwas unpassend. Sollte der so bleiben? Oder sollten wir es nicht lieber mitten im Satz einfach abbrechen. Oder alternativ mit drei Punkten ersetzten. 
 
 Im Treppenhaus kommt mir eine Kollegin entgegen, einen Stapel Klausuren auf dem Arm und Schatten unter den Augen, die tiefer sind als letzte Woche.
 
@@ -494,6 +498,7 @@ Er nimmt seine Tasche. Dann gehen wir los.
 * Alle Punkte der letzten Durchsicht eingearbeitet: Geruch auf Holz/Kreide umgewichtet (1), echte 10.-Klasse-Aufgabe mit Zwinkern (2), Hetze perlt ab, Kopf schon beim Termin (3), „Ich hab nichts gesehen." (4), Direktor-Pause als Halbsatz statt Einwort (5), konkrete Schulaufsicht/Sporthalle (6), „Er liest einen Manga." als eigener Absatz (7), verschwindender Manga gestrichen + Kontinuität geglättet: er lässt ihn beim Aufstehen in die Tasche gleiten (9).
 * **Offen, zum Besprechen (8):** „Irgendwohin, wo die Dinge am Ende noch aufgehen." — bewusst unverändert gelassen, das ist der thematische Kern. Dazu separat.
 * Die Spiegelszene aus Kapitel 1 muss entfernt werden: wir werden den Anfang leicht anpassen müssen. Die Szene soll voller Schüler sein, die überall vor der Schule und im Hausgang herumlaufen. Kaum jemand wird den Protagonisten beachten, genauso wie er es bevorzugt. Deswegen zieht er immer die einfache Kleidung mit gedämpften Farben an. "Nur seine Statur ließ sich nie verstecken" und dann wird er von seinen eigenen Schülern begrüßt. 
+* Siehe inline Kommentare
 
 ## 5. Entwurf
 

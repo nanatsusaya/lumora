@@ -272,6 +272,8 @@ Die Haustür fällt hinter mir ins Schloss, und der Morgen riecht nach nassem Ra
 
 Über den Dächern hängt die Fahne der Nachbarn schlaff am Mast, und drei Häuser weiter winkt mir jemand zu. Natürlich. Herr #nachbar verpasst keinen ersten Freitag im Monat.
 
+> "verpasst keinen ersten Freitag im Monat." das muss auf Montag verändert werden, damit es zu [[Part I - Kapitel 05|Kapitel 5]] passt.
+
 „Guten Morgen!" Er kommt mir über den Rasen entgegen, in der Hand ein in Papier gewickeltes Bündel. „Wie geht's der werdenden Mama?"
 
 „Müde", sage ich. „Aber gut. Sie war heute Nacht siebenmal auf."
@@ -358,6 +360,7 @@ Umgesetzt aus der Besprechung (Radio-Meldung, Essay-Problem, Theologie-Einwand):
 * **Gedankenspirale statt Aufsatz:** Gedanken in kurze Schübe zerlegt, dazwischen Welt-Beats — Dackel an der Ampel, Junge auf dem Fahrrad (mit Brems-Reflex: sein Beschützerinstinkt, schneller als der Gedanke), Sticker, Zelte. Der reale Junge füttert direkt die Herkules-Passage (das Kind im Garten) — die Gedanken gehen aus der Welt hervor.
 * **Moral-Fazit entschärft:** Aus dem Thesen-Absatz („Von oben kommt keine Moral …") wurden zwei persönliche Sätze mit Selbstbezug: „… Ich zum Beispiel in ein paar Wochen." Keine Essay-These mehr, sondern ein werdender Vater unter Termindruck.
 * Erste Hälfte (Haus, Florist, Grab) unverändert aus dem 2. Entwurf übernommen (inkl. „Herr #nachbar"), nur die Radio-Zeile getauscht.
+* Siehe inline Kommentare
 
 ```
 OFFENE PUNKTE:
@@ -367,3 +370,11 @@ OFFENE PUNKTE:
   bedenken: Am selben Morgen würde das Kollegium darüber reden.
 - Falls das Kapitel später geteilt wird: Schnitt nach „wie auf eine Schulter."
 ```
+
+## 4. Entwurf
+
+TODO
+
+### Anmerkungen
+
+- TODO

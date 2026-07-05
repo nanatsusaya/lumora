@@ -622,3 +622,10 @@ OFFENE PUNKTE:
   der Kapitelmitte. Früher andeuten oder bewusst kalt lassen?
 ```
 
+## 5. Entwurf
+
+TODO
+
+### Anmerkungen
+
+- TODO
