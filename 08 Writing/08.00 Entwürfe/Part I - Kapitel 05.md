@@ -3612,5 +3612,572 @@ Natürlich nur aus Interesse.
 
 ### Anmerkungen
 
+- Noch ein paar kleine Verbesserungen sollten bei folgenden gemacht werde:
+	- „Besonders Maßstab. Man kann damit Dinge kleiner machen, ohne sie zu verlieren." (Siebte, Ende) — der auffälligste; klingt wieder nach Aphorismus.
+	- „Wenn etwas wichtig ist, darf es schwer sein. Die leichten Dinge sind selten die, an die man sich erinnert." (Kinder-Gespräch) — noch aus E5, warm, aber am ehesten weiter zu erden.
+- Außerdem sollten wir die Namen entfernen und durch Platzhalter ersetzten
+
+## 8. Entwurf
+
+Ich öffne die Tür mit dem Ellenbogen, in der einen Hand meinen Ordner, in der anderen die Mappe mit den Vertretungsplänen.
+
+Das Lehrerzimmer riecht nach Kaffee, Papier und diesem ganz bestimmten Staub, den es nur in Schulen gibt. Nicht nach Keller oder Dachboden — eher eine Mischung aus Kopierpapier, Kreide, trockenen Filzstiften und Jacken, die zu lange über Stuhllehnen hängen, dazu der leicht metallische Hauch aus Heizkörpern, die im Herbst zum ersten Mal wieder richtig arbeiten müssen.
+
+„Hier ist es also“, sage ich.
+
+#rzg-avatar tritt hinter mir ein und bleibt einen Moment in der Tür stehen. Nicht zögerlich — eher, als würde er den Raum erst kurz sortieren, bevor er ihn betritt.
+
+„Ein guter Raum“, sagt er schließlich. „Ein bisschen voll. Aber nicht unfreundlich.“
+
+Ich sehe ihn von der Seite an. Für einen ersten Satz über ein Lehrerzimmer ist das erstaunlich großzügig.
+
+„Dann werden Sie sich hier wohlfühlen“, sage ich und deute mit dem Ordner auf den langen Tisch in der Mitte. „Das ist der große Tisch. Offiziell für Konferenzen, inoffiziell für Korrekturstapel, Kuchen und müde Existenzen.“
+
+Auf dem Tisch liegt ein halber Stapel Klassenarbeiten, daneben ein Teller mit drei Keksen, die mehrere Pausen überlebt zu haben scheinen. Ein Kugelschreiber ohne Kappe rollt langsam zur Kante und bleibt kurz davor liegen, weil jemand einen Block daruntergeschoben hat. An der Wand hängt der Vertretungsplan, daneben das Schwarze Brett, das aus so vielen Zetteln besteht, dass man den Kork nur noch an den Ecken erahnt. Brandschutzübung. Pädagogischer Tag. Fundsachen. Und ein Ausdruck mit der Bitte, die Kaffeemaschine nach Benutzung zu reinigen, darunter handschriftlich ergänzt: _wirklich_.
+
+Ich zeige darauf. „Der wichtigste Aushang.“
+
+Er betrachtet den Zettel mit der ernsten Aufmerksamkeit eines Mannes, der eine fremde Schrift entziffert.
+
+„Dann sollte ich die Maschine wohl zuerst kennenlernen“, sagt er. „Es lohnt sich, die Dinge zu ehren, von denen alle abhängen und über die niemand nachdenkt.“
+
+„Sie reden über die Kaffeemaschine wie über eine Gottheit.“
+
+„Vielleicht ist der Unterschied kleiner, als man glaubt.“
+
+Ich lache und führe ihn zur Küchenzeile am Ende des Raums — zwei Hängeschränke, eine Spüle, ein Geschirrspüler, der klingt wie ein startender Hubschrauber, und daneben die Maschine: ein graues, kantiges Gerät mit glänzender Front, viel zu vielen Knöpfen und einem Display, das immer aussieht, als hätte es schlechte Nachrichten. Unter dem Auslauf hat sich ein brauner Ring in die Abtropfschale gebrannt. Daneben ein Becher mit der Aufschrift _Beste Lehrerin_, den seit Jahren jeder benutzt und dessen Henkel geklebt ist.
+
+Ich drücke einen Knopf. Die Maschine gurgelt, zieht Luft, denkt hörbar über ihr Leben nach und beginnt dann zu mahlen, in einer Lautstärke, die jeden Schüler im Umkreis von drei Räumen erschrecken würde.
+
+„Das klingt seit sechs Jahren so“, sage ich, bevor er fragen kann. „Wir haben beschlossen, es als Charakter zu werten.“
+
+„Ein ehrliches Geräusch.“
+
+„Ehrlich?“
+
+„Zumindest tut sie nicht so, als wäre ihr die Arbeit egal.“
+
+„Milch, Zucker?“
+
+„Schwarz. Ich mag Dinge, die man nicht beschönigen muss.“
+
+Ich stelle ihm die Tasse hin. Er nimmt sie mit beiden Händen, als wolle er zuerst ihre Temperatur verstehen, riecht daran und trinkt einen Schluck. Sein Gesicht verändert sich kaum, nur die Augen werden für einen winzigen Moment schmaler.
+
+„Und?“, frage ich.
+
+„Es ist Kaffee.“
+
+„Das ist das Netteste, was man über Lehrerzimmerkaffee sagen kann.“
+
+„Und schon deutlich optimistischer als die meisten Urteile hier“, sagt #kollegin1 aus dem hinteren Teil des Raums, ohne vom Laptop aufzusehen.
+
+Ich drehe mich zu ihr um. „Guten Morgen, #kollegin1.“
+
+„Bei dem letzten Neuen haben wir auch gesagt, er wird sich einleben.“
+
+„Und?“, frage ich.
+
+„Drei Monate. Dann Grundschule.“
+
+„Das lag nicht an uns.“
+
+„Doch.“
+
+#rzg-avatar dreht sich höflich in ihre Richtung. „Guten Morgen. Ich bin der Neue.“
+
+#kollegin1 blickt über den Rand ihrer Brille. „Mein Beileid.“
+
+„Ich habe es mir schlimmer vorgestellt und besser erhofft“, sagt er. „So ungefähr die Mitte scheint mir ein fairer Ort.“
+
+Sie mustert ihn einen Moment, offenbar unsicher, ob er ihren Ton verstanden hat oder ihn nur besser beherrscht als sie. Dann nickt sie knapp, als hätte er eine Prüfung bestanden, und tippt weiter.
+
+Ich senke die Stimme, während wir zur Tür gehen. „#kollegin1. Deutsch und Latein, seit zwanzig Jahren hier. Sie hat innerlich jede Reform schon dreimal beerdigt.“
+
+„Sie wirkt streng“, sagt er. „Aber nicht kalt.“
+
+Ich bleibe einen halben Schritt stehen. Es ist eine seltsam genaue Beschreibung für jemanden, der #kollegin1 seit vierzig Sekunden kennt.
+
+„Nein“, sage ich. „Kalt ist sie nicht. Nur allergisch gegen Unsinn.“
+
+„Das ist eine sinnvolle Allergie.“
+
+„Kommen Sie“, sage ich. „Ich zeige Ihnen den Rest, bevor die Pause losbricht. Danach kommen wir nicht mehr durch den Flur.“
+
+---
+
+Der Gang dahinter ist leer, aber nicht still. Eine Schule ist nie still. Hinter geschlossenen Türen scharren Stuhlbeine über Linoleum, irgendwo bricht das dumpfe Lachen einer Klasse ab, weil jemand zur Ordnung ruft. Ein Beamer summt. Aus einem anderen Raum dringt das abgehackte Englisch einer Hörverstehensübung.
+
+„Links das Sekretariat“, sage ich. „#sekretariat1 weiß alles, bevor es offiziell passiert. Brauchen Sie einen Schlüssel, fragen Sie freundlich. Brauchen Sie eine Ausrede, fragen Sie nicht.“
+
+„Verstanden.“
+
+„Rechts das Büro vom Schulleiter. Ist die Tür offen, ist er entweder gut gelaunt oder sucht jemanden für eine Arbeitsgruppe. In beiden Fällen: nicht zu lange Blickkontakt halten.“
+
+„Dann schaue ich nur so lange hin, wie ein neuer Kollege überleben darf.“
+
+Wir kommen am Kopierraum vorbei, und weil ich für die erste Stunde ohnehin noch Kopien brauche, gehen wir hinein. Der Apparat nimmt mir drei Seiten ab und behält die vierte ein — mit dem satten Knirschen eines Geräts, das genau weiß, dass es gebraucht wird.
+
+„Der frisst jedes dritte Blatt“, sage ich und reiße die Klappe auf. „Man muss ihm gut zureden. Manchmal drohen.“
+
+Ich ziehe am Papier. Es reißt. Natürlich reißt es. Herr — der neue Kollege — beugt sich neben mich, findet die eingeklemmte Ecke, die ich nicht sehe, und zieht sie in einem Stück heraus.
+
+„Da. Er hatte sie nur noch nicht losgelassen.“ Er legt mir das geglättete Blatt hin. Ein halbes Arbeitsblatt über Zerfallsreihen. „Papier ist der erste Schritt zur Zivilisation. Und der erste, an dem sie sich verschluckt.“
+
+„Das sollten Sie der Maschine sagen, nicht mir.“
+
+„Sie hört mir zu. Sehen Sie.“ Der Kopierer läuft wieder an, als wäre nie etwas gewesen.
+
+„Zehn Jahre“, sage ich. „Ich kämpfe seit zehn Jahren mit diesem Ding. Sie sind seit einer Stunde im Haus.“
+
+„Vielleicht war ich höflicher.“
+
+„Zu dem Kopierer?“
+
+„Man weiß nie, wer hier Einfluss hat.“
+
+---
+
+Wir biegen in den Geographietrakt. An den Wänden hängen Karten, einige neu, einige alt genug, um Grenzen zu zeigen, die meine Schüler nur aus Geschichtsbüchern kennen. Ich schließe 214 auf.
+
+„Nicht mein Reich“, sage ich. „Aber ich kenne mich gut genug aus, um nichts Wertvolles kaputtzumachen. Ich bin Chemie und Physik. Geographie leihe ich mir nur aus, wenn die Vertretungsliste mich erwischt.“
+
+„Und wie oft erwischt sie Sie.“
+
+„Häufiger, als der Stundenplan zugibt.“
+
+Er geht langsam durch den Raum, an einer Klimazonenkarte vorbei, deren Ecken sich nach vorn rollen, und bleibt vor dem alten Overheadprojektor unter seiner Plastikhaube stehen.
+
+„Ein Lichtgerät“, sagt er, fast zärtlich.
+
+„Unser Museumsstück. Früher das Zentrum jeder modernen Didaktik.“
+
+„Und es funktioniert noch.“
+
+„Der Beamer nicht immer. Der hier überlebt uns alle.“
+
+Ich gehe zum Kartenschrank, den langen, flachen Schubladen, die sich nur öffnen lassen, wenn man den richtigen Winkel erwischt. Ich ziehe. Die Schublade klemmt. Ich ziehe fester. Sie klemmt weiter.
+
+Er legt zwei Finger an die Seite des Schranks. „Noch einmal.“
+
+Ich ziehe, und die Schublade gleitet heraus, als hätte sie nie etwas anderes getan.
+
+„Danke“, sage ich. „Zehn Jahre Physik, und eine Schublade schlägt mich jeden Morgen aufs Neue.“
+
+„Meistens liegt es nicht an der Kraft“, sagt er. „Nur am Punkt, an dem man ansetzt.“ Er sieht nicht triumphierend dabei aus, kein Grinsen, kein _sehen Sie_. Nur Aufmerksamkeit.
+
+Ich rede weiter, weil Reden im Zweifel einfacher ist, zeige ihm die neuen Atlanten, von denen immer drei fehlen, egal wie oft man zählt, und den Globus mit der Delle im Pazifik, weil ein Sechstklässler prüfen wollte, ob Erdbeben mit Faustschlag funktionieren.
+
+„Und das Ergebnis“, sagt er.
+
+„Lokales Ereignis. Keine globale Auswirkung.“
+
+Er lächelt.
+
+„Warum sind Sie eigentlich Lehrer geworden?“, frage ich, während ich die Schublade wieder zuschiebe.
+
+Er antwortet nicht sofort.
+
+„Weil Erklären eine Form von Hoffnung ist“, sagt er dann.
+
+Ich sehe ihn an.
+
+„Und weil man dabei immerhin stehen darf“, ergänzt er.
+
+„Sie waren noch nie in einer siebten Stunde, oder?“
+
+„Noch nicht heute.“
+
+Ich lehne mich mit der Hüfte ans Pult. „Das ist trotzdem eine ziemlich gute Antwort. Bei mir war es weniger elegant. Ich mochte Naturwissenschaften, ich mochte Geschichten über die Welt, und irgendwann hatte ich das Gefühl, dass viele Menschen Dinge nur für kompliziert halten, weil sie ihnen nie jemand in Ruhe gezeigt hat.“
+
+„Das ist auch Hoffnung. Nur mit mehr Arbeitsblättern.“
+
+Ich lache. „Definitiv mit mehr Arbeitsblättern.“
+
+---
+
+Der Chemie- und Physikraum liegt im Erdgeschoss, und wenn der Geographieraum ein Ort ist, an dem ich mich auskenne, dann ist dieser hier mein Reich. Ich kenne jede Steckdose, die nur funktioniert, wenn man den Stecker leicht nach oben drückt, jede Schublade, die klemmt, jedes Netzgerät, das brummt, bevor es endgültig den Dienst verweigert. Die Tische sind schwer und dunkel, mit alten Kratzern und kleinen Brandspuren, aber ich halte sie so ordentlich, wie es mit Jugendlichen, Experimenten und begrenztem Budget möglich ist. An der Wand hängen Sicherheitsregeln, ein Periodensystem und ein Plakat über elektromagnetische Wellen, das ich selbst laminiert habe.
+
+„Willkommen in 012“, sage ich. „Physik und Chemie. Mein eigentliches Zuhause in diesem Gebäude.“
+
+Er tritt ein, sieht sich um und bleibt vor dem sauber sortierten Geräteschrank stehen.
+
+„Sie mögen Ordnung.“
+
+„Ich mag es, wenn ich vor einer neunten Klasse nicht erst nach einem Kabel suchen muss.“
+
+„Das klingt weniger romantisch.“
+
+„Das ist Schule. Romantik endet meistens am Adapterfach.“
+
+Ich stelle meine Sachen aufs Pult und baue auf: eine lange Schraubenfeder, zwei Stative, eine flache Wanne, eine Pipette, ein Laptop. Er bleibt nicht im Weg — das allein macht ihn sympathisch. Neue Leute haben oft den Reflex, helfen zu wollen, und stehen dann genau dort, wo man den einzigen funktionierenden Adapter braucht. Er dagegen erkennt meine Wege nach einem Blick und stellt sich an die Fensterseite.
+
+„Wenn ich nachher nicke, halten Sie das Ende der Feder fest“, sage ich. „Nicht loslassen, egal wie sehr Sie das Bedürfnis packt, pädagogische Freiheit zu ermöglichen.“
+
+„Ich lasse nicht los.“
+
+Die Neunte kommt fünf Minuten später herein — genauer: meine Neunte, was bedeutet, anstrengend, wach, schnell beleidigt, überraschend witzig und klüger, als sie an manchen Tagen selbst glaubt. Jacken aus, Handys weg, #schueler2, ich sehe es.
+
+„Wer ist das?“, fragt #schuelerin1 und zeigt auf den neuen Kollegen, ohne die Tasche abzunehmen.
+
+„Neuer Kollege. Er begleitet mich heute, damit er die Schule kennenlernt.“
+
+„Unterrichten Sie uns auch?“, fragt #schueler1.
+
+Der Kollege sieht zu mir. Ich nicke.
+
+„Vielleicht irgendwann. Man weiß bei mir nie ganz genau, wo ich als Nächstes stehe.“
+
+„Was unterrichten Sie?“
+
+„Geschichte und Geographie.“
+
+Aus der hinteren Reihe kommt ein ehrliches, gequältes „Uff“, und ich muss nicht hinsehen, um zu wissen, von wem.
+
+„Danke für diese differenzierte Rückmeldung, #schueler2“, sage ich. „Setzen.“
+
+Ich schreibe _Wellenmechanik_ an die Tafel.
+
+„Wir machen heute etwas, das ihr alle kennt, aber nie freiwillig in einen Test schreiben würdet.“
+
+„Schlaf?“, fragt #schueler1.
+
+„Fast. Wellen.“
+
+„Langweilig.“
+
+„Das sagen Leute, bis ihr WLAN weg ist.“
+
+Ein paar lachen, genug. Ich nehme die Feder, deute dem Kollegen, das andere Ende zu halten, und stoße sie seitlich an. Ein Wellenberg läuft zu ihm hinüber, wird an seiner Hand reflektiert und kommt zurück.
+
+„Eine Welle ist kein Ding, das von links nach rechts läuft“, sage ich. „Es ist eine Störung, die sich ausbreitet. Das Material selbst bleibt, wo es ist. Nur die Form wandert. Was reist, ist nicht der Stoff, sondern die Veränderung — Energie und Information.“
+
+„Wie bei La Ola“, sagt #schuelerin1.
+
+„Perfekt. Die Menschen bleiben auf ihren Plätzen, die Bewegung geht durchs Stadion.“
+
+Ich lasse zwei Tropfen gleichzeitig in die Wasserwanne fallen. Die Kreiswellen treffen sich, verstärken sich an manchen Stellen, löschen sich an anderen fast aus.
+
+„Interferenz. Und jetzt das Wichtigste: In der Physik bekommt ihr nichts geschenkt. Wollt ihr an einer Stelle mehr, muss es woanders herkommen. Da entsteht nichts aus dem Nichts.“
+
+„Das ist die Äquivalenz des Tausches“, sagt der Kollege leise, mehr zu sich als zum Raum.
+
+Ich sehe kurz auf. „So ungefähr, ja. Nur dass ich es nicht so feierlich sage.“
+
+„Ich probiere noch aus, wie feierlich Physik hier sein darf.“
+
+Ich lasse es stehen, weil die Neunte weiterwill, und lasse sie selbst kleine Wellen erzeugen — nicht alle gleichzeitig, weil Wasser, Neunte und offene Hefte eine schlechte Kombination sind, aber genug, dass sie sehen: Zwei Bewegungen kämpfen nicht gegeneinander, sie addieren sich. Manchmal entsteht mehr. Manchmal weniger. Manchmal ein Muster, das keiner der beiden Impulse allein hatte.
+
+Während ich zwischen den Tischen gehe, denke ich für einen Moment an zu Hause. An den Bauch meiner Frau. An die winzige Bewegung unter ihrer Hand, die ich gestern gespürt habe. Eine Störung, die sich ausbreitet. Energie und Information. Ein Signal aus einem dunklen, warmen Inneren, das plötzlich meine ganze Welt neu ordnet.
+
+Ich verliere kurz den Faden.
+
+„Herr...?“, #schuelerin1 sieht mich fragend an.
+
+„Ja. Sorry. Also — wenn zwei Wellen sich treffen, verschwinden sie nicht. Sie gehen durcheinander hindurch. Für einen Moment entsteht etwas Gemeinsames, danach laufen beide weiter.“
+
+Der Kollege sieht nicht zur Tafel. Er sieht mich an. Nicht die Feder, nicht die Schüler — mich. Nicht, wie ein Hospitant Methoden prüft. Eher, als wolle er nicht wissen, was eine Welle ist, sondern was ich tue, wenn ein anderer Mensch etwas noch nicht versteht.
+
+Diesmal stört es mich seltsamerweise nicht.
+
+---
+
+Als es klingelt, steht die Neunte sofort auf. Kein Naturgesetz wirkt in Schulen zuverlässiger als der Pausengong. Ein paar bleiben, weil die Pause lang genug ist, um Neugier zuzulassen.
+
+„Sind Sie jetzt unser neuer Physiklehrer?“, fragt #schuelerin1 den Kollegen.
+
+„Vielleicht manchmal. Ich tauche selten dort auf, wo man mich erwartet.“
+
+„Sie reden irgendwie ruhig.“
+
+„Ich warte gern, bis ich den Raum verstanden habe.“
+
+#schuelerin1 überlegt. „Ist komisch. Aber nicht schlecht.“
+
+„Für den Anfang nehme ich das.“
+
+Er nimmt ein kurzes, abgebrochenes Stück Kreide vom Pult, kaum länger als mein Daumen, und hält es hoch. „Darf ich.“
+
+„Solange nichts explodiert“, sage ich.
+
+„Heute nicht.“
+
+„Heute nicht ist keine beruhigende Antwort“, sagt #schuelerin1.
+
+Er legt die Kreide flach auf den vorderen Tisch, nimmt aus #schuelerin2s offener Federmappe eine Büroklammer und legt sie daneben. Seine Bewegungen sind langsam genug, dass niemand glaubt, er wolle etwas verstecken — genau deshalb sehen alle hin.
+
+„Stellt euch vor, diese Klammer ist ein Reisender.“
+
+„Ein sehr kleiner Reisender“, sagt #schueler2.
+
+„Kleine Reisende finden große Wege.“
+
+Er legt die Klammer auf #schueler1s glattes Heft, schiebt es in die Tischmitte und zieht mit der Kreide einen Kreis darum, nicht perfekt, aber ordentlich, und setzt vier Striche wie Himmelsrichtungen hinein.
+
+„Norden, Süden, Osten, Westen.“
+
+„Ein Kompass aus Kreide“, sage ich. „Da bin ich ja gespannt.“
+
+„Der Reisende will nach Hause.“ Er sieht #schuelerin2 an. „Wo ist Zuhause. Such du es aus.“
+
+Sie zeigt auf den Strich rechts. „Osten.“
+
+„Gut.“ Er legt beide Hände flach auf den Tisch, weit genug von der Klammer entfernt, dass er sie nicht berührt. „Er kennt den Weg nicht mehr. Aber irgendwo dort wartet jemand, der ihn noch nicht vergessen hat.“
+
+„Das ist traurig“, sagt #schuelerin1.
+
+„Vielleicht ist es auch schön. Beides passt in denselben Satz.“
+
+Die Büroklammer bewegt sich.
+
+Nicht viel. Erst nur ein Zittern, wie von einem Luftzug — aber die Fenster sind zu. Dann dreht sie sich langsam auf dem Heft. Einmal. Stockt. Rutscht einen halben Zentimeter. Dreht weiter, bis ihre Spitze auf den Strich zeigt, den #schuelerin2 gewählt hat.
+
+Einen Moment sagt niemand etwas.
+
+„Magnet“, sagt #schueler2 dann.
+
+„Wo?“, fragt #schuelerin2 sofort.
+
+„Im Ärmel.“
+
+Der Kollege hebt beide Arme. Die Ärmel rutschen zurück. Kein Magnet, keine Uhr, kein Armband.
+
+„In der Kreide“, sagt #schueler1.
+
+Ich nehme die Kreide und breche sie in zwei Teile. Ganz normale Kreide, Staub an meinen Fingern.
+
+„Ey“, sagt #schueler1, „Sie zerstören Beweise.“
+
+„Das nennt man experimentelle Überprüfung.“
+
+#schuelerin1 beugt sich über das Heft. „Noch mal. Diesmal wähle ich.“
+
+Ich sollte eigentlich Pause machen, einen Schluck trinken, den Versuch abbauen, irgendetwas Lehrermäßiges. Stattdessen nicke ich. „Einmal noch.“
+
+„Norden“, sagt #schuelerin1 und tippt auf den oberen Strich.
+
+Der Kollege legt die Klammer zurück in die Mitte. Diesmal sieht er nicht sie an, sondern #schuelerin1.
+
+„Menschen hören nicht auf zu träumen.“
+
+„Was hat das mit der Büroklammer zu tun?“, fragt #schueler2.
+
+„Alles. Wenn sie eine Büroklammer ist.“
+
+Das ist so absurd, dass alle lachen, sogar ich. Und die Klammer dreht sich erneut, langsamer als beim ersten Mal, als müsse sie diesmal wirklich überlegen. Dann zeigt sie nach Norden.
+
+„Okay, das ist creepy“, sagt #schuelerin2, aber sie grinst.
+
+„Es ist ein Trick“, sagt #schueler1 mit der festen Überzeugung eines Menschen, der nicht weiß, wie, aber auf keinen Fall staunen möchte.
+
+„Natürlich.“
+
+Er gibt #schuelerin2 die Klammer zurück.
+
+„Wie geht der?“, fragt #schuelerin1.
+
+„Üben.“
+
+„Was üben?“
+
+„Hinsehen.“
+
+„Das ist keine Erklärung.“
+
+„Eine schlechte vielleicht. Die guten muss man sich verdienen.“
+
+Der Gong schlägt ein zweites Mal. „Raus“, sage ich. „Und wenn ich nachher Kreidekreise auf allen Heften sehe, weiß ich, wer schuld ist.“
+
+Sie ziehen ab, und auf dem Gang beginnt sofort dieser Pausenlärm, der nicht aus einzelnen Stimmen besteht, sondern aus einem einzigen lebenden Geräusch.
+
+---
+
+Ich bleibe mit ihm im Raum zurück. Auf #schueler1s Heft ist ein weißer Kreis, die Kreide gebrochen, die Klammer wieder in #schuelerin2s Mappe.
+
+„Netter Trick“, sage ich. „Magnet?“
+
+„Nein.“
+
+„Faden?“
+
+„Nein.“
+
+„Statische Aufladung?“
+
+„Nicht direkt.“ Er sieht mich dabei offen an, harmlos, als wäre die Frage nicht wichtig.
+
+„Sie verraten es nicht.“
+
+„Noch nicht. Manche Dinge versteht man besser, wenn man sie zweimal gesehen hat. Das erste Mal staunt man nur.“
+
+„Ein Zauberer schützt seine Geheimnisse.“
+
+„Ein Lehrer auch. Wenn man alles sofort erklärt, hört niemand mehr genau hin.“
+
+„Touché.“
+
+Er hilft mir beim Abbauen, und diesmal muss ich ihm nichts erklären. Er reicht mir die Feder im richtigen Moment, hält das Stativ, bevor es kippt, und rollt die Kabel so ordentlich auf, dass ich fast misstrauisch werde.
+
+„Sie haben das schon mal gemacht.“
+
+„Ähnliches. An vielen Orten. Man verliert irgendwann den Überblick, wo man überall schon gestanden hat.“
+
+„Klingt einsam.“
+
+Er hält kurz inne, das Kabel in der Hand. „Manchmal. Aber man sieht viel. Das ist ein Tausch, mit dem ich leben kann.“
+
+Wir bringen die Sachen in den Vorbereitungsraum, wo es nach Staub, Alkohol und Plastik riecht und ein Skelettmodell in der Ecke lehnt, das seit dem letzten Abistreich eine Sonnenbrille trägt.
+
+Er bleibt davor stehen.
+
+„Unser stillster Kollege“, sage ich.
+
+„Er wirkt zufrieden.“
+
+„Er hat keine Aufsichten.“
+
+„Ein beneidenswertes Leben.“
+
+Ich lache wieder. Es passiert an diesem Vormittag öfter, als ich erwartet hätte.
+
+---
+
+Mittags stehen wir noch einmal kurz an der Kaffeemaschine, die inzwischen behauptet, der Milchbehälter sei leer, obwohl er halb voll ist. Ich setze ihn neu ein, warte, verliere.
+
+„Vielleicht hören Sie ihr nicht richtig zu“, sagt er.
+
+„Das behauptet meine Frau auch.“
+
+Er sieht mich an, und sein Gesicht wird eine Spur weicher. „Sie sind verheiratet.“
+
+„Ja.“
+
+„Kinder.“
+
+Die Frage ist schlicht, nicht neugierig, nicht drängend. Trotzdem verändert sie etwas in mir — vielleicht, weil ich seit Wochen bei jeder Gelegenheit daran denke und gleichzeitig versuche, nicht bei jeder Gelegenheit davon anzufangen.
+
+„Bald“, sage ich. „Noch ein paar Wochen.“
+
+„Das ist gut.“
+
+„Es ist auch beängstigend.“
+
+Er nickt. „Das ist auch gut. Wenn etwas wichtig ist, darf es schwer sein. An das Leichte erinnert sich hinterher sowieso keiner.“
+
+Ich sehe in meinen Cappuccino. Der Schaum ist diesmal besser als am Morgen.
+
+„Haben Sie Kinder?“
+
+Er antwortet nicht sofort. Um uns herum ist das Lehrerzimmer laut — jemand flucht über den Kopierer, #kollegin1 sucht einen roten Stift, zwei Referendarinnen vergleichen Stundenentwürfe wie eine Operation am offenen Herzen.
+
+„Nicht so, wie Sie es meinen“, sagt er schließlich. „Aber ich bringe die eine oder andere Sache auf den Weg, von der ich hoffe, dass sie ohne mich weitergeht.“
+
+Ich weiß nicht recht, was ich darauf sagen soll, also sage ich etwas Normales. „Das klingt kompliziert.“
+
+„Ja. Das Meiste, das sich lohnt, ist es.“
+
+---
+
+Am Nachmittag zeige ich ihm den Rest, immer wieder unterbrochen — die Bibliothek, die offiziell Mediathek heißt und die trotzdem keiner so nennt, die Computerräume, die funktionieren, und die, die nur so tun, den Musikflur, wo jemand auf einem Xylophon seit Jahren dieselben vier Töne übt. Am Vertretungsplan bleibe ich hängen, weil mein Name plötzlich in einer Siebten auftaucht, die ich nicht haben sollte.
+
+„Das passiert Ihnen sicher öfter“, sagt er.
+
+„Nur an Tagen, die auf g enden.“
+
+„Heute ist Montag.“
+
+„Sehen Sie.“
+
+In der Siebten improvisiere ich — Maßstab, Schulhofplan, Fluchtweg zeichnen und die Entfernung berechnen. Nach fünf Minuten diskutieren sie, ob man im Notfall über den Zaun dürfte. Ein Mädchen in der zweiten Reihe dreht sich zum Kollegen um.
+
+„Sind Sie ein Prüfer?“
+
+„Nein.“
+
+„Warum gucken Sie dann so?“
+
+„Wie gucke ich denn.“
+
+„Als wäre alles interessant.“
+
+Er denkt einen Moment nach. „Vielleicht ist es das.“
+
+„Auch Maßstab?“
+
+„Besonders Maßstab. Damit passt ein ganzes Land auf ein Blatt Papier.“
+
+Sie schaut ihn an, als hätte er behauptet, Brokkoli sei ein Dessert. Später, im Rausgehen, sagt sie zu ihrer Freundin: „Der Neue ist komisch, aber nett.“ Ich nehme das als Erfolg.
+
+---
+
+Am Ende des Tages bringe ich ihn zurück zum Lehrerzimmer. Die Schule hat sich geleert, nicht ganz, nie ganz — irgendwo ist noch AG, im Sekretariat klingelt ein Telefon, im Flur steht ein vergessener Rucksack. Aber der Druck des Tages lässt nach, die Luft wirkt breiter.
+
+Er nimmt seine Jacke von der Stuhllehne. „Danke für den Tag. Es war gut.“
+
+„Sie sagen das, als hätten Sie eine Expedition überlebt.“
+
+„Vielleicht habe ich das.“
+
+„Morgen wird es schlimmer. Dienstage sind heimtückisch.“
+
+„Dann sehen wir uns morgen. Gleiche Zeit.“
+
+„Gleicher Kaffee.“
+
+„Gleicher Kaffee ist eine Drohung.“
+
+„Jetzt haben Sie die Schule verstanden.“
+
+An der Tür bleibt er kurz stehen. „Sie sind ein guter Lehrer.“
+
+Ich bin auf so einen Satz nicht vorbereitet, nicht am Ende eines normalen Tages, zwischen Kaffeeflecken und Korrekturstapeln.
+
+„Danke“, sage ich. „Ich gebe mir Mühe.“
+
+„Das merkt man.“
+
+Dann ist er draußen.
+
+#kollegin1 hebt den Kopf. „Netter Mann.“
+
+„Ja“, sage ich. „Ein bisschen seltsam.“
+
+„Das sind die Besten. Die Normalen halten es hier nicht aus.“
+
+---
+
+Auf meinem Handballen ist noch Kreidestaub vom Heftkreis. Ich reibe ihn mit dem Daumen weg, aber ein heller Rest bleibt in den Linien meiner Haut, während ich zum Ausgang gehe und an die Büroklammer denke.
+
+Natürlich war es ein Trick. Irgendein Magnet, irgendein Winkel, irgendeine kleine Vorbereitung, die ich übersehen habe. Vielleicht war die Klammer präpariert, vielleicht war es eine dieser simplen Täuschungen, die nur funktionieren, weil alle auf das Falsche achten.
+
+Trotzdem sehe ich wieder, wie sie sich langsam dreht. Wie die Schüler still werden. Wie #schuelerin2 grinst, obwohl sie sich gruselt. Wie #schueler1 sofort nach einer Erklärung sucht, weil Staunen ohne Erklärung für ihn kaum auszuhalten ist.
+
+Ich stelle mir ein kleines Kind vor. Vielleicht mit den leuchtenden Augen meiner Frau. Ein Kind an einem Küchentisch, eine Münze, eine Büroklammer, ein Stück Papier — und ich, der so tut, als könnte er zaubern, obwohl er nur lange genug geübt hat, dass die Hände wissen, was der Kopf nicht verrät.
+
+Vielleicht sollte ich so etwas lernen. Keine großen Sachen, keine Bühne. Nur kleine Dinge. Eine Büroklammer, die nach Hause findet. Eine Münze, die hinter einem Ohr wieder auftaucht. Etwas, das ein Kind zum Lachen bringt. Etwas, das sagt: Die Welt ist noch nicht fertig erklärt.
+
+Draußen ist die Luft kühl, auf dem Parkplatz stehen nur noch wenige Autos. Mein Handy vibriert. Zwei Nachrichten.
+
+Die erste von meiner Frau: _Bringst du auf dem Rückweg Brot mit? Und irgendwas Süßes. Dein Kind verlangt es._
+
+Die zweite von #freund1: _Stehst du wieder im Stau oder pumpst du heute mit? Ich bin ab halb sechs an den Hanteln. Keine Ausreden, du wirst weich._
+
+Ich schreibe meiner Frau zurück: _Klar. Bin nach dem Sport zu Hause._ Dann an #freund1: _Halb sechs. Fang ohne mich an, dann bist du aufgewärmt, wenn ich dich retten muss._
+
+Ich stecke das Handy weg, spüre den Kreidestaub noch in den Handlinien und gehe zum Auto. Auf dem Weg denke ich wieder an ihn. An seinen Kaffee. An seine seltsamen, freundlichen Antworten. An die Art, wie er nicht die Experimente beobachtet hat, sondern mich.
+
+Und daran, dass ich ihn morgen vielleicht fragen sollte, wie dieser Trick funktioniert.
+
+Nur aus Interesse.
+
+Natürlich nur aus Interesse.
+
+### Anmerkungen
+
 - TODO
 
+## 9. Entwurf
+
+TODO
+### Anmerkungen
+
+TODO
