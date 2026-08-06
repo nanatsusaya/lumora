@@ -1,0 +1,37 @@
+{
+  "method": "agent-project-rules",
+  "version": "0.5",
+  "artefacts": {
+    "operating-rules": "CLAUDE.md",
+    "decisions": "10 Method/ADR/",
+    "state": "10 Method/STATUS.md",
+    "method-log": "10 Method/method-log.md"
+  },
+  "authorities": {
+    "gate": null,
+    "tasks": "https://github.com/nanatsusaya/lumora/issues",
+    "secrets": "https://github.com/nanatsusaya/lumora/settings/security_analysis"
+  },
+  "language": {
+    "spelling": "american",
+    "allow": [
+      "Analyse",
+      "Paralyse"
+    ]
+  },
+  "ignore": [],
+  "adaptations": [
+    {
+      "rule": "L1",
+      "change": "narrowed",
+      "reason": "The checked-in corpus is German because the novel is written in German first and the notes are the author's working material; the prose in 08 Writing is the product itself. L1's one-language requirement therefore applies to the steering artifacts (CLAUDE.md, README.md, .github/, 10 Method/), which are American English. The German corpus is deliberately NOT in ignore, so the link and withdrawn-rule scans keep covering all 144 files; measured 2026-08-06, the whole vault corpus produces four spelling findings under american, all the single word Analyse, which is allow-listed together with Paralyse; a fifth occurrence comes from the method-log entry that names the word, which is recorded there so a later count of five does not read as drift. What is narrowed is the meaning of a clean run: the spelling scan proves nothing over German prose, because it compares it against English word pairs it never meets there. The same holds for the five German procedures under .claude/skills/.",
+      "decided": "2026-08-06"
+    },
+    {
+      "rule": "G1",
+      "change": "narrowed",
+      "reason": "There is no branch protection and no ruleset on main (decided 2026-08-06, deliberately). The review boundary exists as a way of working, not as a setting: the agent commits to a branch, opens a pull request and stops; merging is done by hand. What is missing is named rather than hidden - a push straight to main is technically possible and nothing prevents it, not even by accident. To change that, configure a ruleset at https://github.com/nanatsusaya/lumora/settings/rules with required approving reviews = 0, because most platforms forbid approving your own pull request and a higher number would make the trunk unmergeable for a single-author project.",
+      "decided": "2026-08-06"
+    }
+  ]
+}
