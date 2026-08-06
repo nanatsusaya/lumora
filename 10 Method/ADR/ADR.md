@@ -50,15 +50,20 @@ is checked.
 | 0005 | [Factual tone in reference notes, and its exceptions](0005-factual-tone-in-reference-notes.md) | Accepted |
 | 0006 | [File editing through Python, and verification in the same step](0006-file-editing-and-verification.md) | Accepted |
 | 0007 | [Glossary upkeep alongside every new coined term](0007-glossary-upkeep.md) | Accepted |
+| 0008 | [What the method governs, and what it leaves alone](0008-what-the-method-does-not-govern.md) | Accepted |
 
-All seven record conventions the vault already followed. None of them changes
+0001 to 0007 record conventions the vault already followed. None of them changes
 what a note must look like; what they add is the reason, which is the part that
 was only ever in somebody's head. `CLAUDE.md` now states each rule and names its
 record instead of explaining it twice.
 
+**0008 is the first record that decides something new** rather than writing down
+what already held. It draws the line between the method and the story, and takes
+the prose in `08 Writing` off the maturity axis.
+
 Writing them down measured the vault against them for the first time, and the
-measurements are in the records: four notes without frontmatter (0001), 21 of 138
-notes invisible to a maturity filter (0002), one tag spelled `#luminæri-lady`
-where the rule says `#luminaeri-lady` (0004), one `*Tag:*` line carrying two tags
-(0001). None of that is fixed here — the records say what holds, and bringing the
-vault in line is separate work.
+measurements are in the records: four notes without frontmatter (0001), 11 of 140
+reference notes invisible to a maturity filter (0002 and 0008), one tag spelled
+`#luminæri-lady` where the rule says `#luminaeri-lady` (0004), one `*Tag:*` line
+carrying two tags (0001). None of that is fixed here — the records say what
+holds, and bringing the vault in line is separate work.
