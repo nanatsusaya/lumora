@@ -23,7 +23,7 @@ Prose itself is written by the author. Contributions shape the world and the sto
 - **Concrete proposals:** open a GitHub Issue so it can be tracked and discussed.
 - **Small fixes** (typos, links): a Pull Request is fine.
 
-The author makes all final decisions on content. Not every idea will be adopted — a "no" is a decision about the direction of the work, not a judgement of the person who proposed it.
+The author makes all final decisions on content. Not every idea will be adopted — a "no" is a decision about the direction of the work, not a judgment of the person who proposed it.
 
 ## Things to Know
 

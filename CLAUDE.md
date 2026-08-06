@@ -157,7 +157,12 @@ commands: `/moin` (sitting down), `/feierabend` (stopping), `/weiterimtext`
 
 ### Vault Conventions
 
-#### Frontmatter Tags
+Each of these is a decision record in `10 Method/ADR/`, which holds the reasoning
+and what was rejected. This section states what to do; the record says why, and
+names where the vault does not yet follow it. Changing one of these rules means
+writing a superseding record, not editing the lines below.
+
+#### Frontmatter Tags — record 0001, vocabulary 0002
 
 Every note has YAML frontmatter with at least one tag:
 
@@ -192,28 +197,28 @@ Every named section with its own heading uses this structure directly below the 
 - Status progression: `#wip` → (when complete) → `#ready`
 - Full tag reference: `09 Meta/Tags.md`
 
-#### EN Translation Rule
+#### EN Translation Rule — record 0003
 
-`*EN: English Name*` is only added for **Eigenbegriffe** — invented proper nouns and coined terms that will be reused in the English novel (e.g. species names, god names, system terms like "Noetic Force").
+`*EN: English Name*` is only added for **Eigenbegriffe** — invented proper nouns and coined terms that will be reused in the English novel (species names, god names, system terms like "Noetic Force"). Generic headings ("Geschichte", "Gesellschaft", "Sonnensystem") do **not** get one.
 
-Generic headings (e.g. "Geschichte", "Gesellschaft", "Sonnensystem") do **not** get an EN line.
+The test when it is not obvious: **would this word appear in the English novel as itself?**
 
-#### All Tags in English
+#### All Tags in English — record 0004
 
 All `*Tag:*` identifiers and `*Status:*` flags are in English. No German tags.
 Examples: `#primal-god`, `#hakani`, `#desert-of-tears`, `#n-force`
 
-Names with special letters use an **ASCII slug** for the tag (e.g. *Elværi* → `#elvaeri`, *Drakōri* → `#drakori`, *Luminæri* → `#luminaeri`, *Vatæri* → `#vataeri`); prose, title and filename keep the special letters.
+Names with special letters use an **ASCII slug** for the tag (`æ` → `ae`, `ō` → `o`): *Elværi* → `#elvaeri`, *Drakōri* → `#drakori`, *Luminæri* → `#luminaeri`, *Vatæri* → `#vataeri`. Derived tags too: `#elvaeri-lady`. Prose, title and filename keep the special letters.
 
-#### Writing Style Inside Notes
+#### Writing Style Inside Notes — tone is record 0005
 
 **Tone — factual and objective (all notes except the actual story prose).**
-Notes are reference material and must read like a neutral knowledge base, not like a conversation or an essay. This applies to **headings and body text**:
+Notes are reference material and read like a neutral knowledge base. This applies to **headings and body text**:
 
 - **Headings** are short, neutral labels — no essayistic subtitles (`Begriff — eine poetische Pointe`), rhetorical questions, or dramatic colons.
-- **Body text** states facts and mechanics plainly. Avoid dramatizing flourishes (*„treibt unaufhaltsam auf die eigene Vernichtung zu"*), evaluative/aphoristic phrasing, punchy one-line antitheses, and chatty fillers (*„ehrlich"*, *„Pikant:"*, *„die Krönung"*).
-- **No authorial "wir/uns" framing** in reference notes: *„In dieser Note beschreiben wir …"* → *„Diese Notiz beschreibt …"*.
-- **Exceptions that stay subjective by design:** the German story prose in `08 Writing`; sanctioned author-voice blocks (`> *Kritische Anmerkung:*` / `> *Anmerkung:*`); in-world quotations; spoiler warnings; `Merksatz` axioms; and the craft/process framing in `05 Story Architecture` and `09 Meta` (when it talks about *writing* the story, not about world facts).
+- **Body text** states facts and mechanics plainly. Avoid dramatizing flourishes, evaluative/aphoristic phrasing, punchy one-line antitheses, and chatty fillers (*„ehrlich"*, *„Pikant:"*, *„die Krönung"*).
+- **No authorial "wir/uns" framing:** *„In dieser Note beschreiben wir …"* → *„Diese Notiz beschreibt …"*.
+- **Six exceptions stay subjective by design**, and the list is exhaustive: story prose in `08 Writing`; author-voice blocks (`> *Kritische Anmerkung:*` / `> *Anmerkung:*`); in-world quotations; spoiler warnings; `Merksatz` axioms; and craft framing in `05 Story Architecture` and `09 Meta` where it talks about *writing* the story rather than about world facts. A seventh needs a superseding record.
 
 **Compact sections** (for peoples, gods, etc.):
 ```
@@ -267,13 +272,13 @@ All twelve culture-bearing peoples now carry their **Elværin** names throughout
 - The Earth-origin **Menschen** (the protagonist's former kind) always stay *Menschen* — never Hakani.
 - **Single source of truth:** `02 Worldbuilding/02.03 Völker & Gesellschaften/Waldelværi.md` → section **"Sprache"** (Lautregel, coined terms, the full naming table, the esteem scale).
 
-#### Glossary Upkeep
+#### Glossary Upkeep — record 0007
 
-Whenever a new Eigenbegriff, named person, or specific worldbuilding entity (place, historical event/reference, organization, artifact) gets its own note or its own `*EN:*`-glossed section, add a matching entry to `Glossar.md` in the same work step — in both the **Deutsch** and **English** sections, alphabetically, linking to the source note (`[[Note#Heading|Display]] → kurze Definition`), with a short factual definition in each language.
+Whenever a new Eigenbegriff, named person, or specific worldbuilding entity (place, historical event/reference, organization, artifact) gets its own note or its own `*EN:*`-glossed section, add a matching entry to `Glossar.md` **in the same work step** — in both the **Deutsch** and **English** sections, alphabetically, linking to the source note (`[[Note#Heading|Display]] → kurze Definition`), with a short factual definition in each language.
 
 - Only Eigenbegriffe and named entities get entries — generic headings (Geschichte, Gesellschaft, Biologie …) do **not**, mirroring the EN-gloss rule.
-- On rename or deletion of a term, update or remove its glossary entry too, so the glossary never drifts from the vault.
-- Edit `Glossar.md` with the Python/UTF-8 rules and post-edit verification like any vault file.
+- On rename or deletion of a term, update or remove its entry in the same step.
+- Edit `Glossar.md` under the File Editing Rules below like any vault file.
 
 ### Translation Format (Novel)
 
@@ -294,9 +299,9 @@ If an idea conflicts with existing system rules:
 2. Daniel and Claude then discuss together: Is the idea worth adapting the system for? Or does the story need a different solution?
 3. **The Kern (01.) remains inviolable.** System details (02.–03.) can be revised if an idea is compelling enough to earn it.
 
-### File Editing Rules
+### File Editing Rules — record 0006
 
-**Never use the Edit tool or `sed` to modify vault markdown files.** Both truncate files containing UTF-8 characters (German umlauts, em-dashes, Obsidian `[[...]]`-links), especially on large files. Always use Python with explicit UTF-8 encoding for any read/write/edit operation on vault files:
+**Never use the Edit tool or `sed` to modify vault markdown files.** Both truncate files containing UTF-8 characters (German umlauts, em-dashes, Obsidian `[[...]]`-links), especially on large files. It has already happened once: `README.md` sat on `main` ending in `© 2026 Daniel Wag`. Always use Python with explicit UTF-8 encoding for any read/write/edit operation on vault files — the interpreter here is `py` or `python`, there is no `python3`:
 
 ```python
 with open(path, 'r', encoding='utf-8') as f:
