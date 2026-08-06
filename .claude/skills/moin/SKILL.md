@@ -10,9 +10,10 @@ description: >-
 
 # Sitzungsbeginn — Hochfahren
 
-*Setzt die Regeln S1, S2, S3 und H1 um. Der Katalog unter
-`E:\My Projects\agent-project-rules\method\rules.md` ist die Autorität; diese
-Datei ist nur die Prozedur.*
+*Setzt die Regeln S1, S2, S3 und H1 um. Die Autorität ist der
+Regelkatalog von **agent-project-rules** (`method/rules.md` unter
+`https://github.com/nanatsusaya/agent-project-rules`), der **nicht** in diesem
+Repository liegt. Diese Datei ist nur die Prozedur.*
 
 Eine Sitzung sauber zu beginnen ist eine Prozedur, nichts, was man aus dem
 Gedächtnis rekonstruiert. Improvisiertes Hochfahren scheitert immer gleich:

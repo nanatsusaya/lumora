@@ -11,9 +11,10 @@ description: >-
 
 # Nach dem Merge — die Naht zwischen zwei Arbeitseinheiten
 
-*Setzt die Regeln S1, S2, G1 und C4 um. Der Katalog unter
-`E:\My Projects\agent-project-rules\method\rules.md` ist die Autorität; diese
-Datei ist nur die Prozedur.*
+*Setzt die Regeln S1, S2, G1 und C4 um. Die Autorität ist der
+Regelkatalog von **agent-project-rules** (`method/rules.md` unter
+`https://github.com/nanatsusaya/agent-project-rules`), der **nicht** in diesem
+Repository liegt. Diese Datei ist nur die Prozedur.*
 
 Zwischen dem Abschluss einer Arbeitseinheit und dem Beginn der nächsten liegt
 eine Naht, und an der Naht geht es still schief: ein Branch bleibt hängen,

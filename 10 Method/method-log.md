@@ -152,3 +152,31 @@ session reading a green check does not conclude the trunk is guarded.
 **Lesson:** when a rule cannot be enforced, write down what is therefore not
 guaranteed. A check that passes because nothing was checked is the failure mode
 worth naming.
+
+## 2026-08-06 - A path on one machine is not an address
+
+**Trigger:** Daniel, reading the adopted `CLAUDE.md` in review: *"wieso hast du
+in der claude auf ein lokalen ordner verwiesen mit `node
+"../agent-project-rules/checks/check-method.mjs"`. es ist doch nicht sicher, ob
+der lokale stand immer so ist."*
+
+**Action:** the objection turned out to understate it. Eleven places named the
+catalog, and **six of them carried the absolute path**
+`E:\My Projects\agent-project-rules\...` - the five session procedures and the
+folder note - while five more gave the relative command as though it were a
+property of the repository. All of them now name the URL,
+`https://github.com/nanatsusaya/agent-project-rules`, state the sibling-clone
+layout as the convention it is, and say what to do when it is not there: report
+that the check could not run, never that it passed.
+
+**Impact:** the documents survive a clone. Before this, a session working the
+vault from any other directory - a fresh clone, another machine, a desktop
+bridge - would have read an authority that does not exist and either invented
+what the rules say or silently skipped the check.
+
+**Lesson:** C3 wants documentation that stands on its own, and the trap is
+subtler than an external link. A path that resolves *while you are writing it*
+reads as verified, because it was - once, here. The test is not whether the path
+works but whether anything in the repository guarantees it, and for a sibling
+directory nothing does. Where a document has to name something outside itself,
+name the address that is stable and say plainly what to do when the fetch fails.

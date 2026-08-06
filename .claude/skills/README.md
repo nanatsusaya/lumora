@@ -66,10 +66,15 @@ Each of these exists for a reason this project ran into:
    the end. `method.json` exists, so the adoption path cannot happen here. It
    also names both adaptations and what each one hangs on, so a review knows
    what to re-measure rather than re-assert.
-9. **The checker path is one level up.** `agent-project-rules` is cloned beside
-   `Lumora`, so `../agent-project-rules/checks/check-method.mjs` from the vault
-   root is correct here. A check that cannot start proves nothing, which is
-   exactly the failure a copied command hides best.
+9. **The catalog is named by its URL, not by a path on one machine.** The
+   upstream copies point at a checkout; the first draft of these copies pointed
+   at `E:\My Projects\agent-project-rules`, which is dead the moment this
+   repository is cloned anywhere else — including through the Cowork desktop
+   bridge. These name `https://github.com/nanatsusaya/agent-project-rules` and
+   state the sibling-clone layout as the convention it is. Each of them also
+   says what to do when the checker is not there: report that the check could
+   not run. A check that cannot start proves nothing, which is exactly the
+   failure a copied command hides best.
 
 Everything not listed above is a translation of the upstream text.
 

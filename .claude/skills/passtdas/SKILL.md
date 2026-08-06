@@ -10,9 +10,10 @@ description: >-
 
 # Passt die Methode noch?
 
-*Setzt die Regeln A1, A2 und C1 um. Der Katalog unter
-`E:\My Projects\agent-project-rules\method\rules.md` ist die Autorität; diese
-Datei ist nur die Prozedur.*
+*Setzt die Regeln A1, A2 und C1 um. Die Autorität ist der
+Regelkatalog von **agent-project-rules** (`method/rules.md` unter
+`https://github.com/nanatsusaya/agent-project-rules`), der **nicht** in diesem
+Repository liegt. Diese Datei ist nur die Prozedur.*
 
 Dieses Projekt hat eine `method.json`. Der übliche Fall ist deshalb die
 **Überprüfung**, nicht die Einführung: Passt, was dort steht, noch zu dem, wie
@@ -62,17 +63,24 @@ Entscheidung über die Arbeitsweise dieses Projekts, und die gehört Daniel.
   dem Withdrawn-Scan. Wächst die Liste, wächst ein blinder Fleck.
 - **Ist `language.allow` noch kurz?** Eine Freistellung ist ein Loch, und der
   Prüfer nennt jedes in jedem Bericht beim Namen. Zwei Wörter kann man prüfen.
-- **Ist die Katalogversion noch aktuell?** Steht in
-  `E:\My Projects\agent-project-rules\method\VERSION`.
+- **Ist die Katalogversion noch aktuell?** Steht in `method/VERSION` im
+  Katalog-Repository (siehe unten). Ist der Katalog nicht erreichbar, ist die
+  Frage offen und nicht beantwortet.
 
 ## 3. Den Prüfer laufen lassen
+
+Katalog und Prüfer liegen **nicht** in diesem Repository, sondern unter
+`https://github.com/nanatsusaya/agent-project-rules`. Auf diesem Rechner steht ein
+Clone neben dem Vault-Ordner, dann läuft aus der Vault-Wurzel:
 
 ```
 node "../agent-project-rules/checks/check-method.mjs" .
 ```
 
-Aus der Wurzel des Vaults; `agent-project-rules` liegt eine Ebene darüber, neben
-`Lumora`. Als eigenen Befehl, nicht in eine Pipeline gehängt.
+Das ist eine Konvention, keine Zusicherung — nichts im Repository erzwingt, wo
+der Clone liegt oder dass es einen gibt. **Findest du ihn nicht, berichte, dass
+die Prüfung nicht laufen konnte**, und halt an: eine Überprüfung ohne Prüfer ist
+eine Behauptung. Als eigenen Befehl, nicht in eine Pipeline gehängt.
 
 Berichte, was er sagt — **einschließlich dessen, was er nicht geprüft haben
 will**, und einschließlich der Zahl gelesener Verweise. Liest er null Verweise,

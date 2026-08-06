@@ -9,9 +9,10 @@ description: >-
 
 # Eine Entscheidungsakte schreiben
 
-*Setzt die Regeln D1, D2, D3 und G2 um. Der Katalog unter
-`E:\My Projects\agent-project-rules\method\rules.md` ist die Autorität; diese
-Datei ist nur die Prozedur.*
+*Setzt die Regeln D1, D2, D3 und G2 um. Die Autorität ist der
+Regelkatalog von **agent-project-rules** (`method/rules.md` unter
+`https://github.com/nanatsusaya/agent-project-rules`), der **nicht** in diesem
+Repository liegt. Diese Datei ist nur die Prozedur.*
 
 Eine Entscheidung zu verfassen ist eine wiederholbare Prozedur. Halte dich genau
 daran: Entscheidungen sind **normativ**, und alles später Gebaute steht darauf.
@@ -142,6 +143,9 @@ nichts darüber, dass es die Sache gibt.
 - Sind aus den offenen Fragen **Resolved questions** mit `R1..Rn` geworden?
 - Steht `Accepted` in der Akte **und** im Index, sodass nichts einer
   Folgeänderung überlassen bleibt?
-- Läuft `node "../agent-project-rules/checks/check-method.mjs" .` grün? Der
-  Prüfer vergleicht Aktenstatus gegen Indexstatus; genau das ist der Fehler, den
-  niemand von Hand findet.
+- Läuft der Kohärenzprüfer grün? Er vergleicht Aktenstatus gegen Indexstatus;
+  genau das ist der Fehler, den niemand von Hand findet. Er liegt **nicht** in
+  diesem Repository, sondern unter `https://github.com/nanatsusaya/agent-project-rules`;
+  steht ein Clone neben dem Vault-Ordner, läuft aus der Vault-Wurzel
+  `node "../agent-project-rules/checks/check-method.mjs" .`. Findest du ihn
+  nicht, schreib das in den Pull Request, statt den Lauf zu behaupten.

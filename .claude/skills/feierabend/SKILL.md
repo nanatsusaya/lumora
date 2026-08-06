@@ -9,9 +9,10 @@ description: >-
 
 # Sitzungsende — Herunterfahren
 
-*Setzt die Regeln S1, S3, W1 und H1 um. Der Katalog unter
-`E:\My Projects\agent-project-rules\method\rules.md` ist die Autorität; diese
-Datei ist nur die Prozedur.*
+*Setzt die Regeln S1, S3, W1 und H1 um. Die Autorität ist der
+Regelkatalog von **agent-project-rules** (`method/rules.md` unter
+`https://github.com/nanatsusaya/agent-project-rules`), der **nicht** in diesem
+Repository liegt. Diese Datei ist nur die Prozedur.*
 
 Eine Sitzung sauber zu schließen ist eine Prozedur. Das Ziel ist, Repository und
 Übergabe an einem **ehrlichen Haltepunkt** zu hinterlassen: Was wirklich fertig
@@ -80,11 +81,18 @@ Schreibregeln: Python mit `encoding='utf-8'`, Verifikation im selben Codeblock.
 ## 4. Den Prüfer laufen lassen
 
 Wurde in dieser Sitzung an `method.json`, an `10 Method/` oder an `CLAUDE.md`
-gearbeitet, lauf den Kohärenzprüfer, bevor du übergibst:
+gearbeitet, lauf den Kohärenzprüfer, bevor du übergibst.
+
+Der Prüfer liegt **nicht** in diesem Repository, sondern unter
+`https://github.com/nanatsusaya/agent-project-rules`. Auf diesem Rechner steht ein
+Clone neben dem Vault-Ordner, dann läuft aus der Vault-Wurzel:
 
 ```
 node "../agent-project-rules/checks/check-method.mjs" .
 ```
+
+Das ist eine Konvention, keine Zusicherung. **Findest du ihn nicht, schreib in
+die Übergabe, dass die Prüfung nicht laufen konnte** — nie, dass sie grün war.
 
 Als eigenen Befehl, nicht in eine Pipeline gehängt: eine Pipeline meldet den
 Exitcode des letzten Befehls, und wer die Ausgabe kürzt, versteckt den

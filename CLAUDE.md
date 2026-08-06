@@ -109,18 +109,26 @@ act on.
 work goes onto a branch, then into a Pull Request, and Daniel merges. Nothing
 technically prevents a direct push to `main`, not even by accident.
 
-**The checker does not see `[[wiki-links]]`.** Running
+**The catalog and its checker are not in this repository.** They live at
+`https://github.com/nanatsusaya/agent-project-rules`. Where a clone sits next
+to this folder — the convention on the machine this was adopted on — the
+command from the vault root is:
 
 ```
 node "../agent-project-rules/checks/check-method.mjs" .
 ```
 
-from this folder reads `method.json`, confirms the four bound files exist and
-are filled, resolves ordinary Markdown references, compares each decision record
-against its index row, and enforces one spelling regime. It ignores Obsidian
-links, of which the vault has 1,892 against a few dozen ordinary ones — so a
-green run says nothing about the vault's own cross-linking. That stays
-Obsidian's job.
+That is a convention and not a guarantee: nothing in this repository controls
+where the clone sits, or whether there is one. **A session that does not find
+it reports that the check could not run — never that it passed.** Everything
+stated in this file holds without the checker; it confirms, it does not carry.
+
+**What the checker sees, and what it does not.** It reads `method.json`,
+confirms the four bound files exist and are filled, resolves ordinary Markdown
+references, compares each decision record against its index row, and enforces
+one spelling regime. It ignores Obsidian `[[wiki-links]]`, of which the vault
+has 1,892 against a few dozen ordinary ones — so a green run says nothing about
+the vault's own cross-linking. That stays Obsidian's job.
 
 **Session procedures** live in `.claude/skills/` and are typed as slash
 commands: `/moin` (sitting down), `/feierabend` (stopping), `/weiterimtext`
