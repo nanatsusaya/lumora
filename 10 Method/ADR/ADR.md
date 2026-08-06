@@ -44,14 +44,21 @@ is checked.
 | Nr. | Decision | Status |
 |---|---|---|
 | 0001 | [Frontmatter and section format](0001-frontmatter-and-section-format.md) | Accepted |
-| 0002 | Tag vocabulary and what each tag means | Planned |
-| 0003 | When a heading gets an `*EN:*` gloss | Planned |
-| 0004 | ASCII slugs for tags of names with special letters | Planned |
-| 0005 | Factual tone in reference notes, and its exceptions | Planned |
-| 0006 | File editing: UTF-8 through Python, and post-write verification | Planned |
-| 0007 | Glossary upkeep alongside every new coined term | Planned |
+| 0002 | [Tag vocabulary](0002-tag-vocabulary.md) | Accepted |
+| 0003 | [When a heading gets an `*EN:*` gloss](0003-en-gloss-for-coined-terms.md) | Accepted |
+| 0004 | [ASCII slugs for tags of names with special letters](0004-ascii-slugs-for-tags.md) | Accepted |
+| 0005 | [Factual tone in reference notes, and its exceptions](0005-factual-tone-in-reference-notes.md) | Accepted |
+| 0006 | [File editing through Python, and verification in the same step](0006-file-editing-and-verification.md) | Accepted |
+| 0007 | [Glossary upkeep alongside every new coined term](0007-glossary-upkeep.md) | Accepted |
 
-Rows 0002 to 0007 are conventions `CLAUDE.md` already prescribes and enforces.
-They are listed as `Planned` because the reasoning behind them is not written
-down anywhere, and a rule without its reason is the one a later session drops.
-Moving them here is the work O2 in [[STATUS]] asks about.
+All seven record conventions the vault already followed. None of them changes
+what a note must look like; what they add is the reason, which is the part that
+was only ever in somebody's head. `CLAUDE.md` now states each rule and names its
+record instead of explaining it twice.
+
+Writing them down measured the vault against them for the first time, and the
+measurements are in the records: four notes without frontmatter (0001), 21 of 138
+notes invisible to a maturity filter (0002), one tag spelled `#luminæri-lady`
+where the rule says `#luminaeri-lady` (0004), one `*Tag:*` line carrying two tags
+(0001). None of that is fixed here — the records say what holds, and bringing the
+vault in line is separate work.

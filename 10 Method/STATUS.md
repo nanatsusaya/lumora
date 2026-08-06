@@ -62,23 +62,30 @@ the prose and left there.
 
 | What | Decision | State |
 |---|---|---|
-| Frontmatter tag and section format | 0001 | ❓ accepted, never checked across all 144 notes |
-| The remaining conventions in `CLAUDE.md` | 0002-0007 | ⛔ needs a decision record each |
+| Frontmatter on every note | 0001 | ❓ accepted; 4 of 138 notes have none |
+| One `*Tag:*` per section | 0001 | ❓ accepted; one section carries two |
+| Tag vocabulary | 0002 | ❓ accepted; 21 of 138 notes carry no kind or maturity tag |
+| ASCII slugs for tags | 0004 | ❓ accepted; one tag disagrees with it |
+| EN gloss, tone, file editing, glossary | 0003, 0005, 0006, 0007 | ✅ in force (2026-08-06) |
+
+The four ❓ rows are what writing the records produced: each convention was
+measured against the vault for the first time, and none of them is fully
+followed. The records say what holds; bringing the notes in line is separate
+work and is not started.
 
 ## Open questions for the deciders
 
-**O2 - Do the remaining conventions in `CLAUDE.md` become decision records?**
-For Daniel. Six of them stand as `Planned` rows in [[ADR]]: the tag vocabulary,
-the `*EN:*` gloss rule, the ASCII tag slugs, the tone in reference notes, the
-file-editing rules, and glossary upkeep. Each works today and none of them says
-*why* it holds, which is what makes a rule get dropped by a session that finds
-it inconvenient. Recommended: yes, one record each, in that order - after which
-`CLAUDE.md` states each rule in a line and names its record instead of
-explaining it twice. Nothing is blocked on this.
+None open.
 
-*O1 - prose or worldbuilding as the primary focus - was answered on 2026-08-06:
-neither, they carry equal weight. The answer is folded into* Where we stand
-*above.*
+*O1 - prose or worldbuilding as the primary focus - answered 2026-08-06:
+neither, they carry equal weight. Folded into* Where we stand *above.*
+
+*O2 - do the remaining conventions in `CLAUDE.md` become decision records -
+answered 2026-08-06: yes, one record each, in the order the index listed them.
+All six are written and* Accepted*; the index has no* Planned *row left.
+Daniel reserved judgment on the result -* „ich schau mir an was es bewirkt und
+entscheide später ob es mir gefällt" *- so a later decision to undo or reshape
+this is expected, and would be a superseding record rather than an edit.*
 
 ## Next step
 

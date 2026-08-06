@@ -37,7 +37,7 @@ Lumora — The Legacy of Chaos is an author-led storytelling project. This code 
 
 Lumora is the work of its author. Suggestions, input and collaboration are expressly welcome, and the project thrives on this involvement. Final decisions on content, however, rest with the author.
 
-Contributors accept that not every idea will be adopted. A rejection is not a judgement of the person who proposed it, but a decision about the direction of the work. A reasoned "no" is a normal part of the collaboration.
+Contributors accept that not every idea will be adopted. A rejection is not a judgment of the person who proposed it, but a decision about the direction of the work. A reasoned "no" is a normal part of the collaboration.
 
 ### Expected Behavior
 

@@ -15,10 +15,11 @@ without asking, whether a note is finished, what a section is called elsewhere
 in the vault, and which term is a coined name rather than an ordinary heading.
 
 The vault has answered this from the start with a fixed shape for frontmatter
-and for named sections. It works, it is applied across all 144 notes, and it has
-never been written down as a decision - only as instructions inside `CLAUDE.md`.
-That is enough to follow the rule and not enough to know why it holds, which is
-what makes a rule get dropped.
+and for named sections. It works, it is applied nearly everywhere - measured
+2026-08-06, 134 of 138 vault notes carry frontmatter - and it had never been
+written down as a decision, only as instructions inside `CLAUDE.md`. That is
+enough to follow the rule and not enough to know why it holds, which is what
+makes a rule get dropped.
 
 ## Decision
 
@@ -31,10 +32,8 @@ tags:
 ---
 ```
 
-The tags in use are `canon` (inviolable foundation, never removed; all notes in
-`01 Kern von Lumora`), `wip` (in progress), `ready` (complete - only when every
-section in the note is `ready`), and `meta` (describes the vault itself, not
-story content).
+Which tags exist and what each of them claims is **0002**. This record requires
+only that the frontmatter is there and carries at least one.
 
 **Every named section with its own heading carries a three-line block directly
 below the heading:**
@@ -52,29 +51,39 @@ below the heading:**
 - `#working-title` belongs in `*Status:*`, never in `*Tag:*`.
 - The progression is `#wip` then, when complete, `#ready`.
 
-**The `*EN:*` line is added only for coined terms** - invented proper nouns that
-will be reused in the English novel, such as species names, god names, and
-system terms like *Noetic Force*. Generic headings (Geschichte, Gesellschaft,
-Sonnensystem) do not get one.
+**The `*EN:*` line is not on every heading.** Which headings earn one is **0003**.
 
-**All tag identifiers and status flags are English.** Names with special letters
-use an ASCII slug in the tag while prose, title and filename keep the letters:
-*Elværi* is tagged `#elvaeri`, *Drakōri* is tagged `#drakori`.
+**All tag identifiers and status flags are English**, never German: `#primal-god`,
+`#hakani`, `#desert-of-tears`, `#n-force`. Names carrying letters ASCII does not
+have are **0004**.
 
 ## Consequences
 
 A note without frontmatter is incomplete, not merely untidy: Obsidian's tag pane
 and every search that filters by maturity silently skip it, so it looks absent
-rather than unfinished.
+rather than unfinished. **Four notes are in that state**, measured 2026-08-06:
+`00 Inbox/Entwürfe Part I.md`, `00 Inbox/Prosa-Beispiele.md`,
+`02 Worldbuilding/02.02 Spezies/Kulturschaffende/Kulturschaffende Spezies.md`
+and `03 Noetic System/03.09 Innerweltliche Fehlinterpretation.md`. The third is
+the peoples overview that `CLAUDE.md`'s own *Key Files to Read* table sends
+readers to. Nothing reported this until the record was written and the vault was
+counted against it.
 
 `ready` is a claim about the whole note. Promoting a note while one of its
 sections is still `wip` makes the tag mean nothing, and the next reader has no
 cheaper way to find out than reading the note.
 
-The `*EN:*` rule creates an obligation elsewhere: a new coined term needs a
-matching entry in `Glossar.md`, in both the German and the English section, in
-the same work step. That obligation is currently written only in `CLAUDE.md` and
-gets its own record (0007).
+**One `*Tag:*` line breaks the one-tag rule.** Measured 2026-08-06 across 101
+`*Tag:*` lines in the vault, exactly one carries two:
+`03 Noetic System/03.02 Funktionsweise.md:134` reads `*Tag:* #fringe */* #void`.
+Two tags there means the section is two sections, and a cross-reference to it
+resolves to whichever the reader picks. Nothing reported it; the rule had never
+been counted against the vault before this record was written.
+
+The three lines are not independent. A heading that earns an `*EN:*` line under
+0003 also earns a `Glossar.md` entry under 0007, in the same work step, and a
+`*Tag:*` built from a name with special letters takes the slug from 0004. This
+record fixes the shape; three others fill it.
 
 Sections are addressed across the vault as `[[Note#Heading|Display]]`. Renaming
 a heading therefore breaks incoming links, and nothing in this repository checks
@@ -95,7 +104,3 @@ scatter what is read together.
 while the concept stays; the tag is the stable identifier that survives a
 rewrite. Removing it would make every cross-reference depend on a phrasing
 nobody promised to keep.
-
-**Glossing every heading in English.** Rejected as noise. A gloss on
-*Geschichte* teaches nothing, while a gloss on *Noetische Kraft* is the term the
-English novel will use. The rule earns its keep only by being selective.
