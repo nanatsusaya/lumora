@@ -9,8 +9,8 @@
 - [English](#english)
   - [Purpose](#purpose)
   - [The Author's Role](#the-authors-role)
-  - [Expected Behaviour](#expected-behaviour)
-  - [Unacceptable Behaviour](#unacceptable-behaviour)
+  - [Expected Behavior](#expected-behavior)
+  - [Unacceptable Behavior](#unacceptable-behavior)
   - [Use of Project Material](#use-of-project-material)
   - [Scope](#scope)
   - [Enforcement](#enforcement)
@@ -31,7 +31,7 @@
 
 ### Purpose
 
-Lumora — The Legacy of Chaos is an author-led storytelling project. This code of conduct describes how collaboration on the project works and what behaviour is expected. The goal is an open, respectful environment in which contributors can offer ideas, feedback and criticism.
+Lumora — The Legacy of Chaos is an author-led storytelling project. This code of conduct describes how collaboration on the project works and what behavior is expected. The goal is an open, respectful environment in which contributors can offer ideas, feedback and criticism.
 
 ### The Author's Role
 
@@ -39,14 +39,14 @@ Lumora is the work of its author. Suggestions, input and collaboration are expre
 
 Contributors accept that not every idea will be adopted. A rejection is not a judgement of the person who proposed it, but a decision about the direction of the work. A reasoned "no" is a normal part of the collaboration.
 
-### Expected Behaviour
+### Expected Behavior
 
 - Feedback addresses texts, ideas and concepts, not people.
 - Criticism is substantiated and states concretely what does not work and why (e.g. "This turn feels inconsistent to me because …").
 - Negative assessments are also welcome, as long as they are expressed in an appropriate manner.
 - Differing viewpoints are respected; disagreements are handled constructively.
 
-### Unacceptable Behaviour
+### Unacceptable Behavior
 
 - Personal attacks, disparagement or insults.
 - Trolling, deliberate provocation or destructive comments with no substantive contribution.
@@ -55,7 +55,7 @@ Contributors accept that not every idea will be adopted. A rejection is not a ju
 
 ### Use of Project Material
 
-The universe, texts and concepts of Lumora are licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** licence. The material may be used within the terms of that licence — in particular with attribution, non-commercially, and shared alike. The full terms are set out in the [`LICENSE`](./LICENSE) file.
+The universe, texts and concepts of Lumora are licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license. The material may be used within the terms of that license — in particular with attribution, non-commercially, and shared alike. The full terms are set out in the [`LICENSE`](../LICENSE) file.
 
 Unpublished material shared in the course of collaboration is not published or further distributed without prior agreement.
 
@@ -67,8 +67,8 @@ This code applies across all areas of the project — such as issues, pull reque
 
 Violations should be reported directly to the author by e-mail: **nanatsusaya-lumora@gmx.net**. Reported matters are reviewed confidentially. Depending on severity and recurrence, the following steps are possible:
 
-1. **Notice** — a clarifying note regarding the behaviour in question.
-2. **Warning** — a formal warning with the expectation of a change in behaviour.
+1. **Notice** — a clarifying note regarding the behavior in question.
+2. **Warning** — a formal warning with the expectation of a change in behavior.
 3. **Removal** — temporary or permanent exclusion from the project.
 
 ### Attribution
@@ -105,7 +105,7 @@ Mitwirkende akzeptieren, dass nicht jede Idee übernommen wird. Eine Ablehnung i
 
 ### Umgang mit Projektmaterial
 
-Das Universum, die Texte und die Konzepte von Lumora stehen unter der Lizenz **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**. Die Nutzung des Materials ist im Rahmen dieser Lizenz möglich — insbesondere unter Namensnennung, nicht-kommerziell und mit Weitergabe unter gleichen Bedingungen. Die vollständigen Bedingungen stehen in der Datei [`LICENSE`](./LICENSE).
+Das Universum, die Texte und die Konzepte von Lumora stehen unter der Lizenz **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**. Die Nutzung des Materials ist im Rahmen dieser Lizenz möglich — insbesondere unter Namensnennung, nicht-kommerziell und mit Weitergabe unter gleichen Bedingungen. Die vollständigen Bedingungen stehen in der Datei [`LICENSE`](../LICENSE).
 
 Unveröffentlichtes Material, das im Rahmen der Zusammenarbeit geteilt wird, wird nicht ohne Absprache veröffentlicht oder weiterverbreitet.
 

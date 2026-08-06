@@ -31,6 +31,7 @@ Lumora/
 ├── 07 Research/          ← External references only. Never mix with own lore.
 ├── 08 Writing/           ← Prose drafts (German only).
 ├── 09 Meta/              ← Project philosophy & framing.
+├── 10 Method/            ← How this project is worked: status, decisions, method log.
 └── Assets/               ← Images: maps, species artwork, illustrations.
 
 ```
@@ -64,28 +65,75 @@ Before diving into any topic, read the relevant file — don't rely on this docu
 
 ## Project Status
 
-### Done ✅
-- Core philosophy & canon foundation (`01 Kern`)
-- Noetic System fundamentals (basics, functionality, limits)
-- Cosmology & world structure basics
-- Initial character roster (protagonist, gods, Lumora & Earth figures) — `04 Characters/`
-- Core lore & mystery foundation (foreign-bringer, foreign seed, the three rules) — `06 Lore & Mystery/`
-- Story architecture skeleton: act structure + chapter overviews for Part I–V — `05 Story Architecture/`
-- The twelve culture-bearing peoples, cosmology & history basics — `02 Worldbuilding/`
-- **Elværin language system + vault-wide species naming** (see Vault Conventions → Species & Elværin Naming)
+Where the project stands — what is done, what is in progress, what has not
+started, and the one next step — is recorded in **`10 Method/STATUS.md`** and
+nowhere else.
 
-### In Progress 🔄
-- **Worldbuilding: deepening the culture-bearing peoples (`02`) — current primary focus** (Anelari, Luminæri, Elværi, Volari, … being expanded)
-- Early prose: Part I chapters (`08 Writing` — drafts in `08.00 Entwürfe`, first chapters in `08.01 Fertig`)
-- Story architecture: deepening acts, chapters, and scene-level structure (`05`)
-- Character development beyond initial notes (`04`)
-- Lore & mystery threads (`06`)
+It used to be listed here *and* in `README.md`. Both copies still named the
+deepening of the peoples as the primary focus on 2026-08-06, six weeks after
+every commit had gone to `08 Writing` instead. A fact with two authorities
+becomes two different facts as soon as one of them is edited.
 
-### Not Yet Started 📋
-- Geography: regions & hotspots (planned next, after the peoples are deepened)
-- Full timeline
-- Remaining Noetic System details (cellular biology, advanced applications)
-- Deeper worldbuilding (societies, religion)
+---
+
+## How This Project Is Worked
+
+This project follows **agent-project-rules**, catalog version `0.5`. The binding
+is `method.json` in this folder. The rules below are *stated* here rather than
+linked, because a session working a task has this repository and nothing else,
+and an instruction to fetch something external is a fetch that can fail.
+
+**Four artifacts, four questions.** Every fact belongs to exactly one of them
+and is not repeated in another:
+
+| Role | File | Answers |
+|---|---|---|
+| operating rules | `CLAUDE.md` (this file) | How is work done here? |
+| decisions | `10 Method/ADR/` | What was decided, and why? |
+| state | `10 Method/STATUS.md` | Where do we stand? |
+| method log | `10 Method/method-log.md` | Why does the way of working look like this? |
+
+Decisions in `10 Method/ADR/` are about **the vault**, never about Lumora. The
+canon laws, the Noetic rules and the cosmology are content and stay in
+`01 Kern von Lumora` and `02`–`03`.
+
+**Language.** This file, `README.md`, everything under `.github/` and everything
+in `10 Method/` is English in **American** spelling — *artifact*, *behavior*,
+*center*, *catalog*, *analyze*, *license*, *color*, *gray*. Everything else in
+the vault is German. The five session procedures under `.claude/skills/` are
+German too, because they are read while working, next to the German notes they
+act on.
+
+**`main` carries no protection.** No branch protection, no ruleset — deliberately
+(decided 2026-08-06). The review boundary is a way of working, not a setting:
+work goes onto a branch, then into a Pull Request, and Daniel merges. Nothing
+technically prevents a direct push to `main`, not even by accident.
+
+**The catalog and its checker are not in this repository.** They live at
+`https://github.com/nanatsusaya/agent-project-rules`. Where a clone sits next
+to this folder — the convention on the machine this was adopted on — the
+command from the vault root is:
+
+```
+node "../agent-project-rules/checks/check-method.mjs" .
+```
+
+That is a convention and not a guarantee: nothing in this repository controls
+where the clone sits, or whether there is one. **A session that does not find
+it reports that the check could not run — never that it passed.** Everything
+stated in this file holds without the checker; it confirms, it does not carry.
+
+**What the checker sees, and what it does not.** It reads `method.json`,
+confirms the four bound files exist and are filled, resolves ordinary Markdown
+references, compares each decision record against its index row, and enforces
+one spelling regime. It ignores Obsidian `[[wiki-links]]`, of which the vault
+has 1,892 against a few dozen ordinary ones — so a green run says nothing about
+the vault's own cross-linking. That stays Obsidian's job.
+
+**Session procedures** live in `.claude/skills/` and are typed as slash
+commands: `/moin` (sitting down), `/feierabend` (stopping), `/weiterimtext`
+(after a merge landed), `/adr` (writing a decision record), `/passtdas`
+(checking that the declaration still matches how work is actually done).
 
 ---
 
@@ -221,7 +269,7 @@ All twelve culture-bearing peoples now carry their **Elværin** names throughout
 
 #### Glossary Upkeep
 
-Whenever a new Eigenbegriff, named person, or specific worldbuilding entity (place, historical event/reference, organisation, artefact) gets its own note or its own `*EN:*`-glossed section, add a matching entry to `Glossar.md` in the same work step — in both the **Deutsch** and **English** sections, alphabetically, linking to the source note (`[[Note#Heading|Display]] → kurze Definition`), with a short factual definition in each language.
+Whenever a new Eigenbegriff, named person, or specific worldbuilding entity (place, historical event/reference, organization, artifact) gets its own note or its own `*EN:*`-glossed section, add a matching entry to `Glossar.md` in the same work step — in both the **Deutsch** and **English** sections, alphabetically, linking to the source note (`[[Note#Heading|Display]] → kurze Definition`), with a short factual definition in each language.
 
 - Only Eigenbegriffe and named entities get entries — generic headings (Geschichte, Gesellschaft, Biologie …) do **not**, mirroring the EN-gloss rule.
 - On rename or deletion of a term, update or remove its glossary entry too, so the glossary never drifts from the vault.
@@ -290,10 +338,17 @@ tags:
 
 ### Git Commits
 
-**Daniel handles all git commits. Claude never runs `git commit`** (or any variant like `--amend`, `-am`, etc.).
+**Committing is situational (decided 2026-08-06).** Claude may commit **on a
+branch** and open a Pull Request. `main` belongs to Daniel.
 
-- Claude may stage files (`git add`) only if explicitly asked.
-- When a task is complete and committing would be the natural next step: stop and tell Daniel.
+- **Never on `main`:** no commit, no push, no merge. Nothing enforces this — there
+  is no branch protection — so the rule is the only thing that holds.
+- On a branch: one concern per commit, message as `type(scope): summary in lower
+  case`.
+- Never `--amend` and never force-push a branch that is already under review.
+- When the Pull Request is open: stop and tell Daniel. Merging is his.
+- Outside a branch-and-PR flow the old rule still applies: if committing looks
+  like the natural next step and no branch was agreed, stop and ask.
 
 ### Claude's Role as Creative Partner
 
@@ -305,13 +360,20 @@ Claude is an **active creative collaborator**, not just a consistency checker.
 
 ### Current Focus
 
-- **Primary:** Worldbuilding — deepening the culture-bearing peoples (`02 Worldbuilding/`). Per the roadmap: peoples first, then geography & hotspots (regions), then back to the story.
-- **Secondary:** Story Architecture (`05`), Characters & Lore (`04`, `06`).
-- The Noetic System core is solid enough to support this work; revisit open details as the worldbuilding and narrative demand.
+The current focus and the single named next step are in `10 Method/STATUS.md`.
+
+They are deliberately not repeated here. This file changes rarely by design, and
+a focus kept in a rarely-changed file goes stale without anyone noticing — which
+is exactly what happened to the copy that stood here until 2026-08-06.
 
 ---
 
-**Last updated:** 2026-06-23
-**Project stage:** Worldbuilding — deepening the culture-bearing peoples; Elværin language system established
-**Next milestone:** Deepen the peoples (`02`), then geography & hotspots (regions), before returning to story architecture
-**Conventions last revised:** 2026-06-23 (added Glossary Upkeep rule: new Eigenbegriffe / persons / places / historical references get a matching DE+EN entry in `Glossar.md` in the same step). 2026-06-15 (factual/objective tone rule for all notes except story prose; headings + body de-essayified across 02–06)
+**Status, focus and next milestone:** `10 Method/STATUS.md` — not here.
+
+**Conventions last revised:** 2026-08-06 (adopted agent-project-rules: four
+artifacts bound in `method.json`, status and focus moved out of this file,
+committing on a branch allowed, American spelling declared). 2026-06-23 (added
+Glossary Upkeep rule: new Eigenbegriffe / persons / places / historical
+references get a matching DE+EN entry in `Glossar.md` in the same step).
+2026-06-15 (factual/objective tone rule for all notes except story prose;
+headings + body de-essayified across 02–06)

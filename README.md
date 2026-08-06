@@ -55,6 +55,7 @@ Lumora/
 ├── 07 Research/          External references only
 ├── 08 Writing/           Prose drafts
 ├── 09 Meta/              Project philosophy & framing
+├── 10 Method/            How this project is worked
 └── Assets/               Maps, species artwork, illustrations
 ```
 
@@ -68,7 +69,9 @@ The world and the story are developed **in German first**. Notes, drafts, and pl
 
 ### Project Status
 
-🚧 **Work in progress.** The foundation — magic system, world physics, core philosophy — is largely defined. Current focus is deepening the culture-bearing peoples; geography and the wider story follow.
+🚧 **Work in progress.** The foundation — magic system, world physics, core philosophy — is largely defined.
+
+The current state and focus are kept in a single place and not repeated here: `10 Method/STATUS.md`.
 
 ### Contributing
 
@@ -113,6 +116,7 @@ Lumora/
 ├── 07 Research/          Nur externe Referenzen
 ├── 08 Writing/           Prosa-Entwürfe
 ├── 09 Meta/              Projekt-Philosophie & Rahmen
+├── 10 Method/            Arbeitsweise: Status, Entscheidungen, Methodenlog
 └── Assets/               Karten, Spezies-Artwork, Illustrationen
 ```
 
@@ -126,7 +130,9 @@ Die Welt und die Geschichte werden **zuerst auf Deutsch** entwickelt. Notizen, E
 
 ### Projektstatus
 
-🚧 **In Arbeit.** Das Fundament — Magiesystem, Weltphysik, Kernphilosophie — ist weitgehend definiert. Aktueller Fokus ist die Vertiefung der kulturschaffenden Völker; Geografie und die weitere Geschichte folgen.
+🚧 **In Arbeit.** Das Fundament — Magiesystem, Weltphysik, Kernphilosophie — ist weitgehend definiert.
+
+Der aktuelle Stand und Schwerpunkt stehen an einer einzigen Stelle und werden hier nicht wiederholt: `10 Method/STATUS.md`.
 
 ### Mitwirken
 
@@ -141,4 +147,4 @@ Lizenziert unter **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-
 ### Autor
 
 **Daniel Wagner** · nanatsusaya-lumora@gmx.net
-© 2026 Daniel Wag
+© 2026 Daniel Wagner
