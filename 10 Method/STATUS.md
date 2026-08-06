@@ -47,8 +47,16 @@ worldbuilding.
 
 `CLAUDE.md` said otherwise until today. It carried *Last updated: 2026-06-23*
 and named the deepening of the peoples as the primary focus, and `README.md`
-repeated it. Both now point here instead. Which of the two - prose or peoples -
-is the intended focus from here is not settled by this file; see O1.
+repeated it. Both now point here instead.
+
+**Prose and worldbuilding carry equal weight (decided 2026-08-06).** The novel
+is the goal; the worldbuilding is the condition for writing it, and neither
+works without the other. Neither is therefore the *primary* one, and the six
+weeks of prose were not a detour from the plan - the plan was wrong about
+itself. In practice: a chapter is written, and whatever that chapter had to
+settle about the world is written into `02` in the same stretch of work.
+Not deferred to a worldbuilding phase that never arrives, and not invented in
+the prose and left there.
 
 ## Decided but not yet in force
 
@@ -59,20 +67,26 @@ is the intended focus from here is not settled by this file; see O1.
 
 ## Open questions for the deciders
 
-**O1 - Is the primary focus prose or worldbuilding?** For Daniel. `CLAUDE.md`
-named worldbuilding for six weeks while every commit went to `08 Writing`. The
-recommended default is to write what the repository shows: prose for Part I is
-the active work, and the peoples are deepened when a chapter needs them.
-
 **O2 - Do the remaining conventions in `CLAUDE.md` become decision records?**
-For Daniel. Recommended: yes, one record each, in the order the `Planned` rows
-in [[ADR]] list them - and `CLAUDE.md` then states the rule and names the record
-rather than explaining it twice.
+For Daniel. Six of them stand as `Planned` rows in [[ADR]]: the tag vocabulary,
+the `*EN:*` gloss rule, the ASCII tag slugs, the tone in reference notes, the
+file-editing rules, and glossary upkeep. Each works today and none of them says
+*why* it holds, which is what makes a rule get dropped by a session that finds
+it inconvenient. Recommended: yes, one record each, in that order - after which
+`CLAUDE.md` states each rule in a line and names its record instead of
+explaining it twice. Nothing is blocked on this.
+
+*O1 - prose or worldbuilding as the primary focus - was answered on 2026-08-06:
+neither, they carry equal weight. The answer is folded into* Where we stand
+*above.*
 
 ## Next step
 
-Answer O1, then update the maturity table to match it.
+Take Part I chapter 4 from `08 Writing/08.00 Entwürfe` to `08.01 Fertig` -
+chapters 1 to 3 are already there - and write into `02 Worldbuilding` whatever
+that chapter had to settle about the world. That is the equal weighting applied
+to the next concrete piece of work rather than stated as a principle.
 
-If that is blocked, the decision-free work is the next chapter draft in
-`08 Writing/08.00 Entwürfe` - it needs no decision from anybody and is the work
-that has actually been happening.
+If that is blocked, the decision-free work is `02 Worldbuilding/02.04 Religion &
+Götter`, `02.05 Geschichte` or `02.06 Konflikte`. All three hold nothing but
+their folder overview note, and none of them needs a decision from anybody.
