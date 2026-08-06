@@ -130,6 +130,12 @@ one spelling regime. It ignores Obsidian `[[wiki-links]]`, of which the vault
 has 1,892 against a few dozen ordinary ones — so a green run says nothing about
 the vault's own cross-linking. That stays Obsidian's job.
 
+**Nothing checks Lumora itself** — not the canon laws, not the Noetic rules, not
+the prose. That is deliberate and recorded in 0008: the method governs how work
+is done here, not what is true in the world. Whether the story holds together is
+read and argued; a passing run says nothing about it, and adding a check over
+content needs a superseding record.
+
 **Session procedures** live in `.claude/skills/` and are typed as slash
 commands: `/moin` (sitting down), `/feierabend` (stopping), `/weiterimtext`
 (after a merge landed), `/adr` (writing a decision record), `/passtdas`
@@ -162,7 +168,7 @@ and what was rejected. This section states what to do; the record says why, and
 names where the vault does not yet follow it. Changing one of these rules means
 writing a superseding record, not editing the lines below.
 
-#### Frontmatter Tags — record 0001, vocabulary 0002
+#### Frontmatter Tags — record 0001, vocabulary 0002, scope 0008
 
 Every note has YAML frontmatter with at least one tag:
 
@@ -176,7 +182,7 @@ tags:
 | Tag | Meaning | Applied to |
 |-----|---------|-----------|
 | `#canon` | Inviolable foundation — never remove | All `01 Kern von Lumora` notes |
-| `#wip` | Work in progress | All active notes except `01 Kern`, `03.01`, `03.02` |
+| `#wip` | Work in progress | All active notes except `01 Kern`, `03.01`, `03.02` and the prose in `08 Writing` (record 0008) |
 | `#ready` | Complete — only when ALL sections are `#ready` | Any finished note |
 | `#meta` | Describes the vault itself, not story content | `09 Meta/` notes |
 

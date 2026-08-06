@@ -40,10 +40,22 @@ So that "decided" is never read as "built", every area sits at one of:
 
 **What the repository actually shows.** The last commit before this adoption is
 `de92cb1`, dated 2026-07-06. Every commit from 2026-06-24 onward touches
-`08 Writing` or `05 Story Architecture`: chapter drafts 1 to 13 of Part I exist
-under `08.00 Entwürfe`, and chapters 1 to 3 have a version under `08.01 Fertig`.
-The work of the last six weeks before this adoption was prose, not
-worldbuilding.
+`08 Writing` or `05 Story Architecture`. The work of the last six weeks before
+this adoption was prose, not worldbuilding.
+
+Opened file by file on 2026-08-06, because the first version of this section was
+written from a directory listing and got it wrong:
+
+| Where | What is in it |
+|---|---|
+| `08.00 Entwürfe`, ch. 1-5 and 11-13 | real prose, 11 KB to 217 KB; ch. 5 alone runs 2,127 lines |
+| `08.00 Entwürfe`, ch. 6-10 | outline only, 16 to 26 lines |
+| `08.01 Fertig`, ch. 1-3 | **empty** - 110 bytes each, `TODO` under both language headings |
+
+**No chapter is finished.** `08.01 Fertig` holds three placeholder files. The
+earlier wording here - *chapters 1 to 3 have a version under `08.01 Fertig`* -
+was inferred from three filenames in a folder called *Fertig*, and no file was
+opened to check it.
 
 `CLAUDE.md` said otherwise until today. It carried *Last updated: 2026-06-23*
 and named the deepening of the peoples as the primary focus, and `README.md`
@@ -62,11 +74,12 @@ the prose and left there.
 
 | What | Decision | State |
 |---|---|---|
-| Frontmatter on every note | 0001 | ❓ accepted; 4 of 138 notes have none |
+| Frontmatter on every note | 0001 | ❓ accepted; 4 of 140 notes have none |
 | One `*Tag:*` per section | 0001 | ❓ accepted; one section carries two |
-| Tag vocabulary | 0002 | ❓ accepted; 21 of 138 notes carry no kind or maturity tag |
+| Tag vocabulary | 0002 | ❓ accepted; 11 of 140 reference notes carry no kind or maturity tag |
 | ASCII slugs for tags | 0004 | ❓ accepted; one tag disagrees with it |
 | EN gloss, tone, file editing, glossary | 0003, 0005, 0006, 0007 | ✅ in force (2026-08-06) |
+| Prose off the maturity axis, no checks over content | 0008 | ✅ in force (2026-08-06); nothing to change |
 
 The four ❓ rows are what writing the records produced: each convention was
 measured against the vault for the first time, and none of them is fully
@@ -89,10 +102,11 @@ this is expected, and would be a superseding record rather than an edit.*
 
 ## Next step
 
-Take Part I chapter 4 from `08 Writing/08.00 Entwürfe` to `08.01 Fertig` -
-chapters 1 to 3 are already there - and write into `02 Worldbuilding` whatever
-that chapter had to settle about the world. That is the equal weighting applied
-to the next concrete piece of work rather than stated as a principle.
+Take Part I chapter 1 from `08 Writing/08.00 Entwürfe` to `08.01 Fertig` - the
+file waiting there is an empty placeholder and the draft behind it runs 278
+lines - and write into `02 Worldbuilding` whatever that chapter had to settle
+about the world. That is the equal weighting applied to the next concrete piece
+of work rather than stated as a principle.
 
 If that is blocked, the decision-free work is `02 Worldbuilding/02.04 Religion &
 Götter`, `02.05 Geschichte` or `02.06 Konflikte`. All three hold nothing but

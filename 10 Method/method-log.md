@@ -180,3 +180,32 @@ reads as verified, because it was - once, here. The test is not whether the path
 works but whether anything in the repository guarantees it, and for a sibling
 directory nothing does. Where a document has to name something outside itself,
 name the address that is stable and say plainly what to do when the fetch fails.
+
+## 2026-08-06 - A status file written from a directory listing
+
+**Trigger:** Daniel, after merging the adoption: *"ich will die inhalte des
+projekts nicht zu genau mit tests abdecken, da es ein freier kreativer text ist
+der langsam aber stetig wachsen soll und nicht durch zuviel tests begrenzt
+werden soll ... ich will vor allem, dass das wachsen und der fortschritt
+ordentlich mitgeloggt wird und das über die sessions hinaus."* Taking
+`08 Writing` off the maturity axis meant measuring that folder, and measuring it
+meant opening the files.
+
+**Action:** they had not been opened before. `STATUS.md` claimed *chapters 1 to
+3 have a version under `08.01 Fertig`* and named moving chapter 4 there as the
+single next step. All three files in `08.01 Fertig` are 110 bytes and say `TODO`
+under both language headings. The claim came from three filenames sitting in a
+folder called *Fertig*. It is corrected, with the sizes, and the next step is
+now chapter 1.
+
+**Impact:** the artifact that exists so *decided* is never read as *built* had
+itself reported built work that does not exist, on the day it was written. The
+maturity ladder in it was not the problem; the row using it was filled in from a
+listing.
+
+**Lesson:** a filename is a claim, not evidence. This is the failure the
+adoption was written to stop, one level up - `CLAUDE.md` asserted a focus nobody
+had checked against the commit history, and `STATUS.md` replaced it with a state
+nobody had checked against the files. It also settles what logging progress has
+to mean here: not a timestamp beside a claim, but the claim being opened and
+looked at before it is written down.
